@@ -1,42 +1,122 @@
 {
-    "id":"18104851",
-    "tms:id":"7038",
-    "accession_number":"1899-5-41",
-    "title":"Trimming Fragment, ca. 1830",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18104851\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35256329",
-    "date":"ca. 1830",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1899",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Georges A. Glaenzer",
-    "description":"Ornate scroll in white on red ground.",
-    "justification":null,
-    "type":{
-        "id":"35256329",
-        "name":"Trimming fragment"
-    },
-    "images":[
-
+    "id": "18104851",
+    "tms:id": "7038",
+    "accession_number": "1899-5-41",
+    "title": "Trimming Fragment (France), ca. 1830",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18104851\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35256329",
+    "date": "ca. 1830",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1899",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Georges A. Glaenzer",
+    "description": "Ornate scroll in white on red ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Trimming fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67997_a11f497b0cd79f94_b.jpg",
+                "width": 1024,
+                "height": 839,
+                "is_primary": "1",
+                "image_id": "67997"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67997_a11f497b0cd79f94_z.jpg",
+                "width": 640,
+                "height": 525,
+                "is_primary": "1",
+                "image_id": "67997"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67997_a11f497b0cd79f94_n.jpg",
+                "width": 320,
+                "height": 262,
+                "is_primary": "1",
+                "image_id": "67997"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67997_a11f497b0cd79f94_d.gif",
+                "width": 320,
+                "height": 262,
+                "is_primary": "1",
+                "image_id": "67997"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67997_a11f497b0cd79f94_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67997"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050397",
+            "role_id": "35351535",
+            "person_name": "Georges A. Glaenzer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050397\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Trimming Fragment, ca. 1830.\nca. 1830. Medium: silk\nTechnique: woven. Gift of Georges A. Glaenzer. 1899-5-41."
+    "tombstone": {
+        "epitaph": "Trimming Fragment (France), ca. 1830. Medium: silk\nTechnique: woven. \nGift of Georges A. Glaenzer. 1899-5-41"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#6c8896",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#486672",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#c1c4dd",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
+        },
+        {
+            "color": "#600410",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#861b48",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

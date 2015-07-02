@@ -1,87 +1,178 @@
 {
-    "id":"18462547",
-    "tms:id":"141878",
-    "accession_number":"1968-111-162",
-    "title":"Border, 1900\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18462547\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35237285",
-    "date":"1900\u201325",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"46.5 x 8.5 cm (18 5\/16 x 3 3\/8 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"Architectonic border: on beige ground, brown, metallic gold and olive green stripings, bandings of leaves bound with criss-crossing ribbon, edge of beading.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18462547",
+    "tms:id": "141878",
+    "accession_number": "1968-111-162",
+    "title": "Border (possibly England), 1900\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18462547\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35237285",
+    "date": "1900\u201325",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "46.5 x 8.5 cm (18 5\/16 x 3 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "46.50",
+            "centimeters"
+        ],
+        "width": [
+            "8.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Architectonic border: on beige ground, brown, metallic gold and olive green stripings, bandings of leaves bound with criss-crossing ribbon, edge of beading.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6881_ca49428b9ded8478_b.jpg",
-                "width":1024,
-                "height":229,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82116_ded04729106cb7b2_b.jpg",
+                "width": 1024,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "82116"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6881_ca49428b9ded8478_n.jpg",
-                "width":320,
-                "height":71,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82116_ded04729106cb7b2_z.jpg",
+                "width": 640,
+                "height": 148,
+                "is_primary": "1",
+                "image_id": "82116"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6881_ca49428b9ded8478_z.jpg",
-                "width":640,
-                "height":143,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82116_ded04729106cb7b2_n.jpg",
+                "width": 320,
+                "height": 74,
+                "is_primary": "1",
+                "image_id": "82116"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82116_ded04729106cb7b2_d.gif",
+                "width": 320,
+                "height": 74,
+                "is_primary": "1",
+                "image_id": "82116"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82116_ded04729106cb7b2_sq.jpg",
+                "width": 300,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "82116"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6881_ca49428b9ded8478_b.jpg",
+                "width": 1024,
+                "height": 229,
+                "is_primary": "0",
+                "image_id": "6881"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6881_ca49428b9ded8478_z.jpg",
+                "width": 640,
+                "height": 143,
+                "is_primary": "0",
+                "image_id": "6881"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6881_ca49428b9ded8478_n.jpg",
+                "width": 320,
+                "height": 71,
+                "is_primary": "0",
+                "image_id": "6881"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6881_ca49428b9ded8478_d.gif",
+                "width": 320,
+                "height": 71,
+                "is_primary": "0",
+                "image_id": "6881"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6881_ca49428b9ded8478_sq.jpg",
+                "width": 300,
+                "height": 229,
+                "is_primary": "0",
+                "image_id": "6881"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048007",
+            "role_id": "35352245",
+            "person_name": "Catherine Lynn Frangiamore",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Border, 1900\u201325.\n1900\u201325. Block-printed. Gift of Harvey Smith. 1968-111-162."
+    "tombstone": {
+        "epitaph": "Border (possibly England), 1900\u201325. Block-printed. \nGift of Harvey Smith. 1968-111-162"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#525043",
-            "closest_css3":"#556b2f"
+            "color": "#aaa57a",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#817d6c",
-            "closest_css3":"#808080"
+            "color": "#6b663e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#78685d",
-            "closest_css3":"#696969"
+            "color": "#7f5f36",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#b8c5b3",
-            "closest_css3":"#c0c0c0"
+            "color": "#92864f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#a79c8e",
-            "closest_css3":"#bc8f8f"
+            "color": "#503d29",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

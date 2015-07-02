@@ -1,80 +1,169 @@
 {
-    "id":"18501753",
-    "tms:id":"161780",
-    "accession_number":"1980-14-1023",
-    "title":"Matchsafe, \"Owl's Head\", late 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18501753\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431907",
-    "type_id":"35287419",
-    "date":"late 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1980",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Plated brass, glass",
-    "markings":"No marks",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"4.3 x 6 x 2 cm (1 11\/16 x 2 3\/8 x 13\/16 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"In the form of an owl's head, with stylized feathers on front and reverse, long narrow beak, yellow glass eyes. Top of head to upright, tufted feathers above brow line, serves as lid. Lid hinged on reverse. Link attached to upper right side. Striker on bottom.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18501753",
+    "tms:id": "161780",
+    "accession_number": "1980-14-1023",
+    "title": "Owl's Head Matchsafe, late 19th century",
+    "title_raw": "Owl's Head",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18501753\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431907",
+    "type_id": "35287419",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1980",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Plated brass, glass",
+    "markings": "No marks",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "4.3 x 6 x 2 cm (1 11\/16 x 2 3\/8 x 13\/16 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "2.00",
+            "centimeters"
+        ],
+        "height": [
+            "4.30",
+            "centimeters"
+        ],
+        "width": [
+            "6.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "In the form of an owl's head, with stylized feathers on front and reverse, long narrow beak, yellow glass eyes. Top of head to upright, tufted feathers above brow line, serves as lid. Lid hinged on reverse. Link attached to upper right side. Striker on bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9072_c7f40e5663125cdf_b.jpg",
-                "width":1024,
-                "height":783,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99350_0fccf0084158253e_b.jpg",
+                "width": 1024,
+                "height": 819,
+                "is_primary": "1",
+                "image_id": "99350"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9072_c7f40e5663125cdf_n.jpg",
-                "width":320,
-                "height":245,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99350_0fccf0084158253e_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "99350"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9072_c7f40e5663125cdf_z.jpg",
-                "width":640,
-                "height":489,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99350_0fccf0084158253e_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "99350"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99350_0fccf0084158253e_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "99350"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99350_0fccf0084158253e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99350"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9072_c7f40e5663125cdf_b.jpg",
+                "width": 1024,
+                "height": 783,
+                "is_primary": "0",
+                "image_id": "9072"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9072_c7f40e5663125cdf_z.jpg",
+                "width": 640,
+                "height": 489,
+                "is_primary": "0",
+                "image_id": "9072"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9072_c7f40e5663125cdf_n.jpg",
+                "width": 320,
+                "height": 245,
+                "is_primary": "0",
+                "image_id": "9072"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9072_c7f40e5663125cdf_d.gif",
+                "width": 320,
+                "height": 245,
+                "is_primary": "0",
+                "image_id": "9072"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9072_c7f40e5663125cdf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9072"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Owl's Head\", late 19th century.\nlate 19th century. Plated brass, glass. Gift of Stephen W. Brener and Carol B. Brener. 1980-14-1023."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d7ccd5",
-            "closest_css3":"#d3d3d3"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#9e9096",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#6f5960",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#4f3940",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#2e191e",
-            "closest_css3":"#000000"
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Owl's Head Matchsafe, late 19th century. Plated brass, glass. \nGift of Stephen W. Brener and Carol B. Brener. 1980-14-1023"
+    },
+    "colors": [
+        {
+            "color": "#948a83",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#62564f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#c2b28e",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
 }

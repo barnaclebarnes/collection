@@ -1,79 +1,145 @@
 {
-    "id":"18643669",
-    "tms:id":"196701",
-    "accession_number":"1993-133-6",
-    "title":"Flashlight, \"Rayovac Roughneck\", ca. 1980",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643669\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35379439",
-    "type_id":"35294185",
-    "date":"ca. 1980",
-    "year_start":"1975",
-    "year_end":"1985",
-    "year_acquired":"1993",
-    "decade":"1970",
-    "woe:country":"23424960",
-    "medium":"Plastic, metal",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 21.3 x 5.7 cm (8 3\/8 x 2 1\/4 in.)",
-    "creditline":"Gift of Barbara and Max Pine",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35294185",
-        "name":"Flashlight"
+    "id": "18643669",
+    "tms:id": "196701",
+    "accession_number": "1993-133-6",
+    "title": "Rayovac Roughneck Flashlight, ca. 1980",
+    "title_raw": "Rayovac Roughneck",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18643669\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35379439",
+    "type_id": "35294185",
+    "date": "ca. 1980",
+    "year_start": 1975,
+    "year_end": 1985,
+    "year_acquired": "1993",
+    "decade": "1970",
+    "woe:country_id": "23424960",
+    "medium": "Plastic, metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 21.3 x 5.7 cm (8 3\/8 x 2 1\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "5.70",
+            "centimeters"
+        ],
+        "height": [
+            "21.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Barbara and Max Pine",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424960",
+    "type": "Flashlight",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22151_e2322567aa6c7f06_b.jpg",
-                "width":1024,
-                "height":492,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22151_e2322567aa6c7f06_b.jpg",
+                "width": 1024,
+                "height": 492,
+                "is_primary": "1",
+                "image_id": "22151"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22151_e2322567aa6c7f06_n.jpg",
-                "width":320,
-                "height":154,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22151_e2322567aa6c7f06_z.jpg",
+                "width": 640,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "22151"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22151_e2322567aa6c7f06_z.jpg",
-                "width":640,
-                "height":307,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22151_e2322567aa6c7f06_n.jpg",
+                "width": 320,
+                "height": 154,
+                "is_primary": "1",
+                "image_id": "22151"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22151_e2322567aa6c7f06_d.gif",
+                "width": 320,
+                "height": 154,
+                "is_primary": "1",
+                "image_id": "22151"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22151_e2322567aa6c7f06_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "22151"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044893",
-            "role_id":"35236657",
-            "person_name":"Rayovac Corp.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044893\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041129",
+            "role_id": "35351535",
+            "person_name": "Barbara G. Pine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041129\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041469",
+            "role_id": "35351535",
+            "person_name": "Max Pine",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044893",
+            "role_id": "35236657",
+            "person_name": "Rayovac Corp.",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044893\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Flashlight, \"Rayovac Roughneck\", ca. 1980.\nca. 1980. Plastic, metal. Gift of Barbara and Max Pine. 1993-133-6."
+    "tombstone": {
+        "epitaph": "Rayovac Roughneck Flashlight, ca. 1980. Plastic, metal. \nGift of Barbara and Max Pine. 1993-133-6"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#2d363f",
-            "closest_css3":"#2f4f4f"
+            "color": "#2d363f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#5e6c78",
-            "closest_css3":"#696969"
+            "color": "#5e6c78",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#8f2b29",
-            "closest_css3":"#a52a2a"
+            "color": "#8f2b29",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#82858a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "Thailand",
+    "is_loan_object": 0
 }

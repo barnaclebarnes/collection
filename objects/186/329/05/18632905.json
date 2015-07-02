@@ -1,95 +1,171 @@
 {
-    "id":"18632905",
-    "tms:id":"191295",
-    "accession_number":"1989-41-17",
-    "title":"Plate, \"History of the October Revolution\", 1921",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18632905\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35393671",
-    "type_id":"35236833",
-    "date":"1921",
-    "year_start":"1921",
-    "year_end":"1921",
-    "year_acquired":"1989",
-    "decade":"1920",
-    "woe:country":null,
-    "medium":"porcelain, enamel, gilding",
-    "markings":"underside: Imperial Porcelain Factory mark for Nicholas II with 1900 stamped in green underglaze; hammer, sickle, cog, 1921 hand-painted in blueoverglaze",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"The Henry and Ludmilla Shapiro Collection",
-    "dimensions":"Diameter: 22.5 cm (8 7\/8 in.)",
-    "creditline":"The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
-    "description":"Circular, with shaped edge; in the center, surrounded by a gold band, an open book inscribed, in Russian, \"Petrograd\/1921\" on the left page and \"History\/of the October\/Revolution\/1917\" on the right page; behind the bookan issue of Pravda newspaper; other books, a sickle, and foliage surrounding",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18632905",
+    "tms:id": "191295",
+    "accession_number": "1989-41-17",
+    "title": "History of the October Revolution Plate, 1921",
+    "title_raw": "History of the October Revolution",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18632905\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35393671",
+    "type_id": "35236833",
+    "date": "1921",
+    "year_start": 1921,
+    "year_end": 1921,
+    "year_acquired": "1989",
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "porcelain, enamel, gilding",
+    "markings": "underside: Imperial Porcelain Factory mark for Nicholas II with 1900 stamped in green underglaze; hammer, sickle, cog, 1921 hand-painted in blueoverglaze",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "The Henry and Ludmilla Shapiro Collection",
+    "dimensions": "Diameter: 22.5 cm (8 7\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "22.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
+    "description": "Circular, with shaped edge; in the center, surrounded by a gold band, an open book inscribed, in Russian, \"Petrograd\/1921\" on the left page and \"History\/of the October\/Revolution\/1917\" on the right page; behind the bookan issue of Pravda newspaper; other books, a sickle, and foliage surrounding",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11160_bf2fad62af1d7c19_b.jpg",
-                "width":1024,
-                "height":977,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110067_3d1688c171219008_b.jpg",
+                "width": 1024,
+                "height": 671,
+                "is_primary": "1",
+                "image_id": "110067"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11160_bf2fad62af1d7c19_n.jpg",
-                "width":320,
-                "height":305,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110067_3d1688c171219008_z.jpg",
+                "width": 640,
+                "height": 419,
+                "is_primary": "1",
+                "image_id": "110067"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11160_bf2fad62af1d7c19_z.jpg",
-                "width":640,
-                "height":610,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110067_3d1688c171219008_n.jpg",
+                "width": 320,
+                "height": 210,
+                "is_primary": "1",
+                "image_id": "110067"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110067_3d1688c171219008_d.gif",
+                "width": 320,
+                "height": 210,
+                "is_primary": "1",
+                "image_id": "110067"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110067_3d1688c171219008_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110067"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11160_bf2fad62af1d7c19_b.jpg",
+                "width": 1024,
+                "height": 977,
+                "is_primary": "0",
+                "image_id": "11160"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11160_bf2fad62af1d7c19_z.jpg",
+                "width": 640,
+                "height": 610,
+                "is_primary": "0",
+                "image_id": "11160"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11160_bf2fad62af1d7c19_n.jpg",
+                "width": 320,
+                "height": 305,
+                "is_primary": "0",
+                "image_id": "11160"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11160_bf2fad62af1d7c19_d.gif",
+                "width": 320,
+                "height": 305,
+                "is_primary": "0",
+                "image_id": "11160"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11160_bf2fad62af1d7c19_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11160"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045201",
-            "role_id":"35236655",
-            "person_name":"Zinaida Viktorovna Kobyletskaya",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045201\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18047827",
+            "role_id": "35352245",
+            "person_name": "Deborah S. Shinn",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18045179",
-            "role_id":"35236657",
-            "person_name":"State Porcelain Factory",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045179\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18045201",
+            "role_id": "35236655",
+            "person_name": "Zinaida Viktorovna Kobyletskaya",
+            "person_date": "1880",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045201\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18045179",
+            "role_id": "35236657",
+            "person_name": "State Porcelain Factory",
+            "person_date": "Leningrad, USSR, founded 1918",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045179\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Plate, \"History of the October Revolution\", 1921.\n1921. porcelain, enamel, gilding. The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-17."
+    "tombstone": {
+        "epitaph": "History of the October Revolution Plate, 1921. porcelain, enamel, gilding. \nThe Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-17"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#303748",
-            "closest_css3":"#2f4f4f"
+            "color": "#a5a59c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#5a5663",
-            "closest_css3":"#696969"
+            "color": "#c2a975",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#c4d0dc",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#e1d5d7",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#7f727c",
-            "closest_css3":"#808080"
+            "color": "#7a6761",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

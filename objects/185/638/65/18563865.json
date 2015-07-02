@@ -1,42 +1,131 @@
 {
-    "id":"18563865",
-    "tms:id":"75136",
-    "accession_number":"1941-61-22",
-    "title":"Handkerchief, 1939",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18563865\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35264069",
-    "date":"1939",
-    "year_start":"1939",
-    "year_end":"1939",
-    "year_acquired":"1941",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Medium: silk\nTechnique: printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 50.5 x 49.7 cm (19 7\/8 x 19 9\/16 in.)",
-    "creditline":"Gift of Mrs. Henry M. Fechimer",
-    "description":"White souvenir handkerchief decorated with scenes of the New York World's Fair of 1939. Included are the Hall of Communication, Perisphere and Trylon, Textile Building, Railroad Building and more. Printed in red, green and blue.",
-    "justification":null,
-    "type":{
-        "id":"35264069",
-        "name":"Handkerchief"
+    "id": "18563865",
+    "tms:id": "75136",
+    "accession_number": "1941-61-22",
+    "title": "Handkerchief (USA), 1939",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18563865\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35264069",
+    "date": "1939",
+    "year_start": 1939,
+    "year_end": 1939,
+    "year_acquired": "1941",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk\nTechnique: printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 50.5 x 49.7 cm (19 7\/8 x 19 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "50.50",
+            "centimeters"
+        ],
+        "width": [
+            "49.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mrs. Henry M. Fechimer",
+    "description": "White souvenir handkerchief decorated with scenes of the New York World's Fair of 1939. Included are the Hall of Communication, Perisphere and Trylon, Textile Building, Railroad Building and more. Printed in red, green and blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Handkerchief",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70610_cb53b6887ae11ecd_b.jpg",
+                "width": 1024,
+                "height": 906,
+                "is_primary": "1",
+                "image_id": "70610"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70610_cb53b6887ae11ecd_z.jpg",
+                "width": 640,
+                "height": 566,
+                "is_primary": "1",
+                "image_id": "70610"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70610_cb53b6887ae11ecd_n.jpg",
+                "width": 320,
+                "height": 283,
+                "is_primary": "1",
+                "image_id": "70610"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70610_cb53b6887ae11ecd_d.gif",
+                "width": 320,
+                "height": 283,
+                "is_primary": "1",
+                "image_id": "70610"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70610_cb53b6887ae11ecd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "70610"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049947",
+            "role_id": "35351535",
+            "person_name": "Mrs. Henry M. Fechimer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049947\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Handkerchief, 1939.\n1939. Medium: silk\nTechnique: printed on plain weave. Gift of Mrs. Henry M. Fechimer. 1941-61-22."
+    "tombstone": {
+        "epitaph": "Handkerchief (USA), 1939. Medium: silk\nTechnique: printed on plain weave. \nGift of Mrs. Henry M. Fechimer. 1941-61-22"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#385677",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#c5d9e4",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#b0e0e6",
+            "closest_css4": "#b0e0e6"
+        },
+        {
+            "color": "#162426",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#8eaabc",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#a34337",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

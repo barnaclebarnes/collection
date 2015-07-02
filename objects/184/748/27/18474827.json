@@ -1,80 +1,172 @@
 {
-    "id":"18474827",
-    "tms:id":"148176",
-    "accession_number":"1971-50-487",
-    "title":"Case",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474827\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35397795",
-    "type_id":"35268321",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: beads, reeds\nTechnique: looping incorporating strung beads worked directly onto basketry.",
-    "markings":null,
-    "signed":null,
-    "inscribed":"\"R.A\" and \"A.P.\" are worked into the pattern.",
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35268321",
-        "name":"Case"
+    "id": "18474827",
+    "tms:id": "148176",
+    "accession_number": "1971-50-487",
+    "title": "Case (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474827\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35397795",
+    "type_id": "35268321",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: beads, reeds\nTechnique: looping incorporating strung beads worked directly onto basketry.",
+    "markings": null,
+    "signed": null,
+    "inscribed": "\"R.A\" and \"A.P.\" are worked into the pattern.",
+    "provenance": null,
+    "dimensions": "H x W x D: 7 x 5.1 x 2.5 cm (2 3\/4 x 2 x 1 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "2.54",
+            "centimeters"
+        ],
+        "height": [
+            "6.99",
+            "centimeters"
+        ],
+        "width": [
+            "5.08",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Case",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36368_bf7e99c32dc6be5d_b.jpg",
-                "width":1024,
-                "height":759,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91886_b3d77f95166ab630_b.jpg",
+                "width": 746,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "91886"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36368_bf7e99c32dc6be5d_n.jpg",
-                "width":320,
-                "height":237,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91886_b3d77f95166ab630_z.jpg",
+                "width": 466,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "91886"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36368_bf7e99c32dc6be5d_z.jpg",
-                "width":640,
-                "height":475,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91886_b3d77f95166ab630_n.jpg",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91886"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91886_b3d77f95166ab630_d.gif",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91886"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91886_b3d77f95166ab630_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91886"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36368_bf7e99c32dc6be5d_b.jpg",
+                "width": 1024,
+                "height": 759,
+                "is_primary": "0",
+                "image_id": "36368"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36368_bf7e99c32dc6be5d_z.jpg",
+                "width": 640,
+                "height": 475,
+                "is_primary": "0",
+                "image_id": "36368"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36368_bf7e99c32dc6be5d_n.jpg",
+                "width": 320,
+                "height": 237,
+                "is_primary": "0",
+                "image_id": "36368"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36368_bf7e99c32dc6be5d_d.gif",
+                "width": 320,
+                "height": 237,
+                "is_primary": "0",
+                "image_id": "36368"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36368_bf7e99c32dc6be5d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36368"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Case.\nMedium: beads, reeds\nTechnique: looping incorporating strung beads worked directly onto basketry.. Bequest of Marian Hague. 1971-50-487."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#777a70",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#c6c3d7",
-            "closest_css3":"#d8bfd8"
-        },
-        {
-            "color":"#a56921",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#505143",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#193418",
-            "closest_css3":"#006400"
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Case (England). Medium: beads, reeds\nTechnique: looping incorporating strung beads worked directly onto basketry.. \nBequest of Marian Hague. 1971-50-487"
+    },
+    "colors": [
+        {
+            "color": "#867f60",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a48d37",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#5e634a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#77622e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#949d87",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

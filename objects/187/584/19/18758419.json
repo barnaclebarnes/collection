@@ -1,58 +1,141 @@
 {
-    "id":"18758419",
-    "tms:id":"255495",
-    "accession_number":"2010-21-105",
-    "title":"Poster, 2000",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758419\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"2000",
-    "year_start":"2000",
-    "year_end":"2000",
-    "year_acquired":"2010",
-    "decade":"2000",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"127.8 x 89.6 cm (50 5\/16 x 35 1\/4 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758419",
+    "tms:id": "255495",
+    "accession_number": "2010-21-105",
+    "title": "Poster, Caf\u00e9 Mundo, 2000",
+    "title_raw": "Caf\u00e9 Mundo",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758419\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431963",
+    "type_id": "35238163",
+    "date": "2000",
+    "year_start": 2000,
+    "year_end": 2000,
+    "year_acquired": "2010",
+    "decade": "2000",
+    "woe:country_id": "23424957",
+    "medium": "Offset lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in white ink, lower left edge: gest. Gest\u2026foto\u2026druck...",
+    "provenance": "Sara and Marc Benda (acquired new and directly from designer, Claudia Schmauder); 2010: acquired by Museum",
+    "dimensions": "127.8 x 89.6 cm (50 5\/16 x 35 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "127.80",
+            "centimeters"
+        ],
+        "width": [
+            "89.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "Ground made up of coffee bean sack in black and white; on it \u201ccaf\u00e9 \/ mundo\u201d made up of brown squares. In black ink, lower right: johann Jacobs museum kirschen \u2013 korbe \u2013 kunstgenuss \/ sammtung zur kulturgeschichte des kaffees \/ freitage und samtag 14 bis 17 uhr. \/ 26. november 2000 sonntag 10 bis 17 Uhr. \/ bis 21. Oktober 2001 gruppenfuhrungen nach nereinbarung. \/ offentliche fuhrungen: \/ 2. Und 4. Freitag des monats um 17 uhr. \/ seefeldquai 17 8008 zurich www.johann-jacobs-museum.ch",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45561_f4af6ae12ba03987_b.jpg",
-                "width":724,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45561_3f20816c072b94da_b.jpg",
+                "width": 713,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "45561"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45561_f4af6ae12ba03987_n.jpg",
-                "width":226,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45561_3f20816c072b94da_z.jpg",
+                "width": 446,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "45561"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45561_f4af6ae12ba03987_z.jpg",
-                "width":453,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45561_3f20816c072b94da_n.jpg",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45561"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45561_3f20816c072b94da_d.gif",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45561"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45561_3f20816c072b94da_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45561"
             }
         }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18063579",
+            "role_id": "35236667",
+            "person_name": "Johann Jacobs Museum",
+            "person_date": "Z\u00fcrich, Switzerland, founded 1984",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063579\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "68738763",
+            "role_id": "35236655",
+            "person_name": "Claudia Schmauder",
+            "person_date": "Swiss, born 1969",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738763\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Caf\u00e9 Mundo, 2000. Offset lithograph on wove paper. \nGift of Sara and Marc Benda. 2010-21-105"
+    },
+    "colors": [
+        {
+            "color": "#85898e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6b6c71",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#be642d",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#a79e9c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#9b7e6f",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

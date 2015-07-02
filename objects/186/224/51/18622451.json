@@ -1,42 +1,131 @@
 {
-    "id":"18622451",
-    "tms:id":"186062",
-    "accession_number":"1987-46-22",
-    "title":"Sample",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622451\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"140501",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Technique: plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 4 x 14 cm (1 9\/16 x 5 1\/2 in.)",
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":"Broken stripes of lavendar, green dark brown and medium brown with shapes in the stripes on white.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18622451",
+    "tms:id": "186062",
+    "accession_number": "1987-46-22",
+    "title": "Sample (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18622451\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "140501",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1987",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Technique: plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 4 x 14 cm (1 9\/16 x 5 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "4.00",
+            "centimeters"
+        ],
+        "width": [
+            "14.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": "Broken stripes of lavendar, green dark brown and medium brown with shapes in the stripes on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78049_f81b2a74b05fec86_b.jpg",
+                "width": 1024,
+                "height": 400,
+                "is_primary": "1",
+                "image_id": "78049"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78049_f81b2a74b05fec86_z.jpg",
+                "width": 640,
+                "height": 250,
+                "is_primary": "1",
+                "image_id": "78049"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78049_f81b2a74b05fec86_n.jpg",
+                "width": 320,
+                "height": 125,
+                "is_primary": "1",
+                "image_id": "78049"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78049_f81b2a74b05fec86_d.gif",
+                "width": 320,
+                "height": 125,
+                "is_primary": "1",
+                "image_id": "78049"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78049_f81b2a74b05fec86_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "78049"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sample.\nTechnique: plain weave foundation. Museum purchase from Au Panier Fleuri Fund. 1987-46-22."
+    "tombstone": {
+        "epitaph": "Sample (England). Technique: plain weave foundation. \nMuseum purchase from Au Panier Fleuri Fund. 1987-46-22"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4c4a35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#cd7f92",
+            "closest_crayola": "#d98695",
+            "closest_css3": "#d87093",
+            "closest_css4": "#db7093"
+        },
+        {
+            "color": "#251616",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#66674c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#4b1e17",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

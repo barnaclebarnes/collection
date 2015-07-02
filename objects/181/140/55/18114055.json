@@ -1,80 +1,113 @@
 {
-    "id":"18114055",
-    "tms:id":"8725",
-    "accession_number":"1901-39-2137",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18114055\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35410999",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and brown ink with gray wash\nSupport: off-white laid paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18114055",
+    "tms:id": "8725",
+    "accession_number": "1901-39-2137",
+    "title": "Drawing (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18114055\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35410999",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and brown ink with gray wash\nSupport: off-white laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of various donors",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/939_82dfa9fa024c8d6f_b.jpg",
-                "width":625,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/939_82dfa9fa024c8d6f_b.jpg",
+                "width": 625,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "939"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/939_82dfa9fa024c8d6f_n.jpg",
-                "width":195,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/939_82dfa9fa024c8d6f_z.jpg",
+                "width": 391,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "939"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/939_82dfa9fa024c8d6f_z.jpg",
-                "width":391,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/939_82dfa9fa024c8d6f_n.jpg",
+                "width": 195,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "939"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/939_82dfa9fa024c8d6f_d.gif",
+                "width": 195,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "939"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/939_82dfa9fa024c8d6f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "939"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nPen and brown ink with gray wash\nSupport: off-white laid paper. Museum purchase through gift of various donors. 1901-39-2137."
+    "tombstone": {
+        "epitaph": "Drawing (Italy). Pen and brown ink with gray wash\nSupport: off-white laid paper. \nMuseum purchase through gift of various donors. 1901-39-2137"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b5a4b7",
-            "closest_css3":"#a9a9a9"
+            "color": "#ddbebc",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d8bfd8",
+            "closest_css4": "#d8bfd8"
         },
         {
-            "color":"#5b545a",
-            "closest_css3":"#696969"
+            "color": "#ab9ca9",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#b5948e",
-            "closest_css3":"#bc8f8f"
+            "color": "#f0e5f5",
+            "closest_crayola": "#fddde6",
+            "closest_css3": "#e6e6fa",
+            "closest_css4": "#e6e6fa"
         },
         {
-            "color":"#877f88",
-            "closest_css3":"#808080"
+            "color": "#8b8088",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#997369",
-            "closest_css3":"#808080"
+            "color": "#7b605c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

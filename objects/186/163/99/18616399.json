@@ -1,80 +1,166 @@
 {
-    "id":"18616399",
-    "tms:id":"176729",
-    "accession_number":"1981-28-146",
-    "title":"Sampler, late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616399\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427205",
-    "type_id":"35256439",
-    "date":"late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross, marking cross and eyelet stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 46.4 x 34.3 cm (18 1\/4 x 13 1\/2 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Within a curving floral border, alphabets and text: \nFor every trifle scorn to take offence\nThat always shows great pride or little sense\nGood nature and good sense should ever join\nTo err is human to forgive devine",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616399",
+    "tms:id": "176729",
+    "accession_number": "1981-28-146",
+    "title": "Sampler (England), late 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616399\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427205",
+    "type_id": "35256439",
+    "date": "late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross, marking cross and eyelet stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 46.4 x 34.3 cm (18 1\/4 x 13 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "46.36",
+            "centimeters"
+        ],
+        "width": [
+            "34.29",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Within a curving floral border, alphabets and text: \nFor every trifle scorn to take offence\nThat always shows great pride or little sense\nGood nature and good sense should ever join\nTo err is human to forgive devine",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36714_a8cf23c80d1837c1_b.jpg",
-                "width":749,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81463_dc335da7202a2770_b.jpg",
+                "width": 781,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81463"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36714_a8cf23c80d1837c1_n.jpg",
-                "width":234,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81463_dc335da7202a2770_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81463"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36714_a8cf23c80d1837c1_z.jpg",
-                "width":468,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81463_dc335da7202a2770_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81463"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81463_dc335da7202a2770_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81463"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81463_dc335da7202a2770_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81463"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36714_a8cf23c80d1837c1_b.jpg",
+                "width": 749,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "36714"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36714_a8cf23c80d1837c1_z.jpg",
+                "width": 468,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "36714"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36714_a8cf23c80d1837c1_n.jpg",
+                "width": 234,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36714"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36714_a8cf23c80d1837c1_d.gif",
+                "width": 234,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36714"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36714_a8cf23c80d1837c1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36714"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, late 18th century.\nlate 18th century. Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross, marking cross and eyelet stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-146."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#98948e",
-            "closest_css3":"#808080"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#cfc7b9",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#a2afaa",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#857973",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#d1a188",
-            "closest_css3":"#d2b48c"
+            "person_id": "18050763",
+            "role_id": "35236583",
+            "person_name": "Ann Gawthorn",
+            "person_date": "English",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050763\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (England), late 18th century. Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross, marking cross and eyelet stitches on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-146"
+    },
+    "colors": [
+        {
+            "color": "#51442c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#706a4c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#afaa86",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,42 +1,129 @@
 {
-    "id":"18707541",
-    "tms:id":"229617",
-    "accession_number":"2006-20-13",
-    "title":"Mug, 18th\u2013mid-19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18707541\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402551",
-    "type_id":"35270233",
-    "date":"18th\u2013mid-19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"2006",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Silver resist border",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"6.5 x 9.1 x 6.4 cm (2 9\/16 x 3 9\/16 x 2 1\/2 in.)",
-    "creditline":"Bequest of Jane M. Epstine",
-    "description":"\"my mother\"",
-    "justification":null,
-    "type":{
-        "id":"35270233",
-        "name":"Mug"
+    "id": "18707541",
+    "tms:id": "229617",
+    "accession_number": "2006-20-13",
+    "title": "Mug (England), 18th\u2013mid-19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18707541\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402551",
+    "type_id": "35270233",
+    "date": "18th\u2013mid-19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2006",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Silver resist border",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "6.5 x 9.1 x 6.4 cm (2 9\/16 x 3 9\/16 x 2 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.40",
+            "centimeters"
+        ],
+        "height": [
+            "6.50",
+            "centimeters"
+        ],
+        "width": [
+            "9.10",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Jane M. Epstine",
+    "description": "\"my mother\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Mug",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107114_ad7c92dc5308b0c4_b.jpg",
+                "width": 1024,
+                "height": 872,
+                "is_primary": "1",
+                "image_id": "107114"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107114_ad7c92dc5308b0c4_z.jpg",
+                "width": 640,
+                "height": 545,
+                "is_primary": "1",
+                "image_id": "107114"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107114_ad7c92dc5308b0c4_n.jpg",
+                "width": 320,
+                "height": 273,
+                "is_primary": "1",
+                "image_id": "107114"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107114_ad7c92dc5308b0c4_d.gif",
+                "width": 320,
+                "height": 273,
+                "is_primary": "1",
+                "image_id": "107114"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107114_ad7c92dc5308b0c4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107114"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18060143",
+            "role_id": "35351537",
+            "person_name": "Jane M. Epstine",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060143\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Mug, 18th\u2013mid-19th century.\n18th\u2013mid-19th century. Silver resist border. Bequest of Jane M. Epstine. 2006-20-13."
+    "tombstone": {
+        "epitaph": "Mug (England), 18th\u2013mid-19th century. Silver resist border. \nBequest of Jane M. Epstine. 2006-20-13"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#dac668",
+            "closest_crayola": "#f8d568",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#af9649",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#997344",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#d4cca1",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

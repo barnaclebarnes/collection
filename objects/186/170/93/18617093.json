@@ -1,80 +1,178 @@
 {
-    "id":"18617093",
-    "tms:id":"177076",
-    "accession_number":"1981-28-459",
-    "title":"Textile, 11th\u201315th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617093\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"11th\u201315th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424919",
-    "medium":"Medium: cotton\nTechnique: plain weave with paired warp and supplementary weft",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 47.6 x 19.1 cm (18 3\/4 x 7 1\/2 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Unfinished woven sampler with bands of geometric pattern, figures, birds.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18617093",
+    "tms:id": "177076",
+    "accession_number": "1981-28-459",
+    "title": "Textile (Peru), 11th\u201315th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617093\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "11th\u201315th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424919",
+    "medium": "Medium: cotton\nTechnique: plain weave with paired warp and supplementary weft",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Gift to donor from Junius Bird in 1968.",
+    "dimensions": "Warp x Weft: 47.6 x 19.1 cm (18 3\/4 x 7 1\/2 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "47.63",
+            "centimeters"
+        ],
+        "weft": [
+            "19.05",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Unfinished woven sampler with bands of geometric pattern, figures, birds.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424919",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26412_f36dd237bc1dc3ab_b.jpg",
-                "width":1024,
-                "height":556,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65104_21fbfbf0fe780638_b.jpg",
+                "width": 511,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "65104"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26412_f36dd237bc1dc3ab_n.jpg",
-                "width":320,
-                "height":174,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65104_21fbfbf0fe780638_z.jpg",
+                "width": 319,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "65104"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26412_f36dd237bc1dc3ab_z.jpg",
-                "width":640,
-                "height":348,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65104_21fbfbf0fe780638_n.jpg",
+                "width": 160,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65104"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65104_21fbfbf0fe780638_d.gif",
+                "width": 160,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65104"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65104_21fbfbf0fe780638_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65104"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26412_f36dd237bc1dc3ab_b.jpg",
+                "width": 1024,
+                "height": 556,
+                "is_primary": "0",
+                "image_id": "26412"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26412_f36dd237bc1dc3ab_z.jpg",
+                "width": 640,
+                "height": 348,
+                "is_primary": "0",
+                "image_id": "26412"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26412_f36dd237bc1dc3ab_n.jpg",
+                "width": 320,
+                "height": 174,
+                "is_primary": "0",
+                "image_id": "26412"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26412_f36dd237bc1dc3ab_d.gif",
+                "width": 320,
+                "height": 174,
+                "is_primary": "0",
+                "image_id": "26412"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26412_f36dd237bc1dc3ab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "26412"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 11th\u201315th century.\n11th\u201315th century. Medium: cotton\nTechnique: plain weave with paired warp and supplementary weft. Bequest of Gertrude M. Oppenheimer. 1981-28-459."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d1cab6",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18055143",
+            "role_id": "35352245",
+            "person_name": "Susan J. Brown",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055143\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#624e2c",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#412c16",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#816a4d",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#403c2d",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Peru), 11th\u201315th century. Medium: cotton\nTechnique: plain weave with paired warp and supplementary weft. \nBequest of Gertrude M. Oppenheimer. 1981-28-459"
+    },
+    "colors": [
+        {
+            "color": "#84724a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5e4a2b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3b2b19",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a49465",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#ccc39a",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Peru",
+    "is_loan_object": 0
 }

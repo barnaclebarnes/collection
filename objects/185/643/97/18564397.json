@@ -1,80 +1,178 @@
 {
-    "id":"18564397",
-    "tms:id":"75399",
-    "accession_number":"1941-69-85",
-    "title":"Sampler, ca. 1815",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564397\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427169",
-    "type_id":"35256439",
-    "date":"ca. 1815",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk embroidery, wool foundation \nTechnique: tent, satin, stem, darning and rococo stitches on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"Warp x Weft: 34 x 32 cm (13 3\/8 x 12 5\/8 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"Verse; landscape with house, trees, stag and ducks; signature \"Sarah Constable\"; in oval frame of flower sprays.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18564397",
+    "tms:id": "75399",
+    "accession_number": "1941-69-85",
+    "title": "Sampler (England), ca. 1815",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564397\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427169",
+    "type_id": "35256439",
+    "date": "ca. 1815",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk embroidery, wool foundation \nTechnique: tent, satin, stem, darning and rococo stitches on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "Warp x Weft: 34 x 32 cm (13 3\/8 x 12 5\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "34.00",
+            "centimeters"
+        ],
+        "weft": [
+            "32.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "Verse; landscape with house, trees, stag and ducks; signature \"Sarah Constable\"; in oval frame of flower sprays.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29075_33314d994ac42c88_b.jpg",
-                "width":992,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81415_569666d10c838473_b.jpg",
+                "width": 894,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81415"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29075_33314d994ac42c88_n.jpg",
-                "width":310,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81415_569666d10c838473_z.jpg",
+                "width": 559,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81415"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29075_33314d994ac42c88_z.jpg",
-                "width":620,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81415_569666d10c838473_n.jpg",
+                "width": 279,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81415"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81415_569666d10c838473_d.gif",
+                "width": 279,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81415"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81415_569666d10c838473_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81415"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29075_33314d994ac42c88_b.jpg",
+                "width": 992,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "29075"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29075_33314d994ac42c88_z.jpg",
+                "width": 620,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "29075"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29075_33314d994ac42c88_n.jpg",
+                "width": 310,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "29075"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29075_33314d994ac42c88_d.gif",
+                "width": 310,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "29075"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29075_33314d994ac42c88_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29075"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, ca. 1815.\nca. 1815. Medium: silk embroidery, wool foundation \nTechnique: tent, satin, stem, darning and rococo stitches on plain weave. Bequest of Mrs. Henry E. Coe. 1941-69-85."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#262d2b",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#494c45",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#694e39",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#433529",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#866c60",
-            "closest_css3":"#696969"
+            "person_id": "68737343",
+            "role_id": "35236583",
+            "person_name": "Sarah Constable",
+            "person_date": "",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68737343\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (England), ca. 1815. Medium: silk embroidery, wool foundation \nTechnique: tent, satin, stem, darning and rococo stitches on plain weave. \nBequest of Mrs. Henry E. Coe. 1941-69-85"
+    },
+    "colors": [
+        {
+            "color": "#d6d0a2",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#b3a980",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#928559",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#4e472f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#776a43",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

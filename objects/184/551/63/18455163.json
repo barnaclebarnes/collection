@@ -1,49 +1,129 @@
 {
-    "id":"18455163",
-    "tms:id":"138136",
-    "accession_number":"1967-20-37",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18455163\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394387",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1967",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Harvey Smith",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18455163",
+    "tms:id": "138136",
+    "accession_number": "1967-20-37",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18455163\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394387",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1967",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Harvey Smith",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120057_1f8e2ef064bc6041_b.jpg",
+                "width": 1024,
+                "height": 711,
+                "is_primary": "1",
+                "image_id": "120057"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120057_1f8e2ef064bc6041_z.jpg",
+                "width": 640,
+                "height": 444,
+                "is_primary": "1",
+                "image_id": "120057"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120057_1f8e2ef064bc6041_n.jpg",
+                "width": 320,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "120057"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120057_1f8e2ef064bc6041_d.gif",
+                "width": 320,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "120057"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120057_1f8e2ef064bc6041_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120057"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75063_4e763c9a3a66e961_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "75063"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75063_4e763c9a3a66e961_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "75063"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75063_4e763c9a3a66e961_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "75063"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75063_4e763c9a3a66e961_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "75063"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75063_4e763c9a3a66e961_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "75063"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nWoven. Gift of Harvey Smith. 1967-20-37."
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile. Woven. \nGift of Harvey Smith. 1967-20-37"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "is_loan_object": 0
 }

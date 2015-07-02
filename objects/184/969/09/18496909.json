@@ -1,42 +1,121 @@
 {
-    "id":"18496909",
-    "tms:id":"159348",
-    "accession_number":"1978-169-55",
-    "title":"Tile,study Collection",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18496909\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35293187",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Eleanor M. Delanoy",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35293187",
-        "name":"tile,study collection"
-    },
-    "images":[
-
+    "id": "18496909",
+    "tms:id": "159348",
+    "accession_number": "1978-169-55",
+    "title": "Tile,study Collection",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18496909\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293187",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor M. Delanoy",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "tile,study collection",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100415_c832bd9b8b119c72_b.jpg",
+                "width": 889,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "100415"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100415_c832bd9b8b119c72_z.jpg",
+                "width": 555,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "100415"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100415_c832bd9b8b119c72_n.jpg",
+                "width": 278,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "100415"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100415_c832bd9b8b119c72_d.gif",
+                "width": 278,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "100415"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100415_c832bd9b8b119c72_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "100415"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18537141",
+            "role_id": "35351535",
+            "person_name": "Eleanor Marquand Delanoy",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537141\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Tile,study Collection.\nGift of Eleanor M. Delanoy. 1978-169-55."
+    "tombstone": {
+        "epitaph": "Tile,study Collection. \nGift of Eleanor M. Delanoy. 1978-169-55"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#c2bfb7",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#8e8a83",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#998042",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#445479",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#708091",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "is_loan_object": 0
 }

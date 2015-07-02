@@ -1,42 +1,131 @@
 {
-    "id":"18329725",
-    "tms:id":"49033",
-    "accession_number":"1931-73-34",
-    "title":"Trimming",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18329725\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254635",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254635",
-        "name":"Trimming"
-    },
-    "images":[
-
+    "id": "18329725",
+    "tms:id": "49033",
+    "accession_number": "1931-73-34",
+    "title": "Trimming",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18329725\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254635",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Trimming",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69548_ad1af8ceaa913944_b.jpg",
+                "width": 1024,
+                "height": 882,
+                "is_primary": "1",
+                "image_id": "69548"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69548_ad1af8ceaa913944_z.jpg",
+                "width": 640,
+                "height": 551,
+                "is_primary": "1",
+                "image_id": "69548"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69548_ad1af8ceaa913944_n.jpg",
+                "width": 320,
+                "height": 276,
+                "is_primary": "1",
+                "image_id": "69548"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69548_ad1af8ceaa913944_d.gif",
+                "width": 320,
+                "height": 276,
+                "is_primary": "1",
+                "image_id": "69548"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69548_ad1af8ceaa913944_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "69548"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Trimming.\nGift of Eleanor and Sarah Hewitt. 1931-73-34."
+    "tombstone": {
+        "epitaph": "Trimming. \nGift of Eleanor and Sarah Hewitt. 1931-73-34"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#192830",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#4b5759",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#c5c3ad",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#f1f6c3",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#fffacd",
+            "closest_css4": "#fffacd"
+        },
+        {
+            "color": "#6e685f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

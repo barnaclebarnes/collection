@@ -1,42 +1,107 @@
 {
-    "id":"18621135",
-    "tms:id":"185383",
-    "accession_number":"1986-61-125",
-    "title":"Salver",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621135\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35248737",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Lloyds Antiques, London; WPW 1979",
-    "dimensions":"H x diam.: 11.9 x 17 cm (4 11\/16 x 6 11\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Circular tray with up-turned rim; molded and shouldered stem; circular domed base with turned-under edge.",
-    "justification":null,
-    "type":{
-        "id":"35248737",
-        "name":"salver"
+    "id": "18621135",
+    "tms:id": "185383",
+    "accession_number": "1986-61-125",
+    "title": "Salver (possibly England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621135\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35248737",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Lloyds Antiques, London; WPW 1979",
+    "dimensions": "H x diam.: 11.9 x 17 cm (4 11\/16 x 6 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "17.00",
+            "centimeters"
+        ],
+        "height": [
+            "11.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Circular tray with up-turned rim; molded and shouldered stem; circular domed base with turned-under edge.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "salver",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113382_a81b065bce484417_b.jpg",
+                "width": 1024,
+                "height": 838,
+                "is_primary": "1",
+                "image_id": "113382"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113382_a81b065bce484417_z.jpg",
+                "width": 640,
+                "height": 523,
+                "is_primary": "1",
+                "image_id": "113382"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113382_a81b065bce484417_n.jpg",
+                "width": 320,
+                "height": 262,
+                "is_primary": "1",
+                "image_id": "113382"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113382_a81b065bce484417_d.gif",
+                "width": 320,
+                "height": 262,
+                "is_primary": "1",
+                "image_id": "113382"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113382_a81b065bce484417_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113382"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Salver.\nglass. Bequest of Walter Phelps Warren. 1986-61-125."
+    "tombstone": {
+        "epitaph": "Salver (possibly England). glass. \nBequest of Walter Phelps Warren. 1986-61-125"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

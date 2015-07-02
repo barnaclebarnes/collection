@@ -1,49 +1,122 @@
 {
-    "id":"18355259",
-    "tms:id":"61044",
-    "accession_number":"1938-82-50-b",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18355259\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35375125",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"warp printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Anonymous bequest in memory of Albert and Rebecca Elsberg",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18355259",
+    "tms:id": "61044",
+    "accession_number": "1938-82-50-b",
+    "title": "Textile (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18355259\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35375125",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Technique: warp printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Anonymous bequest in memory of Albert and Rebecca Elsberg",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18049335",
-            "role_id":"35351537",
-            "person_name":"Anonymous",
-            "role_name":"Bequestor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108703_fc4d5b36a45106cf_b.jpg",
+                "width": 1024,
+                "height": 343,
+                "is_primary": "1",
+                "image_id": "108703"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108703_fc4d5b36a45106cf_z.jpg",
+                "width": 640,
+                "height": 214,
+                "is_primary": "1",
+                "image_id": "108703"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108703_fc4d5b36a45106cf_n.jpg",
+                "width": 320,
+                "height": 107,
+                "is_primary": "1",
+                "image_id": "108703"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108703_fc4d5b36a45106cf_d.gif",
+                "width": 320,
+                "height": 107,
+                "is_primary": "1",
+                "image_id": "108703"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108703_fc4d5b36a45106cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108703"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nwarp printed. Anonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-50-b."
+    "participants": [
+        {
+            "person_id": "18049335",
+            "role_id": "35351537",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France). Technique: warp printed. \nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-50-b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#1e0b14",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#35302f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#4a323f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6a6064",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#532a61",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

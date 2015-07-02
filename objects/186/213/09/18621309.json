@@ -1,42 +1,106 @@
 {
-    "id":"18621309",
-    "tms:id":"185473",
-    "accession_number":"1986-61-203",
-    "title":"Dish, ca. 1835",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621309\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35248735",
-    "date":"ca. 1835",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Aquired estate by WPW.",
-    "dimensions":"H x diam.: 3.6 x 11 cm (1 7\/16 x 4 5\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Small, octagonal dish with low, flaring sides. All-over crossent diamond pattern. Scalloped rim. Glass is heavy and white.",
-    "justification":null,
-    "type":{
-        "id":"35248735",
-        "name":"dish"
+    "id": "18621309",
+    "tms:id": "185473",
+    "accession_number": "1986-61-203",
+    "title": "Dish, ca. 1835",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621309\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35248735",
+    "date": "ca. 1835",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Aquired estate by WPW.",
+    "dimensions": "H x diam.: 3.6 x 11 cm (1 7\/16 x 4 5\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "11.00",
+            "centimeters"
+        ],
+        "height": [
+            "3.60",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Small, octagonal dish with low, flaring sides. All-over crossent diamond pattern. Scalloped rim. Glass is heavy and white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "dish",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113279_24857b7ff8b0364c_b.jpg",
+                "width": 1024,
+                "height": 730,
+                "is_primary": "1",
+                "image_id": "113279"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113279_24857b7ff8b0364c_z.jpg",
+                "width": 640,
+                "height": 456,
+                "is_primary": "1",
+                "image_id": "113279"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113279_24857b7ff8b0364c_n.jpg",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "113279"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113279_24857b7ff8b0364c_d.gif",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "113279"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113279_24857b7ff8b0364c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113279"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Dish, ca. 1835.\nca. 1835. glass. Bequest of Walter Phelps Warren. 1986-61-203."
+    "tombstone": {
+        "epitaph": "Dish, ca. 1835. glass. \nBequest of Walter Phelps Warren. 1986-61-203"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#898986",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

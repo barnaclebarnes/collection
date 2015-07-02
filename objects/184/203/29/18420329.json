@@ -1,95 +1,132 @@
 {
-    "id":"18420329",
-    "tms:id":"120403",
-    "accession_number":"1958-103-1-a",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18420329\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"117147",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1958",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Technique: printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Teresa Kilham",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
+    "id": "18420329",
+    "tms:id": "120403",
+    "accession_number": "1958-103-1-a",
+    "title": "Fragment (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18420329\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "117147",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1958",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Technique: printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Teresa Kilham",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25099_0ea1daf88ba5fee4_b.jpg",
-                "width":668,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25099_0ea1daf88ba5fee4_b.jpg",
+                "width": 668,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "25099"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25099_0ea1daf88ba5fee4_n.jpg",
-                "width":209,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25099_0ea1daf88ba5fee4_z.jpg",
+                "width": 417,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "25099"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25099_0ea1daf88ba5fee4_z.jpg",
-                "width":417,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25099_0ea1daf88ba5fee4_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "25099"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25099_0ea1daf88ba5fee4_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "25099"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25099_0ea1daf88ba5fee4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "25099"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046827",
-            "role_id":"35351535",
-            "person_name":"Teresa Kilham",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046827\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046827",
+            "role_id": "35351535",
+            "person_name": "Teresa Kilham",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18045681",
-            "role_id":"35236655",
-            "person_name":"Paul Poiret",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045681\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18045681",
+            "role_id": "35236655",
+            "person_name": "Paul Poiret",
+            "person_date": "French, 1879\u20131944",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045681\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nTechnique: printed. Gift of Teresa Kilham. 1958-103-1-a."
+    "tombstone": {
+        "epitaph": "Fragment (France). Technique: printed. \nGift of Teresa Kilham. 1958-103-1-a"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#ded3d0",
-            "closest_css3":"#d3d3d3"
+            "color": "#adadbb",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#a5a2b5",
-            "closest_css3":"#a9a9a9"
+            "color": "#605d65",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#ad3e2c",
-            "closest_css3":"#a52a2a"
+            "color": "#ab3e2c",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
         },
         {
-            "color":"#5c5967",
-            "closest_css3":"#696969"
+            "color": "#7b7f84",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#cad5e0",
-            "closest_css3":"#d3d3d3"
+            "color": "#353532",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

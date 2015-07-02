@@ -1,80 +1,183 @@
 {
-    "id":"18402545",
-    "tms:id":"111456",
-    "accession_number":"1955-123-3-a,b",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18402545\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"121769",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: resist printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18402545",
+    "tms:id": "111456",
+    "accession_number": "1955-123-3-a,b",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18402545\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "121769",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: resist printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18345_ea8e13c1ecd46c5c_b.jpg",
-                "width":443,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108011_329116f4827edeb5_b.jpg",
+                "width": 282,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108011"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18345_ea8e13c1ecd46c5c_n.jpg",
-                "width":138,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108011_329116f4827edeb5_z.jpg",
+                "width": 176,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108011"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18345_ea8e13c1ecd46c5c_z.jpg",
-                "width":277,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108011_329116f4827edeb5_n.jpg",
+                "width": 88,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108011"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108011_329116f4827edeb5_d.gif",
+                "width": 88,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108011"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108011_329116f4827edeb5_sq.jpg",
+                "width": 282,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108011"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107987_e3bc4c71946fc8c3_b.jpg",
+                "width": 328,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "107987"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107987_e3bc4c71946fc8c3_z.jpg",
+                "width": 205,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "107987"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107987_e3bc4c71946fc8c3_n.jpg",
+                "width": 103,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "107987"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107987_e3bc4c71946fc8c3_d.gif",
+                "width": 103,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "107987"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107987_e3bc4c71946fc8c3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "107987"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18345_ea8e13c1ecd46c5c_b.jpg",
+                "width": 443,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "18345"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18345_ea8e13c1ecd46c5c_z.jpg",
+                "width": 277,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "18345"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18345_ea8e13c1ecd46c5c_n.jpg",
+                "width": 138,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18345"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18345_ea8e13c1ecd46c5c_d.gif",
+                "width": 138,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18345"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18345_ea8e13c1ecd46c5c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18345"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: resist printed. Museum purchase from Au Panier Fleuri Fund. 1955-123-3-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#293650",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#3c4d58",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#5a6c7f",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#7589a0",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#a1acbf",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18539099",
+            "role_id": "35352249",
+            "person_name": "Arditti & Mayorcas",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539099\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile. Technique: resist printed. \nMuseum purchase from Au Panier Fleuri Fund. 1955-123-3-a,b"
+    },
+    "colors": [
+        {
+            "color": "#85908f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#687379",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a8a899",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "is_loan_object": 0
 }

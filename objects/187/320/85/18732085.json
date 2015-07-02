@@ -1,103 +1,188 @@
 {
-    "id":"18732085",
-    "tms:id":"242156",
-    "accession_number":"2009-18-121",
-    "title":"Platter, \"Cobalt blue\", 1924\u201326",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18732085\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51588669",
-    "type_id":"35248793",
-    "date":"1924\u201326",
-    "year_start":"1924",
-    "year_end":"1926",
-    "year_acquired":"2009",
-    "decade":"1920",
-    "woe:country":"23424750",
-    "medium":"Mouth-blown crystal",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 1.7 x 22.6 cm (11\/16 x 8 7\/8 in.)",
-    "creditline":"Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
-    "description":"Thin, blue, mouth-blown crystal with knob on stem",
-    "justification":null,
-    "type":{
-        "id":"35248793",
-        "name":"platter"
+    "id": "18732085",
+    "tms:id": "242156",
+    "accession_number": "2009-18-121",
+    "title": "Cobalt blue Platter, 1924\u201326",
+    "title_raw": "Cobalt blue",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18732085\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51585935",
+    "type_id": "35248793",
+    "date": "1924\u201326",
+    "year_start": 1924,
+    "year_end": 1926,
+    "year_acquired": "2009",
+    "decade": "1920",
+    "woe:country_id": "23424750",
+    "medium": "Mouth-blown crystal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2009: acquired by Museum",
+    "dimensions": "H x diam.: 1.7 x 22.6 cm (11\/16 x 8 7\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "22.60",
+            "centimeters"
+        ],
+        "height": [
+            "1.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
+    "description": "Thin, blue, mouth-blown crystal platter.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "platter",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32356_f27d302bf044cfa1_b.jpg",
-                "width":1024,
-                "height":784,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32356_f27d302bf044cfa1_b.jpg",
+                "width": 1024,
+                "height": 784,
+                "is_primary": "1",
+                "image_id": "32356"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32356_f27d302bf044cfa1_n.jpg",
-                "width":320,
-                "height":245,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32356_f27d302bf044cfa1_z.jpg",
+                "width": 640,
+                "height": 490,
+                "is_primary": "1",
+                "image_id": "32356"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32356_f27d302bf044cfa1_z.jpg",
-                "width":640,
-                "height":490,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32356_f27d302bf044cfa1_n.jpg",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "32356"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32356_f27d302bf044cfa1_d.gif",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "32356"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32356_f27d302bf044cfa1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "32356"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118059_d7a9158b83d37c42_b.jpg",
+                "width": 1024,
+                "height": 545,
+                "is_primary": "0",
+                "image_id": "118059"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118059_d7a9158b83d37c42_z.jpg",
+                "width": 640,
+                "height": 341,
+                "is_primary": "0",
+                "image_id": "118059"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118059_d7a9158b83d37c42_n.jpg",
+                "width": 320,
+                "height": 170,
+                "is_primary": "0",
+                "image_id": "118059"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118059_d7a9158b83d37c42_d.gif",
+                "width": 320,
+                "height": 170,
+                "is_primary": "0",
+                "image_id": "118059"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118059_d7a9158b83d37c42_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "118059"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18061841",
-            "role_id":"35236657",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18061841",
+            "role_id": "35236657",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18042537",
-            "role_id":"35236655",
-            "person_name":"Oswald Haerdtl",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042537\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18042537",
+            "role_id": "35236655",
+            "person_name": "Oswald Haerdtl",
+            "person_date": "Austrian, 1899\u20131959",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042537\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "person_id":"18061841",
-            "role_id":"51571131",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Lender",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+            "person_id": "18061841",
+            "role_id": "51571131",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Platter, \"Cobalt blue\", 1924\u201326.\n1924\u201326. Mouth-blown crystal. Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-121."
+    "tombstone": {
+        "epitaph": "Cobalt blue Platter, 1924\u201326. Mouth-blown crystal. \nMuseum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-121"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#5492c2",
-            "closest_css3":"#4682b4"
+            "color": "#5392c2",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
         },
         {
-            "color":"#2f5fa1",
-            "closest_css3":"#4682b4"
+            "color": "#8dbcd7",
+            "closest_crayola": "#a2add0",
+            "closest_css3": "#87ceeb",
+            "closest_css4": "#87ceeb"
         },
         {
-            "color":"#8ebdd8",
-            "closest_css3":"#87ceeb"
+            "color": "#2f5fa0",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
         },
         {
-            "color":"#11162e",
-            "closest_css3":"#000000"
+            "color": "#11162e",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         },
         {
-            "color":"#213f84",
-            "closest_css3":"#483d8b"
+            "color": "#213f84",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
         }
-    ]
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

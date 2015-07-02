@@ -1,87 +1,209 @@
 {
-    "id":"18668623",
-    "tms:id":"209721",
-    "accession_number":"1995-50-248",
-    "title":"Textile, \"Cupid and Psyche\", ca. 1790",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18668623\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1790",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Gorgerat freres",
-    "provenance":null,
-    "dimensions":"Warp: 288 cm (123 in.)\nWeft: 82.5 cm (32 1\/2 in.)\nRight selvedge only. Left side pieced.",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Four scenes from the story of Cupid and Psyche in red on white ground. Partial chef at one end; other end scalloped.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18668623",
+    "tms:id": "209721",
+    "accession_number": "1995-50-248",
+    "title": "Textile, Cupid and Psyche, ca. 1790",
+    "title_raw": "Cupid and Psyche",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18668623\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Gorgerat freres",
+    "provenance": null,
+    "dimensions": "Warp x Weft: 288 x 82.5 cm (9 ft. 5 3\/8 in. x 32 1\/2 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "288.00",
+            "centimeters"
+        ],
+        "weft": [
+            "82.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Four scenes from the story of Cupid and Psyche in red on white ground. Partial chef at one end; other end scalloped.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15417_a551ff9fec039bbf_b.jpg",
-                "width":682,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111474_f47f38b2347c51d6_b.jpg",
+                "width": 620,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111474"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15417_a551ff9fec039bbf_n.jpg",
-                "width":213,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111474_f47f38b2347c51d6_z.jpg",
+                "width": 388,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111474"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15417_a551ff9fec039bbf_z.jpg",
-                "width":426,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111474_f47f38b2347c51d6_n.jpg",
+                "width": 194,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111474"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111474_f47f38b2347c51d6_d.gif",
+                "width": 194,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111474"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111474_f47f38b2347c51d6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111474"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79259_7d00eeaf2a317607_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "79259"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79259_7d00eeaf2a317607_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "79259"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79259_7d00eeaf2a317607_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79259"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79259_7d00eeaf2a317607_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79259"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79259_7d00eeaf2a317607_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79259"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15417_a551ff9fec039bbf_b.jpg",
+                "width": 682,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "15417"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15417_a551ff9fec039bbf_z.jpg",
+                "width": 426,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "15417"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15417_a551ff9fec039bbf_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15417"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15417_a551ff9fec039bbf_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15417"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15417_a551ff9fec039bbf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15417"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046281",
-            "role_id":"35236671",
-            "person_name":"Gorgerat Freres",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046281\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "person_id": "18046281",
+            "role_id": "35236671",
+            "person_name": "Gorgerat Fr\u00e8res et Cie.",
+            "person_date": "1783 - 1815",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046281\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Cupid and Psyche\", ca. 1790.\nca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Bequest of Elinor Merrell. 1995-50-248."
+    "tombstone": {
+        "epitaph": "Textile, Cupid and Psyche, ca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nBequest of Elinor Merrell. 1995-50-248"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#fcd5b6",
-            "closest_css3":"#ffdab9"
+            "color": "#e3e1cd",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#d76b70",
-            "closest_css3":"#cd5c5c"
+            "color": "#b1807c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#fcf4d9",
-            "closest_css3":"#fff8dc"
+            "color": "#c3a399",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#f08f96",
-            "closest_css3":"#f08080"
-        },
-        {
-            "color":"#f1b09c",
-            "closest_css3":"#deb887"
+            "color": "#9f5a5f",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

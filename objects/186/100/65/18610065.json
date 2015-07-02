@@ -1,49 +1,141 @@
 {
-    "id":"18610065",
-    "tms:id":"98542",
-    "accession_number":"1948-40-67",
-    "title":"Drawing, \"Window Alcove\", 1815\u201322",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18610065\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35375839",
-    "type_id":"35237093",
-    "date":"1815\u201322",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Pen and black ink, watercolor on white wove paper, silhouetted",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Horizontal rectangle. Design for the Royal Pavilion, Brighton. Design for an alcove with an arched ceiling and containing a window. A lattice-work pattern on the walls. Festoons of drapery at entrance to alcove. Above the drapery, a cornice is visible with decoration of dolphins and lattice-work.\n\nOriginal album associated with this collection still exists.  See 1948-40-1 accessory",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18610065",
+    "tms:id": "98542",
+    "accession_number": "1948-40-67",
+    "title": "Drawing, Window Alcove, 1815\u201322",
+    "title_raw": "Window Alcove",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18610065\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51688779",
+    "type_id": "35237093",
+    "date": "1815\u201322",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Pen and black ink, brush and watercolor on white wove paper, silhouetted",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1948: acquired by Museum (from Mrs. K. Gregory)",
+    "dimensions": "H x W: 18.3 x 24.9 cm (7 3\/16 x 9 13\/16 in.)\nMat: 35.6 x 45.7 cm (14 x 18 in.)",
+    "dimensions_raw": {
+        "height": [
+            "18.30",
+            "centimeters"
+        ],
+        "width": [
+            "24.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Horizontal rectangle. Design for the Royal Pavilion, Brighton. Design for an alcove with an arched ceiling and containing a window. A lattice-work pattern on the walls. Festoons of drapery at entrance to alcove. Above the drapery, a cornice is visible with decoration of dolphins and lattice-work.\n\nOriginal album associated with this collection still exists.  See 1948-40-1 accessory",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18042069",
-            "role_id":"35236655",
-            "person_name":"Frederick Crace",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042069\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61567_78b35fe7bd352661_b.jpg",
+                "width": 1024,
+                "height": 785,
+                "is_primary": "1",
+                "image_id": "61567"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61567_78b35fe7bd352661_z.jpg",
+                "width": 640,
+                "height": 490,
+                "is_primary": "1",
+                "image_id": "61567"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61567_78b35fe7bd352661_n.jpg",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "61567"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61567_78b35fe7bd352661_d.gif",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "61567"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61567_78b35fe7bd352661_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "61567"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Window Alcove\", 1815\u201322.\n1815\u201322. Pen and black ink, watercolor on white wove paper, silhouetted. Museum purchase through gift of Mrs. John Innes Kane. 1948-40-67."
+    "participants": [
+        {
+            "person_id": "18539479",
+            "role_id": "35352249",
+            "person_name": "Mrs. K. Gregory",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539479\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18042069",
+            "role_id": "35236655",
+            "person_name": "Frederick Crace",
+            "person_date": "English, 1779\u20131859",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Window Alcove, 1815\u201322. Pen and black ink, brush and watercolor on white wove paper, silhouetted. \nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-67"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d2d0b9",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#845333",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#9da6a2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#5e3723",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#2e2b27",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

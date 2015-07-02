@@ -1,42 +1,119 @@
 {
-    "id":"18618201",
-    "tms:id":"177634",
-    "accession_number":"1981-29-60",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18618201\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18618201",
+    "tms:id": "177634",
+    "accession_number": "1981-29-60",
+    "title": "Poster, Spaces for the Species, 1975",
+    "title_raw": "Spaces for the Species",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18618201\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35238163",
+    "date": "1975",
+    "year_start": 1975,
+    "year_end": 1975,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": null,
+    "dimensions_raw": {
+        "height": [
+            "90.00",
+            "centimeters"
+        ],
+        "width": [
+            "59.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Various Donors",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93572_d387e7779876cc49_b.jpg",
+                "width": 681,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93572"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93572_d387e7779876cc49_z.jpg",
+                "width": 425,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93572"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93572_d387e7779876cc49_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93572"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93572_d387e7779876cc49_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93572"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93572_d387e7779876cc49_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93572"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042351",
+            "role_id": "35236655",
+            "person_name": "Peter Bradford",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Poster.\nGift of Various Donors. 1981-29-60."
+    "tombstone": {
+        "epitaph": "Poster, Spaces for the Species, 1975. \nGift of Various Donors. 1981-29-60"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a1998e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#c99663",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#e2d4c3",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

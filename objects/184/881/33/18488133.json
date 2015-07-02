@@ -1,95 +1,170 @@
 {
-    "id":"18488133",
-    "tms:id":"154934",
-    "accession_number":"1975-32-15",
-    "title":"Figure, \"Octopus Lady\", ca. 1925",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18488133\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431139",
-    "type_id":"35237189",
-    "date":"ca. 1925",
-    "year_start":"1915",
-    "year_end":"1935",
-    "year_acquired":"1975",
-    "decade":"1910",
-    "woe:country":"23424819",
-    "medium":"Onyx, gold on bronze, ivory",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Stanley Siegel Collection",
-    "dimensions":"H: 39 x W: 11.5 x D: 6.3 cm (15 1\/4 x 4 1\/2 x 2 1\/2 in)",
-    "creditline":"Gift of Stanley Siegel, from the Stanley Siegel Collection",
-    "description":"Female dancing figure standing on demi-toe, hands together above head, costumed in reptile texture, brown, with gold decoration covering figure completely, except face and hands which are ivory and are finely chiseled.  Base of onyx pieces of various colors, mostly brown\/beige, in various geometric shapes.",
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18488133",
+    "tms:id": "154934",
+    "accession_number": "1975-32-15",
+    "title": "Starfish Dancer Figure, ca. 1925",
+    "title_raw": "Starfish Dancer",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18488133\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431139",
+    "type_id": "35237189",
+    "date": "ca. 1925",
+    "year_start": 1915,
+    "year_end": 1935,
+    "year_acquired": "1975",
+    "decade": "1910",
+    "woe:country_id": "23424819",
+    "medium": "Onyx, gold on bronze, ivory",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Stanley Siegel Collection; 1975: acquired by Museum",
+    "dimensions": "H: 39 x W: 11.5 x D: 6.3 cm (15 1\/4 x 4 1\/2 x 2 1\/2 in)",
+    "dimensions_raw": {
+        "depth": [
+            "6.30",
+            "centimeters"
+        ],
+        "height": [
+            "39.00",
+            "centimeters"
+        ],
+        "width": [
+            "11.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stanley Siegel, from the Stanley Siegel Collection",
+    "description": "Female dancing figure standing on demi-toe, hands together above head, costumed in reptile texture, brown, with gold decoration covering figure completely, except face and hands which are ivory and are finely chiseled.  Base of onyx pieces of various colors, mostly brown\/beige, in various geometric shapes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Figure",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8445_11986966736925ed_b.jpg",
-                "width":373,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110080_8fb01f86e7fc1954_b.jpg",
+                "width": 620,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110080"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8445_11986966736925ed_n.jpg",
-                "width":117,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110080_8fb01f86e7fc1954_z.jpg",
+                "width": 388,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110080"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8445_11986966736925ed_z.jpg",
-                "width":233,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110080_8fb01f86e7fc1954_n.jpg",
+                "width": 194,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110080"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110080_8fb01f86e7fc1954_d.gif",
+                "width": 194,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110080"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110080_8fb01f86e7fc1954_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110080"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8445_11986966736925ed_b.jpg",
+                "width": 373,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8445"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8445_11986966736925ed_z.jpg",
+                "width": 233,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8445"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8445_11986966736925ed_n.jpg",
+                "width": 117,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8445"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8445_11986966736925ed_d.gif",
+                "width": 117,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8445"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8445_11986966736925ed_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8445"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18056403",
-            "role_id":"35236641",
-            "person_name":"Demetre Chiparus",
-            "role_name":"Sculptor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056403\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236641\/"
+            "person_id": "18056403",
+            "role_id": "35236641",
+            "person_name": "Demetre Chiparus",
+            "person_date": "b. Romania; worked: Paris",
+            "role_name": "Sculptor",
+            "role_display_name": "Sculpted by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056403\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236641\/"
         },
         {
-            "person_id":"18056389",
-            "role_id":"35351535",
-            "person_name":"Stanley Siegel",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056389\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18056389",
+            "role_id": "35351535",
+            "person_name": "Stanley Siegel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056389\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Figure, \"Octopus Lady\", ca. 1925.\nca. 1925. Onyx, gold on bronze, ivory. Gift of Stanley Siegel, from the Stanley Siegel Collection. 1975-32-15."
+    "tombstone": {
+        "epitaph": "Starfish Dancer Figure, ca. 1925. Onyx, gold on bronze, ivory. \nGift of Stanley Siegel, from the Stanley Siegel Collection. 1975-32-15"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bb6404",
-            "closest_css3":"#b8860b"
+            "color": "#312b23",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#fdab17",
-            "closest_css3":"#ffa500"
+            "color": "#524b3d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#e1810a",
-            "closest_css3":"#ff8c00"
-        },
-        {
-            "color":"#461606",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#210c08",
-            "closest_css3":"#000000"
+            "color": "#827e76",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

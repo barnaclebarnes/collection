@@ -1,87 +1,151 @@
 {
-    "id":"18617035",
-    "tms:id":"177047",
-    "accession_number":"1981-28-432",
-    "title":"Sampler, 1836",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617035\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427205",
-    "type_id":"35256439",
-    "date":"1836",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross stitch (looping backward movement), on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":"l'an de 1836\nColette du Wel",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 28.5 x 27.3 cm (11 1\/4 x 10 3\/4 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Upper third has two alphabets introduced by Maltese crosses and inscription, lower third has isolated floral motifs. Floral borders on four sides.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18617035",
+    "tms:id": "177047",
+    "accession_number": "1981-28-432",
+    "title": "Sampler (France), 1836",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617035\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427205",
+    "type_id": "35256439",
+    "date": "1836",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross stitch (looping backward movement), on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": "l'an de 1836\nColette du Wel",
+    "provenance": null,
+    "dimensions": "Warp x Weft: 28.5 x 27.3 cm (11 1\/4 x 10 3\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "28.50",
+            "centimeters"
+        ],
+        "weft": [
+            "27.31",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Upper third has two alphabets introduced by Maltese crosses and inscription, lower third has isolated floral motifs. Floral borders on four sides.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37273_073287b5bef616ff_b.jpg",
-                "width":994,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37273_073287b5bef616ff_b.jpg",
+                "width": 994,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "37273"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37273_073287b5bef616ff_n.jpg",
-                "width":311,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37273_073287b5bef616ff_z.jpg",
+                "width": 621,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "37273"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37273_073287b5bef616ff_z.jpg",
-                "width":621,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37273_073287b5bef616ff_n.jpg",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "37273"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37273_073287b5bef616ff_d.gif",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "37273"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37273_073287b5bef616ff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "37273"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050965",
-            "role_id":"35236583",
-            "person_name":"Colette du Wel",
-            "role_name":"Embroiderer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050965\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+            "person_id": "18055143",
+            "role_id": "35352245",
+            "person_name": "Susan J. Brown",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055143\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18050965",
+            "role_id": "35236583",
+            "person_name": "Colette du Wel",
+            "person_date": "",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050965\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sampler, 1836.\n1836. Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross stitch (looping backward movement), on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-432."
+    "tombstone": {
+        "epitaph": "Sampler (France), 1836. Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross stitch (looping backward movement), on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-432"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c0b59f",
-            "closest_css3":"#d2b48c"
+            "color": "#d1c8b8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#787883",
-            "closest_css3":"#808080"
+            "color": "#a0a18e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#9f958d",
-            "closest_css3":"#bc8f8f"
+            "color": "#93979f",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#8e95a5",
-            "closest_css3":"#778899"
+            "color": "#484a37",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#363a23",
-            "closest_css3":"#2f4f4f"
+            "color": "#a39280",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

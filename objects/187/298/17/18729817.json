@@ -1,121 +1,285 @@
 {
-  "year_start": "1971", 
-  "exhibitions": [], 
-  "justification": null, 
-  "tms:id": "240911", 
-  "images": [
-    {
-      "b": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/38843_a057591e096e1d64_b.jpg", 
-        "width": 1024, 
-        "is_primary": "1", 
-        "height": 676
-      }, 
-      "z": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/38843_a057591e096e1d64_z.jpg", 
-        "width": 640, 
-        "is_primary": "1", 
-        "height": 423
-      }, 
-      "n": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/38843_a057591e096e1d64_n.jpg", 
-        "width": 320, 
-        "is_primary": "1", 
-        "height": 211
-      }
-    }, 
-    {
-      "b": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39334_ede075339eefa321_b.jpg", 
-        "width": 1024, 
-        "is_primary": "0", 
-        "height": 718
-      }, 
-      "z": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39334_ede075339eefa321_z.jpg", 
-        "width": 640, 
-        "is_primary": "0", 
-        "height": 449
-      }, 
-      "n": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39334_ede075339eefa321_n.jpg", 
-        "width": 320, 
-        "is_primary": "0", 
-        "height": 224
-      }
-    }, 
-    {
-      "b": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39336_d3255e664f9cbd70_b.jpg", 
-        "width": 1024, 
-        "is_primary": "0", 
-        "height": 347
-      }, 
-      "z": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39336_d3255e664f9cbd70_z.jpg", 
-        "width": 640, 
-        "is_primary": "0", 
-        "height": 217
-      }, 
-      "n": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39336_d3255e664f9cbd70_n.jpg", 
-        "width": 320, 
-        "is_primary": "0", 
-        "height": 109
-      }
-    }, 
-    {
-      "b": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39332_eff72d38ecfcd715_b.jpg", 
-        "width": 1024, 
-        "is_primary": "0", 
-        "height": 591
-      }, 
-      "z": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39332_eff72d38ecfcd715_z.jpg", 
-        "width": 640, 
-        "is_primary": "0", 
-        "height": 370
-      }, 
-      "n": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39332_eff72d38ecfcd715_n.jpg", 
-        "width": 320, 
-        "is_primary": "0", 
-        "height": 185
-      }
-    }
-  ], 
-  "id": "18729817", 
-  "decade": "1970", 
-  "dimensions": "H x W x D: 18.1 x 14.6 x 1.9 cm (7 1/8 x 5 3/4 x 3/4 in.)", 
-  "title": "Coffee Pot, \"Stairs\", Designed 1971", 
-  "provenance": "Gift of Arthur D. Liu", 
-  "participants": [
-    {
-      "person_name": "Sabattini Argenteria S.p.A.", 
-      "role_url": "http://collection.cooperhewitt.org/roles/35236657/", 
-      "person_url": "http://collection.cooperhewitt.org/people/18044637/", 
-      "role_name": "Manufacturer", 
-      "person_id": "18044637", 
-      "role_id": "35236657"
-    }
-  ], 
-  "woe:country": "23424853", 
-  "department_id": "35347497", 
-  "medium": "Silver-plated metal", 
-  "description": null, 
-  "creditline": "Gift of Arthur D. Liu", 
-  "period_id": null, 
-  "date": "Designed 1971", 
-  "url": "http://collection.cooperhewitt.org/objects/18729817/", 
-  "type": {
-    "id": "35262071", 
-    "name": "coffee pot"
-  }, 
-  "accession_number": "2008-37-1", 
-  "year_end": "1971", 
-  "signed": null, 
-  "inscribed": null, 
-  "markings": "On side, bottom (stamped?): Lino Sabattini (signature), above COMPONIBILE S/30 COLLEZIONE SABATTINI BRAGNANO ITALY. On underside of base: logo (S (?) in circle)/SABATTINI/ITALY", 
-  "year_acquired": "2008"
+    "id": "18729817",
+    "tms:id": "240911",
+    "accession_number": "2008-37-1",
+    "title": "Stairs Coffee Pot, 1971",
+    "title_raw": "Stairs",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18729817\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35397877",
+    "type_id": "35262071",
+    "date": "1971",
+    "year_start": 1971,
+    "year_end": 1971,
+    "year_acquired": "2008",
+    "decade": "1970",
+    "woe:country_id": "23424853",
+    "medium": "Silver-plated metal",
+    "markings": "On side, bottom (stamped): \"Lino Sabattini\" (signature), above: \"COMPONIBILE S\/30 COLLEZIONE SABATTINI BRAGNANO ITALY\". On underside of base: logo (S (?) in circle)\/\"SABATTINI\/ITALY\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Arthur D. Liu; 2008: acquired by Museum",
+    "dimensions": "H x W x D: 18.1 x 14.6 x 1.9 cm (7 1\/8 x 5 3\/4 x 3\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.91",
+            "centimeters"
+        ],
+        "height": [
+            "18.10",
+            "centimeters"
+        ],
+        "width": [
+            "14.61",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Arthur D. Liu",
+    "description": "Shiny silver-plated cylindrical coffee pot with hinged lid and vertical thumb piece. Handle projects from hinge to form half arch. Spout engaged to form streamlined projection at top quarter of body.",
+    "justification": "Lino Sabattini is one of Italy\u2019s leading silversmiths and designers. Sabattini is self-taught: he sharpened his sensibilities and craft while a young man during World War II, he assiduously read the design magazine Domus, and studied materials and metalsmithing techniques while working in a brassware shop. Sabattini later served an informal apprenticeship with the refugee German ceramist, Roland Hettner. It was during this period that Sabattini first became interested in shapes derived from the behavior of materials.\nBy 1955, he settled in Milan where he met Gio Ponti, who encouraged his design practice and exhibited his work the following year, which brought Sabattini to international attention. From 1956-63, while still active in Milan he was the Director of Design for Christofle Orf\u00e8vrerie, Paris. His silver designs during that period could be characterized as sculptural and free-flowing. Sabattini established his own manufactory in Bregnano, near Como, Italy, in 1964, and started to garner awards in that decade. His standards of quality and his individual approach to the language of design have made him one of the leading figures in Italian modernism. \nThe four vessels of Sabattini\u2019s Stairs tea and coffee set play on the shapes of the circle and curved line, and how these simple geometric forms can be arranged in a variety of configurations. The wall of the sugar bowl is a simple cylinder, while the taller pieces are formed of convex and concave curves that allow the objects to nest in one another. Each piece is a different height. In one preparatory drawing, Sabattini shows the group in a tightly spiraled arrangement, the stepped vessel tops suggesting stairs. The circle theme is even carried through the curved handles. The effect of Sabattini\u2019s geometric exploration is heightened by the highly reflective, unadorned curved and polished surface of silver-plated sheet metal.\nAlthough the museum has examples of Sabattini\u2019s metalwork, including his 1975 Centro bowl and the 1976 Estro sauceboat, accompanied by drawings for both, the Stairs set under consideration represents an earlier design. Stairs shows the interaction of multiple objects conceived as a suite\u2014discrete design objects that form a composition when put together.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "coffee pot",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38843_a057591e096e1d64_b.jpg",
+                "width": 1024,
+                "height": 676,
+                "is_primary": "1",
+                "image_id": "38843"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38843_a057591e096e1d64_z.jpg",
+                "width": 640,
+                "height": 423,
+                "is_primary": "1",
+                "image_id": "38843"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38843_a057591e096e1d64_n.jpg",
+                "width": 320,
+                "height": 211,
+                "is_primary": "1",
+                "image_id": "38843"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38843_a057591e096e1d64_d.gif",
+                "width": 320,
+                "height": 211,
+                "is_primary": "1",
+                "image_id": "38843"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38843_a057591e096e1d64_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "38843"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124048_93e13bb7c34da145_b.jpg",
+                "width": 770,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "124048"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124048_93e13bb7c34da145_z.jpg",
+                "width": 481,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "124048"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124048_93e13bb7c34da145_n.jpg",
+                "width": 241,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "124048"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124048_93e13bb7c34da145_d.gif",
+                "width": 241,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "124048"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124048_93e13bb7c34da145_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "124048"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39336_d3255e664f9cbd70_b.jpg",
+                "width": 1024,
+                "height": 347,
+                "is_primary": "0",
+                "image_id": "39336"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39336_d3255e664f9cbd70_z.jpg",
+                "width": 640,
+                "height": 217,
+                "is_primary": "0",
+                "image_id": "39336"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39336_d3255e664f9cbd70_n.jpg",
+                "width": 320,
+                "height": 109,
+                "is_primary": "0",
+                "image_id": "39336"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39336_d3255e664f9cbd70_d.gif",
+                "width": 320,
+                "height": 109,
+                "is_primary": "0",
+                "image_id": "39336"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39336_d3255e664f9cbd70_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "39336"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39332_eff72d38ecfcd715_b.jpg",
+                "width": 1024,
+                "height": 591,
+                "is_primary": "0",
+                "image_id": "39332"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39332_eff72d38ecfcd715_z.jpg",
+                "width": 640,
+                "height": 370,
+                "is_primary": "0",
+                "image_id": "39332"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39332_eff72d38ecfcd715_n.jpg",
+                "width": 320,
+                "height": 185,
+                "is_primary": "0",
+                "image_id": "39332"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39332_eff72d38ecfcd715_d.gif",
+                "width": 320,
+                "height": 185,
+                "is_primary": "0",
+                "image_id": "39332"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39332_eff72d38ecfcd715_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "39332"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39334_ede075339eefa321_b.jpg",
+                "width": 1024,
+                "height": 718,
+                "is_primary": "0",
+                "image_id": "39334"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39334_ede075339eefa321_z.jpg",
+                "width": 640,
+                "height": 449,
+                "is_primary": "0",
+                "image_id": "39334"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39334_ede075339eefa321_n.jpg",
+                "width": 320,
+                "height": 224,
+                "is_primary": "0",
+                "image_id": "39334"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39334_ede075339eefa321_d.gif",
+                "width": 320,
+                "height": 224,
+                "is_primary": "0",
+                "image_id": "39334"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39334_ede075339eefa321_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "39334"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18044637",
+            "role_id": "35236657",
+            "person_name": "Sabattini Argenteria S.p.A.",
+            "person_date": "founded 1964",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044637\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18042469",
+            "role_id": "35236655",
+            "person_name": "Lino Sabattini",
+            "person_date": "b. 1925",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18062243",
+            "role_id": "35351535",
+            "person_name": "Arthur D. Liu",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062243\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Stairs Coffee Pot, 1971. Silver-plated metal. \nGift of Arthur D. Liu. 2008-37-1"
+    },
+    "colors": [
+        {
+            "color": "#898079",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#62584f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

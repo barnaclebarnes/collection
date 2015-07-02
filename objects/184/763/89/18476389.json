@@ -1,61 +1,141 @@
 {
-    "id":"18476389",
-    "tms:id":"148966",
-    "accession_number":"1972-42-13-a\/d",
-    "title":"Borders, 1794\u20131825",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476389\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414641",
-    "type_id":"35288553",
-    "date":"1794\u20131825",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"87 x 41 cm (34 1\/4 x 16 1\/8 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"NOTE: component A -  is made up of approx. 100 fragments of the same border, divided into 2PACKETS. The main pattern of this border consists of a band of alternating vertical leaves and arrow heads connected at the base by a system of curls. Three stripes run along the upper edge, while the lower edge is banded by a string of pointed ellipses connected by round beads. Each \"ellipse\" is outlined in dots and contains a sprig that points in the opposite direction of its neighbor. Printed in dark blue-green, light green, gray, white, mustard yellow and mauve-gray on a black background.",
-    "justification":null,
-    "type":{
-        "id":"35288553",
-        "name":"Borders"
+    "id": "18476389",
+    "tms:id": "148966",
+    "accession_number": "1972-42-13-a\/d",
+    "title": "Borders (France), 1794\u20131825",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476389\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414641",
+    "type_id": "35288553",
+    "date": "1794\u20131825",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Josephine Howell; 1972: acquired by Museum",
+    "dimensions": "87 x 41 cm (34 1\/4 x 16 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "87.00",
+            "centimeters"
+        ],
+        "width": [
+            "41.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Josephine Howell",
+    "description": "NOTE: component A -  is made up of approx. 100 fragments of the same border, divided into 2 PACKETS. The main pattern of this border consists of a band of alternating vertical leaves and arrow heads connected at the base by a system of curls. Three stripes run along the upper edge, while the lower edge is banded by a string of pointed ellipses connected by round beads. Each \"ellipse\" is outlined in dots and contains a sprig that points in the opposite direction of its neighbor. Printed in dark blue-green, light green, gray, white, mustard yellow and mauve-gray on a black background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Borders",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46656_a814870c560dc7be_b.jpg",
-                "width":1024,
-                "height":630,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46656_25317f7c52c7a41a_b.jpg",
+                "width": 1024,
+                "height": 649,
+                "is_primary": "1",
+                "image_id": "46656"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46656_a814870c560dc7be_n.jpg",
-                "width":320,
-                "height":197,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46656_25317f7c52c7a41a_z.jpg",
+                "width": 640,
+                "height": 405,
+                "is_primary": "1",
+                "image_id": "46656"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46656_a814870c560dc7be_z.jpg",
-                "width":640,
-                "height":394,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46656_25317f7c52c7a41a_n.jpg",
+                "width": 320,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "46656"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46656_25317f7c52c7a41a_d.gif",
+                "width": 320,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "46656"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46656_25317f7c52c7a41a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46656"
             }
         }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048007",
+            "role_id": "35352245",
+            "person_name": "Catherine Lynn Frangiamore",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Borders, 1794\u20131825.\n1794\u20131825. Block-printed on handmade paper. Gift of Josephine Howell. 1972-42-13-a\/d."
+    "tombstone": {
+        "epitaph": "Borders (France), 1794\u20131825. Block-printed on handmade paper. \nGift of Josephine Howell. 1972-42-13-a\/d"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d9d4bc",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#3e423b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b2a576",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#667057",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#977f5d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

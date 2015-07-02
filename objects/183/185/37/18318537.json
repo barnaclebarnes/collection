@@ -1,42 +1,105 @@
 {
-    "id":"18318537",
-    "tms:id":"44517",
-    "accession_number":"1931-40-20-a,b",
-    "title":"Cover",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18318537\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237165",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"16.3 x 26 x 19 cm (6 7\/16 x 10 1\/4 x 7 1\/2 in.)",
-    "creditline":"Gift of Eleanor Garnier Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237165",
-        "name":"Cover"
+    "id": "18318537",
+    "tms:id": "44517",
+    "accession_number": "1931-40-20-a,b",
+    "title": "Cover",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18318537\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237165",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 16.3 x 26 x 19 cm (6 7\/16 x 10 1\/4 x 7 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "19.00",
+            "centimeters"
+        ],
+        "height": [
+            "16.30",
+            "centimeters"
+        ],
+        "width": [
+            "26.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eleanor Garnier Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115547_52b0fd09d156e419_b.jpg",
+                "width": 1024,
+                "height": 783,
+                "is_primary": "1",
+                "image_id": "115547"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115547_52b0fd09d156e419_z.jpg",
+                "width": 640,
+                "height": 489,
+                "is_primary": "1",
+                "image_id": "115547"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115547_52b0fd09d156e419_n.jpg",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "115547"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115547_52b0fd09d156e419_d.gif",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "115547"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115547_52b0fd09d156e419_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115547"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Cover. H x W x D: 16.3 x 26 x 19 cm (6 7\/16 x 10 1\/4 x 7 1\/2 in.). \nGift of Eleanor Garnier Hewitt. 1931-40-20-a,b"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Cover.\n16.3 x 26 x 19 cm (6 7\/16 x 10 1\/4 x 7 1\/2 in.). Gift of Eleanor Garnier Hewitt. 1931-40-20-a,b."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

@@ -1,87 +1,151 @@
 {
-    "id":"18448399",
-    "tms:id":"134715",
-    "accession_number":"1963-39-594",
-    "title":"Drawing, \"Study for Libres de Temor, for Asuntos Interamericanos\", 1942",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448399\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35418513",
-    "type_id":"35237093",
-    "date":"1942",
-    "year_start":"1942",
-    "year_end":"1942",
-    "year_acquired":"1963",
-    "decade":"1940",
-    "woe:country":"23424977",
-    "medium":"Brush and watercolor, graphite on paper",
-    "markings":null,
-    "signed":"Signed in graphite, lower right: Sketch Mck. Kauffer",
-    "inscribed":null,
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"33.2 x 24.6 cm (13 1\/16 x 9 11\/16 in.)",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"A man, wearing a blue shirt and brown trousers, stands holding a scythe over a green snake, in a yellow treed landscape.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18448399",
+    "tms:id": "134715",
+    "accession_number": "1963-39-594",
+    "title": "Drawing, Study for Libres de Temor, for Asuntos Interamericanos, 1942",
+    "title_raw": "Study for Libres de Temor, for Asuntos Interamericanos",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448399\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35418513",
+    "type_id": "35237093",
+    "date": "1942",
+    "year_start": 1942,
+    "year_end": 1942,
+    "year_acquired": "1963",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Brush and watercolor, graphite on paper",
+    "markings": null,
+    "signed": "Signed in graphite, lower right: Sketch Mck. Kauffer",
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer",
+    "dimensions": "33.2 x 24.6 cm (13 1\/16 x 9 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.20",
+            "centimeters"
+        ],
+        "width": [
+            "24.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "A man, wearing a blue shirt and brown trousers, stands holding a scythe over a green snake, in a yellow treed landscape.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55831_c8ab961bb1799987_b.jpg",
-                "width":758,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55831_01bdf5b5b1815aaa_b.jpg",
+                "width": 805,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "55831"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55831_c8ab961bb1799987_n.jpg",
-                "width":237,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55831_01bdf5b5b1815aaa_z.jpg",
+                "width": 503,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "55831"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55831_c8ab961bb1799987_z.jpg",
-                "width":474,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55831_01bdf5b5b1815aaa_n.jpg",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "55831"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55831_01bdf5b5b1815aaa_d.gif",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "55831"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55831_01bdf5b5b1815aaa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "55831"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Study for Libres de Temor, for Asuntos Interamericanos\", 1942.\n1942. Brush and watercolor, graphite on paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-594."
+    "tombstone": {
+        "epitaph": "Drawing, Study for Libres de Temor, for Asuntos Interamericanos, 1942. Brush and watercolor, graphite on paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-594"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a4b5d0",
-            "closest_css3":"#b0c4de"
+            "color": "#9ea6c5",
+            "closest_crayola": "#a2a2d0",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#2e2c28",
-            "closest_css3":"#2f4f4f"
+            "color": "#e1e488",
+            "closest_crayola": "#f0e891",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
         },
         {
-            "color":"#f3e88e",
-            "closest_css3":"#f0e68c"
+            "color": "#362b1f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#e7c53a",
-            "closest_css3":"#daa520"
+            "color": "#c6b44c",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#78472f",
-            "closest_css3":"#8b4513"
+            "color": "#b1933e",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

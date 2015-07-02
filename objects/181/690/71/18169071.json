@@ -1,87 +1,166 @@
 {
-    "id":"18169071",
-    "tms:id":"17875",
-    "accession_number":"1910-30-6-a",
-    "title":"Pendant",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18169071\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35417445",
-    "type_id":"35249041",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1910",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"fire-gilt bronze",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 11.6 x 4 x 4.3 cm (4 9\/16 x 1 9\/16 x 1 11\/16 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249041",
-        "name":"pendant"
+    "id": "18169071",
+    "tms:id": "17875",
+    "accession_number": "1910-30-6-a",
+    "title": "Pendant (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18169071\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35417445",
+    "type_id": "35249041",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1910",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "fire-gilt bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 11.6 x 4 x 4.3 cm (4 9\/16 x 1 9\/16 x 1 11\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "4.30",
+            "centimeters"
+        ],
+        "height": [
+            "11.60",
+            "centimeters"
+        ],
+        "width": [
+            "4.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "pendant",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26744_a7bc59bd82565e0c_b.jpg",
-                "width":1024,
-                "height":589,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93414_5f213ce313504399_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93414"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26744_a7bc59bd82565e0c_n.jpg",
-                "width":320,
-                "height":184,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93414_5f213ce313504399_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93414"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26744_a7bc59bd82565e0c_z.jpg",
-                "width":640,
-                "height":368,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93414_5f213ce313504399_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93414"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93414_5f213ce313504399_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93414"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93414_5f213ce313504399_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93414"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26744_a7bc59bd82565e0c_b.jpg",
+                "width": 1024,
+                "height": 589,
+                "is_primary": "0",
+                "image_id": "26744"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26744_a7bc59bd82565e0c_z.jpg",
+                "width": 640,
+                "height": 368,
+                "is_primary": "0",
+                "image_id": "26744"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26744_a7bc59bd82565e0c_n.jpg",
+                "width": 320,
+                "height": 184,
+                "is_primary": "0",
+                "image_id": "26744"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26744_a7bc59bd82565e0c_d.gif",
+                "width": 320,
+                "height": 184,
+                "is_primary": "0",
+                "image_id": "26744"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26744_a7bc59bd82565e0c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "26744"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Pendant.\nfire-gilt bronze. Purchased for the Museum by the Advisory Council. 1910-30-6-a."
+    "tombstone": {
+        "epitaph": "Pendant (France). fire-gilt bronze. \nPurchased for the Museum by the Advisory Council. 1910-30-6-a"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#402c1a",
-            "closest_css3":"#2f4f4f"
+            "color": "#a7a497",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#664926",
-            "closest_css3":"#556b2f"
+            "color": "#b0a05a",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#5f605b",
-            "closest_css3":"#696969"
+            "color": "#70613a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#865f24",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#3b3934",
-            "closest_css3":"#2f4f4f"
+            "color": "#8e8257",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,42 +1,168 @@
 {
-    "id":"18666539",
-    "tms:id":"208649",
-    "accession_number":"1995-50-123",
-    "title":"Valance, ca. 1790",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18666539\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35268719",
-    "date":"ca. 1790",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 67.5cm (26 1\/2in.). Weft: 190.5cm (75in.).\nWidth is three pieces sewn together.",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Three pieces sewn together to make a shaped valance with a scalloped bottom.\nScenes of women washing, a shepherd, an old man reading to a family group and a man beating a drum while toe young males dance. \nIn red on white.",
-    "justification":null,
-    "type":{
-        "id":"35268719",
-        "name":"Valance"
+    "id": "18666539",
+    "tms:id": "208649",
+    "accession_number": "1995-50-123",
+    "title": "Valance, La Danse Savoyarde, ca. 1790",
+    "title_raw": "La Danse Savoyarde",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18666539\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35268719",
+    "date": "ca. 1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 67.5 \u00d7 190.5 cm (26 9\/16 in. \u00d7 6 ft. 3 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "67.50",
+            "centimeters"
+        ],
+        "weft": [
+            "190.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Three pieces sewn together to make a shaped valance with a scalloped bottom.\nScenes of women washing, a shepherd, an old man reading to a family group and a man beating a drum while toe young males dance. \nIn red on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Valance",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109758_ecbb2a0f1560bd41_b.jpg",
+                "width": 1024,
+                "height": 569,
+                "is_primary": "1",
+                "image_id": "109758"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109758_ecbb2a0f1560bd41_z.jpg",
+                "width": 640,
+                "height": 356,
+                "is_primary": "1",
+                "image_id": "109758"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109758_ecbb2a0f1560bd41_n.jpg",
+                "width": 320,
+                "height": 178,
+                "is_primary": "1",
+                "image_id": "109758"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109758_ecbb2a0f1560bd41_d.gif",
+                "width": 320,
+                "height": 178,
+                "is_primary": "1",
+                "image_id": "109758"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109758_ecbb2a0f1560bd41_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109758"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79157_b04ad83bc517ea95_b.jpg",
+                "width": 1024,
+                "height": 523,
+                "is_primary": "0",
+                "image_id": "79157"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79157_b04ad83bc517ea95_z.jpg",
+                "width": 640,
+                "height": 327,
+                "is_primary": "0",
+                "image_id": "79157"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79157_b04ad83bc517ea95_n.jpg",
+                "width": 320,
+                "height": 163,
+                "is_primary": "0",
+                "image_id": "79157"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79157_b04ad83bc517ea95_d.gif",
+                "width": 320,
+                "height": 163,
+                "is_primary": "0",
+                "image_id": "79157"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79157_b04ad83bc517ea95_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79157"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049427",
+            "role_id": "35351535",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Valance, ca. 1790.\nca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Bequest of Elinor Merrell. 1995-50-123."
+    "tombstone": {
+        "epitaph": "Valance, La Danse Savoyarde, ca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nBequest of Elinor Merrell. 1995-50-123"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b37e7a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#e5e5cb",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#c5a396",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#9e575c",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#d7c5b0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,72 +1,180 @@
 {
-    "id":"18621019",
-    "tms:id":"185323",
-    "accession_number":"1986-53-15",
-    "title":"Knife, \"Trylon\", 1980",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621019\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431463",
-    "type_id":"35248783",
-    "date":"1980",
-    "year_start":"1980",
-    "year_end":"1980",
-    "year_acquired":"1986",
-    "decade":"1980",
-    "woe:country":"23424977",
-    "medium":"Steel, stainless",
-    "markings":"On blade: \"Supreme Cutlery;  JAPAN\"; signature : \"Ward Bennett Designs\"",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"cm: L: 23.7 x W: 2.1 x D: 1.2",
-    "creditline":"Gift of Ward Bennett",
-    "description":"Tapering, tubular, triangular handle.",
-    "justification":null,
-    "type":{
-        "id":"35248783",
-        "name":"knife"
+    "id": "18621019",
+    "tms:id": "185323",
+    "accession_number": "1986-53-15",
+    "title": "Trylon Knife, 1980",
+    "title_raw": "Trylon",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621019\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431463",
+    "type_id": "35248783",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1986",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "Steel, stainless",
+    "markings": "On blade: \"Supreme Cutlery;  JAPAN\"; signature : \"Ward Bennett Designs\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "cm: L: 23.7 x W: 2.1 x D: 1.2",
+    "dimensions_raw": {
+        "depth": [
+            "1.20",
+            "centimeters"
+        ],
+        "length": [
+            "23.70",
+            "centimeters"
+        ],
+        "width": [
+            "2.10",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Ward Bennett",
+    "description": "Tapering, tubular, triangular handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "knife",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19250_3bd8752aff52b915_b.jpg",
-                "width":643,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19250_3bd8752aff52b915_b.jpg",
+                "width": 643,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "19250"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19250_3bd8752aff52b915_n.jpg",
-                "width":201,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19250_3bd8752aff52b915_z.jpg",
+                "width": 402,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "19250"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19250_3bd8752aff52b915_z.jpg",
-                "width":402,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19250_3bd8752aff52b915_n.jpg",
+                "width": 201,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "19250"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19250_3bd8752aff52b915_d.gif",
+                "width": 201,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "19250"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19250_3bd8752aff52b915_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "19250"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119743_f02bd2adfd99ff48_b.jpg",
+                "width": 546,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "119743"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119743_f02bd2adfd99ff48_z.jpg",
+                "width": 341,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "119743"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119743_f02bd2adfd99ff48_n.jpg",
+                "width": 171,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "119743"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119743_f02bd2adfd99ff48_d.gif",
+                "width": 171,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "119743"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119743_f02bd2adfd99ff48_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "119743"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Knife, \"Trylon\", 1980.\n1980. Steel, stainless. Gift of Ward Bennett. 1986-53-15."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#605547",
-            "closest_css3":"#556b2f"
+            "person_id": "18053883",
+            "role_id": "35236659",
+            "person_name": "Supreme Cutlery",
+            "person_date": "",
+            "role_name": "Distributor",
+            "role_display_name": "Distributed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053883\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236659\/"
         },
         {
-            "color":"#2a221b",
-            "closest_css3":"#000000"
+            "person_id": "18053881",
+            "role_id": "35236657",
+            "person_name": "Towle Manufacturing Company, Silversmiths",
+            "person_date": "founded 1857",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053881\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#a49c95",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18044277",
+            "role_id": "35236655",
+            "person_name": "Ward Bennett",
+            "person_date": "American, 1917\u20132003",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044277\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Trylon Knife, 1980. Steel, stainless. \nGift of Ward Bennett. 1986-53-15"
+    },
+    "colors": [
+        {
+            "color": "#5b513e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2a251e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#aaa49c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

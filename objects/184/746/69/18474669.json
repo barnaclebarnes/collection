@@ -1,42 +1,104 @@
 {
-    "id":"18474669",
-    "tms:id":"148097",
-    "accession_number":"1971-50-416",
-    "title":"Fragment, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474669\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35254623",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Medium: linen\nTechnique: bobbin lace, peasant style",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18474669",
+    "tms:id": "148097",
+    "accession_number": "1971-50-416",
+    "title": "Fragment (Italy), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474669\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35254623",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Medium: linen\nTechnique: bobbin lace, peasant style",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": "Band with mirror reverse of leaves.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76013_376556c9720eb466_b.jpg",
+                "width": 1024,
+                "height": 409,
+                "is_primary": "1",
+                "image_id": "76013"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76013_376556c9720eb466_z.jpg",
+                "width": 640,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "76013"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76013_376556c9720eb466_n.jpg",
+                "width": 320,
+                "height": 128,
+                "is_primary": "1",
+                "image_id": "76013"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76013_376556c9720eb466_d.gif",
+                "width": 320,
+                "height": 128,
+                "is_primary": "1",
+                "image_id": "76013"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76013_376556c9720eb466_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76013"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 18th century.\n18th century. Medium: linen\nTechnique: bobbin lace, peasant style. Bequest of Marian Hague. 1971-50-416."
+    "tombstone": {
+        "epitaph": "Fragment (Italy), 18th century. Medium: linen\nTechnique: bobbin lace, peasant style. \nBequest of Marian Hague. 1971-50-416"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#cfcabf",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#272d2f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

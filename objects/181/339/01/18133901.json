@@ -1,87 +1,204 @@
 {
-    "id":"18133901",
-    "tms:id":"12154",
-    "accession_number":"1902-1-908",
-    "title":"Escutcheon, 16th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18133901\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35392567",
-    "type_id":"35258875",
-    "date":"16th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, linen, gold\nTechnique: embroidery",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 74 x 49.7 cm (29 1\/8 x 19 9\/16 in.)",
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Figure of St. Michael within an oval frame.",
-    "justification":null,
-    "type":{
-        "id":"35258875",
-        "name":"Escutcheon"
+    "id": "18133901",
+    "tms:id": "12154",
+    "accession_number": "1902-1-908",
+    "title": "Escutcheon, 16th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18133901\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35392567",
+    "type_id": "35258875",
+    "date": "16th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, linen, gold\nTechnique: embroidery",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 74 x 49.7 cm (29 1\/8 x 19 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "74.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Figure of St. Michael within an oval frame.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Escutcheon",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38341_7a128bc8be9633b6_b.jpg",
-                "width":719,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99143_fad56e692623e45d_b.jpg",
+                "width": 691,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "99143"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38341_7a128bc8be9633b6_n.jpg",
-                "width":225,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99143_fad56e692623e45d_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "99143"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38341_7a128bc8be9633b6_z.jpg",
-                "width":449,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99143_fad56e692623e45d_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "99143"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99143_fad56e692623e45d_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "99143"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99143_fad56e692623e45d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99143"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95105_f06ff7fdbe26271b_b.jpg",
+                "width": 691,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95105"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95105_f06ff7fdbe26271b_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95105"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95105_f06ff7fdbe26271b_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95105"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95105_f06ff7fdbe26271b_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95105"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95105_f06ff7fdbe26271b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95105"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38341_7a128bc8be9633b6_b.jpg",
+                "width": 719,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "38341"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38341_7a128bc8be9633b6_z.jpg",
+                "width": 449,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "38341"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38341_7a128bc8be9633b6_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "38341"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38341_7a128bc8be9633b6_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "38341"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38341_7a128bc8be9633b6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "38341"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Escutcheon, 16th century.\n16th century. Medium: silk, linen, gold\nTechnique: embroidery. Gift of John Pierpont Morgan. 1902-1-908."
+    "tombstone": {
+        "epitaph": "Escutcheon, 16th century. Medium: silk, linen, gold\nTechnique: embroidery. \nGift of John Pierpont Morgan. 1902-1-908"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#745f35",
-            "closest_css3":"#556b2f"
+            "color": "#82693e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#d7ba99",
-            "closest_css3":"#d2b48c"
+            "color": "#a67f3d",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#4f3d26",
-            "closest_css3":"#556b2f"
+            "color": "#c1a980",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#b3926f",
-            "closest_css3":"#bc8f8f"
+            "color": "#584731",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#504f3d",
-            "closest_css3":"#556b2f"
+            "color": "#918969",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

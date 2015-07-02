@@ -1,95 +1,233 @@
 {
-    "id":"18455181",
-    "tms:id":"138145",
-    "accession_number":"1967-20-5",
-    "title":"Textile, \"The Kingsbury\", ca. 1900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18455181\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410719",
-    "type_id":"35251739",
-    "date":"ca. 1900",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1967",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk, cotton\nTechnique: machine woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 116.2 x 64.8 cm (45 3\/4 x 25 1\/2 in.)\nRepeat H: 87 cm (34 1\/4 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"Art Nouveau design of stylized flowers on a thorny vine with whiplash curving leaves, in beige and grey on deep red background.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18455181",
+    "tms:id": "138145",
+    "accession_number": "1967-20-5",
+    "title": "Textile, The Kingsbury, ca. 1900",
+    "title_raw": "The Kingsbury",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18455181\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410719",
+    "type_id": "35251739",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1967",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk, cotton\nTechnique: machine woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 116.2 x 64.8 cm (45 3\/4 x 25 1\/2 in.)\nRepeat H: 87 cm (34 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "87.00",
+            "centimeters"
+        ],
+        "warp": [
+            "116.21",
+            "centimeters"
+        ],
+        "weft": [
+            "64.77",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Art Nouveau design of stylized flowers on a thorny vine with whiplash curving leaves, in beige and grey on deep red background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39099_926a6a790ff158a4_b.jpg",
-                "width":572,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39099_926a6a790ff158a4_b.jpg",
+                "width": 572,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "39099"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39099_926a6a790ff158a4_n.jpg",
-                "width":179,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39099_926a6a790ff158a4_z.jpg",
+                "width": 358,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "39099"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39099_926a6a790ff158a4_z.jpg",
-                "width":358,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39099_926a6a790ff158a4_n.jpg",
+                "width": 179,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "39099"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39099_926a6a790ff158a4_d.gif",
+                "width": 179,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "39099"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39099_926a6a790ff158a4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "39099"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118657_8aeeff1aabf8a528_b.jpg",
+                "width": 694,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "118657"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118657_8aeeff1aabf8a528_z.jpg",
+                "width": 433,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "118657"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118657_8aeeff1aabf8a528_n.jpg",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "118657"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118657_8aeeff1aabf8a528_d.gif",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "118657"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118657_8aeeff1aabf8a528_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "118657"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75069_470d906b9ebb13b9_b.jpg",
+                "width": 668,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "75069"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75069_470d906b9ebb13b9_z.jpg",
+                "width": 418,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "75069"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75069_470d906b9ebb13b9_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "75069"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75069_470d906b9ebb13b9_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "75069"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75069_470d906b9ebb13b9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "75069"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18045965",
+            "role_id": "35236655",
+            "person_name": "Harry Napper",
+            "person_date": "English, 1860 - 1940",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045965\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "person_id":"18045999",
-            "role_id":"35236685",
-            "person_name":"Rottmann & Co.",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045999\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045999",
+            "role_id": "35236657",
+            "person_name": "Rottmann & Co.",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045999\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"The Kingsbury\", ca. 1900.\nca. 1900. Medium: silk, cotton\nTechnique: machine woven. Gift of Harvey Smith. 1967-20-5."
+    "tombstone": {
+        "epitaph": "Textile, The Kingsbury, ca. 1900. Medium: silk, cotton\nTechnique: machine woven. \nGift of Harvey Smith. 1967-20-5"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#952810",
-            "closest_css3":"#a52a2a"
+            "color": "#624e29",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#755c33",
-            "closest_css3":"#556b2f"
+            "color": "#97733a",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#9c763b",
-            "closest_css3":"#a0522d"
+            "color": "#93582d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#600f02",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#673e21",
-            "closest_css3":"#8b4513"
+            "color": "#b0976c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

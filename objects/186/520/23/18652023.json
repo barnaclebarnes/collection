@@ -1,42 +1,218 @@
 {
-    "id":"18652023",
-    "tms:id":"200954",
-    "accession_number":"1995-7-1",
-    "title":"Textile, 1680\u201390",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18652023\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394299",
-    "type_id":"35251739",
-    "date":"1680\u201390",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, metal thread\nTechnique: damasse brocaded",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 73 x 53 cm (28 3\/4 x 20 7\/8 in.)",
-    "creditline":"Museum purchase through gift of W. & J. Sloane",
-    "description":"A rich red approaching brown with silver. The first stripe has flat clearly drawn leaves and flowers in a pattern that receeds and interlockingscrolls in silver. The second stripe is a ribbon with decorative edges.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18652023",
+    "tms:id": "200954",
+    "accession_number": "1995-7-1",
+    "title": "Textile, 1680\u201390",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18652023\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394299",
+    "type_id": "35251739",
+    "date": "1680\u201390",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, metal thread\nTechnique: damasse brocaded",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 73 x 53 cm (28 3\/4 x 20 7\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "73.00",
+            "centimeters"
+        ],
+        "weft": [
+            "53.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of W. & J. Sloane",
+    "description": "A rich red approaching brown with silver. The first stripe has flat clearly drawn leaves and flowers in a pattern that receeds and interlockingscrolls in silver. The second stripe is a ribbon with decorative edges.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92803_2347fc19e8d789c8_b.jpg",
+                "width": 783,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92803"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92803_2347fc19e8d789c8_z.jpg",
+                "width": 489,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92803"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92803_2347fc19e8d789c8_n.jpg",
+                "width": 245,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92803"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92803_2347fc19e8d789c8_d.gif",
+                "width": 245,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92803"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92803_2347fc19e8d789c8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92803"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79424_fe2a71279a5e114b_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "79424"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79424_fe2a71279a5e114b_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "79424"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79424_fe2a71279a5e114b_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79424"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79424_fe2a71279a5e114b_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79424"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79424_fe2a71279a5e114b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79424"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79425_3c9534c8853730af_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "79425"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79425_3c9534c8853730af_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "79425"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79425_3c9534c8853730af_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79425"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79425_3c9534c8853730af_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79425"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79425_3c9534c8853730af_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79425"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18041685",
+            "role_id": "35352249",
+            "person_name": "Martin Kamer",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041685\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041199",
+            "role_id": "35352249",
+            "person_name": "Mr. Martin Kamer",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041199\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1680\u201390.\n1680\u201390. Medium: silk, metal thread\nTechnique: damasse brocaded. Museum purchase through gift of W. &amp; J. Sloane. 1995-7-1."
+    "tombstone": {
+        "epitaph": "Textile, 1680\u201390. Medium: silk, metal thread\nTechnique: damasse brocaded. \nMuseum purchase through gift of W. &amp; J. Sloane. 1995-7-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#9e764f",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#7b715e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3a2f29",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#baae96",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "is_loan_object": 0
 }

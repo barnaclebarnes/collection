@@ -1,91 +1,151 @@
 {
-    "id":"18204853",
-    "tms:id":"24094",
-    "accession_number":"1918-4-3",
-    "title":"Print, \"A Jester\", ca. 1890",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18204853\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35410593",
-    "type_id":"35236873",
-    "date":"ca. 1890",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1918",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Etching on tan Japanese paper mounted on brown laid paper",
-    "markings":"Red sealing wax with embossed shield lower right holding gray paper to tan support",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. William M. Chase",
-    "description":"Image of a bearded man dressed as a renaissance jester standing frontally in a dark interior.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18204853",
+    "tms:id": "24094",
+    "accession_number": "1918-4-3",
+    "title": "Print, A Jester, ca. 1890",
+    "title_raw": "A Jester",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18204853\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35410593",
+    "type_id": "35236873",
+    "date": "ca. 1890",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1918",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Etching on tan Japanese paper mounted on brown laid paper",
+    "markings": "Red sealing wax with embossed shield lower right holding gray paper to tan support",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "26.6 x 16.2 cm (10 1\/2 x 6 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "26.60",
+            "centimeters"
+        ],
+        "width": [
+            "16.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. William M. Chase",
+    "description": "Image of a bearded man dressed as a renaissance jester standing frontally in a dark interior.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55647_da6e2f8ca558c7ca_b.jpg",
-                "width":636,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55647_c8d3a8e5cabbbc5d_b.jpg",
+                "width": 613,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "55647"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55647_da6e2f8ca558c7ca_n.jpg",
-                "width":199,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55647_c8d3a8e5cabbbc5d_z.jpg",
+                "width": 383,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "55647"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55647_da6e2f8ca558c7ca_z.jpg",
-                "width":398,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55647_c8d3a8e5cabbbc5d_n.jpg",
+                "width": 192,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "55647"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55647_c8d3a8e5cabbbc5d_d.gif",
+                "width": 192,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "55647"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55647_c8d3a8e5cabbbc5d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "55647"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18058275",
-            "role_id":"35236677",
-            "person_name":"Eduardo Zamacois y Zabala",
-            "role_name":"After",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18058275\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236677\/"
+            "person_id": "18058275",
+            "role_id": "35236677",
+            "person_name": "Eduardo Zamacois y Zabala",
+            "person_date": "Spanish, 1842 \u2013 1874",
+            "role_name": "After",
+            "role_display_name": "After",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058275\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236677\/"
         },
         {
-            "person_id":"18051935",
-            "role_id":"35236565",
-            "person_name":"William Merritt Chase",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051935\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18051935",
+            "role_id": "35236565",
+            "person_name": "William Merritt Chase",
+            "person_date": "American, 1849 \u2013 1916",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051935\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18536425",
+            "role_id": "35351535",
+            "person_name": "Mrs. William M. Chase",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536425\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"A Jester\", ca. 1890.\nca. 1890. Etching on tan Japanese paper mounted on brown laid paper. Gift of Mrs. William M. Chase. 1918-4-3."
+    "tombstone": {
+        "epitaph": "Print, A Jester, ca. 1890. Etching on tan Japanese paper mounted on brown laid paper. \nGift of Mrs. William M. Chase. 1918-4-3"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#544c40",
-            "closest_css3":"#556b2f"
+            "color": "#312e28",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#b0a083",
-            "closest_css3":"#bc8f8f"
+            "color": "#7b735a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#81715b",
-            "closest_css3":"#696969"
+            "color": "#4f4a3b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#8a3221",
-            "closest_css3":"#8b4513"
+            "color": "#803c1c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#e1dcc2",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,49 +1,125 @@
 {
-    "id":"18617281",
-    "tms:id":"177173",
-    "accession_number":"1981-29-111",
-    "title":"Poster, \"BYU Rugby\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617281\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 64.3 x 48.8 cm (25 5\/16 x 19 3\/16 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617281",
+    "tms:id": "177173",
+    "accession_number": "1981-29-111",
+    "title": "Poster, BYU Rugby",
+    "title_raw": "BYU Rugby",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617281\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "Overall: 64.3 x 48.8 cm (25 5\/16 x 19 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "64.30",
+            "centimeters"
+        ],
+        "width": [
+            "48.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Poster features abstracted cropped view of players with a rugby ball.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042421",
-            "role_id":"35236667",
-            "person_name":"Brigham Young University",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82688_d749e415385296c0_b.jpg",
+                "width": 782,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82688"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82688_d749e415385296c0_z.jpg",
+                "width": 489,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82688"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82688_d749e415385296c0_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82688"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82688_d749e415385296c0_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82688"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82688_d749e415385296c0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82688"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"BYU Rugby\".\nOverall: 64.3 x 48.8 cm (25 5\/16 x 19 3\/16 in.). Gift of Various Donors. 1981-29-111."
+    "participants": [
+        {
+            "person_id": "18042421",
+            "role_id": "35236667",
+            "person_name": "Brigham Young University",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, BYU Rugby. Lithograph on paper. \nGift of Various Donors. 1981-29-111"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8c9ac0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#987e69",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#63554a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5f6473",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

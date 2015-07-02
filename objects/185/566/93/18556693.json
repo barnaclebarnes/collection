@@ -1,80 +1,166 @@
 {
-    "id":"18556693",
-    "tms:id":"70998",
-    "accession_number":"1939-33-44",
-    "title":"Frieze, 1890\u20131900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18556693\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35426597",
-    "type_id":"35259269",
-    "date":"1890\u20131900",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1939",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Machine-printed, ingrain paper, mica",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"55.5 x 56.5 cm (21 7\/8 x 22 1\/4 in.)",
-    "creditline":"Gift of Robina Clark",
-    "description":"Wide frieze containing white and gold flowers tied with white ribbon, gold and white stylized floral and leaf banding at bottom, printed on pale green ground.",
-    "justification":null,
-    "type":{
-        "id":"35259269",
-        "name":"Frieze"
+    "id": "18556693",
+    "tms:id": "70998",
+    "accession_number": "1939-33-44",
+    "title": "Frieze (USA), 1890\u20131900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18556693\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35426597",
+    "type_id": "35259269",
+    "date": "1890\u20131900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1939",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed, ingrain paper, mica",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "55.5 x 56.5 cm (21 7\/8 x 22 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "55.50",
+            "centimeters"
+        ],
+        "width": [
+            "56.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Robina Clark",
+    "description": "Wide frieze containing white and gold flowers tied with white ribbon, gold and white stylized floral and leaf banding at bottom, printed on pale green ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Frieze",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3568_628ccc52b4acfc2f_b.jpg",
-                "width":1024,
-                "height":1014,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91411_cf3cea0eccb7a112_b.jpg",
+                "width": 1024,
+                "height": 1019,
+                "is_primary": "1",
+                "image_id": "91411"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3568_628ccc52b4acfc2f_n.jpg",
-                "width":320,
-                "height":317,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91411_cf3cea0eccb7a112_z.jpg",
+                "width": 640,
+                "height": 637,
+                "is_primary": "1",
+                "image_id": "91411"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3568_628ccc52b4acfc2f_z.jpg",
-                "width":640,
-                "height":634,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91411_cf3cea0eccb7a112_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "91411"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91411_cf3cea0eccb7a112_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "91411"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91411_cf3cea0eccb7a112_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91411"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3568_628ccc52b4acfc2f_b.jpg",
+                "width": 1024,
+                "height": 1014,
+                "is_primary": "0",
+                "image_id": "3568"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3568_628ccc52b4acfc2f_z.jpg",
+                "width": 640,
+                "height": 634,
+                "is_primary": "0",
+                "image_id": "3568"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3568_628ccc52b4acfc2f_n.jpg",
+                "width": 320,
+                "height": 317,
+                "is_primary": "0",
+                "image_id": "3568"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3568_628ccc52b4acfc2f_d.gif",
+                "width": 320,
+                "height": 317,
+                "is_primary": "0",
+                "image_id": "3568"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3568_628ccc52b4acfc2f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3568"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Frieze, 1890\u20131900.\n1890\u20131900. Machine-printed, ingrain paper, mica. Gift of Robina Clark. 1939-33-44."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#819ea0",
-            "closest_css3":"#778899"
+            "person_id": "18536559",
+            "role_id": "35351535",
+            "person_name": "Robina Clark",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536559\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#748c9e",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#bfdfe0",
-            "closest_css3":"#b0e0e6"
-        },
-        {
-            "color":"#9ca191",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#9ba3af",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18047817",
+            "role_id": "35352245",
+            "person_name": "John Kenneth Tilton",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Frieze (USA), 1890\u20131900. Machine-printed, ingrain paper, mica. \nGift of Robina Clark. 1939-33-44"
+    },
+    "colors": [
+        {
+            "color": "#a5ac95",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#85784a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#d2d2be",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

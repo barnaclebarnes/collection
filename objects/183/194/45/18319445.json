@@ -1,42 +1,131 @@
 {
-    "id":"18319445",
-    "tms:id":"44886",
-    "accession_number":"1931-45-90-a,b",
-    "title":"Sidewall, 1875\u201385",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18319445\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1875\u201385",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"48.5 x 49 cm (19 1\/8 x 19 5\/16 in.)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":"Horizontal rectangle giving a complete width. Design of Chinese inspiration, with plants springing from vases and forming foliate arabesques set with scrolled ribbons and flowers, printed on black ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18319445",
+    "tms:id": "44886",
+    "accession_number": "1931-45-90-a,b",
+    "title": "Sidewall (USA), 1875\u201385",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18319445\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1875\u201385",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "48.5 x 49 cm (19 1\/8 x 19 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "48.50",
+            "centimeters"
+        ],
+        "width": [
+            "49.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Horizontal rectangle giving a complete width. Design of Chinese inspiration, with plants springing from vases and forming foliate arabesques set with scrolled ribbons and flowers, printed on black ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93059_70ddc6055647732e_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93059"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93059_70ddc6055647732e_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93059"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93059_70ddc6055647732e_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93059"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93059_70ddc6055647732e_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93059"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93059_70ddc6055647732e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93059"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052661",
+            "role_id": "35352245",
+            "person_name": "Elizabeth Haynes",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1875\u201385.\n1875\u201385. Machine-printed. Gift of Eleanor and Sarah Hewitt. 1931-45-90-a,b."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1875\u201385. Machine-printed. \nGift of Eleanor and Sarah Hewitt. 1931-45-90-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#766842",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2a2720",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#998650",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#574a2e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b6a664",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

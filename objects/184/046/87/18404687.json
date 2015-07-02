@@ -1,80 +1,141 @@
 {
-    "id":"18404687",
-    "tms:id":"112528",
-    "accession_number":"1955-51-6",
-    "title":"Sidewall, 1860",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18404687\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35256475",
-    "date":"1860",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"116 x 63 cm (45 11\/16 x 24 13\/16 in.)",
-    "creditline":"Gift of Deutsches Tapetenmuseum",
-    "description":"Tall vase in Renaissance style filled with roses and other flowers, its base encircled by leafy foliage. Rests on a carved console. Printed in grisaille on green glazed ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18404687",
+    "tms:id": "112528",
+    "accession_number": "1955-51-6",
+    "title": "Sidewall (France), 1860",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18404687\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35256475",
+    "date": "1860",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "116 x 63 cm (45 11\/16 x 24 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "116.00",
+            "centimeters"
+        ],
+        "width": [
+            "63.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Deutsches Tapetenmuseum",
+    "description": "Tall vase in Renaissance style filled with roses and other flowers, its base encircled by leafy foliage. Rests on a carved console. Printed in grisaille on green glazed ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44153_9e986c2a4b356d7b_b.jpg",
-                "width":560,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44153_27152c100699db74_b.jpg",
+                "width": 593,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "44153"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44153_9e986c2a4b356d7b_n.jpg",
-                "width":175,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44153_27152c100699db74_z.jpg",
+                "width": 370,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "44153"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44153_9e986c2a4b356d7b_z.jpg",
-                "width":350,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44153_27152c100699db74_n.jpg",
+                "width": 185,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "44153"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44153_27152c100699db74_d.gif",
+                "width": 185,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "44153"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44153_27152c100699db74_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "44153"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1860.\n1860. Block-printed. Gift of Deutsches Tapetenmuseum. 1955-51-6."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#558060",
-            "closest_css3":"#696969"
+            "person_id": "18538301",
+            "role_id": "35351535",
+            "person_name": "Deutsches Tapetenmuseum",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538301\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#9b815c",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#7f6549",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#ddcfa7",
-            "closest_css3":"#eee8aa"
-        },
-        {
-            "color":"#b4a073",
-            "closest_css3":"#bdb76b"
+            "person_id": "18047829",
+            "role_id": "35352245",
+            "person_name": "Horace L. Hotchkiss, Jr.",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047829\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (France), 1860. Block-printed. \nGift of Deutsches Tapetenmuseum. 1955-51-6"
+    },
+    "colors": [
+        {
+            "color": "#566d53",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9a8f64",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#80724f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#cbc79c",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#65573c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

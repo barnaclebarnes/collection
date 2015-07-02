@@ -1,49 +1,131 @@
 {
-    "id":"18393489",
-    "tms:id":"106900",
-    "accession_number":"1953-10-54",
-    "title":"Photograph",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18393489\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35247381",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Norvin Hewitt Green",
-    "dimensions":null,
-    "creditline":"Gift of Cooper Union Library",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35247381",
-        "name":"photograph"
+    "id": "18393489",
+    "tms:id": "106900",
+    "accession_number": "1953-10-54",
+    "title": "Photograph, Portrait of Peter Cooper, ca. 1880",
+    "title_raw": "Portrait of Peter Cooper",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18393489\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51688819",
+    "type_id": "35247381",
+    "date": "ca. 1880",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Sepia photographic print on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Norvin Hewitt Green; Cooper Union Library; 1953: acquired by Museum",
+    "dimensions": "29.7 x 24 cm (11 11\/16 x 9 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "29.70",
+            "centimeters"
+        ],
+        "width": [
+            "24.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Cooper Union Library",
+    "description": "A three-quarter length portrait of Peter Cooper, facing right. He is seated in an armchair, his cane held in his right hand.\nPart of a box of photographs received from 9 Lexington Avenue in July, 1938 extracted for the Museum Print Room-April 5, 1951.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "photograph",
+    "images": [
         {
-            "person_id":"18056853",
-            "role_id":"35351535",
-            "person_name":"Cooper Union Library",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056853\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62889_4218186497f33e00_b.jpg",
+                "width": 830,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "62889"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62889_4218186497f33e00_z.jpg",
+                "width": 518,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "62889"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62889_4218186497f33e00_n.jpg",
+                "width": 259,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "62889"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62889_4218186497f33e00_d.gif",
+                "width": 259,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "62889"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62889_4218186497f33e00_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "62889"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Photograph.\nGift of Cooper Union Library. 1953-10-54."
+    "participants": [
+        {
+            "person_id": "18056853",
+            "role_id": "35351535",
+            "person_name": "Cooper Union Library",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056853\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Photograph, Portrait of Peter Cooper, ca. 1880. Sepia photographic print on paper. \nGift of Cooper Union Library. 1953-10-54"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#3b312b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#69573e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#887757",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#e4e0c1",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#b9ac85",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

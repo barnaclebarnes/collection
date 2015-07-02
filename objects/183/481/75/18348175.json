@@ -1,42 +1,66 @@
 {
-    "id":"18348175",
-    "tms:id":"57881",
-    "accession_number":"1938-57-1259-a,b",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18348175\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367101",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424950",
-    "medium":"Velvet",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"a. Warp: 105 cm [41\"]   Cut both top and bottom.\n     Weft:  56 cm [22\"]      Selvedges both sides, left one                                                                                           turned under.\nb.  Warp:  105 cm [41\"]   Cut both top and bottom.\n      Weft:    56 cm [22\"]     Selvedges both sides, right one\n                                               turned under.",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18348175",
+    "tms:id": "57881",
+    "accession_number": "1938-57-1259-a,b",
+    "title": "Fragment (Spain)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18348175\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367101",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424950",
+    "medium": "Technique: velvet",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft (a): 105 \u00d7 56 cm (41 5\/16 \u00d7 22 1\/16 in.)\nWarp x Weft (b): 105 \u00d7 56 cm (41 5\/16 \u00d7 22 1\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "105.00",
+            "centimeters"
+        ],
+        "weft": [
+            "56.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424950",
+    "type": "Fragment",
+    "images": [
 
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (Spain). Technique: velvet. \nBequest of Erskine Hewitt. 1938-57-1259-a,b"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nVelvet. Bequest of Erskine Hewitt. 1938-57-1259-a,b."
-    },
-    "colors":[
-
-    ]
+    "woe:country_name": "Spain",
+    "is_loan_object": 0
 }

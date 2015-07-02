@@ -1,49 +1,128 @@
 {
-    "id":"18159281",
-    "tms:id":"16242",
-    "accession_number":"1908-26-12",
-    "title":"Support",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18159281\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35367393",
-    "type_id":"35264355",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1908",
-    "decade":null,
-    "woe:country":null,
-    "medium":"bronze (gilt)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 21 x 21.7 x 13.5 cm (8 1\/4 x 8 9\/16 x 5 5\/16 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35264355",
-        "name":"support"
+    "id": "18159281",
+    "tms:id": "16242",
+    "accession_number": "1908-26-12",
+    "title": "Support",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18159281\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35367393",
+    "type_id": "35264355",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1908",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "bronze (gilt)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 21 x 21.7 x 13.5 cm (8 1\/4 x 8 9\/16 x 5 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "13.50",
+            "centimeters"
+        ],
+        "height": [
+            "21.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "support",
+    "images": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103593_560edf16f8e592a6_b.jpg",
+                "width": 1024,
+                "height": 851,
+                "is_primary": "1",
+                "image_id": "103593"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103593_560edf16f8e592a6_z.jpg",
+                "width": 640,
+                "height": 532,
+                "is_primary": "1",
+                "image_id": "103593"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103593_560edf16f8e592a6_n.jpg",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "103593"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103593_560edf16f8e592a6_d.gif",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "103593"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103593_560edf16f8e592a6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103593"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Support.\nbronze (gilt). Purchased for the Museum by the Advisory Council. 1908-26-12."
+    "participants": [
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Support. bronze (gilt). \nPurchased for the Museum by the Advisory Council. 1908-26-12"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#5e513b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#30271c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#8f8d85",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7a6e59",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

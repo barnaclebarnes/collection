@@ -1,95 +1,178 @@
 {
-    "id":"18685991",
-    "tms:id":"218486",
-    "accession_number":"2000-64-12",
-    "title":"Sidewall, \"Roses\", 1959\u201365",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18685991\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35385495",
-    "type_id":"35256475",
-    "date":"1959\u201365",
-    "year_start":"1959",
-    "year_end":"1965",
-    "year_acquired":"2000",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Hand-folded and dyed Japanese paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"66.0 x 94.0 cm (26 x 37 in. )",
-    "creditline":"Gift of Barbara White",
-    "description":"Large-scale roses and rose buds. Printed in bright pink and green on white paper.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18685991",
+    "tms:id": "218486",
+    "accession_number": "2000-64-12",
+    "title": "Sidewall, Roses, 1959\u201365",
+    "title_raw": "Roses",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18685991\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35385495",
+    "type_id": "35256475",
+    "date": "1959\u201365",
+    "year_start": 1959,
+    "year_end": 1965,
+    "year_acquired": "2000",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Hand-folded and dyed Japanese paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Barbara White; 2000: acquired by the Museum",
+    "dimensions": "66.0 x 94.0 cm (26 x 37 in. )",
+    "dimensions_raw": {
+        "height": [
+            "66.00",
+            "centimeters"
+        ],
+        "width": [
+            "94.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Barbara White",
+    "description": "Large-scale roses and rose buds. Printed in bright pink and green on white paper.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42841_5cee835b8e52cfc5_b.jpg",
-                "width":1024,
-                "height":731,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42841_5cee835b8e52cfc5_b.jpg",
+                "width": 1024,
+                "height": 731,
+                "is_primary": "1",
+                "image_id": "42841"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42841_5cee835b8e52cfc5_n.jpg",
-                "width":320,
-                "height":228,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42841_5cee835b8e52cfc5_z.jpg",
+                "width": 640,
+                "height": 457,
+                "is_primary": "1",
+                "image_id": "42841"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42841_5cee835b8e52cfc5_z.jpg",
-                "width":640,
-                "height":457,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42841_5cee835b8e52cfc5_n.jpg",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "42841"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42841_5cee835b8e52cfc5_d.gif",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "42841"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42841_5cee835b8e52cfc5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42841"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114062_e50a72bddd79e7b2_b.jpg",
+                "width": 1024,
+                "height": 738,
+                "is_primary": "0",
+                "image_id": "114062"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114062_e50a72bddd79e7b2_z.jpg",
+                "width": 640,
+                "height": 461,
+                "is_primary": "0",
+                "image_id": "114062"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114062_e50a72bddd79e7b2_n.jpg",
+                "width": 320,
+                "height": 231,
+                "is_primary": "0",
+                "image_id": "114062"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114062_e50a72bddd79e7b2_d.gif",
+                "width": 320,
+                "height": 231,
+                "is_primary": "0",
+                "image_id": "114062"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114062_e50a72bddd79e7b2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "114062"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18052919",
-            "role_id":"35351535",
-            "person_name":"Barbara White",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18052919\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18052919",
+            "role_id": "35351535",
+            "person_name": "Barbara White",
+            "person_date": "American, n.d.",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052919\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18052919",
-            "role_id":"35236655",
-            "person_name":"Barbara White",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18052919\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18052919",
+            "role_id": "35236655",
+            "person_name": "Barbara White",
+            "person_date": "American, n.d.",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052919\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"Roses\", 1959\u201365.\n1959\u201365. Hand-folded and dyed Japanese paper. Gift of Barbara White. 2000-64-12."
+    "tombstone": {
+        "epitaph": "Sidewall, Roses, 1959\u201365. Hand-folded and dyed Japanese paper. \nGift of Barbara White. 2000-64-12"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#db7666",
-            "closest_css3":"#cd5c5c"
+            "color": "#db8276",
+            "closest_crayola": "#dd9475",
+            "closest_css3": "#f08080",
+            "closest_css4": "#f08080"
         },
         {
-            "color":"#e1a39c",
-            "closest_css3":"#d2b48c"
+            "color": "#e4b9b4",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#ffb6c1",
+            "closest_css4": "#ffb6c1"
         },
         {
-            "color":"#9cc74b",
-            "closest_css3":"#9acd32"
+            "color": "#a0ca50",
+            "closest_crayola": "#b2ec5d",
+            "closest_css3": "#9acd32",
+            "closest_css4": "#9acd32"
         },
         {
-            "color":"#e5dbcd",
-            "closest_css3":"#dcdcdc"
+            "color": "#a5a152",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#e5c9c5",
-            "closest_css3":"#d3d3d3"
+            "color": "#d6d894",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

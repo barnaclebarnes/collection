@@ -1,42 +1,65 @@
 {
-    "id":"18325581",
-    "tms:id":"47383",
-    "accession_number":"1931-6-31-a,b",
-    "title":"Box And Cover",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18325581\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35411227",
-    "type_id":"35264075",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":null,
-    "medium":"papier mache",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 1.9 x 9.5 cm (3\/4 x 3 3\/4 in.)",
-    "creditline":"Bequest of Sarah Cooper Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35264075",
-        "name":"Box and cover"
+    "id": "18325581",
+    "tms:id": "47383",
+    "accession_number": "1931-6-31-a,b",
+    "title": "Box And Cover",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18325581\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35411227",
+    "type_id": "35264075",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "papier mache",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 1.9 x 9.5 cm (3\/4 x 3 3\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "9.50",
+            "centimeters"
+        ],
+        "height": [
+            "1.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Sarah Cooper Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Box and cover",
+    "images": [
 
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18049321",
+            "role_id": "35351537",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Box And Cover. papier mache. \nBequest of Sarah Cooper Hewitt. 1931-6-31-a,b"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Box And Cover.\npapier mache. Bequest of Sarah Cooper Hewitt. 1931-6-31-a,b."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

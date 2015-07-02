@@ -1,42 +1,125 @@
 {
-    "id":"18349693",
-    "tms:id":"58487",
-    "accession_number":"1938-57-343-a,b",
-    "title":"Saucer",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18349693\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402647",
-    "type_id":"35237171",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":"earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam. (cup): 5 x 8 cm (1 15\/16 x 3 1\/8 in.)\nH x diam. (saucer): 1.7 x 10.5 cm (11\/16 x 4 1\/8 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237171",
-        "name":"Saucer"
+    "id": "18349693",
+    "tms:id": "58487",
+    "accession_number": "1938-57-343-a,b",
+    "title": "Cup And Saucer (Japan)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18349693\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35248193",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam. (cup): 5 x 8 cm (1 15\/16 x 3 1\/8 in.)\nH x diam. (saucer): 1.7 x 10.5 cm (11\/16 x 4 1\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "10.50",
+            "centimeters"
+        ],
+        "height": [
+            "1.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "cup and saucer",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108523_b22b6d30476d3ab6_b.jpg",
+                "width": 1024,
+                "height": 819,
+                "is_primary": "1",
+                "image_id": "108523"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108523_b22b6d30476d3ab6_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "108523"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108523_b22b6d30476d3ab6_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "108523"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108523_b22b6d30476d3ab6_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "108523"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108523_b22b6d30476d3ab6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108523"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Saucer.\nearthenware. Bequest of Erskine Hewitt. 1938-57-343-a,b."
+    "tombstone": {
+        "epitaph": "Cup And Saucer (Japan). earthenware. \nBequest of Erskine Hewitt. 1938-57-343-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#89816d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#aba391",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#675f4c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5e4738",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

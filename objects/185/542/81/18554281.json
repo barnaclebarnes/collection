@@ -1,42 +1,119 @@
 {
-    "id":"18554281",
-    "tms:id":"69738",
-    "accession_number":"1938-88-865",
-    "title":"Drawing, \"Design for a Brooch\", late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18554281\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35417717",
-    "type_id":"35237093",
-    "date":"late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and black ink, brush and gray wash on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Sheet: 16.7 x 24.3 cm (6 9\/16 x 9 9\/16 in.)",
-    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18554281",
+    "tms:id": "69738",
+    "accession_number": "1938-88-865",
+    "title": "Drawing, Design for a Brooch, late 18th century",
+    "title_raw": "Design for a Brooch",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18554281\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35417717",
+    "type_id": "35237093",
+    "date": "late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and black ink, brush and gray wash on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1938: acquired by Museum (from Mrs. Edward D. Brandegee)",
+    "dimensions": "16.7 x 24.3 cm (6 9\/16 x 9 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "16.70",
+            "centimeters"
+        ],
+        "width": [
+            "24.30",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description": "A double bow\u2014one larger and one smaller. The smaller one has six slopes. Lace ribbons with branches entwined by a scroll of ribbon between two framing bands. In the center a blossom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63482_ad1c0a56efe0f381_b.jpg",
+                "width": 1024,
+                "height": 689,
+                "is_primary": "1",
+                "image_id": "63482"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63482_ad1c0a56efe0f381_z.jpg",
+                "width": 640,
+                "height": 430,
+                "is_primary": "1",
+                "image_id": "63482"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63482_ad1c0a56efe0f381_n.jpg",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "63482"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63482_ad1c0a56efe0f381_d.gif",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "63482"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63482_ad1c0a56efe0f381_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63482"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049797",
+            "role_id": "35352249",
+            "person_name": "Mrs. Edward D. Brandegee",
+            "person_date": "American, 1871\u20131956",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049797\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for a Brooch\", late 18th century.\nlate 18th century. Pen and black ink, brush and gray wash on paper. Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-865."
+    "tombstone": {
+        "epitaph": "Drawing, Design for a Brooch, late 18th century. Pen and black ink, brush and gray wash on paper. \nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-865"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a8a496",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#858176",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#5f5c54",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

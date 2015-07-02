@@ -1,49 +1,172 @@
 {
-    "id":"18670009",
-    "tms:id":"210421",
-    "accession_number":"1995-50-288",
-    "title":"Textile, \"La foire du Caire (The Cairo Fair)\", 1785\u201390",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18670009\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1785\u201390",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 91cm (35 3\/4 in. ). Weft: 93.5cm (36 3\/4 in. ).",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Scenes of an oriental bazaar. In red on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18670009",
+    "tms:id": "210421",
+    "accession_number": "1995-50-288",
+    "title": "Textile, La foire du Caire (The Cairo Fair), 1785\u201390",
+    "title_raw": "La foire du Caire (The Cairo Fair)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18670009\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1785\u201390",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 91 x 93.5 cm (35 13\/16 x 36 13\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "91.00",
+            "centimeters"
+        ],
+        "weft": [
+            "93.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Scenes of an Egyptian bazaar. In red on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18045481",
-            "role_id":"35236657",
-            "person_name":"Petitpierre et Cie",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045481\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110148_05b6a2c851cfebc5_b.jpg",
+                "width": 1021,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110148"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110148_05b6a2c851cfebc5_z.jpg",
+                "width": 638,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110148"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110148_05b6a2c851cfebc5_n.jpg",
+                "width": 319,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110148"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110148_05b6a2c851cfebc5_d.gif",
+                "width": 319,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110148"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110148_05b6a2c851cfebc5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110148"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79296_467371b37ee2c979_b.jpg",
+                "width": 792,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "79296"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79296_467371b37ee2c979_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "79296"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79296_467371b37ee2c979_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79296"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79296_467371b37ee2c979_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79296"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79296_467371b37ee2c979_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79296"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"La foire du Caire (The Cairo Fair)\", 1785\u201390.\n1785\u201390. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Bequest of Elinor Merrell. 1995-50-288."
+    "participants": [
+        {
+            "person_id": "18045481",
+            "role_id": "35236657",
+            "person_name": "Petitpierre et Cie",
+            "person_date": "1770 \u2013 1848",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, La foire du Caire (The Cairo Fair), 1785\u201390. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nBequest of Elinor Merrell. 1995-50-288"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b5a889",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#9c7264",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#904f4c",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#ad927c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

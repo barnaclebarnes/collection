@@ -6,6 +6,7 @@ import csv
 import os
 import os.path
 import types
+import pprint
 
 import utils
 
@@ -42,7 +43,7 @@ if __name__ == '__main__':
     
             data = json.load(open(path, 'r'))
 
-            if type(data['concordances']) == types.DictType:
+            if type(data.get('concordances', None)) == types.DictType:
 
                 for k, v in data['concordances'].items():
 
@@ -58,17 +59,23 @@ if __name__ == '__main__':
     
             data = json.load(open(path, 'r'))
 
-            if type(data['concordances']) == types.DictType:
+            if type(data.get('concordances', None)) == types.DictType:
 
                 for k, v in data['concordances'].items():
                     data[k] = v
-
-            del(data['concordances'])
+            
+                del(data['concordances'])
 
             #
 
-            roles = data.get('roles', [])
-            del(data['roles'])
+            if data.get('roles', False):
+                del(data['roles'])
+
+            # We need to handle videos separately somewhere and key may
+            # be present but still an empty list (20150129/copea)
+
+            if data.has_key('videos'):
+                del(data['videos'])
 
             #
 
@@ -86,13 +93,20 @@ if __name__ == '__main__':
                 writer_people.writeheader()
 
             data = utils.utf8ify_dict(data)
-            writer_people.writerow(data)
+
+            try:
+                writer_people.writerow(data)
+            except Exception, e:
+                logging.info(data)
+                raise Exception, e
 
             #
 
             if not writer_roles:
                 writer_roles = csv.DictWriter(fh_roles, fieldnames=('person_id', 'person_name', 'id', 'name', 'count_objects'))
                 writer_roles.writeheader()
+
+            roles = data.get('roles', [])
 
             for details in roles:
                 details['person_id'] = data['id']

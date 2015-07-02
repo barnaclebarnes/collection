@@ -1,83 +1,151 @@
 {
-    "id":"18555019",
-    "tms:id":"70029",
-    "accession_number":"1938-88-992",
-    "title":"Drawing, \"Design for an agraffe\", ca. 1742",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18555019\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35461819",
-    "type_id":"35237093",
-    "date":"ca. 1742",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Graphite, pen and ink, brush and sepia on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Inscribed on verso, in ink: o n:o 53 Pe:d no:",
-    "provenance":"Giovanni Piancastelli",
-    "dimensions":"11 x 10.7 cm (4 5\/16 x 4 3\/16 in.)",
-    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
-    "description":"Large bow-like design with stones and vertical hanging stones in teardrop shape and cabochon.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18555019",
+    "tms:id": "70029",
+    "accession_number": "1938-88-992",
+    "title": "Drawing, Design for an Agraffe, ca. 1742",
+    "title_raw": "Design for an Agraffe",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18555019\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35461819",
+    "type_id": "35237093",
+    "date": "ca. 1742",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Graphite, pen and ink, brush and sepia on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed on verso, in ink: o n:o 53 Pe:d no:",
+    "provenance": "Giovanni Piancastelli",
+    "dimensions": "11 x 10.7 cm (4 5\/16 x 4 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "11.00",
+            "centimeters"
+        ],
+        "width": [
+            "10.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description": "Large bow-like design with stones and vertical hanging stones in teardrop shape and cabochon.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45988_e62cbf87a94f90eb_b.jpg",
-                "width":940,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45988_88fb37cd1032b4db_b.jpg",
+                "width": 956,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "45988"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45988_e62cbf87a94f90eb_n.jpg",
-                "width":294,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45988_88fb37cd1032b4db_z.jpg",
+                "width": 597,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "45988"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45988_e62cbf87a94f90eb_z.jpg",
-                "width":588,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45988_88fb37cd1032b4db_n.jpg",
+                "width": 299,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45988"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45988_88fb37cd1032b4db_d.gif",
+                "width": 299,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45988"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45988_88fb37cd1032b4db_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45988"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18538359",
-            "role_id":"35236655",
-            "person_name":"G Venturi",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18538359\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18538359",
+            "role_id": "35236655",
+            "person_name": "Girolamo Venturi",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538359\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18049797",
+            "role_id": "35352249",
+            "person_name": "Mrs. Edward D. Brandegee",
+            "person_date": "American, 1871\u20131956",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049797\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for an agraffe\", ca. 1742.\nca. 1742. Graphite, pen and ink, brush and sepia on paper. Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-992."
+    "tombstone": {
+        "epitaph": "Drawing, Design for an Agraffe, ca. 1742. Graphite, pen and ink, brush and sepia on paper. \nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-992"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#ae8f63",
-            "closest_css3":"#bdb76b"
+            "color": "#c6bb94",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#d5bd93",
-            "closest_css3":"#d2b48c"
+            "color": "#8b7a51",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#816442",
-            "closest_css3":"#a0522d"
+            "color": "#a5976b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#594632",
-            "closest_css3":"#556b2f"
+            "color": "#605133",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3d3423",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

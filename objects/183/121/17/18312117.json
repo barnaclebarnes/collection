@@ -1,42 +1,116 @@
 {
-    "id":"18312117",
-    "tms:id":"41946",
-    "accession_number":"1926-22-179",
-    "title":"Vase",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18312117\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237225",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1926",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 25 x 15.5 x 15.5 cm (9 13\/16 x 6 1\/8 x 6 1\/8 in.)",
-    "creditline":"Bequest of Mrs. John Innes Kane",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18312117",
+    "tms:id": "41946",
+    "accession_number": "1926-22-179",
+    "title": "Vase",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18312117\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237225",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1926",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 25 x 15.5 x 15.5 cm (9 13\/16 x 6 1\/8 x 6 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "15.50",
+            "centimeters"
+        ],
+        "height": [
+            "25.00",
+            "centimeters"
+        ],
+        "width": [
+            "15.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Mrs. John Innes Kane",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103664_3665a1bb409b5ba2_b.jpg",
+                "width": 941,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103664"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103664_3665a1bb409b5ba2_z.jpg",
+                "width": 588,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103664"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103664_3665a1bb409b5ba2_n.jpg",
+                "width": 294,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103664"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103664_3665a1bb409b5ba2_d.gif",
+                "width": 294,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103664"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103664_3665a1bb409b5ba2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103664"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049373",
+            "role_id": "35351537",
+            "person_name": "Mrs. John Innes Kane",
+            "person_date": "American, d. 1926",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049373\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Vase.\nH x W x D: 25 x 15.5 x 15.5 cm (9 13\/16 x 6 1\/8 x 6 1\/8 in.). Bequest of Mrs. John Innes Kane. 1926-22-179."
+    "tombstone": {
+        "epitaph": "Vase. H x W x D: 25 x 15.5 x 15.5 cm (9 13\/16 x 6 1\/8 x 6 1\/8 in.). \nBequest of Mrs. John Innes Kane. 1926-22-179"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#5c544a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2c251f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,49 +1,195 @@
 {
-    "id":"18131935",
-    "tms:id":"11838",
-    "accession_number":"1902-1-631",
-    "title":"Fragment, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18131935\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367055",
-    "type_id":"35254623",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: linen (ivory), silk (lt. rust, tan\/ivory), wool (red, green)\nTechnique: plain weave (linen) with supplementary warp (silk) and supplementary wefts (red, green)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex-collection: Francisco Miquel y Bad\u00eda",
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Small ogives framing alternately red and green palmettes.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18131935",
+    "tms:id": "11838",
+    "accession_number": "1902-1-631",
+    "title": "Fragment, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18131935\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367055",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: linen (ivory), silk (lt. rust, tan\/ivory), wool (red, green)\nTechnique: plain weave (linen) with supplementary warp (silk) and supplementary wefts (red, green)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex-collection: Francisco Miquel y Bad\u00eda",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Small ogives framing alternately red and green palmettes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68222_04f13637390c91e7_b.jpg",
+                "width": 665,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "68222"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68222_04f13637390c91e7_z.jpg",
+                "width": 415,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "68222"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68222_04f13637390c91e7_n.jpg",
+                "width": 208,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "68222"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68222_04f13637390c91e7_d.gif",
+                "width": 208,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "68222"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68222_04f13637390c91e7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "68222"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68224_806e81a16ed69e8f_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68224"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68224_806e81a16ed69e8f_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68224"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68224_806e81a16ed69e8f_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68224"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68224_806e81a16ed69e8f_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68224"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68224_806e81a16ed69e8f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68224"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68223_22e7193e550f5d26_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68223"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68223_22e7193e550f5d26_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68223"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68223_22e7193e550f5d26_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68223"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68223_22e7193e550f5d26_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68223"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68223_22e7193e550f5d26_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68223"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 17th century.\n17th century. Medium: linen (ivory), silk (lt. rust, tan\/ivory), wool (red, green)\nTechnique: plain weave (linen) with supplementary warp (silk) and supplementary wefts (red, green). Gift of John Pierpont Morgan. 1902-1-631."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 17th century. Medium: linen (ivory), silk (lt. rust, tan\/ivory), wool (red, green)\nTechnique: plain weave (linen) with supplementary warp (silk) and supplementary wefts (red, green). \nGift of John Pierpont Morgan. 1902-1-631"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d3e6e3",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#a3b4b6",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#7a3222",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#86584d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#3e4b4f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,80 +1,176 @@
 {
-    "id":"18651529",
-    "tms:id":"200705",
-    "accession_number":"1995-50-44",
-    "title":"Textile, early 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18651529\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"early 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 154 cm (60 3\/4 in.). Weft: 85 cm. (33 1\/2 in.) Both selvedges present. Pattern: height of repeat: 102.5 cm (40 1\/4 in). End of plate line visible under the horse. Printing plate was wider than the fabric so printing extends over the edge of the fabric and some of the pattern is missing but fabric was probably designed so that lengths would be sewn together as a straight repeat.",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Several scenes illustrating episodes in the life of Henri IV, including battle scenes, amorous scenes and a building with the horseshoe staircase at Fontainebleau. In brown (sepia) on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18651529",
+    "tms:id": "200705",
+    "accession_number": "1995-50-44",
+    "title": "Textile (France), early 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18651529\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "early 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 154 x 85 cm (60 5\/8 x 33 7\/16 in.)\nRepeat H: 102.5 cm (40 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "102.50",
+            "centimeters"
+        ],
+        "warp": [
+            "154.00",
+            "centimeters"
+        ],
+        "weft": [
+            "85.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Several scenes illustrating episodes in the life of Henri IV, including battle scenes, amorous scenes and a building with the horseshoe staircase at Fontainebleau. In brown (sepia) on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12228_5394a1eed620a654_b.jpg",
-                "width":577,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110990_b4b63b473b94f112_b.jpg",
+                "width": 683,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110990"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12228_5394a1eed620a654_n.jpg",
-                "width":180,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110990_b4b63b473b94f112_z.jpg",
+                "width": 427,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110990"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12228_5394a1eed620a654_z.jpg",
-                "width":361,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110990_b4b63b473b94f112_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110990"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110990_b4b63b473b94f112_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110990"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110990_b4b63b473b94f112_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110990"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12228_5394a1eed620a654_b.jpg",
+                "width": 577,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12228"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12228_5394a1eed620a654_z.jpg",
+                "width": 361,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12228"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12228_5394a1eed620a654_n.jpg",
+                "width": 180,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12228"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12228_5394a1eed620a654_d.gif",
+                "width": 180,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12228"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12228_5394a1eed620a654_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12228"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, early 19th century.\nearly 19th century. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave foundation. Bequest of Elinor Merrell. 1995-50-44."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#8b6856",
-            "closest_css3":"#696969"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#f0cda1",
-            "closest_css3":"#f5deb3"
-        },
-        {
-            "color":"#b8846d",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#ada396",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#c19e77",
-            "closest_css3":"#bdb76b"
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), early 19th century. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave foundation. \nBequest of Elinor Merrell. 1995-50-44"
+    },
+    "colors": [
+        {
+            "color": "#7b5b54",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a59281",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#96786d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#d3d0b0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

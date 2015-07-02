@@ -1,42 +1,122 @@
 {
-    "id":"18474853",
-    "tms:id":"148189",
-    "accession_number":"1971-50-499",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474853\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"121687",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424919",
-    "medium":"Technique: complementary warps",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18474853",
+    "tms:id": "148189",
+    "accession_number": "1971-50-499",
+    "title": "Fragment (Peru)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474853\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "121687",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424919",
+    "medium": "Technique: complementary warps",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424919",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103656_48c2bfb8bf914168_b.jpg",
+                "width": 1007,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103656"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103656_48c2bfb8bf914168_z.jpg",
+                "width": 629,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103656"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103656_48c2bfb8bf914168_n.jpg",
+                "width": 315,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103656"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103656_48c2bfb8bf914168_d.gif",
+                "width": 315,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103656"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103656_48c2bfb8bf914168_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103656"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nTechnique: complementary warps. Bequest of Marian Hague. 1971-50-499."
+    "tombstone": {
+        "epitaph": "Fragment (Peru). Technique: complementary warps. \nBequest of Marian Hague. 1971-50-499"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#523530",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#2a2120",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#d7cbad",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#81463c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#825e48",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "Peru",
+    "is_loan_object": 0
 }

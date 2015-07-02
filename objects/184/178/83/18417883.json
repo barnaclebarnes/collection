@@ -1,42 +1,116 @@
 {
-    "id":"18417883",
-    "tms:id":"119172",
-    "accession_number":"1957-180-27",
-    "title":"Embroidered Picture",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18417883\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367389",
-    "type_id":"35259407",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1957",
-    "decade":null,
-    "woe:country":"23424829",
-    "medium":"Embroidered",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of the estate of Mrs. Lathrop Colgate Harper",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35259407",
-        "name":"Embroidered picture"
-    },
-    "images":[
-
+    "id": "18417883",
+    "tms:id": "119172",
+    "accession_number": "1957-180-27",
+    "title": "Embroidered Picture (Germany)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18417883\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367389",
+    "type_id": "35259407",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1957",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "Embroidered",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of the estate of Mrs. Lathrop Colgate Harper",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Embroidered picture",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73566_e2bf47c90bcd4d1f_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "1",
+                "image_id": "73566"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73566_e2bf47c90bcd4d1f_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "1",
+                "image_id": "73566"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73566_e2bf47c90bcd4d1f_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "73566"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73566_e2bf47c90bcd4d1f_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "73566"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73566_e2bf47c90bcd4d1f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "73566"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049995",
+            "role_id": "35351535",
+            "person_name": "Estate of Mrs. Lathrop Colgate Harper",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049995\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Embroidered Picture.\nEmbroidered. Gift of the estate of Mrs. Lathrop Colgate Harper. 1957-180-27."
+    "tombstone": {
+        "epitaph": "Embroidered Picture (Germany). Embroidered. \nGift of the estate of Mrs. Lathrop Colgate Harper. 1957-180-27"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a49598",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#817478",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#514850",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#3d2b30",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

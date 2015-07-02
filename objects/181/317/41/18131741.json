@@ -1,49 +1,158 @@
 {
-    "id":"18131741",
-    "tms:id":"11808",
-    "accession_number":"1902-1-604",
-    "title":"Fragment, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18131741\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371963",
-    "type_id":"35254623",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, linen\nTechnique: floats of supplementary weft in plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Diamond shaped field with polychrome lozenges",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18131741",
+    "tms:id": "11808",
+    "accession_number": "1902-1-604",
+    "title": "Fragment, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18131741\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371963",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, linen\nTechnique: plain weave with supplementary weft patterning",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 53.3 \u00d7 58.4 cm (21 \u00d7 23 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Textile fragment with a tone-on-tone diamond lattice pattern in the ground; each diamond is filled with a colored silk spot motif. In blue, green, yellow, red and pink silk on natural colored linen ground. Blue and yellow zigzag border on one side.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92774_5cf2ce540e03817b_b.jpg",
+                "width": 1024,
+                "height": 1018,
+                "is_primary": "1",
+                "image_id": "92774"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92774_5cf2ce540e03817b_z.jpg",
+                "width": 640,
+                "height": 636,
+                "is_primary": "1",
+                "image_id": "92774"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92774_5cf2ce540e03817b_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "92774"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92774_5cf2ce540e03817b_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "92774"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92774_5cf2ce540e03817b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92774"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68208_db3e670fd356f751_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "68208"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68208_db3e670fd356f751_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "68208"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68208_db3e670fd356f751_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "68208"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68208_db3e670fd356f751_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "68208"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68208_db3e670fd356f751_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68208"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 17th century.\n17th century. Medium: silk, linen\nTechnique: floats of supplementary weft in plain weave foundation. Gift of John Pierpont Morgan. 1902-1-604."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 17th century. Medium: silk, linen\nTechnique: plain weave with supplementary weft patterning. \nGift of John Pierpont Morgan. 1902-1-604"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#577278",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#bb9263",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#3d5352",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#949079",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a33d49",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "is_loan_object": 0
 }

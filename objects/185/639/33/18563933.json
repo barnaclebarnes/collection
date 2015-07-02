@@ -1,80 +1,168 @@
 {
-    "id":"18563933",
-    "tms:id":"75171",
-    "accession_number":"1941-69-109",
-    "title":"Sampler, late 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18563933\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410879",
-    "type_id":"35256439",
-    "date":"late 17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk embroidery, linen foundation\nTechnique: double running, cross and surface buttonhole stitches on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"Warp x Weft: 65 x 16 cm (25 9\/16 x 6 5\/16 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"Eleven cross borders of floral and geometric ornament; alphabet and \"I. H.\"",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18563933",
+    "tms:id": "75171",
+    "accession_number": "1941-69-109",
+    "title": "Sampler (England), late 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18563933\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410879",
+    "type_id": "35256439",
+    "date": "late 17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk embroidery, linen foundation\nTechnique: double running, cross and surface buttonhole stitches on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "Warp x Weft: 65 x 16 cm (25 9\/16 x 6 5\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "65.00",
+            "centimeters"
+        ],
+        "weft": [
+            "16.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "Eleven cross borders of floral and geometric ornament; alphabet and \"I. H.\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29091_0f47b711f0f83c3b_b.jpg",
-                "width":272,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67426_4a056b658bdca8d8_b.jpg",
+                "width": 313,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "67426"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29091_0f47b711f0f83c3b_n.jpg",
-                "width":85,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67426_4a056b658bdca8d8_z.jpg",
+                "width": 196,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "67426"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29091_0f47b711f0f83c3b_z.jpg",
-                "width":170,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67426_4a056b658bdca8d8_n.jpg",
+                "width": 98,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67426"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67426_4a056b658bdca8d8_d.gif",
+                "width": 98,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67426"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67426_4a056b658bdca8d8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67426"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29091_0f47b711f0f83c3b_b.jpg",
+                "width": 272,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "29091"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29091_0f47b711f0f83c3b_z.jpg",
+                "width": 170,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "29091"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29091_0f47b711f0f83c3b_n.jpg",
+                "width": 85,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "29091"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29091_0f47b711f0f83c3b_d.gif",
+                "width": 85,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "29091"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29091_0f47b711f0f83c3b_sq.jpg",
+                "width": 272,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29091"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, late 17th century.\nlate 17th century. Medium: silk embroidery, linen foundation\nTechnique: double running, cross and surface buttonhole stitches on plain weave. Bequest of Mrs. Henry E. Coe. 1941-69-109."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b68c81",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#dab5a1",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#afbec1",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#4b7aa2",
-            "closest_css3":"#4682b4"
-        },
-        {
-            "color":"#aa6555",
-            "closest_css3":"#cd5c5c"
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (England), late 17th century. Medium: silk embroidery, linen foundation\nTechnique: double running, cross and surface buttonhole stitches on plain weave. \nBequest of Mrs. Henry E. Coe. 1941-69-109"
+    },
+    "colors": [
+        {
+            "color": "#b3a276",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#d1c8a0",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#81857d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#717751",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#576161",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,80 +1,214 @@
 {
-    "id":"18617089",
-    "tms:id":"177074",
-    "accession_number":"1981-28-457",
-    "title":"Tablecover, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617089\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410907",
-    "type_id":"35291471",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk embroidery on cotton foundation\nTechnique: embroidered in cross, satin, running, and double-running stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 67.3 x 69.2 cm (26 1\/2 x 27 1\/4 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Concentric squared of geometric and stylized floral patterns. Trimmed with tassels on all sides.",
-    "justification":null,
-    "type":{
-        "id":"35291471",
-        "name":"Tablecover"
+    "id": "18617089",
+    "tms:id": "177074",
+    "accession_number": "1981-28-457",
+    "title": "Tablecover, 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617089\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410907",
+    "type_id": "35291471",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk embroidery on cotton foundation\nTechnique: embroidered in cross, satin, running, and double-running stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 67.3 x 69.2 cm (26 1\/2 x 27 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "67.31",
+            "centimeters"
+        ],
+        "width": [
+            "69.22",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Concentric squared of geometric and stylized floral patterns. Trimmed with tassels on all sides.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Tablecover",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37281_d6ddbc5bfbd439de_b.jpg",
-                "width":1024,
-                "height":992,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99590_16fde822764cb3d0_b.jpg",
+                "width": 1022,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "99590"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37281_d6ddbc5bfbd439de_n.jpg",
-                "width":320,
-                "height":310,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99590_16fde822764cb3d0_z.jpg",
+                "width": 638,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "99590"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37281_d6ddbc5bfbd439de_z.jpg",
-                "width":640,
-                "height":620,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99590_16fde822764cb3d0_n.jpg",
+                "width": 319,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "99590"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99590_16fde822764cb3d0_d.gif",
+                "width": 319,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "99590"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99590_16fde822764cb3d0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99590"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95153_8292005e663847da_b.jpg",
+                "width": 1021,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95153"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95153_8292005e663847da_z.jpg",
+                "width": 638,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95153"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95153_8292005e663847da_n.jpg",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95153"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95153_8292005e663847da_d.gif",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95153"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95153_8292005e663847da_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95153"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37281_d6ddbc5bfbd439de_b.jpg",
+                "width": 1024,
+                "height": 992,
+                "is_primary": "0",
+                "image_id": "37281"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37281_d6ddbc5bfbd439de_z.jpg",
+                "width": 640,
+                "height": 620,
+                "is_primary": "0",
+                "image_id": "37281"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37281_d6ddbc5bfbd439de_n.jpg",
+                "width": 320,
+                "height": 310,
+                "is_primary": "0",
+                "image_id": "37281"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37281_d6ddbc5bfbd439de_d.gif",
+                "width": 320,
+                "height": 310,
+                "is_primary": "0",
+                "image_id": "37281"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37281_d6ddbc5bfbd439de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "37281"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Tablecover, 19th century.\n19th century. Medium: silk embroidery on cotton foundation\nTechnique: embroidered in cross, satin, running, and double-running stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-457."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b6bfc4",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18055143",
+            "role_id": "35352245",
+            "person_name": "Susan J. Brown",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055143\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#bba194",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#dfbb9a",
-            "closest_css3":"#deb887"
-        },
-        {
-            "color":"#56312b",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#240f0d",
-            "closest_css3":"#000000"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Tablecover, 19th century. Medium: silk embroidery on cotton foundation\nTechnique: embroidered in cross, satin, running, and double-running stitches on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-457"
+    },
+    "colors": [
+        {
+            "color": "#aa8a59",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#85553f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#8f6e42",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#642b29",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#43342b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,42 +1,128 @@
 {
-    "id":"18333133",
-    "tms:id":"50390",
-    "accession_number":"1931-84-19",
-    "title":"Box",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18333133\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35236855",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 11.1 x 13.8 x 8.6 cm (4 3\/8 x 5 7\/16 x 3 3\/8 in.)",
-    "creditline":"Gift of Sarah Cooper Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236855",
-        "name":"Box"
+    "id": "18333133",
+    "tms:id": "50390",
+    "accession_number": "1931-84-19",
+    "title": "Box",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18333133\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236855",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 11.1 x 13.8 x 8.6 cm (4 3\/8 x 5 7\/16 x 3 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "8.60",
+            "centimeters"
+        ],
+        "height": [
+            "11.10",
+            "centimeters"
+        ],
+        "width": [
+            "13.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Sarah Cooper Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Box",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103419_864e269dd01c85c0_b.jpg",
+                "width": 1024,
+                "height": 887,
+                "is_primary": "1",
+                "image_id": "103419"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103419_864e269dd01c85c0_z.jpg",
+                "width": 640,
+                "height": 554,
+                "is_primary": "1",
+                "image_id": "103419"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103419_864e269dd01c85c0_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "103419"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103419_864e269dd01c85c0_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "103419"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103419_864e269dd01c85c0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103419"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Box.\nH x W x D: 11.1 x 13.8 x 8.6 cm (4 3\/8 x 5 7\/16 x 3 3\/8 in.). Gift of Sarah Cooper Hewitt. 1931-84-19."
+    "tombstone": {
+        "epitaph": "Box. H x W x D: 11.1 x 13.8 x 8.6 cm (4 3\/8 x 5 7\/16 x 3 3\/8 in.). \nGift of Sarah Cooper Hewitt. 1931-84-19"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4e3520",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#795f46",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#291d16",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#95928a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,80 +1,112 @@
 {
-    "id":"18126131",
-    "tms:id":"10589",
-    "accession_number":"1901-39-453",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18126131\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18126131",
+    "tms:id": "10589",
+    "accession_number": "1901-39-453",
+    "title": "Drawing",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18126131\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of various donors",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/578_45bf34bfbea37658_b.jpg",
-                "width":674,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/578_45bf34bfbea37658_b.jpg",
+                "width": 674,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "578"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/578_45bf34bfbea37658_n.jpg",
-                "width":211,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/578_45bf34bfbea37658_z.jpg",
+                "width": 422,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "578"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/578_45bf34bfbea37658_z.jpg",
-                "width":422,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/578_45bf34bfbea37658_n.jpg",
+                "width": 211,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "578"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/578_45bf34bfbea37658_d.gif",
+                "width": 211,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "578"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/578_45bf34bfbea37658_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "578"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of various donors. 1901-39-453."
+    "tombstone": {
+        "epitaph": "Drawing. \nMuseum purchase through gift of various donors. 1901-39-453"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#aba8c7",
-            "closest_css3":"#a9a9a9"
+            "color": "#9b97b8",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#6f7890",
-            "closest_css3":"#708090"
+            "color": "#5d6074",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#575b6f",
-            "closest_css3":"#696969"
+            "color": "#767e96",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#443d4e",
-            "closest_css3":"#2f4f4f"
+            "color": "#333345",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#806b79",
-            "closest_css3":"#808080"
+            "color": "#83717d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

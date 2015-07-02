@@ -1,87 +1,174 @@
 {
-    "id":"18732153",
-    "tms:id":"242190",
-    "accession_number":"2009-18-155",
-    "title":"Liqueur Glass, \"Wiener Gemischter Satz\", 2008",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18732153\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51588741",
-    "type_id":"35306111",
-    "date":"2008",
-    "year_start":"2008",
-    "year_end":"2008",
-    "year_acquired":"2009",
-    "decade":"2000",
-    "woe:country":"23424750",
-    "medium":"Mouth-blown crystal",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 8.5 x 4.9 cm (3 3\/8 x 1 15\/16 in.)",
-    "creditline":"Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
-    "description":"Thin mouth-blown deep cylinder on short stem",
-    "justification":null,
-    "type":{
-        "id":"35306111",
-        "name":"Liqueur glass"
+    "id": "18732153",
+    "tms:id": "242190",
+    "accession_number": "2009-18-155",
+    "title": "No. 280 Liqueur Glass, 2008",
+    "title_raw": "No. 280",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18732153\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51585935",
+    "type_id": "35306111",
+    "date": "2008",
+    "year_start": 2008,
+    "year_end": 2008,
+    "year_acquired": "2009",
+    "decade": "2000",
+    "woe:country_id": "23424750",
+    "medium": "Mouth-blown crystal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 8.5 x 4.9 cm (3 3\/8 x 1 15\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "4.90",
+            "centimeters"
+        ],
+        "height": [
+            "8.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
+    "description": "Thin mouth-blown deep cylinder on short stem",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Liqueur glass",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30791_a6712bc4444a13c5_b.jpg",
-                "width":490,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30791_a6712bc4444a13c5_b.jpg",
+                "width": 490,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "30791"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30791_a6712bc4444a13c5_n.jpg",
-                "width":153,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30791_a6712bc4444a13c5_z.jpg",
+                "width": 306,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "30791"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30791_a6712bc4444a13c5_z.jpg",
-                "width":306,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30791_a6712bc4444a13c5_n.jpg",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "30791"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30791_a6712bc4444a13c5_d.gif",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "30791"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30791_a6712bc4444a13c5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "30791"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118101_f849dc4e39cb1fea_b.jpg",
+                "width": 721,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "118101"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118101_f849dc4e39cb1fea_z.jpg",
+                "width": 451,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "118101"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118101_f849dc4e39cb1fea_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "118101"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118101_f849dc4e39cb1fea_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "118101"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118101_f849dc4e39cb1fea_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "118101"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18063195",
-            "role_id":"35236657",
-            "person_name":"Boehmische Manufaktur",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18063195\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18063195",
+            "role_id": "35236657",
+            "person_name": "Boehmische Manufaktur",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063195\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18061841",
-            "role_id":"35236657",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18061841",
+            "role_id": "35236657",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18061841",
-            "role_id":"51571131",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Lender",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+            "person_id": "18062637",
+            "role_id": "35236655",
+            "person_name": "POLKA",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062637\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061841",
+            "role_id": "51571131",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Liqueur Glass, \"Wiener Gemischter Satz\", 2008.\n2008. Mouth-blown crystal. Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-155."
+    "tombstone": {
+        "epitaph": "No. 280 Liqueur Glass, 2008. Mouth-blown crystal. \nMuseum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-155"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#98969b",
-            "closest_css3":"#a9a9a9"
+            "color": "#bcbbc0",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         }
-    ]
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

@@ -1,87 +1,186 @@
 {
-    "id":"18653323",
-    "tms:id":"201620",
-    "accession_number":"1996-18-74-a,b",
-    "title":"Cup And Saucer, 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18653323\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35248193",
-    "date":"1920\u201340",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1996",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Glazed earthenware",
-    "markings":"In black on bottom of the teapot, the initials SMF contained in a shield surrounded by \"HANDPAINTED\", \"SCHRAMBERG\", \"GERMANY\".  On the cup is \"4\", and on the saucer \"14\".",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"height 5.8, width 11, depth 9.1, diameter 15.4 centimeters",
-    "creditline":"Gift of Victor Wiener",
-    "description":"Circular cup narrowing at the bottom with a heart-shaped handle on the side.  Handle and rim painted black.  Yellow background with stripes of orange and burgundy.  Circular saucer with raised bottom rim.  Top edge outlined in black. Surface patterned with concentric circles of: burgundy, orange, yellow, and a round white center.",
-    "justification":null,
-    "type":{
-        "id":"35248193",
-        "name":"cup and saucer"
+    "id": "18653323",
+    "tms:id": "201620",
+    "accession_number": "1996-18-74-a,b",
+    "title": "Cup And Saucer (Germany), 1920\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18653323\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35248193",
+    "date": "1920\u201340",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1996",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Glazed earthenware",
+    "markings": "In black on bottom of the teapot, the initials SMF contained in a shield surrounded by \"HANDPAINTED\", \"SCHRAMBERG\", \"GERMANY\".  On the cup is \"4\", and on the saucer \"14\".",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "height 5.8, width 11, depth 9.1, diameter 15.4 centimeters",
+    "dimensions_raw": {
+        "depth": [
+            "9.10",
+            "centimeters"
+        ],
+        "diameter": [
+            "15.40",
+            "centimeters"
+        ],
+        "height": [
+            "5.80",
+            "centimeters"
+        ],
+        "width": [
+            "11.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Victor Wiener",
+    "description": "Circular cup narrowing at the bottom with a heart-shaped handle on the side.  Handle and rim painted black.  Yellow background with stripes of orange and burgundy.  Circular saucer with raised bottom rim.  Top edge outlined in black. Surface patterned with concentric circles of: burgundy, orange, yellow, and a round white center.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "cup and saucer",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13366_6c12b7c9d3023560_b.jpg",
-                "width":1024,
-                "height":815,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110377_0c6c3c7612a10543_b.jpg",
+                "width": 1024,
+                "height": 723,
+                "is_primary": "1",
+                "image_id": "110377"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13366_6c12b7c9d3023560_n.jpg",
-                "width":320,
-                "height":255,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110377_0c6c3c7612a10543_z.jpg",
+                "width": 640,
+                "height": 452,
+                "is_primary": "1",
+                "image_id": "110377"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13366_6c12b7c9d3023560_z.jpg",
-                "width":640,
-                "height":509,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110377_0c6c3c7612a10543_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "1",
+                "image_id": "110377"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110377_0c6c3c7612a10543_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "1",
+                "image_id": "110377"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110377_0c6c3c7612a10543_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110377"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13366_6c12b7c9d3023560_b.jpg",
+                "width": 1024,
+                "height": 815,
+                "is_primary": "0",
+                "image_id": "13366"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13366_6c12b7c9d3023560_z.jpg",
+                "width": 640,
+                "height": 509,
+                "is_primary": "0",
+                "image_id": "13366"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13366_6c12b7c9d3023560_n.jpg",
+                "width": 320,
+                "height": 255,
+                "is_primary": "0",
+                "image_id": "13366"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13366_6c12b7c9d3023560_d.gif",
+                "width": 320,
+                "height": 255,
+                "is_primary": "0",
+                "image_id": "13366"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13366_6c12b7c9d3023560_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "13366"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049133",
-            "role_id":"35236657",
-            "person_name":"Schramberg",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049133\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041855",
+            "role_id": "35351535",
+            "person_name": "Victor Wiener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049133",
+            "role_id": "35236657",
+            "person_name": "Schramberg",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049133\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Cup And Saucer, 1920\u201340.\n1920\u201340. Glazed earthenware. Gift of Victor Wiener. 1996-18-74-a,b."
+    "tombstone": {
+        "epitaph": "Cup And Saucer (Germany), 1920\u201340. Glazed earthenware. \nGift of Victor Wiener. 1996-18-74-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#e0b14a",
-            "closest_css3":"#f4a460"
+            "color": "#a29f93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#a35833",
-            "closest_css3":"#a0522d"
+            "color": "#d0b040",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
         },
         {
-            "color":"#723b34",
-            "closest_css3":"#8b4513"
+            "color": "#c48525",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#243232",
-            "closest_css3":"#2f4f4f"
+            "color": "#74665d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#9d9ea6",
-            "closest_css3":"#a9a9a9"
+            "color": "#87402e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

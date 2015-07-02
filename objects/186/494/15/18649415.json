@@ -1,87 +1,256 @@
 {
-    "id":"18649415",
-    "tms:id":"199617",
-    "accession_number":"1994-80-10",
-    "title":"Chef De Piece, 1770\u201385",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649415\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35295179",
-    "date":"1770\u201385",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1994",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Partial stamp at one end:\" ON TEINT \/ reres &Cp a Nantes' and '23'.",
-    "provenance":"Formerly owned by Elinor Merrel where it was No. 29 on her list of chefs de piece.",
-    "dimensions":"Warp: 220 cm (86 1\/2 in.). Weft: 59 cm (23 1\/4 in.) Piece is seamed up the center (correctly according to pattern). No selvedges present. Pattern: Height of repeat and plate: 101 cm (39 3\/4 in.)",
-    "creditline":"Gift of Cora Ginsburg",
-    "description":"Design in red on white on a long narrow piece. Scene of a shipwreck alternate with curving scrolls.",
-    "justification":null,
-    "type":{
-        "id":"35295179",
-        "name":"Chef de piece"
+    "id": "18649415",
+    "tms:id": "199617",
+    "accession_number": "1994-80-10",
+    "title": "Chef De Piece (France), 1770\u201385",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18649415\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35295179",
+    "date": "1770\u201385",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1994",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Partial stamp at one end:\" ON TEINT \/ reres &Cp a Nantes' and '23'.",
+    "provenance": "Formerly owned by Elinor Merrel where it was No. 29 on her list of chefs de piece.",
+    "dimensions": "Warp: 220 cm (86 1\/2 in.). Weft: 59 cm (23 1\/4 in.) Piece is seamed up the center (correctly according to pattern). No selvedges present. Pattern: Height of repeat and plate: 101 cm (39 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "101.00",
+            "centimeters"
+        ],
+        "warp": [
+            "220.00",
+            "centimeters"
+        ],
+        "weft": [
+            "59.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Cora Ginsburg",
+    "description": "Design in red on white on a long narrow piece. Scene of a shipwreck alternate with curving scrolls.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Chef de piece",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12547_9108bbd8ad99bc6b_b.jpg",
-                "width":680,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110887_1447c94eb389cc5a_b.jpg",
+                "width": 460,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110887"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12547_9108bbd8ad99bc6b_n.jpg",
-                "width":213,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110887_1447c94eb389cc5a_z.jpg",
+                "width": 288,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110887"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12547_9108bbd8ad99bc6b_z.jpg",
-                "width":425,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110887_1447c94eb389cc5a_n.jpg",
+                "width": 144,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110887"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110887_1447c94eb389cc5a_d.gif",
+                "width": 144,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110887"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110887_1447c94eb389cc5a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110887"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79044_baa475c326a894eb_b.jpg",
+                "width": 1024,
+                "height": 750,
+                "is_primary": "0",
+                "image_id": "79044"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79044_baa475c326a894eb_z.jpg",
+                "width": 640,
+                "height": 468,
+                "is_primary": "0",
+                "image_id": "79044"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79044_baa475c326a894eb_n.jpg",
+                "width": 320,
+                "height": 234,
+                "is_primary": "0",
+                "image_id": "79044"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79044_baa475c326a894eb_d.gif",
+                "width": 320,
+                "height": 234,
+                "is_primary": "0",
+                "image_id": "79044"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79044_baa475c326a894eb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79044"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79043_3a5d85077041ad83_b.jpg",
+                "width": 565,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "79043"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79043_3a5d85077041ad83_z.jpg",
+                "width": 353,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "79043"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79043_3a5d85077041ad83_n.jpg",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79043"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79043_3a5d85077041ad83_d.gif",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79043"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79043_3a5d85077041ad83_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79043"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12547_9108bbd8ad99bc6b_b.jpg",
+                "width": 680,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12547"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12547_9108bbd8ad99bc6b_z.jpg",
+                "width": 425,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12547"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12547_9108bbd8ad99bc6b_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12547"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12547_9108bbd8ad99bc6b_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12547"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12547_9108bbd8ad99bc6b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12547"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046281",
-            "role_id":"35236681",
-            "person_name":"Gorgerat Freres",
-            "role_name":"Company",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046281\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+            "person_id": "18041197",
+            "role_id": "35351535",
+            "person_name": "Cora Ginsburg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041197\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046281",
+            "role_id": "35236681",
+            "person_name": "Gorgerat Fr\u00e8res et Cie.",
+            "person_date": "1783 - 1815",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046281\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Chef De Piece, 1770\u201385.\n1770\u201385. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Gift of Cora Ginsburg. 1994-80-10."
+    "tombstone": {
+        "epitaph": "Chef De Piece (France), 1770\u201385. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nGift of Cora Ginsburg. 1994-80-10"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#ab8378",
-            "closest_css3":"#bc8f8f"
+            "color": "#e0dec7",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#866966",
-            "closest_css3":"#696969"
+            "color": "#a26d70",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#fcd9ba",
-            "closest_css3":"#ffdab9"
+            "color": "#af8f88",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#cea28b",
-            "closest_css3":"#d2b48c"
+            "color": "#8e4d56",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#834844",
-            "closest_css3":"#a0522d"
+            "color": "#c6b3a4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

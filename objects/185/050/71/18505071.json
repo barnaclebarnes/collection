@@ -1,39 +1,159 @@
 {
-    "id":"18505071",
-    "tms:id":"163439",
-    "accession_number":"1980-32-1186",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18505071\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1980",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Unknown Donor",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18505071",
+    "tms:id": "163439",
+    "accession_number": "1980-32-1186",
+    "title": "Poster, Hold Up Your End! Red Cross, ca. 1917?",
+    "title_raw": "Hold Up Your End! Red Cross",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18505071\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35238163",
+    "date": "ca. 1917?",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1980",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1980: acquired by Museum",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Unknown Donor",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99129_b60d23946a7c6260_b.jpg",
+                "width": 762,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "99129"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99129_b60d23946a7c6260_z.jpg",
+                "width": 476,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "99129"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99129_b60d23946a7c6260_n.jpg",
+                "width": 238,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "99129"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99129_b60d23946a7c6260_d.gif",
+                "width": 238,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "99129"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99129_b60d23946a7c6260_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99129"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95551_7e144ddb3498a1f0_b.jpg",
+                "width": 762,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95551"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95551_7e144ddb3498a1f0_z.jpg",
+                "width": 476,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95551"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95551_7e144ddb3498a1f0_n.jpg",
+                "width": 238,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95551"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95551_7e144ddb3498a1f0_d.gif",
+                "width": 238,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95551"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95551_7e144ddb3498a1f0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95551"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "68263807",
+            "role_id": "35236655",
+            "person_name": "W. B. King",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68263807\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Hold Up Your End! Red Cross, ca. 1917?. \nGift of Unknown Donor. 1980-32-1186"
     },
-    "images":[
-
+    "colors": [
+        {
+            "color": "#b6b280",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#ae863c",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#896c3a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#e5dbc1",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#444236",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
     ],
-    "participants":[
-
-    ],
-    "exhibitions":[
-
-    ]
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

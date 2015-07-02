@@ -1,49 +1,106 @@
 {
-    "id":"18621541",
-    "tms:id":"185594",
-    "accession_number":"1986-61-83-a,b",
-    "title":"Jar And Cover, 1900\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621541\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35271015",
-    "date":"1900\u201350",
-    "year_start":null,
-    "year_end":"1950",
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":"Marks: Etched on base: \"ORIEL\"",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"To WPW from estate.",
-    "dimensions":"H x W: 22.7 x 9cm (8 15\/16 x 3 9\/16in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Urn-shaped, on waisted, faceted stem; thick square base; tall tapering cover with facet-cut finial; sides and cover cut with flat diamond pattern;bottom of base cut with star.",
-    "justification":null,
-    "type":{
-        "id":"35271015",
-        "name":"Jar and cover"
+    "id": "18621541",
+    "tms:id": "185594",
+    "accession_number": "1986-61-83-a,b",
+    "title": "Jar And Cover, 1900\u20131950",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621541\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35271015",
+    "date": "1900\u20131950",
+    "year_start": null,
+    "year_end": 1950,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": "Marks: Etched on base: \"ORIEL\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "To WPW from estate.",
+    "dimensions": "H x W: 22.7 x 9cm (8 15\/16 x 3 9\/16in.)",
+    "dimensions_raw": {
+        "height": [
+            "22.70",
+            "centimeters"
+        ],
+        "width": [
+            "9.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Urn-shaped, on waisted, faceted stem; thick square base; tall tapering cover with facet-cut finial; sides and cover cut with flat diamond pattern;bottom of base cut with star.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Jar and cover",
+    "images": [
         {
-            "person_id":"18043871",
-            "role_id":"35236657",
-            "person_name":"Oriel",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043871\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112805_64ef622ab593e656_b.jpg",
+                "width": 602,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112805"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112805_64ef622ab593e656_z.jpg",
+                "width": 376,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112805"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112805_64ef622ab593e656_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112805"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112805_64ef622ab593e656_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112805"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112805_64ef622ab593e656_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112805"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Jar And Cover, 1900\u201350.\n1900\u201350. glass. Bequest of Walter Phelps Warren. 1986-61-83-a,b."
+    "participants": [
+        {
+            "person_id": "18043871",
+            "role_id": "35236657",
+            "person_name": "Oriel",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043871\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Jar And Cover, 1900\u20131950. glass. \nBequest of Walter Phelps Warren. 1986-61-83-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#abacae",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "is_loan_object": 0
 }

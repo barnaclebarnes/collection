@@ -1,42 +1,131 @@
 {
-    "id":"18622535",
-    "tms:id":"186104",
-    "accession_number":"1987-46-60",
-    "title":"Sample",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622535\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"140503",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Technique: plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 5 x 4.7 cm (1 15\/16 x 1 7\/8 in.)",
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":"Geometric design in black on red.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18622535",
+    "tms:id": "186104",
+    "accession_number": "1987-46-60",
+    "title": "Sample (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18622535\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "140503",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1987",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Technique: plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 5 x 4.7 cm (1 15\/16 x 1 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "5.00",
+            "centimeters"
+        ],
+        "width": [
+            "4.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": "Geometric design in black on red.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78091_726bcfccb51335cb_b.jpg",
+                "width": 941,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "78091"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78091_726bcfccb51335cb_z.jpg",
+                "width": 588,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "78091"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78091_726bcfccb51335cb_n.jpg",
+                "width": 294,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "78091"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78091_726bcfccb51335cb_d.gif",
+                "width": 294,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "78091"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78091_726bcfccb51335cb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "78091"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sample.\nTechnique: plain weave foundation. Museum purchase from Au Panier Fleuri Fund. 1987-46-60."
+    "tombstone": {
+        "epitaph": "Sample (England). Technique: plain weave foundation. \nMuseum purchase from Au Panier Fleuri Fund. 1987-46-60"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#151c29",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#8c1f15",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#c3281f",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#b22222",
+            "closest_css4": "#b22222"
+        },
+        {
+            "color": "#39353a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#45201e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

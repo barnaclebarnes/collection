@@ -1,111 +1,276 @@
 {
-    "id":"18632709",
-    "tms:id":"191197",
-    "accession_number":"1989-36-1-a\/d",
-    "title":"Desk, \"Pippa\", 1985\u201387",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18632709\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35398171",
-    "type_id":"35251149",
-    "date":"1985\u201387",
-    "year_start":"1985",
-    "year_end":"1987",
-    "year_acquired":"1989",
-    "decade":"1980",
-    "woe:country":"23424819",
-    "medium":"Pearwood, leather, brass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Herm\u00e8s S.A.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251149",
-        "name":"desk"
+    "id": "18632709",
+    "tms:id": "191197",
+    "accession_number": "1989-36-1-a\/d",
+    "title": "Pippa Folding Desk, 1985\u201387",
+    "title_raw": "Pippa",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18632709\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35398171",
+    "type_id": "51680793",
+    "date": "1985\u201387",
+    "year_start": 1985,
+    "year_end": 1987,
+    "year_acquired": "1989",
+    "decade": "1980",
+    "woe:country_id": "23424819",
+    "medium": "Pearwood, leather, brass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Herm\u00e8s; 1989: acquired by Museum",
+    "dimensions": "H x W x D (closed): 80.5 \u00d7 74 \u00d7 45 cm (31 11\/16 \u00d7 29 1\/8 \u00d7 17 11\/16 in.)\nH x W x D (open): 80.5 \u00d7 74 \u00d7 69.5 cm (31 11\/16 \u00d7 29 1\/8 \u00d7 27 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "45.00",
+            "centimeters"
+        ],
+        "height": [
+            "80.50",
+            "centimeters"
+        ],
+        "width": [
+            "74.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Herm\u00e8s S.A.",
+    "description": "Folding desk with crossed hinged legs and brass hardware. Table has box-like top that slides close.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Folding desk",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16151_30558c40e09c216f_b.jpg",
-                "width":1024,
-                "height":909,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93964_4ecf289e81e13cc6_b.jpg",
+                "width": 1024,
+                "height": 954,
+                "is_primary": "1",
+                "image_id": "93964"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16151_30558c40e09c216f_n.jpg",
-                "width":320,
-                "height":284,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93964_4ecf289e81e13cc6_z.jpg",
+                "width": 640,
+                "height": 596,
+                "is_primary": "1",
+                "image_id": "93964"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16151_30558c40e09c216f_z.jpg",
-                "width":640,
-                "height":568,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93964_4ecf289e81e13cc6_n.jpg",
+                "width": 320,
+                "height": 298,
+                "is_primary": "1",
+                "image_id": "93964"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93964_4ecf289e81e13cc6_d.gif",
+                "width": 320,
+                "height": 298,
+                "is_primary": "1",
+                "image_id": "93964"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93964_4ecf289e81e13cc6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93964"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93963_61bd3dbe22384fbc_b.jpg",
+                "width": 950,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "93963"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93963_61bd3dbe22384fbc_z.jpg",
+                "width": 594,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "93963"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93963_61bd3dbe22384fbc_n.jpg",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "93963"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93963_61bd3dbe22384fbc_d.gif",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "93963"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93963_61bd3dbe22384fbc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "93963"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93962_126ed615535c4030_b.jpg",
+                "width": 949,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "93962"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93962_126ed615535c4030_z.jpg",
+                "width": 593,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "93962"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93962_126ed615535c4030_n.jpg",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "93962"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93962_126ed615535c4030_d.gif",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "93962"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93962_126ed615535c4030_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "93962"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16151_30558c40e09c216f_b.jpg",
+                "width": 1024,
+                "height": 909,
+                "is_primary": "0",
+                "image_id": "16151"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16151_30558c40e09c216f_z.jpg",
+                "width": 640,
+                "height": 568,
+                "is_primary": "0",
+                "image_id": "16151"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16151_30558c40e09c216f_n.jpg",
+                "width": 320,
+                "height": 284,
+                "is_primary": "0",
+                "image_id": "16151"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16151_30558c40e09c216f_d.gif",
+                "width": 320,
+                "height": 284,
+                "is_primary": "0",
+                "image_id": "16151"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16151_30558c40e09c216f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "16151"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046351",
-            "role_id":"35351535",
-            "person_name":"Herm\u00e8s",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046351\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046351",
+            "role_id": "35351535",
+            "person_name": "Herm\u00e8s",
+            "person_date": "founded 1837",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046351",
-            "role_id":"35236589",
-            "person_name":"Herm\u00e8s",
-            "role_name":"Fabricator",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046351\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236589\/"
+            "person_id": "18046351",
+            "role_id": "35236589",
+            "person_name": "Herm\u00e8s",
+            "person_date": "founded 1837",
+            "role_name": "Fabricator",
+            "role_display_name": "Fabricated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236589\/"
         },
         {
-            "person_id":"18537517",
-            "role_id":"35236733",
-            "person_name":"Peter Coles",
-            "role_name":"Co-Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537517\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236733\/"
+            "person_id": "18537517",
+            "role_id": "35236733",
+            "person_name": "Peter Coles",
+            "person_date": "1954 \u2013 1985",
+            "role_name": "Co-Designer",
+            "role_display_name": "Co-Designer:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537517\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236733\/"
         },
         {
-            "person_id":"18537513",
-            "role_id":"35236733",
-            "person_name":"Rena Dumas",
-            "role_name":"Co-Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537513\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236733\/"
+            "person_id": "18537513",
+            "role_id": "35236733",
+            "person_name": "Rena Dumas",
+            "person_date": "French, b. Greece, 1937-2009",
+            "role_name": "Co-Designer",
+            "role_display_name": "Co-Designer:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537513\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236733\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Desk, \"Pippa\", 1985\u201387.\n1985\u201387. Pearwood, leather, brass. Gift of Herm\u00e8s S.A.. 1989-36-1-a\/d."
+    "tombstone": {
+        "epitaph": "Pippa Folding Desk, 1985\u201387. Pearwood, leather, brass. \nGift of Herm\u00e8s S.A.. 1989-36-1-a\/d"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#48302c",
-            "closest_css3":"#2f4f4f"
+            "color": "#bab0a9",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#9a614c",
-            "closest_css3":"#a0522d"
+            "color": "#875038",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#744639",
-            "closest_css3":"#8b4513"
+            "color": "#5b3326",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#aa9ba2",
-            "closest_css3":"#a9a9a9"
+            "color": "#a66d4c",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#93766c",
-            "closest_css3":"#808080"
+            "color": "#d08f5e",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

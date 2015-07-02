@@ -1,80 +1,131 @@
 {
-    "id":"18476377",
-    "tms:id":"148960",
-    "accession_number":"1972-42-124",
-    "title":"Border, 1850\u201380",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476377\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35393257",
-    "type_id":"35237285",
-    "date":"1850\u201380",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on machine-made paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Josephine Howell #627",
-    "dimensions":"16.5 x 4 cm (6 1\/2 x 1 9\/16 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"Blue twisted ribbon on black ground, with grey scalloping.\n\nH# 627",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18476377",
+    "tms:id": "148960",
+    "accession_number": "1972-42-124",
+    "title": "Border (France), 1850\u201380",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476377\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35393257",
+    "type_id": "35237285",
+    "date": "1850\u201380",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on machine-made paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Josephine Howell; 1972: acquired by Museum",
+    "dimensions": "16.5 x 4 cm (6 1\/2 x 1 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "16.50",
+            "centimeters"
+        ],
+        "width": [
+            "4.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Josephine Howell",
+    "description": "Blue twisted ribbon on black ground, with grey scalloping.\n\nH# 627",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43972_c3a9880d423f87f4_b.jpg",
-                "width":1024,
-                "height":303,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43972_d3e907f670f710ca_b.jpg",
+                "width": 1024,
+                "height": 386,
+                "is_primary": "1",
+                "image_id": "43972"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43972_c3a9880d423f87f4_n.jpg",
-                "width":320,
-                "height":95,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43972_d3e907f670f710ca_z.jpg",
+                "width": 640,
+                "height": 241,
+                "is_primary": "1",
+                "image_id": "43972"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43972_c3a9880d423f87f4_z.jpg",
-                "width":640,
-                "height":189,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43972_d3e907f670f710ca_n.jpg",
+                "width": 320,
+                "height": 121,
+                "is_primary": "1",
+                "image_id": "43972"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43972_d3e907f670f710ca_d.gif",
+                "width": 320,
+                "height": 121,
+                "is_primary": "1",
+                "image_id": "43972"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43972_d3e907f670f710ca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43972"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, 1850\u201380.\n1850\u201380. Block-printed on machine-made paper. Gift of Josephine Howell. 1972-42-124."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#3f3a3b",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#486cc0",
-            "closest_css3":"#4682b4"
-        },
-        {
-            "color":"#2f48b1",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#7d9ad4",
-            "closest_css3":"#6495ed"
-        },
-        {
-            "color":"#818798",
-            "closest_css3":"#778899"
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border (France), 1850\u201380. Block-printed on machine-made paper. \nGift of Josephine Howell. 1972-42-124"
+    },
+    "colors": [
+        {
+            "color": "#33302f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5456a9",
+            "closest_crayola": "#7851a9",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#41339d",
+            "closest_crayola": "#324ab2",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#7a82c3",
+            "closest_crayola": "#7366bd",
+            "closest_css3": "#9370d8",
+            "closest_css4": "#9370db"
+        },
+        {
+            "color": "#7e8095",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

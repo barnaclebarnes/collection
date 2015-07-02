@@ -1,87 +1,151 @@
 {
-    "id":"18430009",
-    "tms:id":"125398",
-    "accession_number":"1960-119-11",
-    "title":"Border, 1820\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18430009\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35237285",
-    "date":"1820\u201350",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1960",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"97 x 12 cm (38 3\/16 x 4 3\/4 in.)",
-    "creditline":"Gift of The Metropolitan Museum of Art",
-    "description":"Pink and blue flowers alternating with grisaille acanthus scrolls. A row of strung beads is below.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18430009",
+    "tms:id": "125398",
+    "accession_number": "1960-119-11",
+    "title": "Border (France), 1820\u201350",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18430009\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35237285",
+    "date": "1820\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1960",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "97 x 12 cm (38 3\/16 x 4 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "97.00",
+            "centimeters"
+        ],
+        "width": [
+            "12.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of The Metropolitan Museum of Art",
+    "description": "Pink and blue flowers alternating with grisaille acanthus scrolls. A row of strung beads is below.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6072_5cdd32ada508b3fb_b.jpg",
-                "width":1024,
-                "height":227,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6072_5cdd32ada508b3fb_b.jpg",
+                "width": 1024,
+                "height": 227,
+                "is_primary": "1",
+                "image_id": "6072"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6072_5cdd32ada508b3fb_n.jpg",
-                "width":320,
-                "height":71,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6072_5cdd32ada508b3fb_z.jpg",
+                "width": 640,
+                "height": 142,
+                "is_primary": "1",
+                "image_id": "6072"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6072_5cdd32ada508b3fb_z.jpg",
-                "width":640,
-                "height":142,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6072_5cdd32ada508b3fb_n.jpg",
+                "width": 320,
+                "height": 71,
+                "is_primary": "1",
+                "image_id": "6072"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6072_5cdd32ada508b3fb_d.gif",
+                "width": 320,
+                "height": 71,
+                "is_primary": "1",
+                "image_id": "6072"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6072_5cdd32ada508b3fb_sq.jpg",
+                "width": 300,
+                "height": 227,
+                "is_primary": "1",
+                "image_id": "6072"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18047467",
-            "role_id":"35351535",
-            "person_name":"Metropolitan Museum of Art",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047467\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18047467",
+            "role_id": "35351535",
+            "person_name": "Metropolitan Museum of Art",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047467\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18048007",
+            "role_id": "35352245",
+            "person_name": "Catherine Lynn Frangiamore",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Border, 1820\u201350.\n1820\u201350. Block-printed. Gift of The Metropolitan Museum of Art. 1960-119-11."
+    "tombstone": {
+        "epitaph": "Border (France), 1820\u201350. Block-printed. \nGift of The Metropolitan Museum of Art. 1960-119-11"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c0dbe8",
-            "closest_css3":"#b0e0e6"
+            "color": "#c1d0df",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
         },
         {
-            "color":"#262030",
-            "closest_css3":"#2f4f4f"
+            "color": "#34242e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#48404b",
-            "closest_css3":"#2f4f4f"
+            "color": "#3e535b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#a4b5c7",
-            "closest_css3":"#b0c4de"
+            "color": "#6e7782",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#6ba2a0",
-            "closest_css3":"#5f9ea0"
+            "color": "#8fa5b7",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

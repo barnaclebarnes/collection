@@ -1,107 +1,225 @@
 {
-    "id":"18199705",
-    "tms:id":"23308",
-    "accession_number":"1917-4-585",
-    "title":"Drawing, \"Study of a Zoomorphic Rock, Petra\", 1868",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18199705\/",
-    "department_id":"35347493",
-    "period_id":"35417175",
-    "media_id":"35415073",
-    "type_id":"35237093",
-    "date":"1868",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1917",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Graphite, oil on paperboard",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Height: 30.6 cm (12 in.) \nWidth: 50.7 cm (19 15\/16 in.)",
-    "creditline":"Gift of Louis P. Church",
-    "description":"A strangely colored rock in the right foreground looks like a standing quadruped. Two caves are shown at its base. It is flanked at left by the head of another animal. A hill ridge is shown in the left rear. Cloudy sky.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18199705",
+    "tms:id": "23308",
+    "accession_number": "1917-4-585",
+    "title": "Drawing, Study of a Zoomorphic Rock, Petra, 1868",
+    "title_raw": "Study of a Zoomorphic Rock, Petra",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18199705\/",
+    "department_id": "35347493",
+    "period_id": "35417175",
+    "media_id": "35414907",
+    "type_id": "35237093",
+    "date": "1868",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1917",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Brush and oil paint, graphite on paperboard",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Louis P. Church to Cooper Union",
+    "dimensions": "Height: 30.6 cm (12 in.) \nWidth: 50.7 cm (19 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.60",
+            "centimeters"
+        ],
+        "width": [
+            "50.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Louis P. Church",
+    "description": "A large reddish-brown rock, with architectural carving, in the right foreground. Two caves are shown at its base. A hill ridge is shown in the left distance. Cloudy sky.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1879_704d520cf2ee9bcc_b.jpg",
-                "width":1024,
-                "height":614,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1879_704d520cf2ee9bcc_b.jpg",
+                "width": 1024,
+                "height": 614,
+                "is_primary": "1",
+                "image_id": "1879"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1879_704d520cf2ee9bcc_n.jpg",
-                "width":320,
-                "height":192,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1879_704d520cf2ee9bcc_z.jpg",
+                "width": 640,
+                "height": 384,
+                "is_primary": "1",
+                "image_id": "1879"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1879_704d520cf2ee9bcc_z.jpg",
-                "width":640,
-                "height":384,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1879_704d520cf2ee9bcc_n.jpg",
+                "width": 320,
+                "height": 192,
+                "is_primary": "1",
+                "image_id": "1879"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1879_704d520cf2ee9bcc_d.gif",
+                "width": 320,
+                "height": 192,
+                "is_primary": "1",
+                "image_id": "1879"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1879_704d520cf2ee9bcc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "1879"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16474_4a6f769e208bc4ad_b.jpg",
-                "width":1024,
-                "height":606,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118020_cd7b35e9efdef34f_b.jpg",
+                "width": 1024,
+                "height": 628,
+                "is_primary": "0",
+                "image_id": "118020"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16474_4a6f769e208bc4ad_n.jpg",
-                "width":320,
-                "height":189,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118020_cd7b35e9efdef34f_z.jpg",
+                "width": 640,
+                "height": 392,
+                "is_primary": "0",
+                "image_id": "118020"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16474_4a6f769e208bc4ad_z.jpg",
-                "width":640,
-                "height":379,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118020_cd7b35e9efdef34f_n.jpg",
+                "width": 320,
+                "height": 196,
+                "is_primary": "0",
+                "image_id": "118020"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118020_cd7b35e9efdef34f_d.gif",
+                "width": 320,
+                "height": 196,
+                "is_primary": "0",
+                "image_id": "118020"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118020_cd7b35e9efdef34f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "118020"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16474_4a6f769e208bc4ad_b.jpg",
+                "width": 1024,
+                "height": 606,
+                "is_primary": "0",
+                "image_id": "16474"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16474_4a6f769e208bc4ad_z.jpg",
+                "width": 640,
+                "height": 379,
+                "is_primary": "0",
+                "image_id": "16474"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16474_4a6f769e208bc4ad_n.jpg",
+                "width": 320,
+                "height": 189,
+                "is_primary": "0",
+                "image_id": "16474"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16474_4a6f769e208bc4ad_d.gif",
+                "width": 320,
+                "height": 189,
+                "is_primary": "0",
+                "image_id": "16474"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16474_4a6f769e208bc4ad_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "16474"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041941",
-            "role_id":"35236565",
-            "person_name":"Frederic Edwin Church",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18047439",
+            "role_id": "35352245",
+            "person_name": "Rudolph Berliner",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047439\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18051625",
+            "role_id": "35351535",
+            "person_name": "Louis P. Church",
+            "person_date": "American, 1870\u20131943",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Study of a Zoomorphic Rock, Petra\", 1868.\n1868. Graphite, oil on paperboard. Gift of Louis P. Church. 1917-4-585."
+    "tombstone": {
+        "epitaph": "Drawing, Study of a Zoomorphic Rock, Petra, 1868. Brush and oil paint, graphite on paperboard. \nGift of Louis P. Church. 1917-4-585"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#452a2f",
-            "closest_css3":"#2f4f4f"
+            "color": "#613638",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#7b5556",
-            "closest_css3":"#696969"
+            "color": "#7b5553",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#8a7073",
-            "closest_css3":"#808080"
+            "color": "#8a7073",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#6a3135",
-            "closest_css3":"#8b4513"
+            "color": "#32262d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#282228",
-            "closest_css3":"#2f4f4f"
+            "color": "#a18a82",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,87 +1,188 @@
 {
-    "id":"18197211",
-    "tms:id":"22923",
-    "accession_number":"1917-4-341",
-    "title":"Drawing, \"Jerusalem from the Mount of Olives\", 1868",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18197211\/",
-    "department_id":"35347493",
-    "period_id":"35417175",
-    "media_id":"35419603",
-    "type_id":"35237093",
-    "date":"1868",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1917",
-    "decade":null,
-    "woe:country":"23424852",
-    "medium":"Brush and oil paint, graphite on cardboard",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"30 x 47 cm (11 13\/16 x 18 1\/2 in.)",
-    "creditline":"Gift of Louis P. Church",
-    "description":"Horizontal rectangle. A part of the hill with two groups of trees and a seated Arab is shown in the left and central foreground. In the right foreground and in the middle distance view across the Valley of Jesophat.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18197211",
+    "tms:id": "22923",
+    "accession_number": "1917-4-341",
+    "title": "Drawing, Jerusalem from the Mount of Olives, 1868",
+    "title_raw": "Jerusalem from the Mount of Olives",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18197211\/",
+    "department_id": "35347493",
+    "period_id": "35417175",
+    "media_id": "35419603",
+    "type_id": "35237093",
+    "date": "1868",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1917",
+    "decade": null,
+    "woe:country_id": "23424852",
+    "medium": "Brush and oil paint, graphite on cardboard",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Louis P. Church; 1917: acquired by Museum",
+    "dimensions": "30 x 47 cm (11 13\/16 x 18 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.00",
+            "centimeters"
+        ],
+        "width": [
+            "47.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Louis P. Church",
+    "description": "Horizontal rectangle. A part of the hill with two groups of trees and a seated Arab is shown in the left and central foreground. In the right foreground and in the middle distance view across the Valley of Jesophat.",
+    "justification": null,
+    "gallery_text": "Frederic Church\u2019s travels to the Middle East in 1867\u201369 provided the itinerary for de Forest\u2019s tour of the region in 1875\u201376, when he attempted to visit all the settings that Church had painted. De Forest sketched an oil landscape with Jerusalem\u2019s Temple Mount (as seen from further up the hill) on March 15, 1876.",
+    "label_text": "Frederic Church\u2019s travels to the Middle East in 1867\u201369 provided the itinerary for de Forest\u2019s tour of the region in 1875\u201376, when he attempted to visit all the settings that Church had painted. De Forest sketched an oil landscape with Jerusalem\u2019s Temple Mount (as seen from further up the hill) on March 15, 1876.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424852",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1790_f97fdc733a82a7ab_b.jpg",
-                "width":1024,
-                "height":653,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92425_34ad9afcf26660df_b.jpg",
+                "width": 1024,
+                "height": 666,
+                "is_primary": "1",
+                "image_id": "92425"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1790_f97fdc733a82a7ab_n.jpg",
-                "width":320,
-                "height":204,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92425_34ad9afcf26660df_z.jpg",
+                "width": 640,
+                "height": 416,
+                "is_primary": "1",
+                "image_id": "92425"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1790_f97fdc733a82a7ab_z.jpg",
-                "width":640,
-                "height":408,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92425_34ad9afcf26660df_n.jpg",
+                "width": 320,
+                "height": 208,
+                "is_primary": "1",
+                "image_id": "92425"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92425_34ad9afcf26660df_d.gif",
+                "width": 320,
+                "height": 208,
+                "is_primary": "1",
+                "image_id": "92425"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92425_34ad9afcf26660df_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92425"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1790_f97fdc733a82a7ab_b.jpg",
+                "width": 1024,
+                "height": 653,
+                "is_primary": "0",
+                "image_id": "1790"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1790_f97fdc733a82a7ab_z.jpg",
+                "width": 640,
+                "height": 408,
+                "is_primary": "0",
+                "image_id": "1790"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1790_f97fdc733a82a7ab_n.jpg",
+                "width": 320,
+                "height": 204,
+                "is_primary": "0",
+                "image_id": "1790"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1790_f97fdc733a82a7ab_d.gif",
+                "width": 320,
+                "height": 204,
+                "is_primary": "0",
+                "image_id": "1790"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1790_f97fdc733a82a7ab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "1790"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041941",
-            "role_id":"35236565",
-            "person_name":"Frederic Edwin Church",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18047439",
+            "role_id": "35352245",
+            "person_name": "Rudolph Berliner",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047439\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18051625",
+            "role_id": "35351535",
+            "person_name": "Louis P. Church",
+            "person_date": "American, 1870\u20131943",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Jerusalem from the Mount of Olives\", 1868.\n1868. Brush and oil paint, graphite on cardboard. Gift of Louis P. Church. 1917-4-341."
+    "tombstone": {
+        "epitaph": "Drawing, Jerusalem from the Mount of Olives, 1868. Brush and oil paint, graphite on cardboard. \nGift of Louis P. Church. 1917-4-341"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#8c674d",
-            "closest_css3":"#a0522d"
+            "color": "#7c6437",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#d0907b",
-            "closest_css3":"#e9967a"
+            "color": "#c8a897",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#b9714f",
-            "closest_css3":"#cd5c5c"
+            "color": "#a37b4f",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#e6b08e",
-            "closest_css3":"#deb887"
+            "color": "#e6d9cc",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#fce7bc",
-            "closest_css3":"#ffe4b5"
+            "color": "#c69c0f",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#b8860b",
+            "closest_css4": "#b8860b"
         }
-    ]
+    ],
+    "woe:country_name": "Israel",
+    "is_loan_object": 0
 }

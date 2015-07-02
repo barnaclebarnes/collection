@@ -1,80 +1,181 @@
 {
-    "id":"18495661",
-    "tms:id":"158721",
-    "accession_number":"1978-146-60",
-    "title":"Matchsafe",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18495661\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389463",
-    "type_id":"35287419",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":null,
-    "medium":"silver",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 4.1 x 4 x 0.8 cm (1 5\/8 x 1 9\/16 x 5\/16 in.)",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18495661",
+    "tms:id": "158721",
+    "accession_number": "1978-146-60",
+    "title": "Matchsafe",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18495661\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35287419",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 4.1 x 4 x 0.8 cm (1 5\/8 x 1 9\/16 x 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "0.80",
+            "centimeters"
+        ],
+        "height": [
+            "4.10",
+            "centimeters"
+        ],
+        "width": [
+            "4.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26872_9f63a8c2edb97e72_b.jpg",
-                "width":1024,
-                "height":1017,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99683_ed01dd35e5ee9740_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "99683"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26872_9f63a8c2edb97e72_n.jpg",
-                "width":320,
-                "height":318,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99683_ed01dd35e5ee9740_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "99683"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26872_9f63a8c2edb97e72_z.jpg",
-                "width":640,
-                "height":636,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99683_ed01dd35e5ee9740_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "99683"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99683_ed01dd35e5ee9740_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "99683"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99683_ed01dd35e5ee9740_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99683"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26872_9f63a8c2edb97e72_b.jpg",
+                "width": 1024,
+                "height": 1017,
+                "is_primary": "0",
+                "image_id": "26872"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26872_9f63a8c2edb97e72_z.jpg",
+                "width": 640,
+                "height": 636,
+                "is_primary": "0",
+                "image_id": "26872"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26872_9f63a8c2edb97e72_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "26872"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26872_9f63a8c2edb97e72_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "26872"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26872_9f63a8c2edb97e72_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "26872"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe.\nsilver. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-60."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#ae9d81",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#e1cfb2",
-            "closest_css3":"#f5deb3"
-        },
-        {
-            "color":"#8dbdbc",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#7e715d",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#c5f9f3",
-            "closest_css3":"#afeeee"
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Matchsafe. silver. \nGift of Stephen W. Brener and Carol B. Brener. 1978-146-60"
+    },
+    "colors": [
+        {
+            "color": "#7aabb8",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#5f9ea0",
+            "closest_css4": "#5f9ea0"
+        },
+        {
+            "color": "#635b5a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8b7c73",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a47754",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#74493c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "is_loan_object": 0
 }

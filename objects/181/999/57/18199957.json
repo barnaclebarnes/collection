@@ -1,91 +1,218 @@
 {
-    "id":"18199957",
-    "tms:id":"23349",
-    "accession_number":"1917-4-610-a",
-    "title":"Drawing, \"St. Peter's, Rome, shown\", 1868\u201369",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18199957\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35415139",
-    "type_id":"35237093",
-    "date":"1868\u201369",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1917",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Oil\nSupport: thick buff-colored wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"11.5 x 22.8 cm (4 1\/2 x 9 in.)\nMat:  55.9 x 40.6 cm (22 x 16 in.)",
-    "creditline":"Gift of Louis P. Church",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18199957",
+    "tms:id": "23349",
+    "accession_number": "1917-4-610-a",
+    "title": "Drawing, St. Peter's, Rome, shown, 1868\u201369",
+    "title_raw": "St. Peter's, Rome, shown",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18199957\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35415139",
+    "type_id": "35237093",
+    "date": "1868\u201369",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1917",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Oil\nSupport: thick buff-colored wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "11.5 x 22.8 cm (4 1\/2 x 9 in.)\nMat:  55.9 x 40.6 cm (22 x 16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "11.50",
+            "centimeters"
+        ],
+        "width": [
+            "40.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Louis P. Church",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16465_6efdb31f187fd78c_b.jpg",
-                "width":1024,
-                "height":505,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16465_6efdb31f187fd78c_b.jpg",
+                "width": 1024,
+                "height": 505,
+                "is_primary": "1",
+                "image_id": "16465"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16465_6efdb31f187fd78c_n.jpg",
-                "width":320,
-                "height":158,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16465_6efdb31f187fd78c_z.jpg",
+                "width": 640,
+                "height": 316,
+                "is_primary": "1",
+                "image_id": "16465"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16465_6efdb31f187fd78c_z.jpg",
-                "width":640,
-                "height":316,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16465_6efdb31f187fd78c_n.jpg",
+                "width": 320,
+                "height": 158,
+                "is_primary": "1",
+                "image_id": "16465"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16465_6efdb31f187fd78c_d.gif",
+                "width": 320,
+                "height": 158,
+                "is_primary": "1",
+                "image_id": "16465"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16465_6efdb31f187fd78c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "16465"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117324_fc0436ba4fa02a14_b.jpg",
+                "width": 1024,
+                "height": 556,
+                "is_primary": "0",
+                "image_id": "117324"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117324_fc0436ba4fa02a14_z.jpg",
+                "width": 640,
+                "height": 347,
+                "is_primary": "0",
+                "image_id": "117324"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117324_fc0436ba4fa02a14_n.jpg",
+                "width": 320,
+                "height": 174,
+                "is_primary": "0",
+                "image_id": "117324"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117324_fc0436ba4fa02a14_d.gif",
+                "width": 320,
+                "height": 174,
+                "is_primary": "0",
+                "image_id": "117324"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117324_fc0436ba4fa02a14_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "117324"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18047487",
-            "role_id":"35352245",
-            "person_name":"KH",
-            "role_name":"Cataloguer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047487\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+            "person_id": "18054439",
+            "role_id": "35352245",
+            "person_name": "Richard P. Wunder",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054439\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18041941",
-            "role_id":"35236565",
-            "person_name":"Frederic Edwin Church",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18040963",
+            "role_id": "35352245",
+            "person_name": "Mrs. Edna Sloan Beron",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040963\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18051625",
+            "role_id": "35351535",
+            "person_name": "Louis P. Church",
+            "person_date": "American, 1870\u20131943",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047439",
+            "role_id": "35352245",
+            "person_name": "Rudolph Berliner",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047439\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18047487",
+            "role_id": "35352245",
+            "person_name": "KH",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047487\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"St. Peter's, Rome, shown\", 1868\u201369.\n1868\u201369. Oil\nSupport: thick buff-colored wove paper. Gift of Louis P. Church. 1917-4-610-a."
+    "tombstone": {
+        "epitaph": "Drawing, St. Peter's, Rome, shown, 1868\u201369. Oil\nSupport: thick buff-colored wove paper. \nGift of Louis P. Church. 1917-4-610-a"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a2847e",
-            "closest_css3":"#bc8f8f"
+            "color": "#9a8684",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#c1a59d",
-            "closest_css3":"#bc8f8f"
+            "color": "#c1a59c",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#756e77",
-            "closest_css3":"#696969"
+            "color": "#7c727e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#6e554d",
-            "closest_css3":"#696969"
+            "color": "#816960",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#624e49",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

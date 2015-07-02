@@ -1,80 +1,178 @@
 {
-    "id":"18504703",
-    "tms:id":"163255",
-    "accession_number":"1980-31-5",
-    "title":"Patchwork Panel, ca. 1910",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18504703\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35293335",
-    "date":"ca. 1910",
-    "year_start":"1905",
-    "year_end":"1915",
-    "year_acquired":"1980",
-    "decade":"1900",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: roller printed on supplementary weft pile (velveteen), stitching",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 124 x 44 cm (48 13\/16 x 17 5\/16 in.)",
-    "creditline":"Gift of Mr. and Mrs. Stephen Smith",
-    "description":"Patchwork panel made of 130 rectangles printed to look like Persian carpets. At least twenty-nine different pattern are present and several have different colorways. On each rectangle, printed on the back is: \"Factory No. 649, 1st District N.Y.,\" or \"Factory No. 33, 2nd District N.Y.\"",
-    "justification":null,
-    "type":{
-        "id":"35293335",
-        "name":"Patchwork panel"
+    "id": "18504703",
+    "tms:id": "163255",
+    "accession_number": "1980-31-5",
+    "title": "Patchwork Panel (USA), ca. 1910",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18504703\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35293335",
+    "date": "ca. 1910",
+    "year_start": 1905,
+    "year_end": 1915,
+    "year_acquired": "1980",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: roller printed on supplementary weft pile (velveteen), stitching",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 124 x 44 cm (48 13\/16 x 17 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "124.00",
+            "centimeters"
+        ],
+        "width": [
+            "44.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mr. and Mrs. Stephen Smith",
+    "description": "Patchwork panel made of 130 rectangles printed to look like Persian carpets. At least twenty-nine different pattern are present and several have different colorways. On each rectangle, printed on the back is: \"Factory No. 649, 1st District N.Y.,\" or \"Factory No. 33, 2nd District N.Y.\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Patchwork panel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32828_05e876054d07159b_b.jpg",
-                "width":421,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90124_94448da761ae8fac_b.jpg",
+                "width": 372,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90124"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32828_05e876054d07159b_n.jpg",
-                "width":131,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90124_94448da761ae8fac_z.jpg",
+                "width": 232,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90124"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32828_05e876054d07159b_z.jpg",
-                "width":263,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90124_94448da761ae8fac_n.jpg",
+                "width": 116,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90124"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90124_94448da761ae8fac_d.gif",
+                "width": 116,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90124"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90124_94448da761ae8fac_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90124"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32828_05e876054d07159b_b.jpg",
+                "width": 421,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "32828"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32828_05e876054d07159b_z.jpg",
+                "width": 263,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "32828"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32828_05e876054d07159b_n.jpg",
+                "width": 131,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32828"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32828_05e876054d07159b_d.gif",
+                "width": 131,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32828"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32828_05e876054d07159b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32828"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Patchwork Panel, ca. 1910.\nca. 1910. Medium: cotton\nTechnique: roller printed on supplementary weft pile (velveteen), stitching. Gift of Mr. and Mrs. Stephen Smith. 1980-31-5."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bfc4ca",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18055561",
+            "role_id": "35351535",
+            "person_name": "Mrs. Stephen Smith",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055561\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#4d221b",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#b05f2a",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#7d4937",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#f47c29",
-            "closest_css3":"#d2691e"
+            "person_id": "18055559",
+            "role_id": "35351535",
+            "person_name": "Mr. Stephen Smith",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055559\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Patchwork Panel (USA), ca. 1910. Medium: cotton\nTechnique: roller printed on supplementary weft pile (velveteen), stitching. \nGift of Mr. and Mrs. Stephen Smith. 1980-31-5"
+    },
+    "colors": [
+        {
+            "color": "#764f2b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#493929",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a16d35",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#25272c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#695d4a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

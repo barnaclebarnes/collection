@@ -1,64 +1,114 @@
 {
-    "id":"18650529",
-    "tms:id":"200199",
-    "accession_number":"1995-164-44",
-    "title":"Drawing, \"Centerpiece\", ca. 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18650529\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35424015",
-    "type_id":"35237093",
-    "date":"ca. 1920\u201340",
-    "year_start":"1910",
-    "year_end":"1945",
-    "year_acquired":"1995",
-    "decade":"1910",
-    "woe:country":"23424819",
-    "medium":"Black ink, green pencil, graphite",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of John Finguerra in memory of his brother Jim Finguerra",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18650529",
+    "tms:id": "200199",
+    "accession_number": "1995-164-44",
+    "title": "Drawing, Centerpiece, May 1941",
+    "title_raw": "Centerpiece",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18650529\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35424015",
+    "type_id": "35237093",
+    "date": "May 1941",
+    "year_start": 1941,
+    "year_end": 1941,
+    "year_acquired": "1995",
+    "decade": "1940",
+    "woe:country_id": "23424819",
+    "medium": "Black ink, green pencil, graphite",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Finguerra in memory of his brother Jim Finguerra",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48698_8676b29743f825db_b.jpg",
-                "width":1024,
-                "height":764,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48698_b0b2d7e615b1b5ff_b.jpg",
+                "width": 1024,
+                "height": 747,
+                "is_primary": "1",
+                "image_id": "48698"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48698_8676b29743f825db_n.jpg",
-                "width":320,
-                "height":239,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48698_b0b2d7e615b1b5ff_z.jpg",
+                "width": 640,
+                "height": 467,
+                "is_primary": "1",
+                "image_id": "48698"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48698_8676b29743f825db_z.jpg",
-                "width":640,
-                "height":477,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48698_b0b2d7e615b1b5ff_n.jpg",
+                "width": 320,
+                "height": 233,
+                "is_primary": "1",
+                "image_id": "48698"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48698_b0b2d7e615b1b5ff_d.gif",
+                "width": 320,
+                "height": 233,
+                "is_primary": "1",
+                "image_id": "48698"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48698_b0b2d7e615b1b5ff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "48698"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Centerpiece\", ca. 1920\u201340.\nca. 1920\u201340. Black ink, green pencil, graphite. Gift of John Finguerra in memory of his brother Jim Finguerra. 1995-164-44."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#9d865b",
-            "closest_css3":"#808080"
+            "person_id": "18041845",
+            "role_id": "35351535",
+            "person_name": "Mr. John Finguerra",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049021",
+            "role_id": "35236655",
+            "person_name": "Jean Elys\u00e9e Puiforcat",
+            "person_date": "French, 1897\u20131945",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Centerpiece, May 1941. Black ink, green pencil, graphite. \nGift of John Finguerra in memory of his brother Jim Finguerra. 1995-164-44"
+    },
+    "colors": [
+        {
+            "color": "#897e55",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#b6aa72",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

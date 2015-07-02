@@ -1,80 +1,121 @@
 {
-    "id":"18401909",
-    "tms:id":"111133",
-    "accession_number":"1955-1-8",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18401909\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"117145",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: roller printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Herbert Emken",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18401909",
+    "tms:id": "111133",
+    "accession_number": "1955-1-8",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18401909\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "117145",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: roller printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Herbert Emken",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18273_a6c7003f3fd03cc6_b.jpg",
-                "width":1024,
-                "height":639,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18273_a6c7003f3fd03cc6_b.jpg",
+                "width": 1024,
+                "height": 639,
+                "is_primary": "1",
+                "image_id": "18273"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18273_a6c7003f3fd03cc6_n.jpg",
-                "width":320,
-                "height":200,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18273_a6c7003f3fd03cc6_z.jpg",
+                "width": 640,
+                "height": 399,
+                "is_primary": "1",
+                "image_id": "18273"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18273_a6c7003f3fd03cc6_z.jpg",
-                "width":640,
-                "height":399,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18273_a6c7003f3fd03cc6_n.jpg",
+                "width": 320,
+                "height": 200,
+                "is_primary": "1",
+                "image_id": "18273"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18273_a6c7003f3fd03cc6_d.gif",
+                "width": 320,
+                "height": 200,
+                "is_primary": "1",
+                "image_id": "18273"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18273_a6c7003f3fd03cc6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "18273"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: roller printed. Gift of Herbert Emken. 1955-1-8."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cec3ce",
-            "closest_css3":"#d8bfd8"
-        },
-        {
-            "color":"#8f859e",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#e1e5fa",
-            "closest_css3":"#e6e6fa"
-        },
-        {
-            "color":"#374050",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#706a7c",
-            "closest_css3":"#696969"
+            "person_id": "18538879",
+            "role_id": "35351535",
+            "person_name": "Herbert Emken",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538879\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile. Technique: roller printed. \nGift of Herbert Emken. 1955-1-8"
+    },
+    "colors": [
+        {
+            "color": "#dee2f7",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#e6e6fa",
+            "closest_css4": "#e6e6fa"
+        },
+        {
+            "color": "#90869d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#b9aeba",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#3b465a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6e6379",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

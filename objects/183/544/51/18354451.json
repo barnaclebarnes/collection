@@ -1,95 +1,166 @@
 {
-    "id":"18354451",
-    "tms:id":"60620",
-    "accession_number":"1938-82-18-a",
-    "title":"Textile Samples, ca. 1919",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18354451\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35288421",
-    "date":"ca. 1919",
-    "year_start":"1914",
-    "year_end":"1924",
-    "year_acquired":"1938",
-    "decade":"1910",
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: printed on chiffon",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Labeled: #5311 Chiffon Imprime",
-    "provenance":null,
-    "dimensions":"H x W: 56.8 x 115.9 cm (22 3\/8 x 45 5\/8 in.)",
-    "creditline":"Anonymous bequest in memory of Albert and Rebecca Elsberg",
-    "description":"Five samples with black ground, having different color schemes in the repeat of a life-size spray of roses.",
-    "justification":null,
-    "type":{
-        "id":"35288421",
-        "name":"Textile samples"
+    "id": "18354451",
+    "tms:id": "60620",
+    "accession_number": "1938-82-18-a",
+    "title": "Textile Samples (France), ca. 1919",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18354451\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35288421",
+    "date": "ca. 1919",
+    "year_start": 1914,
+    "year_end": 1924,
+    "year_acquired": "1938",
+    "decade": "1910",
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: printed on chiffon",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Labeled: #5311 Chiffon Imprime",
+    "provenance": null,
+    "dimensions": "H x W: 56.8 x 115.9 cm (22 3\/8 x 45 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "56.80",
+            "centimeters"
+        ],
+        "width": [
+            "115.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Anonymous bequest in memory of Albert and Rebecca Elsberg",
+    "description": "Five samples with black ground, having different color schemes in the repeat of a life-size spray of roses.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Textile samples",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3694_af3ba15cb67ac925_b.jpg",
-                "width":1024,
-                "height":525,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108433_33976fdd383b6357_b.jpg",
+                "width": 1024,
+                "height": 566,
+                "is_primary": "1",
+                "image_id": "108433"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3694_af3ba15cb67ac925_n.jpg",
-                "width":320,
-                "height":164,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108433_33976fdd383b6357_z.jpg",
+                "width": 640,
+                "height": 353,
+                "is_primary": "1",
+                "image_id": "108433"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3694_af3ba15cb67ac925_z.jpg",
-                "width":640,
-                "height":328,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108433_33976fdd383b6357_n.jpg",
+                "width": 320,
+                "height": 177,
+                "is_primary": "1",
+                "image_id": "108433"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108433_33976fdd383b6357_d.gif",
+                "width": 320,
+                "height": 177,
+                "is_primary": "1",
+                "image_id": "108433"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108433_33976fdd383b6357_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108433"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3694_af3ba15cb67ac925_b.jpg",
+                "width": 1024,
+                "height": 525,
+                "is_primary": "0",
+                "image_id": "3694"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3694_af3ba15cb67ac925_z.jpg",
+                "width": 640,
+                "height": 328,
+                "is_primary": "0",
+                "image_id": "3694"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3694_af3ba15cb67ac925_n.jpg",
+                "width": 320,
+                "height": 164,
+                "is_primary": "0",
+                "image_id": "3694"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3694_af3ba15cb67ac925_d.gif",
+                "width": 320,
+                "height": 164,
+                "is_primary": "0",
+                "image_id": "3694"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3694_af3ba15cb67ac925_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3694"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042417",
-            "role_id":"35236655",
-            "person_name":"Herman A. Elsberg",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042417\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18042417",
+            "role_id": "35236655",
+            "person_name": "Herman A. Elsberg",
+            "person_date": "American, 1869\u20131938",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042417\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "person_id":"18049335",
-            "role_id":"35351537",
-            "person_name":"Anonymous",
-            "role_name":"Bequestor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+            "person_id": "18049335",
+            "role_id": "35351537",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile Samples, ca. 1919.\nca. 1919. Medium: silk\nTechnique: printed on chiffon. Anonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-18-a."
+    "tombstone": {
+        "epitaph": "Textile Samples (France), ca. 1919. Medium: silk\nTechnique: printed on chiffon. \nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-18-a"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#484655",
-            "closest_css3":"#2f4f4f"
+            "color": "#99a290",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
         },
         {
-            "color":"#676477",
-            "closest_css3":"#696969"
+            "color": "#bdb070",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#c5a38a",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#787d89",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#95a8b1",
-            "closest_css3":"#a9a9a9"
+            "color": "#9c917e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

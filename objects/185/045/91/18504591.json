@@ -1,49 +1,103 @@
 {
-    "id":"18504591",
-    "tms:id":"163199",
-    "accession_number":"1980-18-6",
-    "title":"Plate, \"Sunshine Bright\", 1968",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18504591\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35236833",
-    "date":"1968",
-    "year_start":"1968",
-    "year_end":"1968",
-    "year_acquired":"1980",
-    "decade":"1960",
-    "woe:country":"23424977",
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Diameter:  36 cm (14 3\/16 in.)",
-    "creditline":"Gift of S.C.Johnson & Son, Inc.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18504591",
+    "tms:id": "163199",
+    "accession_number": "1980-18-6",
+    "title": "Sunshine Bright Plate, 1968",
+    "title_raw": "Sunshine Bright",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18504591\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35236833",
+    "date": "1968",
+    "year_start": 1968,
+    "year_end": 1968,
+    "year_acquired": "1980",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Diameter:  36 cm (14 3\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "36.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of S.C.Johnson & Son, Inc.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "plate",
+    "images": [
         {
-            "person_id":"18061171",
-            "role_id":"35351535",
-            "person_name":"S. C. Johnson & Son, Inc.",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061171\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111934_d8393d786ae4d7b8_b.jpg",
+                "width": 1024,
+                "height": 680,
+                "is_primary": "1",
+                "image_id": "111934"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111934_d8393d786ae4d7b8_z.jpg",
+                "width": 640,
+                "height": 425,
+                "is_primary": "1",
+                "image_id": "111934"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111934_d8393d786ae4d7b8_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "111934"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111934_d8393d786ae4d7b8_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "111934"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111934_d8393d786ae4d7b8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111934"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Plate, \"Sunshine Bright\", 1968.\n1968. porcelain. Gift of S.C.Johnson &amp; Son, Inc.. 1980-18-6."
+    "participants": [
+        {
+            "person_id": "18061171",
+            "role_id": "35351535",
+            "person_name": "S. C. Johnson & Son, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sunshine Bright Plate, 1968. porcelain. \nGift of S.C.Johnson &amp; Son, Inc.. 1980-18-6"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8d8b87",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

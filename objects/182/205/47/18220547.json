@@ -1,49 +1,104 @@
 {
-    "id":"18220547",
-    "tms:id":"26511",
-    "accession_number":"1921-6-202-9",
-    "title":"Bound Print",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18220547\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35271131",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1921",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"From the Collection of L\u00e9on Decloux",
-    "dimensions":null,
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35271131",
-        "name":"Bound print"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18220547",
+    "tms:id": "26511",
+    "accession_number": "1921-6-202-9",
+    "title": "Bound Print (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18220547\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35271131",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1921",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "From the Collection of L\u00e9on Decloux",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Bound print",
+    "images": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68989_b5e1f92fc4703e15_b.jpg",
+                "width": 670,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "68989"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68989_b5e1f92fc4703e15_z.jpg",
+                "width": 418,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "68989"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68989_b5e1f92fc4703e15_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "68989"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68989_b5e1f92fc4703e15_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "68989"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68989_b5e1f92fc4703e15_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "68989"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Bound Print.\nPurchased for the Museum by the Advisory Council. 1921-6-202-9."
+    "participants": [
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Bound Print (France). \nPurchased for the Museum by the Advisory Council. 1921-6-202-9"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#51585a",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#717977",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,49 +1,122 @@
 {
-    "id":"18629985",
-    "tms:id":"189833",
-    "accession_number":"1988-62-16",
-    "title":"Drawing, \"Nero: dark brown w\/ rust, salmon, blue\", 1911\u201314",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18629985\/",
-    "department_id":"35347493",
-    "period_id":"35417049",
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":"1911\u201314",
-    "year_start":"1911",
-    "year_end":"1914",
-    "year_acquired":"1988",
-    "decade":"1910",
-    "woe:country":null,
-    "medium":null,
-    "markings":"3",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18629985",
+    "tms:id": "189833",
+    "accession_number": "1988-62-16",
+    "title": "Drawing, Nero: dark brown w\/ rust, salmon, blue, 1911\u201314",
+    "title_raw": "Nero: dark brown w\/ rust, salmon, blue",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18629985\/",
+    "department_id": "35347493",
+    "period_id": "35417049",
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1911\u201314",
+    "year_start": 1911,
+    "year_end": 1914,
+    "year_acquired": "1988",
+    "decade": "1910",
+    "woe:country_id": null,
+    "medium": null,
+    "markings": "3",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18048101",
-            "role_id":"35236675",
-            "person_name":"Wiener Werkst\u00e4tte",
-            "role_name":"For",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048101\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118868_217a7f717f857023_b.jpg",
+                "width": 1024,
+                "height": 346,
+                "is_primary": "1",
+                "image_id": "118868"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118868_217a7f717f857023_z.jpg",
+                "width": 640,
+                "height": 216,
+                "is_primary": "1",
+                "image_id": "118868"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118868_217a7f717f857023_n.jpg",
+                "width": 320,
+                "height": 108,
+                "is_primary": "1",
+                "image_id": "118868"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118868_217a7f717f857023_d.gif",
+                "width": 320,
+                "height": 108,
+                "is_primary": "1",
+                "image_id": "118868"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118868_217a7f717f857023_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118868"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Nero: dark brown w\/ rust, salmon, blue\", 1911\u201314.\n1911\u201314. Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds. 1988-62-16."
+    "participants": [
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18538455",
+            "role_id": "35352249",
+            "person_name": "Wolfgang Ruf",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538455\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18048101",
+            "role_id": "35236675",
+            "person_name": "Wiener Werkst\u00e4tte",
+            "person_date": "Vienna, Austria, 1903 - 1932",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048101\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18538917",
+            "role_id": "35236655",
+            "person_name": "Leopold Blonder",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538917\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Nero: dark brown w\/ rust, salmon, blue, 1911\u201314. \nMuseum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds. 1988-62-16"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "is_loan_object": 0
 }

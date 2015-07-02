@@ -1,87 +1,178 @@
 {
-    "id":"18684947",
-    "tms:id":"217955",
-    "accession_number":"2000-20-3",
-    "title":"Samples And Charts, ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18684947\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35428073",
-    "type_id":"35298893",
-    "date":"ca. 1930",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"2000",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Medium: paper, cotton, wool\nTechnique: (a) pocketed double cloth, (b) double faced (plain weave and twill), (c) drawings",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Adelgunde \"Gunta\" St\u00f6lzl, German, 1897-1983; active Bauhaus Workshop",
-    "dimensions":"30 cm [12\"] x 21 cm [8.25\"]",
-    "creditline":"Gift of Elaine Lustig Cohen",
-    "description":"Two weave diagrams and one drawing of doublecloth cross section and two woven textile samples, all attached to a piece of cardboard. One sample (a) is doublecloth in red and white cotton and the other is double faced plain weave and twill in tan, yellow, brown and white.",
-    "justification":null,
-    "type":{
-        "id":"35298893",
-        "name":"Samples and charts"
+    "id": "18684947",
+    "tms:id": "217955",
+    "accession_number": "2000-20-3",
+    "title": "Samples And Charts (Germany), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18684947\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35428073",
+    "type_id": "35298893",
+    "date": "ca. 1930",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "2000",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Medium: paper, cotton, wool\nTechnique: (a) pocketed two intercrossed plain weave structures (double cloth) (b) double faced (plain weave and twill), (c) drawings",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Elaine Lustig Cohen; 2000: acquired by Museum",
+    "dimensions": "H x W: 30 x 21 cm (11 13\/16 x 8 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Elaine Lustig Cohen",
+    "description": "Two weave diagrams and one drawing of doublecloth cross section and two woven textile samples, all attached to a piece of cardboard. One sample (a) is doublecloth in red and white cotton and the other is double faced plain weave and twill in tan, yellow, brown and white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Samples and charts",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14225_59c12b3316581658_b.jpg",
-                "width":755,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82942_2914a0f6b69fdd2c_b.jpg",
+                "width": 714,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82942"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14225_59c12b3316581658_n.jpg",
-                "width":236,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82942_2914a0f6b69fdd2c_z.jpg",
+                "width": 446,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82942"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14225_59c12b3316581658_z.jpg",
-                "width":472,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82942_2914a0f6b69fdd2c_n.jpg",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82942"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82942_2914a0f6b69fdd2c_d.gif",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82942"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82942_2914a0f6b69fdd2c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82942"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14225_59c12b3316581658_b.jpg",
+                "width": 755,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "14225"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14225_59c12b3316581658_z.jpg",
+                "width": 472,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "14225"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14225_59c12b3316581658_n.jpg",
+                "width": 236,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "14225"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14225_59c12b3316581658_d.gif",
+                "width": 236,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "14225"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14225_59c12b3316581658_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14225"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18048729",
-            "role_id":"35351535",
-            "person_name":"Private collection",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048729\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18048729",
+            "role_id": "35351535",
+            "person_name": "Private collection",
+            "person_date": "American",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048729\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18052865",
+            "role_id": "35236655",
+            "person_name": "Margarete Willers",
+            "person_date": "German, 1883\u20131977",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052865\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Samples And Charts, ca. 1930.\nca. 1930. Medium: paper, cotton, wool\nTechnique: (a) pocketed double cloth, (b) double faced (plain weave and twill), (c) drawings. Gift of Elaine Lustig Cohen. 2000-20-3."
+    "tombstone": {
+        "epitaph": "Samples And Charts (Germany), ca. 1930. Medium: paper, cotton, wool\nTechnique: (a) pocketed two intercrossed plain weave structures (double cloth) (b) double faced (plain weave and twill), (c) drawings. \nGift of Elaine Lustig Cohen. 2000-20-3"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#0b1222",
-            "closest_css3":"#000000"
+            "color": "#cdc6b5",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#a37e73",
-            "closest_css3":"#808080"
+            "color": "#8f4021",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#9b252a",
-            "closest_css3":"#a52a2a"
+            "color": "#675b43",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#6d4238",
-            "closest_css3":"#8b4513"
+            "color": "#473b29",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#ebd2dd",
-            "closest_css3":"#dcdcdc"
+            "color": "#a67f53",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

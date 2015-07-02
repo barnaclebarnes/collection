@@ -1,103 +1,161 @@
 {
-    "id":"18217765",
-    "tms:id":"26091",
-    "accession_number":"1921-41-33",
-    "title":"Print, \"Ornamental Design from \"Nouvelle suite de cahiers de flerurs naturelle a l'usage des dessinateurs et des peintres\", No.1, Inventes et dessines par Jean Pillement. Graves par Anne Allen.\", after 1775",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18217765\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35518811",
-    "type_id":"35236873",
-    "date":"after 1775",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1921",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Etching with colored inks \u00e0 la poup\u00e9 on cream laid paper tipped in cream paper",
-    "markings":"Stamp in brown ink, verso: Cooper Union Museum New York [Lugt 457e]",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Sheet: 25.1 x 19.7 cm (9 7\/8 x 7 3\/4 in.)\nPlatemark: 19.5 x 14 cm (7 11\/16 x 5 1\/2 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":"Floral motif. Upper level, triangular leaves; lower level, flowers with tri-circular centers.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18217765",
+    "tms:id": "26091",
+    "accession_number": "1921-41-33",
+    "title": "Print, Ornamental Design with Green and Red Leaves, from Nouvelle suite de cahiers de flerurs naturelle a l'usage des dessinateurs et des peintres, No.1, after 1775",
+    "title_raw": "Ornamental Design with Green and Red Leaves, from Nouvelle suite de cahiers de flerurs naturelle a l'usage des dessinateurs et des peintres, No.1",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18217765\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35518811",
+    "type_id": "35236873",
+    "date": "after 1775",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1921",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Etching with colored inks \u00e0 la poup\u00e9 on cream laid paper tipped in cream paper",
+    "markings": "Stamp in brown ink, verso: Cooper Union Museum New York [Lugt 457e]",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Sheet: 25.1 x 19.7 cm (9 7\/8 x 7 3\/4 in.)\nPlatemark: 19.5 x 14 cm (7 11\/16 x 5 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.08",
+            "centimeters"
+        ],
+        "width": [
+            "19.69",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "Floral motif. Upper level, triangular leaves; lower level, flowers with tri-circular centers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40103_a3669129ca84b7d1_b.jpg",
-                "width":781,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40103_a3669129ca84b7d1_b.jpg",
+                "width": 781,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "40103"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40103_a3669129ca84b7d1_n.jpg",
-                "width":244,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40103_a3669129ca84b7d1_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "40103"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40103_a3669129ca84b7d1_z.jpg",
-                "width":488,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40103_a3669129ca84b7d1_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "40103"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40103_a3669129ca84b7d1_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "40103"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40103_a3669129ca84b7d1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "40103"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18063495",
-            "role_id":"35236585",
-            "person_name":"Anne Allen",
-            "role_name":"Etcher",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18063495\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236585\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18063495",
+            "role_id": "35236585",
+            "person_name": "Anne Allen",
+            "person_date": "English, active 1750s\u20131760s",
+            "role_name": "Etcher",
+            "role_display_name": "Etched by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063495\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236585\/"
         },
         {
-            "person_id":"18042407",
-            "role_id":"35236655",
-            "person_name":"Jean-Baptiste Pillement",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042407\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18042407",
+            "role_id": "35236655",
+            "person_name": "Jean-Baptiste Pillement",
+            "person_date": "French, 1728\u20131808",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042407\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"Ornamental Design from \"Nouvelle suite de cahiers de flerurs naturelle a l'usage des dessinateurs et des peintres\", No.1, Inventes et dessines par Jean Pillement. Graves par Anne Allen.\", after 1775.\nafter 1775. Etching with colored inks \u00e0 la poup\u00e9 on cream laid paper tipped in cream paper. Purchased for the Museum by the Advisory Council. 1921-41-33."
+    "tombstone": {
+        "epitaph": "Print, Ornamental Design with Green and Red Leaves, from Nouvelle suite de cahiers de flerurs naturelle a l'usage des dessinateurs et des peintres, No.1, after 1775. Etching with colored inks \u00e0 la poup\u00e9 on cream laid paper tipped in cream paper. \nPurchased for the Museum by the Advisory Council. 1921-41-33"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d4bc8a",
-            "closest_css3":"#d2b48c"
+            "color": "#d4bd8d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#b2bba8",
-            "closest_css3":"#a9a9a9"
+            "color": "#9fa99c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#5c211a",
-            "closest_css3":"#800000"
+            "color": "#87837f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#7e9f8e",
-            "closest_css3":"#778899"
+            "color": "#5e221b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
         },
         {
-            "color":"#785750",
-            "closest_css3":"#696969"
+            "color": "#b0836a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

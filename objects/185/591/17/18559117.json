@@ -1,80 +1,168 @@
 {
-    "id":"18559117",
-    "tms:id":"72759",
-    "accession_number":"1940-4-3",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18559117\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1940",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"Medium: silk\nTechnique: compound plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 22.5 x 18.4 cm (8 7\/8 x 7 1\/4 in.)",
-    "creditline":"Gift of Miss Beatrice Kates",
-    "description":"Red ground with pattern woven in blues, green, and red silk threads. Portion of large embellished circle at top right, with grid structure coming down sides and bottom. Repeated green lozenge background.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18559117",
+    "tms:id": "72759",
+    "accession_number": "1940-4-3",
+    "title": "Textile (China)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18559117\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1940",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "Medium: silk\nTechnique: compound plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 22.5 x 18.4 cm (8 7\/8 x 7 1\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "22.54",
+            "centimeters"
+        ],
+        "weft": [
+            "18.42",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Miss Beatrice Kates",
+    "description": "Red ground with pattern woven in blues, green, and red silk threads. Portion of large embellished circle at top right, with grid structure coming down sides and bottom. Repeated green lozenge background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48864_571393ab66499cb9_b.jpg",
-                "width":892,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63719_8ac24030a4a7605f_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63719"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48864_571393ab66499cb9_n.jpg",
-                "width":279,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63719_8ac24030a4a7605f_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63719"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48864_571393ab66499cb9_z.jpg",
-                "width":558,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63719_8ac24030a4a7605f_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63719"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63719_8ac24030a4a7605f_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63719"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63719_8ac24030a4a7605f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63719"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48864_571393ab66499cb9_b.jpg",
+                "width": 892,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "48864"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48864_571393ab66499cb9_z.jpg",
+                "width": 558,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "48864"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48864_571393ab66499cb9_n.jpg",
+                "width": 279,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "48864"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48864_571393ab66499cb9_d.gif",
+                "width": 279,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "48864"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48864_571393ab66499cb9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "48864"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nMedium: silk\nTechnique: compound plain weave. Gift of Miss Beatrice Kates. 1940-4-3."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#623628",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#baa998",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#291916",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#4b3d2e",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#6d5949",
-            "closest_css3":"#696969"
+            "person_id": "18052475",
+            "role_id": "35351535",
+            "person_name": "Beatrice Kates",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052475\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (China). Medium: silk\nTechnique: compound plain weave. \nGift of Miss Beatrice Kates. 1940-4-3"
+    },
+    "colors": [
+        {
+            "color": "#382c24",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5c4c3d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3f404a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#827e69",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#5f5c42",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

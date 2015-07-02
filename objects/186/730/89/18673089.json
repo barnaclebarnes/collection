@@ -1,79 +1,117 @@
 {
-    "id":"18673089",
-    "tms:id":"211987",
-    "accession_number":"1997-19-35",
-    "title":"Drawing, \"Design for Citibank\/Citicorp Logo\", ca. 1975",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18673089\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35384565",
-    "type_id":"35237093",
-    "date":"ca. 1975",
-    "year_start":"1975",
-    "year_end":"1975",
-    "year_acquired":"1997",
-    "decade":"1970",
-    "woe:country":null,
-    "medium":"Gray marker on white tracing paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Ken Friedman",
-    "description":"Circle, outlined in gray, encloses four-pointed star shape. Area between star points filled with grids of diamond-shaped cells. Grids run perpendicular to adjacent grids. Overall shape reminiscent of a snowflake.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18673089",
+    "tms:id": "211987",
+    "accession_number": "1997-19-35",
+    "title": "Drawing, Design for Citibank\/Citicorp Logo, ca. 1975",
+    "title_raw": "Design for Citibank\/Citicorp Logo",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18673089\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35384565",
+    "type_id": "35237093",
+    "date": "ca. 1975",
+    "year_start": 1975,
+    "year_end": 1975,
+    "year_acquired": "1997",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Gray marker on white tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum",
+    "dimensions": "30.4 x 35.7 cm (11 15\/16 x 14 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.40",
+            "centimeters"
+        ],
+        "width": [
+            "35.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Ken Friedman",
+    "description": "Circle, outlined in gray, encloses four-pointed star shape. Area between star points filled with grids of diamond-shaped cells. Grids run perpendicular to adjacent grids. Overall shape reminiscent of a snowflake.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40314_9b2c86fb3e0b1ed8_b.jpg",
-                "width":1024,
-                "height":875,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40314_9b2c86fb3e0b1ed8_b.jpg",
+                "width": 1024,
+                "height": 875,
+                "is_primary": "1",
+                "image_id": "40314"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40314_9b2c86fb3e0b1ed8_n.jpg",
-                "width":320,
-                "height":274,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40314_9b2c86fb3e0b1ed8_z.jpg",
+                "width": 640,
+                "height": 547,
+                "is_primary": "1",
+                "image_id": "40314"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40314_9b2c86fb3e0b1ed8_z.jpg",
-                "width":640,
-                "height":547,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40314_9b2c86fb3e0b1ed8_n.jpg",
+                "width": 320,
+                "height": 273,
+                "is_primary": "1",
+                "image_id": "40314"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40314_9b2c86fb3e0b1ed8_d.gif",
+                "width": 320,
+                "height": 273,
+                "is_primary": "1",
+                "image_id": "40314"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40314_9b2c86fb3e0b1ed8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "40314"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049807",
-            "role_id":"35351535",
-            "person_name":"Ken Friedman",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049807\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049807",
+            "role_id": "35351535",
+            "person_name": "Ken Friedman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049807\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18041325",
-            "role_id":"35236655",
-            "person_name":"Dan Friedman",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041325\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041325",
+            "role_id": "35236655",
+            "person_name": "Dan Friedman",
+            "person_date": "American, 1945\u20131995",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for Citibank\/Citicorp Logo\", ca. 1975.\nca. 1975. Gray marker on white tracing paper. Gift of Ken Friedman. 1997-19-35."
+    "tombstone": {
+        "epitaph": "Drawing, Design for Citibank\/Citicorp Logo, ca. 1975. Gray marker on white tracing paper. \nGift of Ken Friedman. 1997-19-35"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c0c1c4",
-            "closest_css3":"#c0c0c0"
+            "color": "#c0c1c4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

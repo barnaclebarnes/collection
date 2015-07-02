@@ -1,87 +1,178 @@
 {
-    "id":"18390141",
-    "tms:id":"105215",
-    "accession_number":"1952-105-30",
-    "title":"Textile, ca. 1886",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18390141\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1886",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1952",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: roller-printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 38 x 76 cm (14 15\/16 x 29 15\/16 in.)",
-    "creditline":"Gift of Mr. and Mrs. G. Glen Gould",
-    "description":"Sinuous design of windblown leaves, poppies, and wheat in red and russet on a spotted light ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18390141",
+    "tms:id": "105215",
+    "accession_number": "1952-105-30",
+    "title": "Textile (England), ca. 1886",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18390141\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1886",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1952",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: roller-printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 38 x 76 cm (14 15\/16 x 29 15\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "38.00",
+            "centimeters"
+        ],
+        "weft": [
+            "76.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mr. and Mrs. G. Glen Gould",
+    "description": "Sinuous design of windblown leaves, poppies, and wheat in red and russet on a spotted light ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24607_8027eb9ba8592717_b.jpg",
-                "width":1024,
-                "height":515,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64825_927662a4946a53a0_b.jpg",
+                "width": 1024,
+                "height": 556,
+                "is_primary": "1",
+                "image_id": "64825"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24607_8027eb9ba8592717_n.jpg",
-                "width":320,
-                "height":161,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64825_927662a4946a53a0_z.jpg",
+                "width": 640,
+                "height": 347,
+                "is_primary": "1",
+                "image_id": "64825"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24607_8027eb9ba8592717_z.jpg",
-                "width":640,
-                "height":322,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64825_927662a4946a53a0_n.jpg",
+                "width": 320,
+                "height": 174,
+                "is_primary": "1",
+                "image_id": "64825"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64825_927662a4946a53a0_d.gif",
+                "width": 320,
+                "height": 174,
+                "is_primary": "1",
+                "image_id": "64825"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64825_927662a4946a53a0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64825"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24607_8027eb9ba8592717_b.jpg",
+                "width": 1024,
+                "height": 515,
+                "is_primary": "0",
+                "image_id": "24607"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24607_8027eb9ba8592717_z.jpg",
+                "width": 640,
+                "height": 322,
+                "is_primary": "0",
+                "image_id": "24607"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24607_8027eb9ba8592717_n.jpg",
+                "width": 320,
+                "height": 161,
+                "is_primary": "0",
+                "image_id": "24607"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24607_8027eb9ba8592717_d.gif",
+                "width": 320,
+                "height": 161,
+                "is_primary": "0",
+                "image_id": "24607"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24607_8027eb9ba8592717_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "24607"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045971",
-            "role_id":"35236655",
-            "person_name":"Arthur Wilcock",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045971\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18059469",
+            "role_id": "35351535",
+            "person_name": "Mr. and Mrs. G. Glen Gould",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045971",
+            "role_id": "35236655",
+            "person_name": "Arthur Wilcock",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045971\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1886.\nca. 1886. Medium: cotton\nTechnique: roller-printed on plain weave. Gift of Mr. and Mrs. G. Glen Gould. 1952-105-30."
+    "tombstone": {
+        "epitaph": "Textile (England), ca. 1886. Medium: cotton\nTechnique: roller-printed on plain weave. \nGift of Mr. and Mrs. G. Glen Gould. 1952-105-30"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cfb093",
-            "closest_css3":"#d2b48c"
+            "color": "#d9d4a3",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
         },
         {
-            "color":"#b4866e",
-            "closest_css3":"#bc8f8f"
+            "color": "#bfab6d",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#dad0cd",
-            "closest_css3":"#d3d3d3"
+            "color": "#ae804c",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#835b58",
-            "closest_css3":"#696969"
+            "color": "#744a26",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#73798a",
-            "closest_css3":"#708090"
+            "color": "#8f6638",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

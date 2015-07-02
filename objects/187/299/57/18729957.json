@@ -1,87 +1,188 @@
 {
-    "id":"18729957",
-    "tms:id":"240982",
-    "accession_number":"2008-20-65",
-    "title":"Drawing, \"Design for Textile\", 1950s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18729957\/",
-    "department_id":"35347493",
-    "period_id":"35417049",
-    "media_id":"35389101",
-    "type_id":"35237093",
-    "date":"1950s",
-    "year_start":"1950",
-    "year_end":"1959",
-    "year_acquired":"2008",
-    "decade":"1950",
-    "woe:country":null,
-    "medium":"Black ink over graphite on graph paper, mounted on off white wove paper",
-    "markings":"In black ink on verso of mat: Hoffmann atelier stamp\nIn blue ink on verso of mat: monogram",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Josef Kalbac, Vienna; Ingrid Zerunian, Vienna, Paul Walter, New York City",
-    "dimensions":"29.7 x 41.7 cm (11 11\/16 x 16 7\/16 in.)",
-    "creditline":"Gift of Marilyn Walter Grounds",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18729957",
+    "tms:id": "240982",
+    "accession_number": "2008-20-65",
+    "title": "Drawing, Design for Textile, 1950s",
+    "title_raw": "Design for Textile",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18729957\/",
+    "department_id": "35347493",
+    "period_id": "35417049",
+    "media_id": "68267361",
+    "type_id": "35237093",
+    "date": "1950s",
+    "year_start": 1950,
+    "year_end": 1959,
+    "year_acquired": "2008",
+    "decade": "1950",
+    "woe:country_id": "23424750",
+    "medium": "Brush and black gouache, graphite on graph paper, mounted on off-white wove paper",
+    "markings": "In black ink on verso of mat: Hoffmann atelier stamp\nIn blue ink on verso of mat: monogram",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Josef Kalbac, Vienna; Ingrid Zerunian, Vienna; Marilyn Walter Grounds; 2008: acquired by Museum (through Paul Walter, New York, NY)",
+    "dimensions": "29.7 x 41.7 cm (11 11\/16 x 16 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "29.70",
+            "centimeters"
+        ],
+        "width": [
+            "41.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Marilyn Walter Grounds",
+    "description": "Allover black geometric pattern of framed rectangles.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30109_0dfec94c7d0ef2ef_b.jpg",
-                "width":1024,
-                "height":756,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89435_51a62e8899b42170_b.jpg",
+                "width": 1024,
+                "height": 729,
+                "is_primary": "1",
+                "image_id": "89435"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30109_0dfec94c7d0ef2ef_n.jpg",
-                "width":320,
-                "height":236,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89435_51a62e8899b42170_z.jpg",
+                "width": 640,
+                "height": 456,
+                "is_primary": "1",
+                "image_id": "89435"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30109_0dfec94c7d0ef2ef_z.jpg",
-                "width":640,
-                "height":473,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89435_51a62e8899b42170_n.jpg",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "89435"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89435_51a62e8899b42170_d.gif",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "89435"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89435_51a62e8899b42170_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89435"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30109_0dfec94c7d0ef2ef_b.jpg",
+                "width": 1024,
+                "height": 756,
+                "is_primary": "0",
+                "image_id": "30109"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30109_0dfec94c7d0ef2ef_z.jpg",
+                "width": 640,
+                "height": 473,
+                "is_primary": "0",
+                "image_id": "30109"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30109_0dfec94c7d0ef2ef_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "30109"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30109_0dfec94c7d0ef2ef_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "0",
+                "image_id": "30109"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30109_0dfec94c7d0ef2ef_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "30109"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046353",
-            "role_id":"35236655",
-            "person_name":"Josef Hoffmann",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046353\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18062301",
+            "role_id": "35351535",
+            "person_name": "Marilyn Walter Grounds",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062301\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046353",
+            "role_id": "35236655",
+            "person_name": "Josef Hoffmann",
+            "person_date": "Austrian, b. Moravia, present-day Czech Republic, 1870\u20131956",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046353\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18041007",
+            "role_id": "51571159",
+            "person_name": "Paul F. Walter",
+            "person_date": "",
+            "role_name": "Agent",
+            "role_display_name": "Agent:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571159\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for Textile\", 1950s.\n1950s. Black ink over graphite on graph paper, mounted on off white wove paper. Gift of Marilyn Walter Grounds. 2008-20-65."
+    "tombstone": {
+        "epitaph": "Drawing, Design for Textile, 1950s. Brush and black gouache, graphite on graph paper, mounted on off-white wove paper. \nGift of Marilyn Walter Grounds. 2008-20-65"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#565948",
-            "closest_css3":"#556b2f"
+            "color": "#eae7d2",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
         },
         {
-            "color":"#f2eed6",
-            "closest_css3":"#faebd7"
+            "color": "#322f28",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#717169",
-            "closest_css3":"#696969"
+            "color": "#a5a193",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#282923",
-            "closest_css3":"#2f4f4f"
+            "color": "#817d71",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#625133",
-            "closest_css3":"#556b2f"
+            "color": "#615c52",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

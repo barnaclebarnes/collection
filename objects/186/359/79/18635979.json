@@ -1,95 +1,196 @@
 {
-    "id":"18635979",
-    "tms:id":"192837",
-    "accession_number":"1991-160-9",
-    "title":"Purse, \"Purse with Egyptian ornament\", ca. 1880",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18635979\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35398595",
-    "type_id":"35264073",
-    "date":"ca. 1880",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1991",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Gold mesh, turquoise",
-    "markings":null,
-    "signed":"\"14\" and a trident symbol of Sloan & Company are stamped on inside of purse frame; below them \"Black, Starr & Frost\" is stamped.",
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"19.5 L (including ring and chain) x 7.5 W x 1.2 D cm\n(7 11\/16 x 2 15\/16 x 1\/2 in. )",
-    "creditline":"Gift of Frederick Saal in honor of Dr. and Mrs. Joseph Saal",
-    "description":"Small mesh purse with Egyptian revival motifs, including a winged, turquoise scarab beneath clasp, applied wire work and beading along frame, and four small pendants suspended from purse bottom.",
-    "justification":null,
-    "type":{
-        "id":"35264073",
-        "name":"Purse"
+    "id": "18635979",
+    "tms:id": "192837",
+    "accession_number": "1991-160-9",
+    "title": "Purse with Egyptian ornament Purse, ca. 1880",
+    "title_raw": "Purse with Egyptian ornament",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18635979\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35398595",
+    "type_id": "35264073",
+    "date": "ca. 1880",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1991",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Gold mesh, turquoise",
+    "markings": null,
+    "signed": "\"14\" and a trident symbol of Sloan & Company are stamped on inside of purse frame; below them \"Black, Starr & Frost\" is stamped.",
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "19.5 L (including ring and chain) x 7.5 W x 1.2 D cm\n(7 11\/16 x 2 15\/16 x 1\/2 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.20",
+            "centimeters"
+        ],
+        "height": [
+            "19.50",
+            "centimeters"
+        ],
+        "length": [
+            "10.00",
+            "centimeters"
+        ],
+        "width": [
+            "7.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Frederick Saal in honor of Dr. and Mrs. Joseph Saal",
+    "description": "Small mesh purse with Egyptian revival motifs, including a winged, turquoise scarab beneath clasp, applied wire work and beading along frame, and four small pendants suspended from purse bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Purse",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11785_acb99f5861c0ef5f_b.jpg",
-                "width":657,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92456_5cfe010f13e3fc1e_b.jpg",
+                "width": 540,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92456"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11785_acb99f5861c0ef5f_n.jpg",
-                "width":205,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92456_5cfe010f13e3fc1e_z.jpg",
+                "width": 337,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92456"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11785_acb99f5861c0ef5f_z.jpg",
-                "width":410,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92456_5cfe010f13e3fc1e_n.jpg",
+                "width": 169,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92456"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92456_5cfe010f13e3fc1e_d.gif",
+                "width": 169,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92456"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92456_5cfe010f13e3fc1e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92456"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11785_acb99f5861c0ef5f_b.jpg",
+                "width": 657,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11785"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11785_acb99f5861c0ef5f_z.jpg",
+                "width": 410,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11785"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11785_acb99f5861c0ef5f_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11785"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11785_acb99f5861c0ef5f_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11785"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11785_acb99f5861c0ef5f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11785"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18052951",
-            "role_id":"35236749",
-            "person_name":"Black, Starr and Frost Co., New York",
-            "role_name":"Retailer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18052951\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236749\/"
+            "person_id": "18052951",
+            "role_id": "35236749",
+            "person_name": "Black, Starr and Frost Co., New York",
+            "person_date": "",
+            "role_name": "Retailer",
+            "role_display_name": "Retailed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052951\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236749\/"
         },
         {
-            "person_id":"18536421",
-            "role_id":"35236685",
-            "person_name":"Sloan & Company",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18536421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18058311",
+            "role_id": "35351535",
+            "person_name": "Frederick Saal",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058311\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18536421",
+            "role_id": "35236685",
+            "person_name": "Sloan & Company",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Purse, \"Purse with Egyptian ornament\", ca. 1880.\nca. 1880. Gold mesh, turquoise. Gift of Frederick Saal in honor of Dr. and Mrs. Joseph Saal. 1991-160-9."
+    "tombstone": {
+        "epitaph": "Purse with Egyptian ornament Purse, ca. 1880. Gold mesh, turquoise. \nGift of Frederick Saal in honor of Dr. and Mrs. Joseph Saal. 1991-160-9"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c79051",
-            "closest_css3":"#cd853f"
+            "color": "#99a0a6",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#e9cb71",
-            "closest_css3":"#deb887"
+            "color": "#6c5c30",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#a46716",
-            "closest_css3":"#a0522d"
+            "color": "#282111",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         },
         {
-            "color":"#f7e0b8",
-            "closest_css3":"#f5deb3"
+            "color": "#b8a65e",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#6a431c",
-            "closest_css3":"#8b4513"
+            "color": "#928047",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,87 +1,235 @@
 {
-    "id":"18343965",
-    "tms:id":"55829",
-    "accession_number":"1937-1-7",
-    "title":"Textile, \"Cheerio\", 1925",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18343965\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":"1925",
-    "year_start":"1925",
-    "year_end":"1925",
-    "year_acquired":"1937",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Medium: silk\nTechnique: printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Marian Hague",
-    "description":"A repeat of the letters which spell 'cheerio'. Purple and lavender on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18343965",
+    "tms:id": "55829",
+    "accession_number": "1937-1-7",
+    "title": "Textile, Cheerio, 1925",
+    "title_raw": "Cheerio",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18343965\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "1925",
+    "year_start": 1925,
+    "year_end": 1925,
+    "year_acquired": "1937",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk\nTechnique: printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 27 x 98.4 cm (10 5\/8 x 38 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "26.99",
+            "centimeters"
+        ],
+        "width": [
+            "98.43",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Marian Hague",
+    "description": "A repeat of the letters which spell 'cheerio'. Purple and lavender on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3257_ae8ba4fe71473a29_b.jpg",
-                "width":1024,
-                "height":603,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67421_dd4c89c42bfce547_b.jpg",
+                "width": 1024,
+                "height": 638,
+                "is_primary": "1",
+                "image_id": "67421"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3257_ae8ba4fe71473a29_n.jpg",
-                "width":320,
-                "height":188,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67421_dd4c89c42bfce547_z.jpg",
+                "width": 640,
+                "height": 399,
+                "is_primary": "1",
+                "image_id": "67421"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3257_ae8ba4fe71473a29_z.jpg",
-                "width":640,
-                "height":377,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67421_dd4c89c42bfce547_n.jpg",
+                "width": 320,
+                "height": 199,
+                "is_primary": "1",
+                "image_id": "67421"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67421_dd4c89c42bfce547_d.gif",
+                "width": 320,
+                "height": 199,
+                "is_primary": "1",
+                "image_id": "67421"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67421_dd4c89c42bfce547_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67421"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67422_ef52a58411ddc3e7_b.jpg",
+                "width": 1024,
+                "height": 299,
+                "is_primary": "0",
+                "image_id": "67422"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67422_ef52a58411ddc3e7_z.jpg",
+                "width": 640,
+                "height": 187,
+                "is_primary": "0",
+                "image_id": "67422"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67422_ef52a58411ddc3e7_n.jpg",
+                "width": 320,
+                "height": 93,
+                "is_primary": "0",
+                "image_id": "67422"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67422_ef52a58411ddc3e7_d.gif",
+                "width": 320,
+                "height": 93,
+                "is_primary": "0",
+                "image_id": "67422"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67422_ef52a58411ddc3e7_sq.jpg",
+                "width": 300,
+                "height": 299,
+                "is_primary": "0",
+                "image_id": "67422"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3257_ae8ba4fe71473a29_b.jpg",
+                "width": 1024,
+                "height": 603,
+                "is_primary": "0",
+                "image_id": "3257"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3257_ae8ba4fe71473a29_z.jpg",
+                "width": 640,
+                "height": 377,
+                "is_primary": "0",
+                "image_id": "3257"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3257_ae8ba4fe71473a29_n.jpg",
+                "width": 320,
+                "height": 188,
+                "is_primary": "0",
+                "image_id": "3257"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3257_ae8ba4fe71473a29_d.gif",
+                "width": 320,
+                "height": 188,
+                "is_primary": "0",
+                "image_id": "3257"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3257_ae8ba4fe71473a29_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3257"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045857",
-            "role_id":"35236655",
-            "person_name":"Kneeland (Ruzzie) Green",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045857\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18052465",
+            "role_id": "35351535",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045851",
+            "role_id": "35236681",
+            "person_name": "Stehli Silk Corporation",
+            "person_date": "New York, NY",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045851\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18045857",
+            "role_id": "35236655",
+            "person_name": "Kneeland (Ruzzie) Green",
+            "person_date": "1892 \u2013 1956",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045857\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Cheerio\", 1925.\n1925. Medium: silk\nTechnique: printed. Gift of Marian Hague. 1937-1-7."
+    "tombstone": {
+        "epitaph": "Textile, Cheerio, 1925. Medium: silk\nTechnique: printed. \nGift of Marian Hague. 1937-1-7"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#aeb3c6",
-            "closest_css3":"#c0c0c0"
+            "color": "#e7e2cb",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#915186",
-            "closest_css3":"#808080"
+            "color": "#c27b9e",
+            "closest_crayola": "#d98695",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#646a99",
-            "closest_css3":"#708090"
+            "color": "#a19fb5",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#a296af",
-            "closest_css3":"#a9a9a9"
+            "color": "#472471",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
         },
         {
-            "color":"#b7c9d0",
-            "closest_css3":"#b0c4de"
+            "color": "#d5b6b4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

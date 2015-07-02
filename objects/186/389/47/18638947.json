@@ -1,87 +1,145 @@
 {
-    "id":"18638947",
-    "tms:id":"194335",
-    "accession_number":"1992-139-23",
-    "title":"Sidewall, ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18638947\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"ca. 1930",
-    "year_start":"1920",
-    "year_end":"1935",
-    "year_acquired":"1992",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook",
-    "description":"Small-scale multi-colored floral pattern. Printed on striped background.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
-    },
-    "images":[
+    "id": "18638947",
+    "tms:id": "194335",
+    "accession_number": "1992-139-23",
+    "title": "Sidewall (USA), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18638947\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "ca. 1930",
+    "year_start": 1920,
+    "year_end": 1935,
+    "year_acquired": "1992",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook",
+    "description": "Small-scale multi-colored floral pattern. Printed on striped background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11924_abf4252eb8691486_b.jpg",
-                "width":655,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105855_0b101056bc06e597_b.jpg",
+                "width": 618,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "105855"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11924_abf4252eb8691486_n.jpg",
-                "width":205,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105855_0b101056bc06e597_z.jpg",
+                "width": 386,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "105855"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11924_abf4252eb8691486_z.jpg",
-                "width":409,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105855_0b101056bc06e597_n.jpg",
+                "width": 193,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105855"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105855_0b101056bc06e597_d.gif",
+                "width": 193,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105855"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105855_0b101056bc06e597_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105855"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11924_abf4252eb8691486_b.jpg",
+                "width": 655,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11924"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11924_abf4252eb8691486_z.jpg",
+                "width": 409,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11924"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11924_abf4252eb8691486_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11924"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11924_abf4252eb8691486_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11924"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11924_abf4252eb8691486_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11924"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046677",
-            "role_id":"35236657",
-            "person_name":"Mayflower Wallpapers",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046677\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046677",
+            "role_id": "35236657",
+            "person_name": "Mayflower Wallpapers",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046677\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, ca. 1930.\nca. 1930. Machine-printed. Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook. 1992-139-23."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), ca. 1930. Machine-printed. \nGift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook. 1992-139-23"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a6ad9e",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#c7cea9",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#89876b",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#d4ecd9",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#ae8b74",
-            "closest_css3":"#bc8f8f"
+            "color": "#ebb382",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

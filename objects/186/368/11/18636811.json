@@ -1,49 +1,121 @@
 {
-    "id":"18636811",
-    "tms:id":"193257",
-    "accession_number":"1991-59-154",
-    "title":"Pitcher, ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18636811\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35393721",
-    "type_id":"35237237",
-    "date":"ca. 1930",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1991",
-    "decade":"1920",
-    "woe:country":null,
-    "medium":"glazed ceramic",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mel Byars",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237237",
-        "name":"Pitcher"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18636811",
+    "tms:id": "193257",
+    "accession_number": "1991-59-154",
+    "title": "Pitcher, ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18636811\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35393721",
+    "type_id": "35237237",
+    "date": "ca. 1930",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1991",
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "glazed ceramic",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mel Byars",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Pitcher",
+    "images": [
         {
-            "person_id":"18040939",
-            "role_id":"35351535",
-            "person_name":"Mel Byars",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18040939\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107952_886ed93eb14e61bb_b.jpg",
+                "width": 1024,
+                "height": 986,
+                "is_primary": "1",
+                "image_id": "107952"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107952_886ed93eb14e61bb_z.jpg",
+                "width": 640,
+                "height": 616,
+                "is_primary": "1",
+                "image_id": "107952"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107952_886ed93eb14e61bb_n.jpg",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "107952"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107952_886ed93eb14e61bb_d.gif",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "107952"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107952_886ed93eb14e61bb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107952"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Pitcher, ca. 1930.\nca. 1930. glazed ceramic. Gift of Mel Byars. 1991-59-154."
+    "participants": [
+        {
+            "person_id": "18040939",
+            "role_id": "35351535",
+            "person_name": "Mel Byars",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040939\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Pitcher, ca. 1930. glazed ceramic. \nGift of Mel Byars. 1991-59-154"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#daaa49",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        },
+        {
+            "color": "#f8d584",
+            "closest_crayola": "#fcd975",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#fef7bf",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#fffacd",
+            "closest_css4": "#fffacd"
+        },
+        {
+            "color": "#463728",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b0893f",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "is_loan_object": 0
 }

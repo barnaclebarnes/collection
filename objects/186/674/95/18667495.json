@@ -1,42 +1,119 @@
 {
-    "id":"18667495",
-    "tms:id":"209135",
-    "accession_number":"1995-50-150",
-    "title":"Textile, \"Diane and Endymion (copy)\", early 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18667495\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35383645",
-    "type_id":"35251739",
-    "date":"early 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Plate printed cotton plain weave.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 87cm (34in.). Weft: (edgec cut): 90.5cm (35 1\/2in).",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Same design as 1995-50-149a\/c but there are enough differences in the details to indicate it was printed from a different plate.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18667495",
+    "tms:id": "209135",
+    "accession_number": "1995-50-150",
+    "title": "Textile, Diane and Endymion (copy), early 19th century",
+    "title_raw": "Diane and Endymion (copy)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18667495\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "early 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: plate printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 87 x 90.5 cm (34 1\/4 x 35 5\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "87.00",
+            "centimeters"
+        ],
+        "weft": [
+            "90.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Same design as 1995-50-149a\/c but there are enough differences in the details to indicate it was printed from a different plate.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109998_821074791b48dfeb_b.jpg",
+                "width": 977,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109998"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109998_821074791b48dfeb_z.jpg",
+                "width": 610,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109998"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109998_821074791b48dfeb_n.jpg",
+                "width": 305,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109998"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109998_821074791b48dfeb_d.gif",
+                "width": 305,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109998"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109998_821074791b48dfeb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109998"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Diane and Endymion (copy)\", early 19th century.\nearly 19th century. Plate printed cotton plain weave.. Bequest of Elinor Merrell. 1995-50-150."
+    "tombstone": {
+        "epitaph": "Textile, Diane and Endymion (copy), early 19th century. Medium: cotton\nTechnique: plate printed on plain weave. \nBequest of Elinor Merrell. 1995-50-150"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#af807b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#b29f91",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#b9b49c",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

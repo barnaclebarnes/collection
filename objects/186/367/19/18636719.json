@@ -1,49 +1,120 @@
 {
-    "id":"18636719",
-    "tms:id":"193210",
-    "accession_number":"1991-59-112",
-    "title":"Ashtray, \"Swan\", 1930\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18636719\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35398839",
-    "type_id":"35248265",
-    "date":"1930\u201340",
-    "year_start":"1930",
-    "year_end":"1940",
-    "year_acquired":"1991",
-    "decade":"1930",
-    "woe:country":null,
-    "medium":"polished chromium,enamel",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 6.8 x 14 x 6.4 cm (2 11\/16 x 5 1\/2 x 2 1\/2 in.)",
-    "creditline":"Gift of Mel Byars",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35248265",
-        "name":"ashtray"
+    "id": "18636719",
+    "tms:id": "193210",
+    "accession_number": "1991-59-112",
+    "title": "Swan Ashtray, 1930\u201340",
+    "title_raw": "Swan",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18636719\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35398839",
+    "type_id": "35248265",
+    "date": "1930\u201340",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1991",
+    "decade": "1930",
+    "woe:country_id": null,
+    "medium": "polished chromium,enamel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 6.8 x 14 x 6.4 cm (2 11\/16 x 5 1\/2 x 2 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.40",
+            "centimeters"
+        ],
+        "height": [
+            "6.80",
+            "centimeters"
+        ],
+        "width": [
+            "14.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mel Byars",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "ashtray",
+    "images": [
         {
-            "person_id":"18040939",
-            "role_id":"35351535",
-            "person_name":"Mel Byars",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18040939\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111620_db1b298fd1b2c6b9_b.jpg",
+                "width": 1024,
+                "height": 866,
+                "is_primary": "1",
+                "image_id": "111620"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111620_db1b298fd1b2c6b9_z.jpg",
+                "width": 640,
+                "height": 541,
+                "is_primary": "1",
+                "image_id": "111620"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111620_db1b298fd1b2c6b9_n.jpg",
+                "width": 320,
+                "height": 271,
+                "is_primary": "1",
+                "image_id": "111620"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111620_db1b298fd1b2c6b9_d.gif",
+                "width": 320,
+                "height": 271,
+                "is_primary": "1",
+                "image_id": "111620"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111620_db1b298fd1b2c6b9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111620"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Ashtray, \"Swan\", 1930\u201340.\n1930\u201340. polished chromium,enamel. Gift of Mel Byars. 1991-59-112."
+    "participants": [
+        {
+            "person_id": "18040939",
+            "role_id": "35351535",
+            "person_name": "Mel Byars",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040939\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18537451",
+            "role_id": "35236685",
+            "person_name": "Chase Brass & Copper Co.",
+            "person_date": "Founded 1876",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537451\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Swan Ashtray, 1930\u201340. polished chromium,enamel. \nGift of Mel Byars. 1991-59-112"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d1d1cf",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "is_loan_object": 0
 }

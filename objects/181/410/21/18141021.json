@@ -1,83 +1,162 @@
 {
-    "id":"18141021",
-    "tms:id":"13261",
-    "accession_number":"1904-20-10",
-    "title":"Mount, ca. 1800",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18141021\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35372063",
-    "type_id":"35259245",
-    "date":"ca. 1800",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1904",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Gilt bronze",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Jacob H. Schiff; 1904: acquired by Museum",
-    "dimensions":"H x W: 29 x 9.5 cm (11 7\/16 x 3 3\/4 in.)",
-    "creditline":"Gift of Jacob H. Schiff",
-    "description":"Winged figure in chariot pulled by butterflies.",
-    "justification":null,
-    "type":{
-        "id":"35259245",
-        "name":"Mount"
+    "id": "18141021",
+    "tms:id": "13261",
+    "accession_number": "1904-20-10",
+    "title": "Mount (France), ca. 1800",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18141021\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35372063",
+    "type_id": "35259245",
+    "date": "ca. 1800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1904",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Gilt bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Jacob H. Schiff; 1904: acquired by Museum",
+    "dimensions": "H x W: 29 x 9.5 cm (11 7\/16 x 3 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "29.00",
+            "centimeters"
+        ],
+        "width": [
+            "9.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Jacob H. Schiff",
+    "description": "Winged figure in chariot pulled by butterflies.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Mount",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44233_dc2d3c884251ca70_b.jpg",
-                "width":1024,
-                "height":419,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104574_dc780dd9c717a612_b.jpg",
+                "width": 1024,
+                "height": 601,
+                "is_primary": "1",
+                "image_id": "104574"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44233_dc2d3c884251ca70_n.jpg",
-                "width":320,
-                "height":131,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104574_dc780dd9c717a612_z.jpg",
+                "width": 640,
+                "height": 375,
+                "is_primary": "1",
+                "image_id": "104574"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44233_dc2d3c884251ca70_z.jpg",
-                "width":640,
-                "height":262,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104574_dc780dd9c717a612_n.jpg",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "104574"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104574_dc780dd9c717a612_d.gif",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "104574"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104574_dc780dd9c717a612_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104574"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44233_fbddbf3554b79f30_b.jpg",
+                "width": 1024,
+                "height": 465,
+                "is_primary": "0",
+                "image_id": "44233"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44233_fbddbf3554b79f30_z.jpg",
+                "width": 640,
+                "height": 291,
+                "is_primary": "0",
+                "image_id": "44233"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44233_fbddbf3554b79f30_n.jpg",
+                "width": 320,
+                "height": 145,
+                "is_primary": "0",
+                "image_id": "44233"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44233_fbddbf3554b79f30_d.gif",
+                "width": 320,
+                "height": 145,
+                "is_primary": "0",
+                "image_id": "44233"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44233_fbddbf3554b79f30_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "44233"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050451",
-            "role_id":"35351535",
-            "person_name":"Jacob H. Schiff",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050451\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18050451",
+            "role_id": "35351535",
+            "person_name": "Jacob H. Schiff",
+            "person_date": "American, b. Germany, 1847\u20131920",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050451\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Mount, ca. 1800.\nca. 1800. Gilt bronze. Gift of Jacob H. Schiff. 1904-20-10."
+    "tombstone": {
+        "epitaph": "Mount (France), ca. 1800. Gilt bronze. \nGift of Jacob H. Schiff. 1904-20-10"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b39449",
-            "closest_css3":"#cd853f"
+            "color": "#ba9e58",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#ddc26c",
-            "closest_css3":"#deb887"
+            "color": "#74613d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#93783c",
-            "closest_css3":"#a0522d"
+            "color": "#9d7e3c",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#fcf4b3",
-            "closest_css3":"#ffe4b5"
+            "color": "#f3d782",
+            "closest_crayola": "#fcd975",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

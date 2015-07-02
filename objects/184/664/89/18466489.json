@@ -1,80 +1,168 @@
 {
-    "id":"18466489",
-    "tms:id":"143874",
-    "accession_number":"1968-73-3",
-    "title":"Table Cover, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18466489\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35255171",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":"23424848",
-    "medium":"Medium: cotton\nTechnique: block-printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 78 x 74 cm (30 11\/16 x 29 1\/8 in.)",
-    "creditline":"Gift of Alice B. Beer",
-    "description":"Small square table cover, pieced, of cream-color cotton block-printed in reds, violet, and green.  Corner design of large flowers and foliage; small all-over pattern of little buds.  Narrow floral border.  Green is blue over yellow.",
-    "justification":null,
-    "type":{
-        "id":"35255171",
-        "name":"Table cover"
+    "id": "18466489",
+    "tms:id": "143874",
+    "accession_number": "1968-73-3",
+    "title": "Table Cover (India), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18466489\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35255171",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": "23424848",
+    "medium": "Medium: cotton\nTechnique: block-printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 78 x 74 cm (30 11\/16 x 29 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "78.00",
+            "centimeters"
+        ],
+        "width": [
+            "74.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alice B. Beer",
+    "description": "Small square table cover, pieced, of cream-color cotton block-printed in reds, violet, and green.  Corner design of large flowers and foliage; small all-over pattern of little buds.  Narrow floral border.  Green is blue over yellow.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424848",
+    "type": "Table cover",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35636_8310eece32648a0e_b.jpg",
-                "width":1024,
-                "height":875,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105392_55e549eb9640b8bb_b.jpg",
+                "width": 1024,
+                "height": 936,
+                "is_primary": "1",
+                "image_id": "105392"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35636_8310eece32648a0e_n.jpg",
-                "width":320,
-                "height":273,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105392_55e549eb9640b8bb_z.jpg",
+                "width": 640,
+                "height": 585,
+                "is_primary": "1",
+                "image_id": "105392"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35636_8310eece32648a0e_z.jpg",
-                "width":640,
-                "height":547,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105392_55e549eb9640b8bb_n.jpg",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "105392"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105392_55e549eb9640b8bb_d.gif",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "105392"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105392_55e549eb9640b8bb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105392"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35636_8310eece32648a0e_b.jpg",
+                "width": 1024,
+                "height": 875,
+                "is_primary": "0",
+                "image_id": "35636"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35636_8310eece32648a0e_z.jpg",
+                "width": 640,
+                "height": 547,
+                "is_primary": "0",
+                "image_id": "35636"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35636_8310eece32648a0e_n.jpg",
+                "width": 320,
+                "height": 273,
+                "is_primary": "0",
+                "image_id": "35636"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35636_8310eece32648a0e_d.gif",
+                "width": 320,
+                "height": 273,
+                "is_primary": "0",
+                "image_id": "35636"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35636_8310eece32648a0e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35636"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Table Cover, 19th century.\n19th century. Medium: cotton\nTechnique: block-printed on plain weave. Gift of Alice B. Beer. 1968-73-3."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#decfc9",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#d6bd98",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#75221a",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#dfeee0",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#97604a",
-            "closest_css3":"#a0522d"
+            "person_id": "18049407",
+            "role_id": "35351535",
+            "person_name": "Alice Baldwin Beer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049407\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Table Cover (India), 19th century. Medium: cotton\nTechnique: block-printed on plain weave. \nGift of Alice B. Beer. 1968-73-3"
+    },
+    "colors": [
+        {
+            "color": "#ada5a3",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#b4a488",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7b453d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#967561",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#8f8776",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "India",
+    "is_loan_object": 0
 }

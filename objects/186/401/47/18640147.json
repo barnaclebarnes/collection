@@ -1,42 +1,117 @@
 {
-    "id":"18640147",
-    "tms:id":"194938",
-    "accession_number":"1992-5-13",
-    "title":"Beaker",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18640147\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35237415",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1992",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"8.2 x 9 x 6.9 cm (3 1\/4 x 3 9\/16 x 2 11\/16 in.)",
-    "creditline":"Gift of Wendy Vanderbilt Lehman",
-    "description":"Famille verte beaker.",
-    "justification":null,
-    "type":{
-        "id":"35237415",
-        "name":"beaker"
+    "id": "18640147",
+    "tms:id": "194938",
+    "accession_number": "1992-5-13",
+    "title": "Beaker (China)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18640147\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237415",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1992",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "8.2 x 9 x 6.9 cm (3 1\/4 x 3 9\/16 x 2 11\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.90",
+            "centimeters"
+        ],
+        "height": [
+            "8.20",
+            "centimeters"
+        ],
+        "width": [
+            "9.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Wendy Vanderbilt Lehman",
+    "description": "Famille verte beaker.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "beaker",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110129_92383dc1534aeaf0_b.jpg",
+                "width": 1024,
+                "height": 742,
+                "is_primary": "1",
+                "image_id": "110129"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110129_92383dc1534aeaf0_z.jpg",
+                "width": 640,
+                "height": 463,
+                "is_primary": "1",
+                "image_id": "110129"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110129_92383dc1534aeaf0_n.jpg",
+                "width": 320,
+                "height": 232,
+                "is_primary": "1",
+                "image_id": "110129"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110129_92383dc1534aeaf0_d.gif",
+                "width": 320,
+                "height": 232,
+                "is_primary": "1",
+                "image_id": "110129"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110129_92383dc1534aeaf0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110129"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18041027",
+            "role_id": "35351535",
+            "person_name": "Mrs. Wendy Vanderbilt Lehman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041027\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Beaker.\nporcelain. Gift of Wendy Vanderbilt Lehman. 1992-5-13."
+    "tombstone": {
+        "epitaph": "Beaker (China). porcelain. \nGift of Wendy Vanderbilt Lehman. 1992-5-13"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#989583",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#736a5b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

@@ -1,87 +1,186 @@
 {
-    "id":"18429353",
-    "tms:id":"125065",
-    "accession_number":"1959-91-2",
-    "title":"Textile, ca. 1805",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18429353\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1805",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1959",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: block printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 42 x 92 cm (16 9\/16 x 36 1\/4 in.)\nRepeat H: 27.9 cm (11 in.)\nOther (diamond frame) L: 21cm (8 1\/4in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"Design shows diamond shaped frame with pseudo-Egyptian hieroglyphics and figures in medallions. Three pseudo-Egyptian animal gods appear within the diamond shapes. The colors \u2013 yellow, tan, brown, deep pink, and red \u2013 are overprinted on pink, light-blue, deeper blue, green, and gray.  Hieroglyphics and frame are printed in black over a yellow background. In one medallion, kneeling female figure before animal-headed statue is against blue ground, very unevenly applied \u2013 possibly by hand. Green is made by printing blue over yellow.  Left selvage present and shows three blue threads.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18429353",
+    "tms:id": "125065",
+    "accession_number": "1959-91-2",
+    "title": "Textile (England), ca. 1805",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18429353\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1805",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1959",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: block printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 42 x 92 cm (16 9\/16 x 36 1\/4 in.)\nRepeat H: 27.9 cm (11 in.)\nOther (diamond frame) L: 21cm (8 1\/4in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.90",
+            "centimeters"
+        ],
+        "length": [
+            "21.00",
+            "centimeters"
+        ],
+        "warp": [
+            "42.00",
+            "centimeters"
+        ],
+        "weft": [
+            "92.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Design shows diamond shaped frame with pseudo-Egyptian hieroglyphics and figures in medallions. Three pseudo-Egyptian animal gods appear within the diamond shapes. The colors \u2013 yellow, tan, brown, deep pink, and red \u2013 are overprinted on pink, light-blue, deeper blue, green, and gray.  Hieroglyphics and frame are printed in black over a yellow background. In one medallion, kneeling female figure before animal-headed statue is against blue ground, very unevenly applied \u2013 possibly by hand. Green is made by printing blue over yellow.  Left selvage present and shows three blue threads.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6075_251dc2b52dac9865_b.jpg",
-                "width":483,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110991_a066cb6103505f91_b.jpg",
+                "width": 496,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110991"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6075_251dc2b52dac9865_n.jpg",
-                "width":151,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110991_a066cb6103505f91_z.jpg",
+                "width": 310,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110991"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6075_251dc2b52dac9865_z.jpg",
-                "width":302,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110991_a066cb6103505f91_n.jpg",
+                "width": 155,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110991"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110991_a066cb6103505f91_d.gif",
+                "width": 155,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110991"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110991_a066cb6103505f91_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110991"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6075_251dc2b52dac9865_b.jpg",
+                "width": 483,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "6075"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6075_251dc2b52dac9865_z.jpg",
+                "width": 302,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "6075"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6075_251dc2b52dac9865_n.jpg",
+                "width": 151,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6075"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6075_251dc2b52dac9865_d.gif",
+                "width": 151,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6075"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6075_251dc2b52dac9865_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "6075"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049407",
+            "role_id": "35352245",
+            "person_name": "Alice Baldwin Beer",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049407\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1805.\nca. 1805. Medium: cotton\nTechnique: block printed on plain weave. Gift of Harvey Smith. 1959-91-2."
+    "tombstone": {
+        "epitaph": "Textile (England), ca. 1805. Medium: cotton\nTechnique: block printed on plain weave. \nGift of Harvey Smith. 1959-91-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b19059",
-            "closest_css3":"#cd853f"
+            "color": "#b4a27e",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#43342c",
-            "closest_css3":"#2f4f4f"
+            "color": "#7b694f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#674b37",
-            "closest_css3":"#556b2f"
+            "color": "#5e4e3e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#866649",
-            "closest_css3":"#a0522d"
+            "color": "#312927",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#cdcac1",
-            "closest_css3":"#c0c0c0"
+            "color": "#885949",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

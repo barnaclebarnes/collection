@@ -1,95 +1,166 @@
 {
-    "id":"18172095",
-    "tms:id":"18499",
-    "accession_number":"1911-28-446",
-    "title":"Drawing, \"Section of the Wings and Elevation of a Wall on the Court, Palazzo Farnese, Rome\", ca. 1750",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18172095\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35418001",
-    "type_id":"35237093",
-    "date":"ca. 1750",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1911",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Pen and brown ink, brush and gray and red wash, over black chalk on paper, lined",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Indication of scale in \"pouces\" and \"pieds\" in pen and brown ink, notations of measurements throughout",
-    "provenance":"Leon Decloux",
-    "dimensions":"24.6 x 53 cm (9 11\/16 x 20 7\/8 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":"Section of a large, three-story building.  Section through the middle line of the court, the vestibule being at the left.  The elevation of the southeastern side of the court and section of the main and the rear wings are shown.  Measurements are inscribed.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18172095",
+    "tms:id": "18499",
+    "accession_number": "1911-28-446",
+    "title": "Drawing, Section of the Wings and Elevation of a Wall on the Court, Palazzo Farnese, Rome, ca. 1750",
+    "title_raw": "Section of the Wings and Elevation of a Wall on the Court, Palazzo Farnese, Rome",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18172095\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "68264479",
+    "type_id": "35237093",
+    "date": "ca. 1750",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1911",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Pen and brown ink, brush and gray, red wash, over black chalk on paper, lined",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Indication of scale in \"pouces\" and \"pieds\" in pen and brown ink, notations of measurements throughout",
+    "provenance": "Leon Decloux; 1911: acquired by Museum",
+    "dimensions": "24.6 x 53 cm (9 11\/16 x 20 7\/8 in.)\nMat: 55.6 x 71.1 cm (21 7\/8 in. x 28 in.)",
+    "dimensions_raw": {
+        "height": [
+            "24.60",
+            "centimeters"
+        ],
+        "width": [
+            "53.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "Section of a large, three-story building.  Section through the middle line of the court, the vestibule being at the left.  The elevation of the southeastern side of the court and section of the main and the rear wings are shown.  Measurements are inscribed.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18990_ff120e1c21d8e92e_b.jpg",
-                "width":1024,
-                "height":527,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88508_085f3c9233bc59ac_b.jpg",
+                "width": 1024,
+                "height": 469,
+                "is_primary": "1",
+                "image_id": "88508"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18990_ff120e1c21d8e92e_n.jpg",
-                "width":320,
-                "height":165,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88508_085f3c9233bc59ac_z.jpg",
+                "width": 640,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "88508"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18990_ff120e1c21d8e92e_z.jpg",
-                "width":640,
-                "height":329,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88508_085f3c9233bc59ac_n.jpg",
+                "width": 320,
+                "height": 147,
+                "is_primary": "1",
+                "image_id": "88508"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88508_085f3c9233bc59ac_d.gif",
+                "width": 320,
+                "height": 147,
+                "is_primary": "1",
+                "image_id": "88508"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88508_085f3c9233bc59ac_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88508"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18990_ff120e1c21d8e92e_b.jpg",
+                "width": 1024,
+                "height": 527,
+                "is_primary": "0",
+                "image_id": "18990"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18990_ff120e1c21d8e92e_z.jpg",
+                "width": 640,
+                "height": 329,
+                "is_primary": "0",
+                "image_id": "18990"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18990_ff120e1c21d8e92e_n.jpg",
+                "width": 320,
+                "height": 165,
+                "is_primary": "0",
+                "image_id": "18990"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18990_ff120e1c21d8e92e_d.gif",
+                "width": 320,
+                "height": 165,
+                "is_primary": "0",
+                "image_id": "18990"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18990_ff120e1c21d8e92e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18990"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18042681",
-            "role_id":"35236663",
-            "person_name":"Unknown",
-            "role_name":"Architect",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042681\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+            "person_id": "18042681",
+            "role_id": "35236663",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042681\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Section of the Wings and Elevation of a Wall on the Court, Palazzo Farnese, Rome\", ca. 1750.\nca. 1750. Pen and brown ink, brush and gray and red wash, over black chalk on paper, lined. Purchased for the Museum by the Advisory Council. 1911-28-446."
+    "tombstone": {
+        "epitaph": "Drawing, Section of the Wings and Elevation of a Wall on the Court, Palazzo Farnese, Rome, ca. 1750. Pen and brown ink, brush and gray, red wash, over black chalk on paper, lined. \nPurchased for the Museum by the Advisory Council. 1911-28-446"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b6a194",
-            "closest_css3":"#bc8f8f"
+            "color": "#afac99",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#4f4a4b",
-            "closest_css3":"#2f4f4f"
+            "color": "#7d796b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#503c2f",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#918895",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#322e28",
-            "closest_css3":"#2f4f4f"
+            "color": "#514c3f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

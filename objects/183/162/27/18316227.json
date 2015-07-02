@@ -1,80 +1,188 @@
 {
-    "id":"18316227",
-    "tms:id":"43594",
-    "accession_number":"1928-2-114",
-    "title":"Sidewall And Border, ca. 1810",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18316227\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414643",
-    "type_id":"35270239",
-    "date":"ca. 1810",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1928",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed, handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"177.5 x 65 cm (69 7\/8 x 25 9\/16 in.)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":"Vertical rectangle. Across bottom, acanthus border. On either side, lozenge border formed by interlacing cables, enclosing leaf form. Across top, simulated cornice, below which are festoons of drapery and flowers depending from circular bosses, between which is a basket of flowers flanked by two putti. In center of panel, putto with quiver and lyre, surrounded by cloud; at bottom, woman seated before a potted rose tree, with putto proferring an arrow.",
-    "justification":null,
-    "type":{
-        "id":"35270239",
-        "name":"Sidewall and border"
+    "id": "18316227",
+    "tms:id": "43594",
+    "accession_number": "1928-2-114",
+    "title": "Sidewall And Border (France), ca. 1810",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18316227\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414643",
+    "type_id": "35270239",
+    "date": "ca. 1810",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1928",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed, handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "177.5 x 65 cm (69 7\/8 x 25 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "177.50",
+            "centimeters"
+        ],
+        "width": [
+            "65.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Vertical rectangle. Across bottom, acanthus border. On either side, lozenge border formed by interlacing cables, enclosing leaf form. Across top, simulated cornice, below which are festoons of drapery and flowers depending from circular bosses, between which is a basket of flowers flanked by two putti. In center of panel, putto with quiver and lyre, surrounded by cloud; at bottom, woman seated before a potted rose tree, with putto proferring an arrow.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall and border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2513_552669207975ca70_b.jpg",
-                "width":375,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89539_2e8b51fb64213941_b.jpg",
+                "width": 400,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89539"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2513_552669207975ca70_n.jpg",
-                "width":117,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89539_2e8b51fb64213941_z.jpg",
+                "width": 250,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89539"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2513_552669207975ca70_z.jpg",
-                "width":235,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89539_2e8b51fb64213941_n.jpg",
+                "width": 125,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89539"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89539_2e8b51fb64213941_d.gif",
+                "width": 125,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89539"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89539_2e8b51fb64213941_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89539"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2513_552669207975ca70_b.jpg",
+                "width": 375,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2513"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2513_552669207975ca70_z.jpg",
+                "width": 235,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2513"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2513_552669207975ca70_n.jpg",
+                "width": 117,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2513"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2513_552669207975ca70_d.gif",
+                "width": 117,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2513"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2513_552669207975ca70_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2513"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall And Border, ca. 1810.\nca. 1810. Block-printed, handmade paper. Gift of Eleanor and Sarah Hewitt. 1928-2-114."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b8a585",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18052379",
+            "role_id": "35352245",
+            "person_name": "Calvin S.  Hathaway",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#897154",
-            "closest_css3":"#696969"
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#d8cbb7",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#6a5640",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#483118",
-            "closest_css3":"#556b2f"
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall And Border (France), ca. 1810. Block-printed, handmade paper. \nGift of Eleanor and Sarah Hewitt. 1928-2-114"
+    },
+    "colors": [
+        {
+            "color": "#b2a572",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#8e7c52",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#76613f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#5a412c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3a3c2b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

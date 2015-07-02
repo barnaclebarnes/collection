@@ -1,87 +1,141 @@
 {
-    "id":"18475309",
-    "tms:id":"148417",
-    "accession_number":"1971-61-1",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18475309\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Simon Lissim",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18475309",
+    "tms:id": "148417",
+    "accession_number": "1971-61-1",
+    "title": "Drawing, Design for a plate, 1956",
+    "title_raw": "Design for a plate",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18475309\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51688905",
+    "type_id": "35237093",
+    "date": "1956",
+    "year_start": 1956,
+    "year_end": 1956,
+    "year_acquired": "1971",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Brush and gouache, crayon on white wove paper",
+    "markings": null,
+    "signed": "Signed in black ink: Simon Lissim 56",
+    "inscribed": null,
+    "provenance": "Simon Lissim; 1971: acquired by Museum",
+    "dimensions": "H x W: 27.8 x 27.8 cm (10 15\/16 x 10 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.80",
+            "centimeters"
+        ],
+        "width": [
+            "27.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Simon Lissim",
+    "description": "Design for a plate with border of fish and wheat husks.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59582_a8be5e14312d68f9_b.jpg",
-                "width":970,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59582_43199ac3202daf83_b.jpg",
+                "width": 994,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "59582"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59582_a8be5e14312d68f9_n.jpg",
-                "width":303,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59582_43199ac3202daf83_z.jpg",
+                "width": 621,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "59582"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59582_a8be5e14312d68f9_z.jpg",
-                "width":606,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59582_43199ac3202daf83_n.jpg",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "59582"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59582_43199ac3202daf83_d.gif",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "59582"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59582_43199ac3202daf83_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "59582"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043845",
-            "role_id":"35351535",
-            "person_name":"Simon Lissim",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043845\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18043845",
+            "role_id": "35236655",
+            "person_name": "Simon Lissim",
+            "person_date": "American, b. Kiev, Russia, 1900\u20131981",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18043845",
+            "role_id": "35351535",
+            "person_name": "Simon Lissim",
+            "person_date": "American, b. Kiev, Russia, 1900\u20131981",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nGift of Simon Lissim. 1971-61-1."
+    "tombstone": {
+        "epitaph": "Drawing, Design for a plate, 1956. Brush and gouache, crayon on white wove paper. \nGift of Simon Lissim. 1971-61-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d5d0c3",
-            "closest_css3":"#d3d3d3"
+            "color": "#cac7af",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#bba16b",
-            "closest_css3":"#bdb76b"
+            "color": "#b8ad78",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#e0cd9d",
-            "closest_css3":"#deb887"
+            "color": "#928964",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#90826a",
-            "closest_css3":"#808080"
+            "color": "#68614b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#6e6050",
-            "closest_css3":"#696969"
+            "color": "#4a4539",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

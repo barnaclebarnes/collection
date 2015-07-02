@@ -1,42 +1,113 @@
 {
-    "id":"18572421",
-    "tms:id":"79952",
-    "accession_number":"1944-89-4",
-    "title":"Fragment, 900\u20131400",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18572421\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35254623",
-    "date":"900\u20131400",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1944",
-    "decade":null,
-    "woe:country":"23424919",
-    "medium":"Medium: cotton\nTechnique: plain weave with tie-dye",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Small hollow squares reserved in white are grouped so as to build up a diamond pattern, each enclosing a bird motif on a tan background. Small folds tied and uncapped. Remains of one selvage intact.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18572421",
+    "tms:id": "79952",
+    "accession_number": "1944-89-4",
+    "title": "Fragment (Peru), 900\u20131400",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18572421\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35254623",
+    "date": "900\u20131400",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1944",
+    "decade": null,
+    "woe:country_id": "23424919",
+    "medium": "Medium: cotton\nTechnique: plain weave with tied-resist patterning",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 52.3 x 61.3 cm (20 9\/16 x 24 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "52.30",
+            "centimeters"
+        ],
+        "width": [
+            "61.30",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Small hollow squares reserved in white are grouped so as to build up a diamond pattern, each enclosing a bird motif on a tan background. Small folds tied and uncapped. Remains of one selvage intact.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424919",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105482_1b65bbfc691976a5_b.jpg",
+                "width": 1024,
+                "height": 937,
+                "is_primary": "1",
+                "image_id": "105482"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105482_1b65bbfc691976a5_z.jpg",
+                "width": 640,
+                "height": 586,
+                "is_primary": "1",
+                "image_id": "105482"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105482_1b65bbfc691976a5_n.jpg",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "105482"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105482_1b65bbfc691976a5_d.gif",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "105482"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105482_1b65bbfc691976a5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105482"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052657",
+            "role_id": "35352249",
+            "person_name": "W. V. Von Schoeler",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052657\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 900\u20131400.\n900\u20131400. Medium: cotton\nTechnique: plain weave with tie-dye. Museum purchase through gift of Mrs. John Innes Kane. 1944-89-4."
+    "tombstone": {
+        "epitaph": "Fragment (Peru), 900\u20131400. Medium: cotton\nTechnique: plain weave with tied-resist patterning. \nMuseum purchase through gift of Mrs. John Innes Kane. 1944-89-4"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#af885e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#d0b791",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Peru",
+    "is_loan_object": 0
 }

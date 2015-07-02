@@ -1,80 +1,167 @@
 {
-    "id":"18386597",
-    "tms:id":"103432",
-    "accession_number":"1951-105-36",
-    "title":"Cap",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18386597\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35259883",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1951",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk\nTechnique: knitted",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Richard C. Greenleaf",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35259883",
-        "name":"Cap"
+    "id": "18386597",
+    "tms:id": "103432",
+    "accession_number": "1951-105-36",
+    "title": "Cap",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18386597\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35259883",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1951",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk\nTechnique: knitted",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (without tassel): 29.2 x 24.1 cm (11 1\/2 x 9 1\/2 in.)\nH x W (tassel): 44.5 x 9.5 cm (17 1\/2 x 3 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "44.45",
+            "centimeters"
+        ],
+        "width": [
+            "9.53",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Richard C. Greenleaf",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Cap",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4848_ddf1027e39b53254_b.jpg",
-                "width":730,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89027_77cf4c59063f72fb_b.jpg",
+                "width": 960,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89027"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4848_ddf1027e39b53254_n.jpg",
-                "width":228,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89027_77cf4c59063f72fb_z.jpg",
+                "width": 600,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89027"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4848_ddf1027e39b53254_z.jpg",
-                "width":457,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89027_77cf4c59063f72fb_n.jpg",
+                "width": 300,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89027"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89027_77cf4c59063f72fb_d.gif",
+                "width": 300,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89027"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89027_77cf4c59063f72fb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89027"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4848_ddf1027e39b53254_b.jpg",
+                "width": 730,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "4848"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4848_ddf1027e39b53254_z.jpg",
+                "width": 457,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "4848"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4848_ddf1027e39b53254_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4848"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4848_ddf1027e39b53254_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4848"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4848_ddf1027e39b53254_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "4848"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Cap.\nMedium: silk\nTechnique: knitted. Gift of Richard C. Greenleaf. 1951-105-36."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#db5d69",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#b7494e",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#8a3336",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#ceb8af",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#f7e4d7",
-            "closest_css3":"#faebd7"
+            "person_id": "18049377",
+            "role_id": "35351535",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Cap. Medium: silk\nTechnique: knitted. \nGift of Richard C. Greenleaf. 1951-105-36"
+    },
+    "colors": [
+        {
+            "color": "#602f27",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#2d1610",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#b6afac",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#785852",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9d8e8a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,80 +1,162 @@
 {
-    "id":"18668033",
-    "tms:id":"209420",
-    "accession_number":"1995-50-178",
-    "title":"Bedcover, ca. 1840",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18668033\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35282877",
-    "date":"ca. 1840",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved roller on plain weave.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 212 cm (83 1\/2 in.)\nWeft: 136 cm (53 1\/2 in.) (Two pieces sewn together.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Three scenes of children within a diamond lattice grid of leaves and berries. In purple on white. Textile is made up as a bedcover which is quilted, stuffed and lined.",
-    "justification":null,
-    "type":{
-        "id":"35282877",
-        "name":"Bedcover"
+    "id": "18668033",
+    "tms:id": "209420",
+    "accession_number": "1995-50-178",
+    "title": "Bedcover (France), ca. 1840",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18668033\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35282877",
+    "date": "ca. 1840",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved roller on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 212 x 136 cm (6 ft. 11 7\/16 in. x 53 9\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "212.00",
+            "centimeters"
+        ],
+        "weft": [
+            "136.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Three scenes of children within a diamond lattice grid of leaves and berries. In purple on white. Textile is made up as a bedcover which is quilted, stuffed and lined.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Bedcover",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12871_a5387ac3602a16cf_b.jpg",
-                "width":693,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109646_1949d6116e713f94_b.jpg",
+                "width": 1024,
+                "height": 758,
+                "is_primary": "1",
+                "image_id": "109646"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12871_a5387ac3602a16cf_n.jpg",
-                "width":217,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109646_1949d6116e713f94_z.jpg",
+                "width": 640,
+                "height": 474,
+                "is_primary": "1",
+                "image_id": "109646"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12871_a5387ac3602a16cf_z.jpg",
-                "width":433,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109646_1949d6116e713f94_n.jpg",
+                "width": 320,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "109646"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109646_1949d6116e713f94_d.gif",
+                "width": 320,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "109646"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109646_1949d6116e713f94_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109646"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12871_a5387ac3602a16cf_b.jpg",
+                "width": 693,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12871"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12871_a5387ac3602a16cf_z.jpg",
+                "width": 433,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12871"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12871_a5387ac3602a16cf_n.jpg",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12871"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12871_a5387ac3602a16cf_d.gif",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12871"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12871_a5387ac3602a16cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12871"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Bedcover, ca. 1840.\nca. 1840. Medium: cotton\nTechnique: printed by engraved roller on plain weave.. Bequest of Elinor Merrell. 1995-50-178."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#a16765",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#d09c94",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#6a474b",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#652226",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#350106",
-            "closest_css3":"#000000"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Bedcover (France), ca. 1840. Medium: cotton\nTechnique: printed by engraved roller on plain weave. \nBequest of Elinor Merrell. 1995-50-178"
+    },
+    "colors": [
+        {
+            "color": "#665355",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#877572",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#45363b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9e9086",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

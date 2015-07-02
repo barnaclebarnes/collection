@@ -1,39 +1,125 @@
 {
-    "id":"18617887",
-    "tms:id":"177477",
-    "accession_number":"1981-29-382",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617887\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617887",
+    "tms:id": "177477",
+    "accession_number": "1981-29-382",
+    "title": "Poster, Boston Waterfront, 1980",
+    "title_raw": "Boston Waterfront",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617887\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431679",
+    "type_id": "35238163",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1981",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "Screenprint on paper",
+    "markings": null,
+    "signed": "Signed in graphite",
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "125 x 81 cm (49 3\/16 x 31 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "125.00",
+            "centimeters"
+        ],
+        "width": [
+            "81.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Various Donors",
+    "description": "Poster features a silhouetted map of Boston; geometric shapes. In white ink, right side: Boston Waterfront.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88929_71e942e920515c3c_b.jpg",
+                "width": 1024,
+                "height": 667,
+                "is_primary": "1",
+                "image_id": "88929"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88929_71e942e920515c3c_z.jpg",
+                "width": 640,
+                "height": 417,
+                "is_primary": "1",
+                "image_id": "88929"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88929_71e942e920515c3c_n.jpg",
+                "width": 320,
+                "height": 208,
+                "is_primary": "1",
+                "image_id": "88929"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88929_71e942e920515c3c_d.gif",
+                "width": 320,
+                "height": 208,
+                "is_primary": "1",
+                "image_id": "88929"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88929_71e942e920515c3c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88929"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042349",
+            "role_id": "35236655",
+            "person_name": "John Massey",
+            "person_date": "American, b. 1931",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042349\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Boston Waterfront, 1980. Screenprint on paper. \nGift of Various Donors. 1981-29-382"
+    },
+    "colors": [
+        {
+            "color": "#bf5c25",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#e2e3b4",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#713d2c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#c4564a",
+            "closest_crayola": "#bf4f51",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

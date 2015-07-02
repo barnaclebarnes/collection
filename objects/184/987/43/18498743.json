@@ -1,75 +1,170 @@
 {
-    "id":"18498743",
-    "tms:id":"160272",
-    "accession_number":"1979-89-2",
-    "title":"Textile, \"Faruk\", 1952",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18498743\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1952",
-    "year_start":"1952",
-    "year_end":"1952",
-    "year_acquired":"1979",
-    "decade":"1950",
-    "woe:country":"23424812",
-    "medium":"Medium: cotton \nTechnique: screen printed (in one color) on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Printed in black on one side: \"Marimekko \u00ae armi ratia: 'Faruk' \u00a9 Marimekko oy 1952 Suomi-Finland 100% co\" plus symbols of instruction for care.",
-    "provenance":null,
-    "dimensions":"H x W: 311 x 138 cm (10 ft. 2 7\/16 in. x 54 5\/16 in.)\nwidth selvedge to selvedge\nRepeat H: 14 cm (5 1\/2 in.)",
-    "creditline":"Gift of Marimekko, Inc.",
-    "description":"Grid of black brick-like shapes on white. Bands of black rectangles alternating with a white band.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18498743",
+    "tms:id": "160272",
+    "accession_number": "1979-89-2",
+    "title": "Textile, Faruk, 1952",
+    "title_raw": "Faruk",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18498743\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1952",
+    "year_start": 1952,
+    "year_end": 1952,
+    "year_acquired": "1979",
+    "decade": "1950",
+    "woe:country_id": "23424812",
+    "medium": "Medium: cotton \nTechnique: screen printed on plain weave\nLabel: screen printed cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in selvedge: \"Marimekko \u00ae armi ratia: 'Faruk' \u00a9 Marimekko oy 1952 Suomi-Finland 100% co\" plus symbols of instruction for care.",
+    "provenance": null,
+    "dimensions": "H x W: 311.2 x 138.1 cm (10 ft. 2 1\/2 in. x 54 3\/8 in.)\nRepeat H: 14 cm (5 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "14.00",
+            "centimeters"
+        ],
+        "width": [
+            "138.11",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Marimekko, Inc.",
+    "description": "Printed textile with horizontal stripes of black and white. The black bands are interescted by fine vertical white lines.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424812",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43747_b212342b5f74056e_b.jpg",
-                "width":631,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43747_4cddd7532ab41786_b.jpg",
+                "width": 660,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "43747"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43747_b212342b5f74056e_n.jpg",
-                "width":197,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43747_4cddd7532ab41786_z.jpg",
+                "width": 412,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "43747"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43747_b212342b5f74056e_z.jpg",
-                "width":394,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43747_4cddd7532ab41786_n.jpg",
+                "width": 206,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43747"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43747_4cddd7532ab41786_d.gif",
+                "width": 206,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43747"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43747_4cddd7532ab41786_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43747"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77061_819e45ce1c6cacd2_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77061"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77061_819e45ce1c6cacd2_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77061"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77061_819e45ce1c6cacd2_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77061"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77061_819e45ce1c6cacd2_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77061"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77061_819e45ce1c6cacd2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77061"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046029",
-            "role_id":"35236655",
-            "person_name":"Armi Ratia",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046029\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
-        }
-    ],
-    "tombstone":{
-        "epitaph":"Textile, \"Faruk\", 1952.\n1952. Medium: cotton \nTechnique: screen printed (in one color) on plain weave. Gift of Marimekko, Inc.. 1979-89-2."
-    },
-    "colors":[
-        {
-            "color":"#2d2d31",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18045663",
+            "role_id": "35236657",
+            "person_name": "Marimekko Oy",
+            "person_date": "Helsinki, Finland, founded 1951",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045663\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#616168",
-            "closest_css3":"#696969"
+            "person_id": "18046029",
+            "role_id": "35236655",
+            "person_name": "Armi Ratia",
+            "person_date": "Finnish, 1912\u20131979",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046029\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18048723",
+            "role_id": "35351535",
+            "person_name": "Marimekko, Inc.",
+            "person_date": "1951 \u2013 1979",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048723\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Faruk, 1952. Medium: cotton \nTechnique: screen printed on plain weave\nLabel: screen printed cotton. \nGift of Marimekko, Inc.. 1979-89-2"
+    },
+    "colors": [
+        {
+            "color": "#54565b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2c2c2f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Finland",
+    "is_loan_object": 0
 }

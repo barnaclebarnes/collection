@@ -1,80 +1,168 @@
 {
-    "id":"18383621",
-    "tms:id":"101941",
-    "accession_number":"1950-121-21",
-    "title":"Border, early 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383621\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35237285",
-    "date":"early 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1950",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: linen\nTechnique: needle lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 174 x 14.3 cm (5 ft. 8 1\/2 in. x 5 5\/8 in.)",
-    "creditline":"Gift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Long border or collar, straight on one edge and scalloped on the other, shaped with a wide central section that narrows out on the ends. Point d'Argentan style in a rich design with a great variety of stitches. A conventionalized vase form alternates with rich floral motifs. Hexagonal ground.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18383621",
+    "tms:id": "101941",
+    "accession_number": "1950-121-21",
+    "title": "Border (France), early 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18383621\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35237285",
+    "date": "early 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1950",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: linen\nTechnique: needle lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 174 x 14.3 cm (5 ft. 8 1\/2 in. x 5 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "174.00",
+            "centimeters"
+        ],
+        "width": [
+            "14.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Long border or collar, straight on one edge and scalloped on the other, shaped with a wide central section that narrows out on the ends. Point d'Argentan style in a rich design with a great variety of stitches. A conventionalized vase form alternates with rich floral motifs. Hexagonal ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/41148_a77e52c118548971_b.jpg",
-                "width":1024,
-                "height":266,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41148_a77e52c118548971_b.jpg",
+                "width": 1024,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "41148"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/41148_a77e52c118548971_n.jpg",
-                "width":320,
-                "height":83,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41148_a77e52c118548971_z.jpg",
+                "width": 640,
+                "height": 166,
+                "is_primary": "1",
+                "image_id": "41148"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/41148_a77e52c118548971_z.jpg",
-                "width":640,
-                "height":166,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41148_a77e52c118548971_n.jpg",
+                "width": 320,
+                "height": 83,
+                "is_primary": "1",
+                "image_id": "41148"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41148_a77e52c118548971_d.gif",
+                "width": 320,
+                "height": 83,
+                "is_primary": "1",
+                "image_id": "41148"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41148_a77e52c118548971_sq.jpg",
+                "width": 300,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "41148"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72406_86f809e144e4b47d_b.jpg",
+                "width": 1024,
+                "height": 159,
+                "is_primary": "0",
+                "image_id": "72406"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72406_86f809e144e4b47d_z.jpg",
+                "width": 640,
+                "height": 99,
+                "is_primary": "0",
+                "image_id": "72406"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72406_86f809e144e4b47d_n.jpg",
+                "width": 320,
+                "height": 50,
+                "is_primary": "0",
+                "image_id": "72406"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72406_86f809e144e4b47d_d.gif",
+                "width": 320,
+                "height": 50,
+                "is_primary": "0",
+                "image_id": "72406"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72406_86f809e144e4b47d_sq.jpg",
+                "width": 300,
+                "height": 159,
+                "is_primary": "0",
+                "image_id": "72406"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, early 18th century.\nearly 18th century. Medium: linen\nTechnique: needle lace. Gift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf. 1950-121-21."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b9b3a3",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#928676",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#75695b",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#4e443a",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#e7dec3",
-            "closest_css3":"#f5deb3"
+            "person_id": "18049377",
+            "role_id": "35351535",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border (France), early 18th century. Medium: linen\nTechnique: needle lace. \nGift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf. 1950-121-21"
+    },
+    "colors": [
+        {
+            "color": "#cbc0a6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#a19888",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#807668",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#50483f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#2e2924",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

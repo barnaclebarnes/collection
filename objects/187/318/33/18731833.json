@@ -1,65 +1,133 @@
 {
-    "id":"18731833",
-    "tms:id":"242016",
-    "accession_number":"2009-20-33",
-    "title":"Poster, \"Bayerisch Staatsoper, Siegfried, Richard Wagner\", 2001",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731833\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35433377",
-    "type_id":"35238163",
-    "date":"2001",
-    "year_start":"2001",
-    "year_end":"2001",
-    "year_acquired":"2009",
-    "decade":"2000",
-    "woe:country":null,
-    "medium":"Photo-offset lithograph on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Marc Benda",
-    "dimensions":"119 x 83.9 cm (46 7\/8 x 33 1\/16 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":"Top half of poster is gradient from left to right, yellow to red. Bottom half of poster is black. In center, a yellow ring. Text at right in white down side reads: \"Bayerische Staatsoper\/ Siegfried\/ Richard Wagner \" with additional date and time information below.",
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18731833",
+    "tms:id": "242016",
+    "accession_number": "2009-20-33",
+    "title": "Poster, Bayerisch Staatsoper, Siegfried, Richard Wagner, 2001",
+    "title_raw": "Bayerisch Staatsoper, Siegfried, Richard Wagner",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18731833\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35433377",
+    "type_id": "35238163",
+    "date": "2001",
+    "year_start": 2001,
+    "year_end": 2001,
+    "year_acquired": "2009",
+    "decade": "2000",
+    "woe:country_id": "23424829",
+    "medium": "Photo-offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Sara and Marc Benda; 2009: acquired by Museum",
+    "dimensions": "119 x 83.9 cm (46 7\/8 x 33 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "119.00",
+            "centimeters"
+        ],
+        "width": [
+            "83.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "Top half of poster is gradient from left to right, yellow to red. Bottom half of poster is black. In center, a yellow ring. Text at right in white down side reads: \"Bayerische Staatsoper\/ Siegfried\/ Richard Wagner \" with additional date and time information below.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31375_c2cd6eba58116586_b.jpg",
-                "width":708,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65630_5aaf7995a497b549_b.jpg",
+                "width": 723,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "65630"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31375_c2cd6eba58116586_n.jpg",
-                "width":221,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65630_5aaf7995a497b549_z.jpg",
+                "width": 452,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "65630"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31375_c2cd6eba58116586_z.jpg",
-                "width":443,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65630_5aaf7995a497b549_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65630"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65630_5aaf7995a497b549_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65630"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65630_5aaf7995a497b549_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65630"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18062795",
-            "role_id":"35236655",
-            "person_name":"Pierre Mendel Design Studio",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18062795\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18063205",
+            "role_id": "35351535",
+            "person_name": "Sara Benda",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063205\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18062795",
+            "role_id": "35236655",
+            "person_name": "Pierre Mendel Design Studio",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062795\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18062523",
+            "role_id": "35351535",
+            "person_name": "Marc Benda",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062523\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Bayerisch Staatsoper, Siegfried, Richard Wagner, 2001. Photo-offset lithograph on paper. \nGift of Sara and Marc Benda. 2009-20-33"
+    },
+    "colors": [
+        {
+            "color": "#88abe1",
+            "closest_crayola": "#a2add0",
+            "closest_css3": "#87ceeb",
+            "closest_css4": "#87ceeb"
+        },
+        {
+            "color": "#6f798f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

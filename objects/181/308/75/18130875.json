@@ -1,49 +1,122 @@
 {
-    "id":"18130875",
-    "tms:id":"11581",
-    "accession_number":"1902-1-406-e",
-    "title":"Trimming",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18130875\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254635",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":"23424950",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254635",
-        "name":"Trimming"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18130875",
+    "tms:id": "11581",
+    "accession_number": "1902-1-406-e",
+    "title": "Trimming (Spain)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18130875\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254635",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": "23424950",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424950",
+    "type": "Trimming",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68088_49345225a7195679_b.jpg",
+                "width": 1024,
+                "height": 179,
+                "is_primary": "1",
+                "image_id": "68088"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68088_49345225a7195679_z.jpg",
+                "width": 640,
+                "height": 112,
+                "is_primary": "1",
+                "image_id": "68088"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68088_49345225a7195679_n.jpg",
+                "width": 320,
+                "height": 56,
+                "is_primary": "1",
+                "image_id": "68088"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68088_49345225a7195679_d.gif",
+                "width": 320,
+                "height": 56,
+                "is_primary": "1",
+                "image_id": "68088"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68088_49345225a7195679_sq.jpg",
+                "width": 300,
+                "height": 179,
+                "is_primary": "1",
+                "image_id": "68088"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Trimming.\nGift of John Pierpont Morgan. 1902-1-406-e."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Trimming (Spain). \nGift of John Pierpont Morgan. 1902-1-406-e"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#52736f",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#6b8e88",
+            "closest_crayola": "#6dae81",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#313a39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#542624",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#465139",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Spain",
+    "is_loan_object": 0
 }

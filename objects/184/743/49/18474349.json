@@ -1,80 +1,121 @@
 {
-    "id":"18474349",
-    "tms:id":"147934",
-    "accession_number":"1971-50-271",
-    "title":"Square, 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474349\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"112427",
-    "type_id":"35256017",
-    "date":"20th century",
-    "year_start":"1901",
-    "year_end":"2000",
-    "year_acquired":"1971",
-    "decade":"1900",
-    "woe:country":null,
-    "medium":"Technique: needle lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35256017",
-        "name":"Square"
-    },
-    "images":[
+    "id": "18474349",
+    "tms:id": "147934",
+    "accession_number": "1971-50-271",
+    "title": "Square, 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474349\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "112427",
+    "type_id": "35256017",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 2000,
+    "year_acquired": "1971",
+    "decade": "1900",
+    "woe:country_id": null,
+    "medium": "Medium:\nTechnique: needle lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Square",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31840_6ce6c1323fc32c1e_b.jpg",
-                "width":1024,
-                "height":1012,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31840_6ce6c1323fc32c1e_b.jpg",
+                "width": 1024,
+                "height": 1012,
+                "is_primary": "1",
+                "image_id": "31840"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31840_6ce6c1323fc32c1e_n.jpg",
-                "width":320,
-                "height":316,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31840_6ce6c1323fc32c1e_z.jpg",
+                "width": 640,
+                "height": 632,
+                "is_primary": "1",
+                "image_id": "31840"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31840_6ce6c1323fc32c1e_z.jpg",
-                "width":640,
-                "height":632,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31840_6ce6c1323fc32c1e_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "1",
+                "image_id": "31840"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31840_6ce6c1323fc32c1e_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "1",
+                "image_id": "31840"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31840_6ce6c1323fc32c1e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "31840"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Square, 20th century.\n20th century. Technique: needle lace. Bequest of Marian Hague. 1971-50-271."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c3b0c9",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#dedff8",
-            "closest_css3":"#e6e6fa"
-        },
-        {
-            "color":"#a6afcb",
-            "closest_css3":"#b0c4de"
-        },
-        {
-            "color":"#4d3827",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#937b7c",
-            "closest_css3":"#808080"
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Square, 20th century. Medium:\nTechnique: needle lace. \nBequest of Marian Hague. 1971-50-271"
+    },
+    "colors": [
+        {
+            "color": "#efdff3",
+            "closest_crayola": "#fddde6",
+            "closest_css3": "#e6e6fa",
+            "closest_css4": "#e6e6fa"
+        },
+        {
+            "color": "#c7b2c8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#382a1a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#988288",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b2c0da",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
+        }
+    ],
+    "is_loan_object": 0
 }

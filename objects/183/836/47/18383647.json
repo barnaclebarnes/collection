@@ -1,42 +1,195 @@
 {
-    "id":"18383647",
-    "tms:id":"101957",
-    "accession_number":"1950-121-30",
-    "title":"Panel",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383647\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35237229",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1950",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: linen\nTechnique: needlework on knotted net",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Design shows birds and a couple below crown supported by winged figures.",
-    "justification":null,
-    "type":{
-        "id":"35237229",
-        "name":"Panel"
-    },
-    "images":[
-
+    "id": "18383647",
+    "tms:id": "101957",
+    "accession_number": "1950-121-30",
+    "title": "Panel",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18383647\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35237229",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1950",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: linen\nTechnique: needlework on knotted net",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Design shows birds and a couple below crown supported by winged figures.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Panel",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63271_6b26a42fd4bab722_b.jpg",
+                "width": 1024,
+                "height": 602,
+                "is_primary": "1",
+                "image_id": "63271"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63271_6b26a42fd4bab722_z.jpg",
+                "width": 640,
+                "height": 376,
+                "is_primary": "1",
+                "image_id": "63271"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63271_6b26a42fd4bab722_n.jpg",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "63271"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63271_6b26a42fd4bab722_d.gif",
+                "width": 320,
+                "height": 188,
+                "is_primary": "1",
+                "image_id": "63271"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63271_6b26a42fd4bab722_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63271"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113480_8a987266204d2638_b.jpg",
+                "width": 1024,
+                "height": 524,
+                "is_primary": "0",
+                "image_id": "113480"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113480_8a987266204d2638_z.jpg",
+                "width": 640,
+                "height": 328,
+                "is_primary": "0",
+                "image_id": "113480"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113480_8a987266204d2638_n.jpg",
+                "width": 320,
+                "height": 164,
+                "is_primary": "0",
+                "image_id": "113480"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113480_8a987266204d2638_d.gif",
+                "width": 320,
+                "height": 164,
+                "is_primary": "0",
+                "image_id": "113480"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113480_8a987266204d2638_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113480"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72415_e8e8df61d576ae87_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "72415"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72415_e8e8df61d576ae87_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "72415"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72415_e8e8df61d576ae87_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "72415"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72415_e8e8df61d576ae87_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "72415"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72415_e8e8df61d576ae87_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "72415"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049377",
+            "role_id": "35351535",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Panel.\nMedium: linen\nTechnique: needlework on knotted net. Gift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf. 1950-121-30."
+    "tombstone": {
+        "epitaph": "Panel. Medium: linen\nTechnique: needlework on knotted net. \nGift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf. 1950-121-30"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b1ad9f",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#d7d4c4",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#8a877c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#625f58",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3b3a36",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

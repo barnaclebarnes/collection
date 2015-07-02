@@ -1,83 +1,151 @@
 {
-    "id":"18449295",
-    "tms:id":"135163",
-    "accession_number":"1963-39-986",
-    "title":"Drawing, \"Fish and Surf\", 1935\u201339",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18449295\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35392481",
-    "type_id":"35237093",
-    "date":"1935\u201339",
-    "year_start":"1935",
-    "year_end":"1939",
-    "year_acquired":"1963",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Brush and gouache, graphite on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"24.2 x 30.4 cm (9 1\/2 x 11 15\/16 in.)",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"A huge breaker is about to run over a small fish in white against black ground. Spotted sea bottom.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18449295",
+    "tms:id": "135163",
+    "accession_number": "1963-39-986",
+    "title": "Drawing, Fish and Surf, 1935\u201339",
+    "title_raw": "Fish and Surf",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18449295\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35392481",
+    "type_id": "35237093",
+    "date": "1935\u201339",
+    "year_start": 1935,
+    "year_end": 1939,
+    "year_acquired": "1963",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Brush and gouache, graphite on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "24.2 x 30.4 cm (9 1\/2 x 11 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "24.20",
+            "centimeters"
+        ],
+        "width": [
+            "30.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "A huge breaker is about to run over a small fish in white against black ground. Spotted sea bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55158_3a8ba8e2176ee0c9_b.jpg",
-                "width":1024,
-                "height":817,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55158_29c751576f3d2873_b.jpg",
+                "width": 1024,
+                "height": 806,
+                "is_primary": "1",
+                "image_id": "55158"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55158_3a8ba8e2176ee0c9_n.jpg",
-                "width":320,
-                "height":255,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55158_29c751576f3d2873_z.jpg",
+                "width": 640,
+                "height": 503,
+                "is_primary": "1",
+                "image_id": "55158"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55158_3a8ba8e2176ee0c9_z.jpg",
-                "width":640,
-                "height":511,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55158_29c751576f3d2873_n.jpg",
+                "width": 320,
+                "height": 252,
+                "is_primary": "1",
+                "image_id": "55158"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55158_29c751576f3d2873_d.gif",
+                "width": 320,
+                "height": 252,
+                "is_primary": "1",
+                "image_id": "55158"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55158_29c751576f3d2873_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "55158"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Fish and Surf\", 1935\u201339.\n1935\u201339. Brush and gouache, graphite on paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-986."
+    "tombstone": {
+        "epitaph": "Drawing, Fish and Surf, 1935\u201339. Brush and gouache, graphite on paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-986"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#69635a",
-            "closest_css3":"#696969"
+            "color": "#3e3c38",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#e2dac5",
-            "closest_css3":"#d3d3d3"
+            "color": "#e3e0c6",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#e2be8c",
-            "closest_css3":"#deb887"
+            "color": "#cebb8c",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#94897d",
-            "closest_css3":"#808080"
+            "color": "#8c877b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6f6b61",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

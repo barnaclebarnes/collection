@@ -1,42 +1,117 @@
 {
-    "id":"18609959",
-    "tms:id":"98499",
-    "accession_number":"1948-40-30",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18609959\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Original album associated with this collection still exists.  See 1948-40-1 accessory",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18609959",
+    "tms:id": "98499",
+    "accession_number": "1948-40-30",
+    "title": "Drawing, Design for Entrance Hall, East Wall, Royal Pavilion, Brighton, ca. 1820",
+    "title_raw": "Design for Entrance Hall, East Wall, Royal Pavilion, Brighton",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18609959\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35414367",
+    "type_id": "35237093",
+    "date": "ca. 1820",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Graphite on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1948: acquired by Museum (from Mrs. K. Gregory)",
+    "dimensions": "Mat: 40.6 x 55.9 cm (16 x 22 in.)\n34.6 x 47.6 cm (13 5\/8 x 18 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.64",
+            "centimeters"
+        ],
+        "width": [
+            "55.88",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Elevation of a wall, with a doorway in the center, flanked on either side by pairs of columns with foliated shafts. Overdoor consists of a lunette of birds, enclosed in a wide decorative border. The wall areas, left and right, bear circular panels with winged dragons. Dado, left, stylized leaves. Alternate design, right, leaves, dragon heads, and dragon.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62844_c4d611b07751f5ce_b.jpg",
+                "width": 1024,
+                "height": 733,
+                "is_primary": "1",
+                "image_id": "62844"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62844_c4d611b07751f5ce_z.jpg",
+                "width": 640,
+                "height": 458,
+                "is_primary": "1",
+                "image_id": "62844"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62844_c4d611b07751f5ce_n.jpg",
+                "width": 320,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "62844"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62844_c4d611b07751f5ce_d.gif",
+                "width": 320,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "62844"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62844_c4d611b07751f5ce_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "62844"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042069",
+            "role_id": "35236655",
+            "person_name": "Frederick Crace",
+            "person_date": "English, 1779\u20131859",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18539479",
+            "role_id": "35352249",
+            "person_name": "Mrs. K. Gregory",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539479\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-30."
+    "tombstone": {
+        "epitaph": "Drawing, Design for Entrance Hall, East Wall, Royal Pavilion, Brighton, ca. 1820. Graphite on paper. \nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-30"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#000000",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

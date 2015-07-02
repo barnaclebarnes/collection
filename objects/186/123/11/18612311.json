@@ -1,80 +1,166 @@
 {
-    "id":"18612311",
-    "tms:id":"99471",
-    "accession_number":"1948-86-1",
-    "title":"Scarf, 1947",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18612311\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251935",
-    "date":"1947",
-    "year_start":"1947",
-    "year_end":"1947",
-    "year_acquired":"1948",
-    "decade":"1940",
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 68.2 x 67.9 cm (26 7\/8 x 26 3\/4 in.)",
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Scarf with a central design of four vases, each containing a flower. Aligned with four vases are four girls, two standing and two sitting on chairs. Other motifs are cats and vases with flowers. In red-brown, yellow, black and blue.",
-    "justification":null,
-    "type":{
-        "id":"35251935",
-        "name":"scarf"
+    "id": "18612311",
+    "tms:id": "99471",
+    "accession_number": "1948-86-1",
+    "title": "Scarf (England), 1947",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18612311\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251935",
+    "date": "1947",
+    "year_start": 1947,
+    "year_end": 1947,
+    "year_acquired": "1948",
+    "decade": "1940",
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Corner: Bettina",
+    "provenance": null,
+    "dimensions": "H x W: 68.2 x 67.9 cm (26 7\/8 x 26 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "68.20",
+            "centimeters"
+        ],
+        "width": [
+            "67.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Scarf with a central design of four vases, each containing a flower. Aligned with four vases are four girls, two standing and two sitting on chairs. Other motifs are cats and vases with flowers. In red-brown, yellow, black and blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "scarf",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16316_15bd233ebcf5b4b9_b.jpg",
-                "width":1024,
-                "height":998,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105837_77519d09e6cd69de_b.jpg",
+                "width": 1024,
+                "height": 955,
+                "is_primary": "1",
+                "image_id": "105837"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16316_15bd233ebcf5b4b9_n.jpg",
-                "width":320,
-                "height":312,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105837_77519d09e6cd69de_z.jpg",
+                "width": 640,
+                "height": 597,
+                "is_primary": "1",
+                "image_id": "105837"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16316_15bd233ebcf5b4b9_z.jpg",
-                "width":640,
-                "height":624,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105837_77519d09e6cd69de_n.jpg",
+                "width": 320,
+                "height": 298,
+                "is_primary": "1",
+                "image_id": "105837"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105837_77519d09e6cd69de_d.gif",
+                "width": 320,
+                "height": 298,
+                "is_primary": "1",
+                "image_id": "105837"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105837_77519d09e6cd69de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105837"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16316_15bd233ebcf5b4b9_b.jpg",
+                "width": 1024,
+                "height": 998,
+                "is_primary": "0",
+                "image_id": "16316"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16316_15bd233ebcf5b4b9_z.jpg",
+                "width": 640,
+                "height": 624,
+                "is_primary": "0",
+                "image_id": "16316"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16316_15bd233ebcf5b4b9_n.jpg",
+                "width": 320,
+                "height": 312,
+                "is_primary": "0",
+                "image_id": "16316"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16316_15bd233ebcf5b4b9_d.gif",
+                "width": 320,
+                "height": 312,
+                "is_primary": "0",
+                "image_id": "16316"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16316_15bd233ebcf5b4b9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "16316"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Scarf, 1947.\n1947. Medium: cotton\nTechnique: printed on plain weave. Museum purchase through gift of Mrs. John Innes Kane. 1948-86-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#9289ad",
-            "closest_css3":"#778899"
+            "person_id": "68736565",
+            "role_id": "35352249",
+            "person_name": "Bettina Ehrlich (b. Vienna, Austria, active England, 1903\u20131985)",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "color":"#cfd9f3",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#c1ba98",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#555264",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#796679",
-            "closest_css3":"#696969"
+            "person_id": "68736565",
+            "role_id": "35236655",
+            "person_name": "Bettina Ehrlich (b. Vienna, Austria, active England, 1903\u20131985)",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Scarf (England), 1947. Medium: cotton\nTechnique: printed on plain weave. \nMuseum purchase through gift of Mrs. John Innes Kane. 1948-86-1"
+    },
+    "colors": [
+        {
+            "color": "#c7c06a",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#898174",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6b665d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

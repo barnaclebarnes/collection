@@ -1,42 +1,116 @@
 {
-    "id":"18643931",
-    "tms:id":"196833",
-    "accession_number":"1993-150-33-a,b",
-    "title":"Kettle",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643931\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35267269",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1993",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"18.6 x 28 x 19 cm (7 5\/16 x 11 x 7 1\/2 in.)",
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":"squat form",
-    "justification":null,
-    "type":{
-        "id":"35267269",
-        "name":"kettle"
+    "id": "18643931",
+    "tms:id": "196833",
+    "accession_number": "1993-150-33-a,b",
+    "title": "Kettle (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18643931\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35267269",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1993",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "18.6 x 28 x 19 cm (7 5\/16 x 11 x 7 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "19.00",
+            "centimeters"
+        ],
+        "height": [
+            "18.60",
+            "centimeters"
+        ],
+        "width": [
+            "28.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": "squat form",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "kettle",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123416_ca05fff7d019dbd9_b.jpg",
+                "width": 1024,
+                "height": 793,
+                "is_primary": "1",
+                "image_id": "123416"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123416_ca05fff7d019dbd9_z.jpg",
+                "width": 640,
+                "height": 496,
+                "is_primary": "1",
+                "image_id": "123416"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123416_ca05fff7d019dbd9_n.jpg",
+                "width": 320,
+                "height": 248,
+                "is_primary": "1",
+                "image_id": "123416"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123416_ca05fff7d019dbd9_d.gif",
+                "width": 320,
+                "height": 248,
+                "is_primary": "1",
+                "image_id": "123416"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123416_ca05fff7d019dbd9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123416"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18041461",
+            "role_id": "35352249",
+            "person_name": "Carole Krohn",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041461\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Kettle (USA). Glass. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1993-150-33-a,b"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Kettle.\nGlass. Museum purchase from Decorative Arts Association Acquisition Fund. 1993-150-33-a,b."
-    },
-    "colors":[
-
-    ]
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

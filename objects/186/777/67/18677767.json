@@ -1,103 +1,150 @@
 {
-    "id":"18677767",
-    "tms:id":"214349",
-    "accession_number":"1969-165-48",
-    "title":"Sample, \"Gemstones\", 1954",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18677767\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35429743",
-    "type_id":"35268079",
-    "date":"1954",
-    "year_start":"1954",
-    "year_end":"1954",
-    "year_acquired":"1969",
-    "decade":"1950",
-    "woe:country":null,
-    "medium":"Medium: 36% spun rayon, 45% metallic plastic, 9% cotton, 10% rayon\nTechnique: machine woven plain weave with supplementary weft",
-    "markings":"Herman Miller Fabrics paper label attached to lower right corner.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 30 cm [12\"]\nWeft: 30 cm [12\"]",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Yellow-green warp and weft with supplementary weft in shades of cooper and gold colors, forming diamonds, squares and triangles.  Serged on two sides and cut on two sides.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18677767",
+    "tms:id": "214349",
+    "accession_number": "1969-165-48",
+    "title": "Sample, Gemstones, 1954",
+    "title_raw": "Gemstones",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18677767\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35429743",
+    "type_id": "35268079",
+    "date": "1954",
+    "year_start": 1954,
+    "year_end": 1954,
+    "year_acquired": "1969",
+    "decade": "1950",
+    "woe:country_id": null,
+    "medium": "Medium: 36% spun rayon, 45% metallic plastic, 9% cotton, 10% rayon\nTechnique: machine woven plain weave with supplementary weft",
+    "markings": "Herman Miller Fabrics paper label attached to lower right corner.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 30 x 30 cm (11 13\/16 x 11 13\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "30.00",
+            "centimeters"
+        ],
+        "weft": [
+            "30.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Yellow-green warp and weft with supplementary weft in shades of cooper and gold colors, forming diamonds, squares and triangles.  Serged on two sides and cut on two sides.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30039_30b06bd6038fd079_b.jpg",
-                "width":1004,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30039_30b06bd6038fd079_b.jpg",
+                "width": 1004,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "30039"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30039_30b06bd6038fd079_n.jpg",
-                "width":314,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30039_30b06bd6038fd079_z.jpg",
+                "width": 628,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "30039"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30039_30b06bd6038fd079_z.jpg",
-                "width":628,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30039_30b06bd6038fd079_n.jpg",
+                "width": 314,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "30039"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30039_30b06bd6038fd079_d.gif",
+                "width": 314,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "30039"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30039_30b06bd6038fd079_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "30039"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046321",
-            "role_id":"35236657",
-            "person_name":"Orinoka Mills",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046321\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18046321",
+            "role_id": "35236657",
+            "person_name": "Orinoka Mills",
+            "person_date": "USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Gemstones\", 1954.\n1954. Medium: 36% spun rayon, 45% metallic plastic, 9% cotton, 10% rayon\nTechnique: machine woven plain weave with supplementary weft. Gift of Alexander H. Girard. 1969-165-48."
+    "tombstone": {
+        "epitaph": "Sample, Gemstones, 1954. Medium: 36% spun rayon, 45% metallic plastic, 9% cotton, 10% rayon\nTechnique: machine woven plain weave with supplementary weft. \nGift of Alexander H. Girard. 1969-165-48"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#afaf86",
-            "closest_css3":"#bdb76b"
+            "color": "#a0a689",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
         },
         {
-            "color":"#8b967f",
-            "closest_css3":"#808080"
+            "color": "#4e4c60",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#504b61",
-            "closest_css3":"#2f4f4f"
+            "color": "#837c6d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#3c2c46",
-            "closest_css3":"#2f4f4f"
+            "color": "#635d5f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#7d7183",
-            "closest_css3":"#808080"
+            "color": "#a59786",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

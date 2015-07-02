@@ -1,79 +1,131 @@
 {
-    "id":"18731999",
-    "tms:id":"242100",
-    "accession_number":"2009-18-65",
-    "title":"Flower Bowl, \"Rock crystal style\", 1923\u201324",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731999\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51588577",
-    "type_id":"35251387",
-    "date":"1923\u201324",
-    "year_start":"1923",
-    "year_end":"1924",
-    "year_acquired":"2009",
-    "decade":"1920",
-    "woe:country":"23424750",
-    "medium":"Mouth-blown crystal, exact shape cut, half-polished surface cutting",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"2009: acquired by Museum",
-    "dimensions":"H x W x D: 16.3 x 37.6 x 24.6 cm (6 7\/16 x 14 13\/16 x 9 11\/16 in.)",
-    "creditline":"Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
-    "description":"Blown, cut glass bowl in a style meant to imitate rock crystal.",
-    "justification":null,
-    "type":{
-        "id":"35251387",
-        "name":"flower bowl"
+    "id": "18731999",
+    "tms:id": "242100",
+    "accession_number": "2009-18-65",
+    "title": "Rock crystal style Flower Bowl, 1923\u201324",
+    "title_raw": "Rock crystal style",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18731999\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68779339",
+    "type_id": "35251387",
+    "date": "1923\u201324",
+    "year_start": 1923,
+    "year_end": 1924,
+    "year_acquired": "2009",
+    "decade": "1920",
+    "woe:country_id": "23424750",
+    "medium": "Mouth-blown glass, exact shape cut, half-polished surface cutting",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2009: acquired by Museum",
+    "dimensions": "H x W x D: 16.3 x 37.6 x 24.6 cm (6 7\/16 x 14 13\/16 x 9 11\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "24.60",
+            "centimeters"
+        ],
+        "height": [
+            "16.30",
+            "centimeters"
+        ],
+        "width": [
+            "37.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
+    "description": "Mouth-blown crystal, exact shape cut, half-polished surface cutting, meant to imitate rock crystal",
+    "justification": null,
+    "gallery_text": "Rath\u2019s bowl was mold-blown and then cut on the surface to emphasize the contours and imitate the texture of rock crystal. It was a centerpiece of the Paris 1925 Exposition Internationale des Arts D\u00e9coratifs et Industriels Modernes (the exhibition from which the term \u201cart deco\u201d derives).",
+    "label_text": "Rath\u2019s bowl was mold-blown and then cut on the surface to emphasize the contours and imitate the texture of rock crystal. It was a centerpiece of the Paris 1925 Exposition Internationale des Arts D\u00e9coratifs et Industriels Modernes (the exhibition from which the term \u201cart deco\u201d derives).",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424750",
+    "type": "flower bowl",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32073_3d0cc0e533d5ea68_b.jpg",
-                "width":1024,
-                "height":721,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32073_3d0cc0e533d5ea68_b.jpg",
+                "width": 1024,
+                "height": 721,
+                "is_primary": "1",
+                "image_id": "32073"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32073_3d0cc0e533d5ea68_n.jpg",
-                "width":320,
-                "height":225,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32073_3d0cc0e533d5ea68_z.jpg",
+                "width": 640,
+                "height": 451,
+                "is_primary": "1",
+                "image_id": "32073"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32073_3d0cc0e533d5ea68_z.jpg",
-                "width":640,
-                "height":451,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32073_3d0cc0e533d5ea68_n.jpg",
+                "width": 320,
+                "height": 225,
+                "is_primary": "1",
+                "image_id": "32073"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32073_3d0cc0e533d5ea68_d.gif",
+                "width": 320,
+                "height": 225,
+                "is_primary": "1",
+                "image_id": "32073"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32073_3d0cc0e533d5ea68_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "32073"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18061841",
-            "role_id":"35236657",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18061841",
+            "role_id": "35236657",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18061841",
-            "role_id":"51571131",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Lender",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+            "person_id": "18061841",
+            "role_id": "51571131",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        },
+        {
+            "person_id": "68738371",
+            "role_id": "35236655",
+            "person_name": "Marianne Rath",
+            "person_date": "Austrian, 1904\u20131985",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Flower Bowl, \"Rock crystal style\", 1923\u201324.\n1923\u201324. Mouth-blown crystal, exact shape cut, half-polished surface cutting. Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-65."
+    "tombstone": {
+        "epitaph": "Rock crystal style Flower Bowl, 1923\u201324. Mouth-blown glass, exact shape cut, half-polished surface cutting. \nMuseum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-65"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#ffffff",
-            "closest_css3":"#ffffff"
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
         }
-    ]
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

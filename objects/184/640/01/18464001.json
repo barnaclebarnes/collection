@@ -1,49 +1,119 @@
 {
-    "id":"18464001",
-    "tms:id":"142606",
-    "accession_number":"1968-135-103-a",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464001\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"130531",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Technique: monochrome printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Harvey Smith",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18464001",
+    "tms:id": "142606",
+    "accession_number": "1968-135-103-a",
+    "title": "Textile (France), ca. 1815",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18464001\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1815",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved roller on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 244 x 82.5 cm (8 ft. 1\/16 in. x 32 1\/2 in.)\nRepeat H: 52.7 cm (20 3\/4 in.); would repeat as a half-drop when lengths sewn together",
+    "dimensions_raw": {
+        "height": [
+            "52.71",
+            "centimeters"
+        ],
+        "width": [
+            "82.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Five scenes illustrating the story of Don Quixote. In red on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109184_68316dbfe504de4c_b.jpg",
+                "width": 634,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109184"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109184_68316dbfe504de4c_z.jpg",
+                "width": 396,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109184"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109184_68316dbfe504de4c_n.jpg",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109184"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109184_68316dbfe504de4c_d.gif",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109184"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109184_68316dbfe504de4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109184"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: monochrome printed. Gift of Harvey Smith. 1968-135-103-a."
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), ca. 1815. Medium: cotton\nTechnique: printed by engraved roller on plain weave. \nGift of Harvey Smith. 1968-135-103-a"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#aa7a76",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#99585b",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#e2e2c9",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

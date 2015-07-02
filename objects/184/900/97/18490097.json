@@ -1,80 +1,122 @@
 {
-    "id":"18490097",
-    "tms:id":"155922",
-    "accession_number":"1976-103-44",
-    "title":"Stencil",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18490097\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35288579",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Helen Snyder",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35288579",
-        "name":"Stencil"
-    },
-    "images":[
+    "id": "18490097",
+    "tms:id": "155922",
+    "accession_number": "1976-103-44",
+    "title": "Stencil (Japan)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18490097\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35288579",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Helen Snyder",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Stencil",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59043_9ff32f2788af29dc_b.jpg",
-                "width":1024,
-                "height":768,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59043_9ff32f2788af29dc_b.jpg",
+                "width": 1024,
+                "height": 768,
+                "is_primary": "1",
+                "image_id": "59043"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59043_9ff32f2788af29dc_n.jpg",
-                "width":320,
-                "height":240,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59043_9ff32f2788af29dc_z.jpg",
+                "width": 640,
+                "height": 480,
+                "is_primary": "1",
+                "image_id": "59043"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59043_9ff32f2788af29dc_z.jpg",
-                "width":640,
-                "height":480,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59043_9ff32f2788af29dc_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "59043"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59043_9ff32f2788af29dc_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "59043"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59043_9ff32f2788af29dc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "59043"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Stencil.\nGift of Helen Snyder. 1976-103-44."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#6a8793",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#1e2521",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#8faa9c",
-            "closest_css3":"#8fbc8f"
-        },
-        {
-            "color":"#83a8b1",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#4a5b55",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18061335",
+            "role_id": "35351535",
+            "person_name": "Helen Snyder",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Stencil (Japan). \nGift of Helen Snyder. 1976-103-44"
+    },
+    "colors": [
+        {
+            "color": "#698691",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#96b1a3",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#87aab2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#45544d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#222b26",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

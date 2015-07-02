@@ -1,49 +1,131 @@
 {
-    "id":"18617757",
-    "tms:id":"177411",
-    "accession_number":"1981-29-323",
-    "title":"Poster, \"Norand \/ Statement of Design Integrity\", 1978",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617757\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":"1978",
-    "year_start":"1978",
-    "year_end":"1978",
-    "year_acquired":"1981",
-    "decade":"1970",
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 60 x 45.8 cm (23 5\/8 x 18 1\/16 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617757",
+    "tms:id": "177411",
+    "accession_number": "1981-29-323",
+    "title": "Poster, Norand \/ Statement of Design Integrity, 1978",
+    "title_raw": "Norand \/ Statement of Design Integrity",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617757\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1978",
+    "year_start": 1978,
+    "year_end": 1978,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "60 x 45.8 cm (23 5\/8 x 18 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "60.00",
+            "centimeters"
+        ],
+        "width": [
+            "45.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "On a cream ground, a figure 8 made up of several lines in purple, orange, red, and green. Above in light gray text: NORAND; Statement of Design Integrity; Norand Corporation \/ 550 Second Street, S.E. \/ Cedar Rapids, Iowa 52401; Artform by James Potocki \u00a91978 . Norand Corporation.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18535713",
-            "role_id":"35236655",
-            "person_name":"James Potocki",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18535713\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90455_475041797af74110_b.jpg",
+                "width": 769,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90455"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90455_475041797af74110_z.jpg",
+                "width": 481,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90455"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90455_475041797af74110_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90455"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90455_475041797af74110_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90455"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90455_475041797af74110_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90455"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"Norand \/ Statement of Design Integrity\", 1978.\n1978. Overall: 60 x 45.8 cm (23 5\/8 x 18 1\/16 in.). Gift of Various Donors. 1981-29-323."
+    "participants": [
+        {
+            "person_id": "18535713",
+            "role_id": "35236655",
+            "person_name": "James Potocki",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535713\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Norand \/ Statement of Design Integrity, 1978. Lithograph on paper. \nGift of Various Donors. 1981-29-323"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ededd5",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
+        },
+        {
+            "color": "#9e7fcf",
+            "closest_crayola": "#9d81ba",
+            "closest_css3": "#9370d8",
+            "closest_css4": "#9370db"
+        },
+        {
+            "color": "#c36e36",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#cd8f3d",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#77b054",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#9acd32",
+            "closest_css4": "#9acd32"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,87 +1,169 @@
 {
-    "id":"18196585",
-    "tms:id":"22829",
-    "accession_number":"1917-4-292-a",
-    "title":"Drawing, \"Apline Lake, Bavaria or Switzerland\", 1868",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18196585\/",
-    "department_id":"35347493",
-    "period_id":"35417175",
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":"1868",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1917",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Louis P. Church",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18196585",
+    "tms:id": "22829",
+    "accession_number": "1917-4-292-a",
+    "title": "Drawing, Apline Lake, Bavaria or Switzerland, 1868",
+    "title_raw": "Apline Lake, Bavaria or Switzerland",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18196585\/",
+    "department_id": "35347493",
+    "period_id": "35417175",
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1868",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1917",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Louis P. Church",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1758_502ad7baaa569e97_b.jpg",
-                "width":1024,
-                "height":652,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1758_502ad7baaa569e97_b.jpg",
+                "width": 1024,
+                "height": 652,
+                "is_primary": "1",
+                "image_id": "1758"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1758_502ad7baaa569e97_n.jpg",
-                "width":320,
-                "height":204,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1758_502ad7baaa569e97_z.jpg",
+                "width": 640,
+                "height": 407,
+                "is_primary": "1",
+                "image_id": "1758"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1758_502ad7baaa569e97_z.jpg",
-                "width":640,
-                "height":407,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1758_502ad7baaa569e97_n.jpg",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "1758"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1758_502ad7baaa569e97_d.gif",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "1758"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1758_502ad7baaa569e97_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "1758"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117906_52c52d84eff00331_b.jpg",
+                "width": 1024,
+                "height": 661,
+                "is_primary": "0",
+                "image_id": "117906"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117906_52c52d84eff00331_z.jpg",
+                "width": 640,
+                "height": 413,
+                "is_primary": "0",
+                "image_id": "117906"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117906_52c52d84eff00331_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "117906"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117906_52c52d84eff00331_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "117906"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117906_52c52d84eff00331_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "117906"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041941",
-            "role_id":"35236565",
-            "person_name":"Frederic Edwin Church",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18051625",
+            "role_id": "35351535",
+            "person_name": "Louis P. Church",
+            "person_date": "American, 1870\u20131943",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Apline Lake, Bavaria or Switzerland\", 1868.\n1868. Gift of Louis P. Church. 1917-4-292-a."
+    "tombstone": {
+        "epitaph": "Drawing, Apline Lake, Bavaria or Switzerland, 1868. \nGift of Louis P. Church. 1917-4-292-a"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#364751",
-            "closest_css3":"#2f4f4f"
+            "color": "#404f5b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#576164",
-            "closest_css3":"#696969"
+            "color": "#917f7a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#6f6551",
-            "closest_css3":"#696969"
+            "color": "#6f7175",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#b08e7e",
-            "closest_css3":"#bc8f8f"
+            "color": "#1c2834",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#907d68",
-            "closest_css3":"#808080"
+            "color": "#706552",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

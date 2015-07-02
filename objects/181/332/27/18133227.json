@@ -1,49 +1,158 @@
 {
-    "id":"18133227",
-    "tms:id":"12044",
-    "accession_number":"1902-1-812",
-    "title":"Fragment, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18133227\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk\nTechnique: plain weave patterned by supplementary warp floats and discontinuous supplementary wefts",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex-collection: Francisco Miquel y Bad\u00eda",
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Serpentine bands with bouquets on white ground.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18133227",
+    "tms:id": "12044",
+    "accession_number": "1902-1-812",
+    "title": "Fragment, 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18133227\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk\nTechnique: plain weave patterned by supplementary warp floats and discontinuous supplementary wefts",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex-collection: Francisco Miquel y Bad\u00eda",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Serpentine bands with bouquets on white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90579_3b46a6a2a36cbabd_b.jpg",
+                "width": 1024,
+                "height": 831,
+                "is_primary": "1",
+                "image_id": "90579"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90579_3b46a6a2a36cbabd_z.jpg",
+                "width": 640,
+                "height": 519,
+                "is_primary": "1",
+                "image_id": "90579"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90579_3b46a6a2a36cbabd_n.jpg",
+                "width": 320,
+                "height": 260,
+                "is_primary": "1",
+                "image_id": "90579"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90579_3b46a6a2a36cbabd_d.gif",
+                "width": 320,
+                "height": 260,
+                "is_primary": "1",
+                "image_id": "90579"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90579_3b46a6a2a36cbabd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90579"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68350_c8c307d7a70c09ee_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "68350"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68350_c8c307d7a70c09ee_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "68350"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68350_c8c307d7a70c09ee_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "68350"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68350_c8c307d7a70c09ee_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "68350"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68350_c8c307d7a70c09ee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68350"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk\nTechnique: plain weave patterned by supplementary warp floats and discontinuous supplementary wefts. Gift of John Pierpont Morgan. 1902-1-812."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 18th century. Medium: silk\nTechnique: plain weave patterned by supplementary warp floats and discontinuous supplementary wefts. \nGift of John Pierpont Morgan. 1902-1-812"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ddd8b7",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#bbad85",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#99754f",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#444533",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6e6f5f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

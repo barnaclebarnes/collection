@@ -1,80 +1,177 @@
 {
-    "id":"18704477",
-    "tms:id":"228022",
-    "accession_number":"2006-3-2",
-    "title":"Print, \"The Milk Woman\", 1774",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18704477\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35401873",
-    "type_id":"35236873",
-    "date":"1774",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"2006",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Engraving and etching in blue, black and red ink over gold leaf, on off-white laid paper.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Image: 28.2 x 23.4 cm (11 1\/8 x 9 3\/16 in.)",
-    "creditline":"Museum purchase through gift of George A. Hearn",
-    "description":"Portrait of a young woman, facing front, presenting a gilded milk can. She wears a frilled bonnet and a plaid dress with a low neckline.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18704477",
+    "tms:id": "228022",
+    "accession_number": "2006-3-2",
+    "title": "Print, The Milk Woman, 1774",
+    "title_raw": "The Milk Woman",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18704477\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "35401873",
+    "type_id": "35236873",
+    "date": "1774",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2006",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Engraving and etching in blue, black and red ink over gold leaf, on off-white laid paper.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Image: 28.2 x 23.4 cm (11 1\/8 x 9 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.20",
+            "centimeters"
+        ],
+        "width": [
+            "23.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of George A. Hearn",
+    "description": "Portrait of a young woman, facing front, presenting a gilded milk can. She wears a frilled bonnet and a plaid dress with a low neckline.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21402_b0375be237b10c5b_b.jpg",
-                "width":820,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21402_b0375be237b10c5b_b.jpg",
+                "width": 820,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "21402"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21402_b0375be237b10c5b_n.jpg",
-                "width":256,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21402_b0375be237b10c5b_z.jpg",
+                "width": 513,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "21402"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21402_b0375be237b10c5b_z.jpg",
-                "width":513,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21402_b0375be237b10c5b_n.jpg",
+                "width": 256,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "21402"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21402_b0375be237b10c5b_d.gif",
+                "width": 256,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "21402"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21402_b0375be237b10c5b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "21402"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114025_7c73234becf28337_b.jpg",
+                "width": 794,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "114025"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114025_7c73234becf28337_z.jpg",
+                "width": 496,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "114025"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114025_7c73234becf28337_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "114025"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114025_7c73234becf28337_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "114025"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114025_7c73234becf28337_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "114025"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Print, \"The Milk Woman\", 1774.\n1774. Engraving and etching in blue, black and red ink over gold leaf, on off-white laid paper.. Museum purchase through gift of George A. Hearn. 2006-3-2."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cfc3b2",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18058841",
+            "role_id": "35352249",
+            "person_name": "August Laube",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "color":"#605c53",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#817052",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#39342c",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#bea16b",
-            "closest_css3":"#bdb76b"
+            "person_id": "18055019",
+            "role_id": "35236565",
+            "person_name": "Louis-Marin Bonnet",
+            "person_date": "1736 \u2013 1793",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055019\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Print, The Milk Woman, 1774. Engraving and etching in blue, black and red ink over gold leaf, on off-white laid paper.. \nMuseum purchase through gift of George A. Hearn. 2006-3-2"
+    },
+    "colors": [
+        {
+            "color": "#504d44",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d9cfbf",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#b1a897",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#857455",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#b4996b",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "is_loan_object": 0
 }

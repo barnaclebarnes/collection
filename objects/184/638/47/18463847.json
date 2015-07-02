@@ -1,49 +1,121 @@
 {
-    "id":"18463847",
-    "tms:id":"142529",
-    "accession_number":"1968-130-4-a",
-    "title":"Tile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18463847\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402647",
-    "type_id":"35250645",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Harvey Smith",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35250645",
-        "name":"tile"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18463847",
+    "tms:id": "142529",
+    "accession_number": "1968-130-4-a",
+    "title": "Tile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18463847\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35250645",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Harvey Smith",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "tile",
+    "images": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100328_da6565aad3c21e50_b.jpg",
+                "width": 1024,
+                "height": 1003,
+                "is_primary": "1",
+                "image_id": "100328"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100328_da6565aad3c21e50_z.jpg",
+                "width": 640,
+                "height": 627,
+                "is_primary": "1",
+                "image_id": "100328"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100328_da6565aad3c21e50_n.jpg",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "100328"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100328_da6565aad3c21e50_d.gif",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "100328"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100328_da6565aad3c21e50_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "100328"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Tile.\nEarthenware. Gift of Harvey Smith. 1968-130-4-a."
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Tile. Earthenware. \nGift of Harvey Smith. 1968-130-4-a"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#c1bfb6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#81836a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#9baa94",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#9f7862",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#625a48",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
 }

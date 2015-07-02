@@ -1,49 +1,119 @@
 {
-    "id":"18143383",
-    "tms:id":"13629",
-    "accession_number":"1904-20-441",
-    "title":"Finial",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18143383\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35390047",
-    "type_id":"35260429",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1904",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"bronze",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 17.7 x 12 cm (6 15\/16 x 4 3\/4 in.)",
-    "creditline":"Gift of Jacob H. Schiff",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35260429",
-        "name":"Finial"
+    "id": "18143383",
+    "tms:id": "13629",
+    "accession_number": "1904-20-441",
+    "title": "Finial (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18143383\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35390047",
+    "type_id": "35260429",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1904",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 17.7 x 12 cm (6 15\/16 x 4 3\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "12.00",
+            "centimeters"
+        ],
+        "height": [
+            "17.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Jacob H. Schiff",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Finial",
+    "images": [
         {
-            "person_id":"18050451",
-            "role_id":"35351535",
-            "person_name":"Jacob H. Schiff",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050451\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103497_d07e53ef55507c13_b.jpg",
+                "width": 1024,
+                "height": 837,
+                "is_primary": "1",
+                "image_id": "103497"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103497_d07e53ef55507c13_z.jpg",
+                "width": 640,
+                "height": 523,
+                "is_primary": "1",
+                "image_id": "103497"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103497_d07e53ef55507c13_n.jpg",
+                "width": 320,
+                "height": 262,
+                "is_primary": "1",
+                "image_id": "103497"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103497_d07e53ef55507c13_d.gif",
+                "width": 320,
+                "height": 262,
+                "is_primary": "1",
+                "image_id": "103497"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103497_d07e53ef55507c13_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103497"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Finial.\nbronze. Gift of Jacob H. Schiff. 1904-20-441."
+    "participants": [
+        {
+            "person_id": "18050451",
+            "role_id": "35351535",
+            "person_name": "Jacob H. Schiff",
+            "person_date": "American, b. Germany, 1847\u20131920",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050451\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Finial (France). bronze. \nGift of Jacob H. Schiff. 1904-20-441"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2a1f13",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#61543f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#7b7569",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

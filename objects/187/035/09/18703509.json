@@ -1,80 +1,215 @@
 {
-    "id":"18703509",
-    "tms:id":"227532",
-    "accession_number":"2007-45-23",
-    "title":"Staircase Model, late 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18703509\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35425309",
-    "type_id":"35302429",
-    "date":"late 20th century",
-    "year_start":"1975",
-    "year_end":"2000",
-    "year_acquired":"2007",
-    "decade":"1970",
-    "woe:country":"23424819",
-    "medium":"Cherry",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 106 x 57 cm (41 3\/4 x 22 7\/16 in.)",
-    "creditline":"Gift of Eugene V. and Clare E. Thaw",
-    "description":"double revolution spiral staircase model",
-    "justification":null,
-    "type":{
-        "id":"35302429",
-        "name":"Staircase model"
+    "id": "18703509",
+    "tms:id": "227532",
+    "accession_number": "2007-45-23",
+    "title": "Staircase Model (France), late 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18703509\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35425309",
+    "type_id": "35302429",
+    "date": "late 20th century",
+    "year_start": 1975,
+    "year_end": 2000,
+    "year_acquired": "2007",
+    "decade": "1970",
+    "woe:country_id": "23424819",
+    "medium": "Cherry",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Eugene V. and Clare E. Thaw; 2007: acquired by Museum",
+    "dimensions": "H x W: 106 x 57 cm (41 3\/4 x 22 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "106.00",
+            "centimeters"
+        ],
+        "width": [
+            "57.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eugene V. and Clare E. Thaw",
+    "description": "Double revolution spiral staircase model.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Staircase model",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_b.jpg",
-                "width":655,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105819_6dd7ba25c38181a9_b.jpg",
+                "width": 656,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "105819"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_n.jpg",
-                "width":205,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105819_6dd7ba25c38181a9_z.jpg",
+                "width": 410,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "105819"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_z.jpg",
-                "width":410,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105819_6dd7ba25c38181a9_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105819"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105819_6dd7ba25c38181a9_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105819"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105819_6dd7ba25c38181a9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105819"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90968_149aa2beb5c10024_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90968"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90968_149aa2beb5c10024_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90968"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90968_149aa2beb5c10024_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90968"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90968_149aa2beb5c10024_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90968"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90968_149aa2beb5c10024_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90968"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_b.jpg",
+                "width": 655,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "21642"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_z.jpg",
+                "width": 410,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "21642"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21642"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21642"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21642"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Staircase Model, late 20th century.\nlate 20th century. Cherry. Gift of Eugene V. and Clare E. Thaw. 2007-45-23."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#908880",
-            "closest_css3":"#808080"
+            "person_id": "18060137",
+            "role_id": "35351535",
+            "person_name": "Clare E. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#332624",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#4e4845",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#522f1b",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#7b695c",
-            "closest_css3":"#696969"
+            "person_id": "68736639",
+            "role_id": "35351535",
+            "person_name": "Eugene V. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Staircase Model (France), late 20th century. Cherry. \nGift of Eugene V. and Clare E. Thaw. 2007-45-23"
+    },
+    "colors": [
+        {
+            "color": "#a29a90",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#554e4b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#2a1a17",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#663a1c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#7b706d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

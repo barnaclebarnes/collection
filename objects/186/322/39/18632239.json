@@ -1,42 +1,133 @@
 {
-    "id":"18632239",
-    "tms:id":"190962",
-    "accession_number":"1989-11-3",
-    "title":"Vase, \"Mandarin\", ca. 1988",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18632239\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35381021",
-    "type_id":"35237225",
-    "date":"ca. 1988",
-    "year_start":"1978",
-    "year_end":"1998",
-    "year_acquired":"1989",
-    "decade":"1970",
-    "woe:country":"23424909",
-    "medium":"stoneware, glazed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 25 x 21 cm (9 13\/16 x 8 1\/4 in.)",
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18632239",
+    "tms:id": "190962",
+    "accession_number": "1989-11-3",
+    "title": "Mandarin Vase, ca. 1988",
+    "title_raw": "Mandarin",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18632239\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35381021",
+    "type_id": "35237225",
+    "date": "ca. 1988",
+    "year_start": 1978,
+    "year_end": 1998,
+    "year_acquired": "1989",
+    "decade": "1970",
+    "woe:country_id": "23424909",
+    "medium": "stoneware, glazed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 25 x 21 cm (9 13\/16 x 8 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107649_6a32cc5c8acb278c_b.jpg",
+                "width": 803,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "107649"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107649_6a32cc5c8acb278c_z.jpg",
+                "width": 502,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "107649"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107649_6a32cc5c8acb278c_n.jpg",
+                "width": 251,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107649"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107649_6a32cc5c8acb278c_d.gif",
+                "width": 251,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107649"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107649_6a32cc5c8acb278c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107649"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18040921",
+            "role_id": "35352249",
+            "person_name": "Garth Clark Gallery",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040921\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18054983",
+            "role_id": "35236565",
+            "person_name": "Geert Lap",
+            "person_date": "1951\u2013",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054983\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Vase, \"Mandarin\", ca. 1988.\nca. 1988. stoneware, glazed. Museum purchase from Decorative Arts Association Acquisition Fund. 1989-11-3."
+    "tombstone": {
+        "epitaph": "Mandarin Vase, ca. 1988. stoneware, glazed. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1989-11-3"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#816d5f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#af9884",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

@@ -1,111 +1,236 @@
 {
-    "id":"18636401",
-    "tms:id":"193051",
-    "accession_number":"1991-30-50-a,b",
-    "title":"Cup And Saucer, \"Flair Translucent\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18636401\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389857",
-    "type_id":"35248193",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1991",
-    "decade":null,
-    "woe:country":null,
-    "medium":"plastic",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"A: 6.4 x 12.5 x 10 cm (2 1\/2 x 4 15\/16 x 3 15\/16 in.)\nB: 1.7 x 15 diameter cm (11\/16 x 5 7\/8 in.)",
-    "creditline":"Gift of Paul F. Walter",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35248193",
-        "name":"cup and saucer"
+    "id": "18636401",
+    "tms:id": "193051",
+    "accession_number": "1991-30-50-a,b",
+    "title": "Flair Translucent Cup And Saucer, 1950s",
+    "title_raw": "Flair Translucent",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18636401\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389857",
+    "type_id": "35248193",
+    "date": "1950s",
+    "year_start": 1950,
+    "year_end": 1959,
+    "year_acquired": "1991",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Plastic",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Paul F. Walter; 1991: acquired by Museum",
+    "dimensions": "H x W x D (a: cup): 6.4 x 12.5 x 10 cm (2 1\/2 x 4 15\/16 x 3 15\/16 in.)\nH x diam. (b: saucer): 1.7 x 15 cm (11\/16 x 5 7\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "10.00",
+            "centimeters"
+        ],
+        "diameter": [
+            "15.00",
+            "centimeters"
+        ],
+        "height": [
+            "6.40",
+            "centimeters"
+        ],
+        "width": [
+            "12.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Paul F. Walter",
+    "description": "White plastic cup with tapered bottom and wide mouth, applied circular handle with thumb piece. White saucer with twig or vegetal stem painted on.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "cup and saucer",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44458_ab2423f7c567dc37_b.jpg",
-                "width":1024,
-                "height":758,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44458_ab2423f7c567dc37_b.jpg",
+                "width": 1024,
+                "height": 758,
+                "is_primary": "1",
+                "image_id": "44458"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44458_ab2423f7c567dc37_n.jpg",
-                "width":320,
-                "height":237,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44458_ab2423f7c567dc37_z.jpg",
+                "width": 640,
+                "height": 474,
+                "is_primary": "1",
+                "image_id": "44458"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44458_ab2423f7c567dc37_z.jpg",
-                "width":640,
-                "height":474,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44458_ab2423f7c567dc37_n.jpg",
+                "width": 320,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "44458"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44458_ab2423f7c567dc37_d.gif",
+                "width": 320,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "44458"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44458_ab2423f7c567dc37_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "44458"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44457_683d90bad3670567_b.jpg",
-                "width":1024,
-                "height":485,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115877_8b7f66795186174e_b.jpg",
+                "width": 1024,
+                "height": 783,
+                "is_primary": "0",
+                "image_id": "115877"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44457_683d90bad3670567_n.jpg",
-                "width":320,
-                "height":151,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115877_8b7f66795186174e_z.jpg",
+                "width": 640,
+                "height": 489,
+                "is_primary": "0",
+                "image_id": "115877"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44457_683d90bad3670567_z.jpg",
-                "width":640,
-                "height":303,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115877_8b7f66795186174e_n.jpg",
+                "width": 320,
+                "height": 245,
+                "is_primary": "0",
+                "image_id": "115877"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115877_8b7f66795186174e_d.gif",
+                "width": 320,
+                "height": 245,
+                "is_primary": "0",
+                "image_id": "115877"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115877_8b7f66795186174e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "115877"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11235_662017b1e1699bb0_b.jpg",
-                "width":1024,
-                "height":822,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44457_683d90bad3670567_b.jpg",
+                "width": 1024,
+                "height": 485,
+                "is_primary": "0",
+                "image_id": "44457"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11235_662017b1e1699bb0_n.jpg",
-                "width":320,
-                "height":257,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44457_683d90bad3670567_z.jpg",
+                "width": 640,
+                "height": 303,
+                "is_primary": "0",
+                "image_id": "44457"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11235_662017b1e1699bb0_z.jpg",
-                "width":640,
-                "height":514,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44457_683d90bad3670567_n.jpg",
+                "width": 320,
+                "height": 151,
+                "is_primary": "0",
+                "image_id": "44457"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44457_683d90bad3670567_d.gif",
+                "width": 320,
+                "height": 151,
+                "is_primary": "0",
+                "image_id": "44457"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44457_683d90bad3670567_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "44457"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11235_662017b1e1699bb0_b.jpg",
+                "width": 1024,
+                "height": 822,
+                "is_primary": "0",
+                "image_id": "11235"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11235_662017b1e1699bb0_z.jpg",
+                "width": 640,
+                "height": 514,
+                "is_primary": "0",
+                "image_id": "11235"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11235_662017b1e1699bb0_n.jpg",
+                "width": 320,
+                "height": 257,
+                "is_primary": "0",
+                "image_id": "11235"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11235_662017b1e1699bb0_d.gif",
+                "width": 320,
+                "height": 257,
+                "is_primary": "0",
+                "image_id": "11235"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11235_662017b1e1699bb0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11235"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043357",
-            "role_id":"35236655",
-            "person_name":"Russel Wright",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043357\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041007",
+            "role_id": "35351535",
+            "person_name": "Paul F. Walter",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043357",
+            "role_id": "35236655",
+            "person_name": "Russel Wright",
+            "person_date": "American, 1904\u20131976",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Cup And Saucer, \"Flair Translucent\".\nplastic. Gift of Paul F. Walter. 1991-30-50-a,b."
+    "tombstone": {
+        "epitaph": "Flair Translucent Cup And Saucer, 1950s. Plastic. \nGift of Paul F. Walter. 1991-30-50-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a6a298",
-            "closest_css3":"#a9a9a9"
+            "color": "#b6b4b0",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,76 +1,162 @@
 {
-    "id":"18127747",
-    "tms:id":"10834",
-    "accession_number":"1901-39-670",
-    "title":"Drawing, \"Window case\", 1740\u201370",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18127747\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":"1740\u201370",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18127747",
+    "tms:id": "10834",
+    "accession_number": "1901-39-670",
+    "title": "Drawing, Window case, 1740\u201370",
+    "title_raw": "Window case",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18127747\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68264399",
+    "type_id": "35237093",
+    "date": "1740\u201370",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and ink, brush and gray watercolor on laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Giovanni Piancastelli; 1901: acquired by Museum",
+    "dimensions": "12.7 x 11.5 cm (5 in. x 4 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "12.70",
+            "centimeters"
+        ],
+        "width": [
+            "11.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Window case with a broken pediment; the attic of the central part has an opening.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/215_841c8c13f1588c99_b.jpg",
-                "width":890,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90728_3f327815167bdd93_b.jpg",
+                "width": 877,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90728"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/215_841c8c13f1588c99_n.jpg",
-                "width":278,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90728_3f327815167bdd93_z.jpg",
+                "width": 548,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90728"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/215_841c8c13f1588c99_z.jpg",
-                "width":556,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90728_3f327815167bdd93_n.jpg",
+                "width": 274,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90728"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90728_3f327815167bdd93_d.gif",
+                "width": 274,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90728"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90728_3f327815167bdd93_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90728"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215_841c8c13f1588c99_b.jpg",
+                "width": 890,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "215"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215_841c8c13f1588c99_z.jpg",
+                "width": 556,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "215"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215_841c8c13f1588c99_n.jpg",
+                "width": 278,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "215"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215_841c8c13f1588c99_d.gif",
+                "width": 278,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "215"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/215_841c8c13f1588c99_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "215"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Window case\", 1740\u201370.\n1740\u201370. Museum purchase through gift of various donors. 1901-39-670."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#968493",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#c7b5bf",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#4c3940",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#6f585f",
-            "closest_css3":"#696969"
+            "person_id": "18042677",
+            "role_id": "35236655",
+            "person_name": "Filippo Marchionni",
+            "person_date": "Italian, 1732\u20131805",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042677\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Window case, 1740\u201370. Pen and ink, brush and gray watercolor on laid paper. \nMuseum purchase through gift of various donors. 1901-39-670"
+    },
+    "colors": [
+        {
+            "color": "#8c8268",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#2e2923",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#594f3c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b7ad8c",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

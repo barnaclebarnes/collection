@@ -1,42 +1,122 @@
 {
-    "id":"18312601",
-    "tms:id":"42139",
-    "accession_number":"1926-22-96",
-    "title":"Clock",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18312601\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389779",
-    "type_id":"35249083",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1926",
-    "decade":null,
-    "woe:country":null,
-    "medium":"wood",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"29.5 x 10 x 18 cm (11 5\/8 x 3 15\/16 x 7 1\/16 in.)",
-    "creditline":"Bequest of Mrs. John Innes Kane",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249083",
-        "name":"clock"
+    "id": "18312601",
+    "tms:id": "42139",
+    "accession_number": "1926-22-96",
+    "title": "Clock",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18312601\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389779",
+    "type_id": "35249083",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1926",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "29.5 x 10 x 18 cm (11 5\/8 x 3 15\/16 x 7 1\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "18.00",
+            "centimeters"
+        ],
+        "height": [
+            "29.50",
+            "centimeters"
+        ],
+        "width": [
+            "10.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Mrs. John Innes Kane",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "clock",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110735_eb8b8c823ab2c7fc_b.jpg",
+                "width": 850,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110735"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110735_eb8b8c823ab2c7fc_z.jpg",
+                "width": 531,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110735"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110735_eb8b8c823ab2c7fc_n.jpg",
+                "width": 266,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110735"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110735_eb8b8c823ab2c7fc_d.gif",
+                "width": 266,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110735"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110735_eb8b8c823ab2c7fc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110735"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049373",
+            "role_id": "35351537",
+            "person_name": "Mrs. John Innes Kane",
+            "person_date": "American, d. 1926",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049373\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Clock.\nwood. Bequest of Mrs. John Innes Kane. 1926-22-96."
+    "tombstone": {
+        "epitaph": "Clock. wood. \nBequest of Mrs. John Innes Kane. 1926-22-96"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#3e4042",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5f5b56",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#847c66",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

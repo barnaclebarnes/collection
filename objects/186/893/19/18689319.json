@@ -1,95 +1,151 @@
 {
-    "id":"18689319",
-    "tms:id":"220169",
-    "accession_number":"2000-24-6-a,b",
-    "title":"Sugar Bowl And Lid, \"\"Town and Country\"\", Introduced 1946",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18689319\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35288059",
-    "date":"Introduced 1946",
-    "year_start":"1946",
-    "year_end":"1946",
-    "year_acquired":"2000",
-    "decade":"1940",
-    "woe:country":"23424977",
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"a & b) 8.5h x 11 diameter cm (3 3\/8 x 4 5\/16 in. )",
-    "creditline":"Museum purchase from Charles E. Sampson Memorial Fund",
-    "description":"Blue glazed globular bowl (a) with canted circular mouth; slightly domed circular lid (b) with shaped tab handle on rim.  Interior of bowl glazed off-white.",
-    "justification":null,
-    "type":{
-        "id":"35288059",
-        "name":"Sugar bowl and lid"
+    "id": "18689319",
+    "tms:id": "220169",
+    "accession_number": "2000-24-6-a,b",
+    "title": "\"Town and Country\" Sugar Bowl And Lid, introduced 1946",
+    "title_raw": "\"Town and Country\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18689319\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35288059",
+    "date": "introduced 1946",
+    "year_start": 1946,
+    "year_end": 1946,
+    "year_acquired": "2000",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "a & b) 8.5h x 11 diameter cm (3 3\/8 x 4 5\/16 in. )",
+    "dimensions_raw": {
+        "diameter": [
+            "11.00",
+            "centimeters"
+        ],
+        "height": [
+            "8.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Charles E. Sampson Memorial Fund",
+    "description": "Blue glazed globular bowl (a) with canted circular mouth; slightly domed circular lid (b) with shaped tab handle on rim.  Interior of bowl glazed off-white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sugar bowl and lid",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14235_1714532d23472b0f_b.jpg",
-                "width":1024,
-                "height":785,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14235_1714532d23472b0f_b.jpg",
+                "width": 1024,
+                "height": 785,
+                "is_primary": "1",
+                "image_id": "14235"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14235_1714532d23472b0f_n.jpg",
-                "width":320,
-                "height":245,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14235_1714532d23472b0f_z.jpg",
+                "width": 640,
+                "height": 491,
+                "is_primary": "1",
+                "image_id": "14235"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14235_1714532d23472b0f_z.jpg",
-                "width":640,
-                "height":491,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14235_1714532d23472b0f_n.jpg",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "14235"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14235_1714532d23472b0f_d.gif",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "14235"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14235_1714532d23472b0f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "14235"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18053873",
-            "role_id":"35352249",
-            "person_name":"Mood Indigo",
-            "role_name":"Vendor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18053873\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+            "person_id": "18053873",
+            "role_id": "35352249",
+            "person_name": "Mood Indigo",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053873\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "person_id":"34624589",
-            "role_id":"35236657",
-            "person_name":"Red Wing Pottery",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/34624589\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18043295",
+            "role_id": "35236655",
+            "person_name": "Eva Zeisel",
+            "person_date": "American, b. Hungary, 1906\u20132011",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043295\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "34624589",
+            "role_id": "35236657",
+            "person_name": "Red Wing Pottery",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/34624589\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sugar Bowl And Lid, \"\"Town and Country\"\", Introduced 1946.\nIntroduced 1946. Glazed earthenware. Museum purchase from Charles E. Sampson Memorial Fund. 2000-24-6-a,b."
+    "tombstone": {
+        "epitaph": "\"Town and Country\" Sugar Bowl And Lid, introduced 1946. Glazed earthenware. \nMuseum purchase from Charles E. Sampson Memorial Fund. 2000-24-6-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d4d5c9",
-            "closest_css3":"#d3d3d3"
+            "color": "#d6d6cb",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#6caebf",
-            "closest_css3":"#5f9ea0"
+            "color": "#87c8d6",
+            "closest_crayola": "#78dbe2",
+            "closest_css3": "#87ceeb",
+            "closest_css4": "#87ceeb"
         },
         {
-            "color":"#3a83a2",
-            "closest_css3":"#4682b4"
+            "color": "#3c89a8",
+            "closest_crayola": "#2b6cc4",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
         },
         {
-            "color":"#37607a",
-            "closest_css3":"#483d8b"
+            "color": "#2e6585",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
         },
         {
-            "color":"#9ed1dc",
-            "closest_css3":"#add8e6"
+            "color": "#758385",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

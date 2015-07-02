@@ -1,44 +1,122 @@
 {
-    "id":"18474143",
-    "tms:id":"147831",
-    "accession_number":"1971-50-178",
-    "title":"Sampler, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474143\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"112617",
-    "type_id":"35256439",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Technique: embroidered",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
-    },
-    "images":[
-        [
-
-        ]
+    "id": "18474143",
+    "tms:id": "147831",
+    "accession_number": "1971-50-178",
+    "title": "Sampler (USA), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474143\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "112617",
+    "type_id": "35256439",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Technique: embroidered",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sampler",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37486_85735fd1345e9fbf_b.jpg",
+                "width": 1024,
+                "height": 766,
+                "is_primary": "1",
+                "image_id": "37486"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37486_85735fd1345e9fbf_z.jpg",
+                "width": 640,
+                "height": 479,
+                "is_primary": "1",
+                "image_id": "37486"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37486_85735fd1345e9fbf_n.jpg",
+                "width": 320,
+                "height": 239,
+                "is_primary": "1",
+                "image_id": "37486"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37486_85735fd1345e9fbf_d.gif",
+                "width": 320,
+                "height": 239,
+                "is_primary": "1",
+                "image_id": "37486"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37486_85735fd1345e9fbf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "37486"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sampler, 18th century.\n18th century. Technique: embroidered. Bequest of Marian Hague. 1971-50-178."
+    "tombstone": {
+        "epitaph": "Sampler (USA), 18th century. Technique: embroidered. \nBequest of Marian Hague. 1971-50-178"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b9bdc3",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#291d1d",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#a37c5e",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#59483a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#585749",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,49 +1,107 @@
 {
-    "id":"18340327",
-    "tms:id":"53972",
-    "accession_number":"1936-13-28-a,b",
-    "title":"Cover",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18340327\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237165",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1936",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of George B. and Georgiana L. McClellan",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237165",
-        "name":"Cover"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18340327",
+    "tms:id": "53972",
+    "accession_number": "1936-13-28-a,b",
+    "title": "Cover",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18340327\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237165",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1936",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of George B. and Georgiana L. McClellan",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Cover",
+    "images": [
         {
-            "person_id":"18052303",
-            "role_id":"35351535",
-            "person_name":"George B. McClellan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18052303\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108579_f725bafb323d70d5_b.jpg",
+                "width": 1024,
+                "height": 870,
+                "is_primary": "1",
+                "image_id": "108579"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108579_f725bafb323d70d5_z.jpg",
+                "width": 640,
+                "height": 544,
+                "is_primary": "1",
+                "image_id": "108579"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108579_f725bafb323d70d5_n.jpg",
+                "width": 320,
+                "height": 272,
+                "is_primary": "1",
+                "image_id": "108579"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108579_f725bafb323d70d5_d.gif",
+                "width": 320,
+                "height": 272,
+                "is_primary": "1",
+                "image_id": "108579"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108579_f725bafb323d70d5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108579"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Cover.\nGift of George B. and Georgiana L. McClellan. 1936-13-28-a,b."
+    "participants": [
+        {
+            "person_id": "18050055",
+            "role_id": "35351535",
+            "person_name": "Georgiana L. McClellan",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050055\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18052303",
+            "role_id": "35351535",
+            "person_name": "George B. McClellan",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052303\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Cover. \nGift of George B. and Georgiana L. McClellan. 1936-13-28-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#808088",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,80 +1,215 @@
 {
-    "id":"18402681",
-    "tms:id":"111524",
-    "accession_number":"1955-133-11-a,b",
-    "title":"Panel, 18th\u201319th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18402681\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35407105",
-    "type_id":"35237229",
-    "date":"18th\u201319th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":"23424740",
-    "medium":"Medium: sik embroidery on linen foundation\nTechnique: embroidered in brick and ouline stitches",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 81 x 61 cm (31 7\/8 x 24 in.)",
-    "creditline":"Gift of Provident Securities Company from the Estate of Mr. and Mrs. William H. Crocker",
-    "description":"Small haging of fine, loosely woven linen, embroidered in silk in blue, violet, red, olive green, pink and white. Design symmetrically arranged, of stylized plants with spiky, angular outlines. At ends, narrow border of white embroidery, fringe. Pieced in center.",
-    "justification":null,
-    "type":{
-        "id":"35237229",
-        "name":"Panel"
+    "id": "18402681",
+    "tms:id": "111524",
+    "accession_number": "1955-133-11-a,b",
+    "title": "Panel (Algeria), 18th\u201319th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18402681\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35407105",
+    "type_id": "35237229",
+    "date": "18th\u201319th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": "23424740",
+    "medium": "Medium: sik embroidery on linen foundation\nTechnique: embroidered in brick and ouline stitches",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 81 x 61 cm (31 7\/8 x 24 in.)",
+    "dimensions_raw": {
+        "height": [
+            "81.00",
+            "centimeters"
+        ],
+        "width": [
+            "61.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Provident Securities Company from the Estate of Mr. and Mrs. William H. Crocker",
+    "description": "Small hanging or shawl of fine, loosely woven linen, embroidered in silk in blue, violet, red, olive green, pink and white. Design symmetrically arranged, of stylized plants with spiky, angular outlines. At ends, narrow border of white embroidery, fringe. Pieced in center.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424740",
+    "type": "Panel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28475_1aa19e04177dd409_b.jpg",
-                "width":385,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112508_515cdb8cb8fa4070_b.jpg",
+                "width": 331,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112508"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28475_1aa19e04177dd409_n.jpg",
-                "width":120,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112508_515cdb8cb8fa4070_z.jpg",
+                "width": 207,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112508"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28475_1aa19e04177dd409_z.jpg",
-                "width":241,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112508_515cdb8cb8fa4070_n.jpg",
+                "width": 103,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112508"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112508_515cdb8cb8fa4070_d.gif",
+                "width": 103,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112508"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112508_515cdb8cb8fa4070_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112508"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112412_0465c6fbe5300304_b.jpg",
+                "width": 369,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "112412"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112412_0465c6fbe5300304_z.jpg",
+                "width": 231,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "112412"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112412_0465c6fbe5300304_n.jpg",
+                "width": 115,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112412"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112412_0465c6fbe5300304_d.gif",
+                "width": 115,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112412"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112412_0465c6fbe5300304_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "112412"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28475_1aa19e04177dd409_b.jpg",
+                "width": 385,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "28475"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28475_1aa19e04177dd409_z.jpg",
+                "width": 241,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "28475"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28475_1aa19e04177dd409_n.jpg",
+                "width": 120,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28475"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28475_1aa19e04177dd409_d.gif",
+                "width": 120,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28475"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28475_1aa19e04177dd409_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28475"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Panel, 18th\u201319th century.\n18th\u201319th century. Medium: sik embroidery on linen foundation\nTechnique: embroidered in brick and ouline stitches. Gift of Provident Securities Company from the Estate of Mr. and Mrs. William H. Crocker. 1955-133-11-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#546c84",
-            "closest_css3":"#696969"
+            "person_id": "18056891",
+            "role_id": "35351535",
+            "person_name": "Estate of Mr. & Mrs. William H. Crocker",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056891\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#3a4b59",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#3f383e",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#c3b8a8",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#a09387",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18052997",
+            "role_id": "35351535",
+            "person_name": "Provident Securities Co.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052997\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Panel (Algeria), 18th\u201319th century. Medium: sik embroidery on linen foundation\nTechnique: embroidered in brick and ouline stitches. \nGift of Provident Securities Company from the Estate of Mr. and Mrs. William H. Crocker. 1955-133-11-a,b"
+    },
+    "colors": [
+        {
+            "color": "#afa384",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#542d3c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#78695a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8d8773",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7d4a5d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Algeria",
+    "is_loan_object": 0
 }

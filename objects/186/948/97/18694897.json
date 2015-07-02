@@ -1,87 +1,141 @@
 {
-    "id":"18694897",
-    "tms:id":"223003",
-    "accession_number":"2001-29-72",
-    "title":"Magazine Cover, \"Art Digest\", July 1953",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18694897\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35424293",
-    "type_id":"35294969",
-    "date":"July 1953",
-    "year_start":"1953",
-    "year_end":"1953",
-    "year_acquired":"2001",
-    "decade":"1950",
-    "woe:country":null,
-    "medium":"Thin glossy paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Printed in orange ink, upper center: ART Digest. Printed in black ink, upper center: JULY 1953 FIFTY CENTS.",
-    "provenance":null,
-    "dimensions":"30.5 x 22.2 cm (12 x 8 3\/4 in. )",
-    "creditline":"Gift of Susan Lustig Peck",
-    "description":"Photograph of puppet haning from string on cream ground.",
-    "justification":null,
-    "type":{
-        "id":"35294969",
-        "name":"Magazine cover"
+    "id": "18694897",
+    "tms:id": "223003",
+    "accession_number": "2001-29-72",
+    "title": "Magazine Cover, Art Digest, July 1953",
+    "title_raw": "Art Digest",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18694897\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35420685",
+    "type_id": "35294969",
+    "date": "July 1953",
+    "year_start": 1953,
+    "year_end": 1953,
+    "year_acquired": "2001",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on newsprint",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in orange ink, upper center: ART Digest. Printed in black ink, upper center: JULY 1953 FIFTY CENTS.",
+    "provenance": "Susan Lustig Peck; 2001: acquired by Museum",
+    "dimensions": "30.5 x 22.2 cm (12 x 8 3\/4 in. )",
+    "dimensions_raw": {
+        "height": [
+            "30.50",
+            "centimeters"
+        ],
+        "width": [
+            "22.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Susan Lustig Peck",
+    "description": "Cream background with black and white photograph of puppet hanging from string. Above center in red text: ART Digest.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Magazine cover",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39868_57a9c6760ea7446c_b.jpg",
-                "width":737,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39868_57a9c6760ea7446c_b.jpg",
+                "width": 737,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "39868"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39868_57a9c6760ea7446c_n.jpg",
-                "width":230,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39868_57a9c6760ea7446c_z.jpg",
+                "width": 461,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "39868"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39868_57a9c6760ea7446c_z.jpg",
-                "width":461,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39868_57a9c6760ea7446c_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "39868"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39868_57a9c6760ea7446c_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "39868"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39868_57a9c6760ea7446c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "39868"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043331",
-            "role_id":"35236763",
-            "person_name":"Alvin Lustig",
-            "role_name":"Graphic Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043331\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236763\/"
+            "person_id": "18538541",
+            "role_id": "35351535",
+            "person_name": "Susan Lustig Peck",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538541\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18043331",
+            "role_id": "35236763",
+            "person_name": "Alvin Lustig",
+            "person_date": "American, 1915\u20131955",
+            "role_name": "Graphic Designer",
+            "role_display_name": "Graphic design by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043331\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236763\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Magazine Cover, \"Art Digest\", July 1953.\nJuly 1953. Thin glossy paper. Gift of Susan Lustig Peck. 2001-29-72."
+    "tombstone": {
+        "epitaph": "Magazine Cover, Art Digest, July 1953. Lithograph on newsprint. \nGift of Susan Lustig Peck. 2001-29-72"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#6f6b66",
-            "closest_css3":"#696969"
+            "color": "#6f6b66",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#b8b3ac",
-            "closest_css3":"#a9a9a9"
+            "color": "#b7b2ab",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#3e3c38",
-            "closest_css3":"#2f4f4f"
+            "color": "#3f3d39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#8e8983",
-            "closest_css3":"#808080"
+            "color": "#8c8781",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#b9805f",
-            "closest_css3":"#cd853f"
+            "color": "#af8267",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

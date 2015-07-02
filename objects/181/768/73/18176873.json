@@ -1,42 +1,127 @@
 {
-    "id":"18176873",
-    "tms:id":"19311",
-    "accession_number":"1912-18-21",
-    "title":"Lamp, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18176873\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237335",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 13.9 x 15.8 x 6.5 cm (5 1\/2 x 6 1\/4 x 2 9\/16 in.)",
-    "creditline":"Gift of Mr. and Mrs. Talbot Jones Taylor",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237335",
-        "name":"lamp"
+    "id": "18176873",
+    "tms:id": "19311",
+    "accession_number": "1912-18-21",
+    "title": "Lamp (England), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18176873\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237335",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 13.9 x 15.8 x 6.5 cm (5 1\/2 x 6 1\/4 x 2 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.50",
+            "centimeters"
+        ],
+        "height": [
+            "13.90",
+            "centimeters"
+        ],
+        "width": [
+            "15.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mr. and Mrs. Talbot Jones Taylor",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "lamp",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103420_bce554208857466d_b.jpg",
+                "width": 1024,
+                "height": 892,
+                "is_primary": "1",
+                "image_id": "103420"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103420_bce554208857466d_z.jpg",
+                "width": 640,
+                "height": 558,
+                "is_primary": "1",
+                "image_id": "103420"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103420_bce554208857466d_n.jpg",
+                "width": 320,
+                "height": 279,
+                "is_primary": "1",
+                "image_id": "103420"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103420_bce554208857466d_d.gif",
+                "width": 320,
+                "height": 279,
+                "is_primary": "1",
+                "image_id": "103420"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103420_bce554208857466d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103420"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18054051",
+            "role_id": "35351535",
+            "person_name": "Mrs. Talbot Jones Taylor",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18051321",
+            "role_id": "35351535",
+            "person_name": "Talbot Jones Taylor",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Lamp, 19th century.\n19th century. H x W x D: 13.9 x 15.8 x 6.5 cm (5 1\/2 x 6 1\/4 x 2 9\/16 in.). Gift of Mr. and Mrs. Talbot Jones Taylor. 1912-18-21."
+    "tombstone": {
+        "epitaph": "Lamp (England), 19th century. H x W x D: 13.9 x 15.8 x 6.5 cm (5 1\/2 x 6 1\/4 x 2 9\/16 in.). \nGift of Mr. and Mrs. Talbot Jones Taylor. 1912-18-21"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4a443d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#685d4a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

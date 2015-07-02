@@ -1,80 +1,154 @@
 {
-    "id":"18617029",
-    "tms:id":"177044",
-    "accession_number":"1981-28-43",
-    "title":"Sampler, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617029\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35420689",
-    "type_id":"35256439",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: linen embroidery on linen foundation\nTechnique: withdrawn element embroidery with needle-made fillings on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 50.2 x 14.3 cm (19 3\/4 x 5 5\/8 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Central part of a whitework sampler with bands of pattern.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18617029",
+    "tms:id": "177044",
+    "accession_number": "1981-28-43",
+    "title": "Sampler (England), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617029\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35420689",
+    "type_id": "35256439",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: linen embroidery on linen foundation\nTechnique: withdrawn element embroidery with needle-made fillings on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 50.2 x 14.3 cm (19 3\/4 x 5 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "50.17",
+            "centimeters"
+        ],
+        "width": [
+            "14.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Central part of a whitework sampler with bands of pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36581_3f502edc43bec0c1_b.jpg",
-                "width":359,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66357_3b28ac3fbc6fea49_b.jpg",
+                "width": 456,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "66357"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36581_3f502edc43bec0c1_n.jpg",
-                "width":112,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66357_3b28ac3fbc6fea49_z.jpg",
+                "width": 285,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "66357"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36581_3f502edc43bec0c1_z.jpg",
-                "width":224,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66357_3b28ac3fbc6fea49_n.jpg",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66357"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66357_3b28ac3fbc6fea49_d.gif",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66357"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66357_3b28ac3fbc6fea49_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66357"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36581_3f502edc43bec0c1_b.jpg",
+                "width": 359,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "36581"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36581_3f502edc43bec0c1_z.jpg",
+                "width": 224,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "36581"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36581_3f502edc43bec0c1_n.jpg",
+                "width": 112,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36581"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36581_3f502edc43bec0c1_d.gif",
+                "width": 112,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36581"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36581_3f502edc43bec0c1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36581"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 17th century.\n17th century. Medium: linen embroidery on linen foundation\nTechnique: withdrawn element embroidery with needle-made fillings on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-43."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d7f3f2",
-            "closest_css3":"#e0ffff"
+            "person_id": "18055143",
+            "role_id": "35352245",
+            "person_name": "Susan J. Brown",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055143\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#a5a798",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#e4d5c3",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#8ba4a2",
-            "closest_css3":"#8fbc8f"
-        },
-        {
-            "color":"#9b8b82",
-            "closest_css3":"#808080"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (England), 17th century. Medium: linen embroidery on linen foundation\nTechnique: withdrawn element embroidery with needle-made fillings on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-43"
+    },
+    "colors": [
+        {
+            "color": "#ccc7aa",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

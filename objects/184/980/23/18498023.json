@@ -1,57 +1,160 @@
 {
-    "id":"18498023",
-    "tms:id":"159908",
-    "accession_number":"1979-34-38",
-    "title":"Poster, \"The Miller Blues Band\", 1967",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18498023\/",
-    "department_id":"35347493",
-    "period_id":"35435941",
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":"1967",
-    "year_start":"1967",
-    "year_end":"1967",
-    "year_acquired":"1979",
-    "decade":"1960",
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mr. and Mrs. Leslie J. Schreyer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18498023",
+    "tms:id": "159908",
+    "accession_number": "1979-34-38",
+    "title": "Poster, The Miller Blues Band, 1967",
+    "title_raw": "The Miller Blues Band",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18498023\/",
+    "department_id": "35347493",
+    "period_id": "35435941",
+    "media_id": "35431673",
+    "type_id": "35238163",
+    "date": "1967",
+    "year_start": 1967,
+    "year_end": 1967,
+    "year_acquired": "1979",
+    "decade": "1960",
+    "woe:country_id": null,
+    "medium": "Offset lithograph on white wove paper",
+    "markings": null,
+    "signed": "Imprinted in blue, lower right, in script: Moscoso",
+    "inscribed": "Imprinted in blue, lower left: \u00a9 1967 NEON ROSE #2",
+    "provenance": "Mr. and Mrs. Leslie J. Schreyer; 1979: acquired by Museum",
+    "dimensions": "50.3 x 35.8 cm (19 13\/16 x 14 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "50.30",
+            "centimeters"
+        ],
+        "width": [
+            "35.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mr. and Mrs. Leslie J. Schreyer",
+    "description": "Poster featuring psychedelic image of a partially nude woman wearing Eastern garb with blue and purple concentric outlines.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18056697",
-            "role_id":"35236673",
-            "person_name":"Neon Rose",
-            "role_name":"Printer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056697\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
-        },
-        {
-            "person_id":"18056695",
-            "role_id":"35236655",
-            "person_name":"Victor Moscoso",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056695\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82672_a8b71092733186ff_b.jpg",
+                "width": 771,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82672"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82672_a8b71092733186ff_z.jpg",
+                "width": 482,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82672"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82672_a8b71092733186ff_n.jpg",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82672"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82672_a8b71092733186ff_d.gif",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82672"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82672_a8b71092733186ff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82672"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"The Miller Blues Band\", 1967.\n1967. Gift of Mr. and Mrs. Leslie J. Schreyer. 1979-34-38."
+    "participants": [
+        {
+            "person_id": "18058429",
+            "role_id": "35351535",
+            "person_name": "Mr. Leslie Schreyer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058429\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18056697",
+            "role_id": "35236673",
+            "person_name": "Neon Rose",
+            "person_date": "San Francisco, California, USA",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        },
+        {
+            "person_id": "18056695",
+            "role_id": "35236655",
+            "person_name": "Victor Moscoso",
+            "person_date": "Spanish and American, b.1936",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056695\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68736623",
+            "role_id": "35351535",
+            "person_name": "Mrs. Alice Schreyer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736623\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, The Miller Blues Band, 1967. Offset lithograph on white wove paper. \nGift of Mr. and Mrs. Leslie J. Schreyer. 1979-34-38"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#588dbe",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#be612d",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#b24d64",
+            "closest_crayola": "#bc5d58",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#74658e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#58689b",
+            "closest_crayola": "#7851a9",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "is_loan_object": 0
 }

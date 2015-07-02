@@ -1,42 +1,112 @@
 {
-    "id":"18351135",
-    "tms:id":"59103",
-    "accession_number":"1938-57-87-a,c",
-    "title":"Handle",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18351135\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35249071",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":null,
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"5 x 9.2 cm (1 15\/16 x 3 5\/8 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":"1962-149-1*",
-    "justification":null,
-    "type":{
-        "id":"35249071",
-        "name":"handle"
+    "id": "18351135",
+    "tms:id": "59103",
+    "accession_number": "1938-57-87-a,c",
+    "title": "Handle",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18351135\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389969",
+    "type_id": "35249071",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain, metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "5 x 9.2 cm (1 15\/16 x 3 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "5.00",
+            "centimeters"
+        ],
+        "width": [
+            "9.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": "Porcelain cup with metal handle. 1962-149-1*",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "handle",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105951_a72fff45ff259196_b.jpg",
+                "width": 1024,
+                "height": 973,
+                "is_primary": "1",
+                "image_id": "105951"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105951_a72fff45ff259196_z.jpg",
+                "width": 640,
+                "height": 608,
+                "is_primary": "1",
+                "image_id": "105951"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105951_a72fff45ff259196_n.jpg",
+                "width": 320,
+                "height": 304,
+                "is_primary": "1",
+                "image_id": "105951"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105951_a72fff45ff259196_d.gif",
+                "width": 320,
+                "height": 304,
+                "is_primary": "1",
+                "image_id": "105951"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105951_a72fff45ff259196_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105951"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Handle.\nporcelain. Bequest of Erskine Hewitt. 1938-57-87-a,c."
+    "tombstone": {
+        "epitaph": "Handle. porcelain, metal. \nBequest of Erskine Hewitt. 1938-57-87-a,c"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#383530",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#797771",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

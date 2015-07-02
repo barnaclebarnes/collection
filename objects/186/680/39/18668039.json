@@ -1,80 +1,160 @@
 {
-    "id":"18668039",
-    "tms:id":"209423",
-    "accession_number":"1995-50-181",
-    "title":"Textile, \"The Temple of Memory\", ca. 1815",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18668039\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1815",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved plate or roller on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Underneath one of the texts; \"IF.C\".\n\"Tout passe avec le Temps  L'amitie ne passe pas\"\n\"La reconnaissance...\"",
-    "provenance":null,
-    "dimensions":"Warp: 203cm (79 3\/4in.)\nWeft: 82.5cm (32 1\/2in.) Both selvedges present.\nHeight of repeat: 61.5cm (24 1\/4in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Two scenes, both captioned in French, honoring virtue and friendship. In purple on white.In one the boat (bark) of Forgetfulness is carrying away Love, Beauty (with her mirror), a king (with his scepter, crown and money), and blind Justice. Time is trying to take Friendship also vbut she clings to the pillar of 'amitie'. In the other scenes,gratitude 9grateful Memory) is welcoming Virtue to her temple.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18668039",
+    "tms:id": "209423",
+    "accession_number": "1995-50-181",
+    "title": "Textile, The Temple of Memory, ca. 1815",
+    "title_raw": "The Temple of Memory",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18668039\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1815",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved plate or roller on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Underneath one of the texts; \"IF.C\".\n\"Tout passe avec le Temps  L'amitie ne passe pas\"\n\"La reconnaissance...\"",
+    "provenance": null,
+    "dimensions": "Warp x Weft: 203 x 82.5 cm (6 ft. 7 15\/16 in. x 32 1\/2 in.)\nRepeat H: 61.5 cm (24 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "61.50",
+            "centimeters"
+        ],
+        "warp": [
+            "203.00",
+            "centimeters"
+        ],
+        "weft": [
+            "82.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Two scenes, both captioned in French, honoring virtue and friendship. In purple on white.In one the boat (bark) of Forgetfulness is carrying away Love, Beauty (with her mirror), a king (with his scepter, crown and money), and blind Justice. Time is trying to take Friendship also vbut she clings to the pillar of 'amitie'. In the other scenes,gratitude 9grateful Memory) is welcoming Virtue to her temple.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12873_ca62d4d3808bd25d_b.jpg",
-                "width":784,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109816_bc997b013943bb5e_b.jpg",
+                "width": 648,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109816"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12873_ca62d4d3808bd25d_n.jpg",
-                "width":245,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109816_bc997b013943bb5e_z.jpg",
+                "width": 405,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109816"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12873_ca62d4d3808bd25d_z.jpg",
-                "width":490,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109816_bc997b013943bb5e_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109816"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109816_bc997b013943bb5e_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109816"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109816_bc997b013943bb5e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109816"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12873_ca62d4d3808bd25d_b.jpg",
+                "width": 784,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12873"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12873_ca62d4d3808bd25d_z.jpg",
+                "width": 490,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12873"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12873_ca62d4d3808bd25d_n.jpg",
+                "width": 245,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12873"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12873_ca62d4d3808bd25d_d.gif",
+                "width": 245,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12873"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12873_ca62d4d3808bd25d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12873"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, \"The Temple of Memory\", ca. 1815.\nca. 1815. Medium: cotton\nTechnique: printed by engraved plate or roller on plain weave. Bequest of Elinor Merrell. 1995-50-181."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d4a6a5",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#ab7483",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#fcd8d9",
-            "closest_css3":"#ffe4e1"
-        },
-        {
-            "color":"#794d5b",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#52373f",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, The Temple of Memory, ca. 1815. Medium: cotton\nTechnique: printed by engraved plate or roller on plain weave. \nBequest of Elinor Merrell. 1995-50-181"
+    },
+    "colors": [
+        {
+            "color": "#736661",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#988a80",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#4e4244",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

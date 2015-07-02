@@ -1,80 +1,131 @@
 {
-    "id":"18475333",
-    "tms:id":"148430",
-    "accession_number":"1971-62-7-a,b",
-    "title":"Sidewall, 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18475333\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1920\u201340",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1971",
-    "decade":"1920",
-    "woe:country":"23424819",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"92 x 57 cm (36 1\/4 x 22 7\/16 in.)",
-    "creditline":"Gift of Harrison Cultra",
-    "description":"Vertical gold stripes on blue ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18475333",
+    "tms:id": "148430",
+    "accession_number": "1971-62-7-a,b",
+    "title": "Sidewall (possibly France), 1920\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18475333\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35256475",
+    "date": "1920\u201340",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1971",
+    "decade": "1920",
+    "woe:country_id": "23424819",
+    "medium": "Machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "92 x 57 cm (36 1\/4 x 22 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "92.00",
+            "centimeters"
+        ],
+        "width": [
+            "57.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harrison Cultra",
+    "description": "Vertical gold and blue stripes on ungrounded paper.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/41899_78dc99f721b56e1d_b.jpg",
-                "width":663,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41899_78dc99f721b56e1d_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "41899"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/41899_78dc99f721b56e1d_n.jpg",
-                "width":207,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41899_78dc99f721b56e1d_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "41899"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/41899_78dc99f721b56e1d_z.jpg",
-                "width":414,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41899_78dc99f721b56e1d_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "41899"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41899_78dc99f721b56e1d_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "41899"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/41899_78dc99f721b56e1d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "41899"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1920\u201340.\n1920\u201340. Machine-printed. Gift of Harrison Cultra. 1971-62-7-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#5c77a8",
-            "closest_css3":"#4682b4"
-        },
-        {
-            "color":"#e0cc87",
-            "closest_css3":"#deb887"
-        },
-        {
-            "color":"#b8a46c",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#7b889d",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#9e7e48",
-            "closest_css3":"#cd853f"
+            "person_id": "18536939",
+            "role_id": "35351535",
+            "person_name": "Harrison Cultra",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536939\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (possibly France), 1920\u201340. Machine-printed on paper. \nGift of Harrison Cultra. 1971-62-7-a,b"
+    },
+    "colors": [
+        {
+            "color": "#5371a8",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#ddcf97",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#7a899f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#b4a16c",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#957640",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

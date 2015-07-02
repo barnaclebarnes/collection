@@ -1,80 +1,242 @@
 {
-    "id":"18318377",
-    "tms:id":"44456",
-    "accession_number":"1931-4-34-b",
-    "title":"Orphrey, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18318377\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"51495905",
-    "type_id":"35254889",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk and metallic thread on linen\nTechnique: embroidered",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254889",
-        "name":"Orphrey"
-    },
-    "images":[
+    "id": "18318377",
+    "tms:id": "44456",
+    "accession_number": "1931-4-34-b",
+    "title": "Orphrey, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18318377\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "51495905",
+    "type_id": "35254889",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk and metallic thread on linen\nTechnique: embroidered",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Orphrey",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38800_18b22359865520af_b.jpg",
-                "width":333,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98628_312ce341b47c993b_b.jpg",
+                "width": 311,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "98628"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38800_18b22359865520af_n.jpg",
-                "width":104,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98628_312ce341b47c993b_z.jpg",
+                "width": 194,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "98628"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38800_18b22359865520af_z.jpg",
-                "width":208,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98628_312ce341b47c993b_n.jpg",
+                "width": 97,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "98628"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98628_312ce341b47c993b_d.gif",
+                "width": 97,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "98628"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98628_312ce341b47c993b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "98628"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95110_ad8bd31de9461d4e_b.jpg",
+                "width": 311,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95110"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95110_ad8bd31de9461d4e_z.jpg",
+                "width": 194,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95110"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95110_ad8bd31de9461d4e_n.jpg",
+                "width": 97,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95110"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95110_ad8bd31de9461d4e_d.gif",
+                "width": 97,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95110"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95110_ad8bd31de9461d4e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95110"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69336_1fa8150f5efcbfe2_b.jpg",
+                "width": 602,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "69336"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69336_1fa8150f5efcbfe2_z.jpg",
+                "width": 376,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "69336"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69336_1fa8150f5efcbfe2_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "69336"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69336_1fa8150f5efcbfe2_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "69336"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69336_1fa8150f5efcbfe2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "69336"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38800_18b22359865520af_b.jpg",
+                "width": 333,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "38800"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38800_18b22359865520af_z.jpg",
+                "width": 208,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "38800"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38800_18b22359865520af_n.jpg",
+                "width": 104,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "38800"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38800_18b22359865520af_d.gif",
+                "width": 104,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "38800"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38800_18b22359865520af_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "38800"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Orphrey, 17th century.\n17th century. Medium: silk and metallic thread on linen\nTechnique: embroidered. Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt. 1931-4-34-b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#815d29",
-            "closest_css3":"#a0522d"
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#90824a",
-            "closest_css3":"#6b8e23"
-        },
-        {
-            "color":"#beb394",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#462615",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#676c4d",
-            "closest_css3":"#696969"
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Orphrey, 17th century. Medium: silk and metallic thread on linen\nTechnique: embroidered. \nGift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt. 1931-4-34-b"
+    },
+    "colors": [
+        {
+            "color": "#af8d52",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#927140",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#7f5937",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#ddc899",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#69412f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "is_loan_object": 0
 }

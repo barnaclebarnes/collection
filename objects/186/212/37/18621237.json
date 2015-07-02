@@ -1,42 +1,107 @@
 {
-    "id":"18621237",
-    "tms:id":"185437",
-    "accession_number":"1986-61-171",
-    "title":"Plate",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621237\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35236833",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424803",
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"J.A. Lloyd Hyde (Sale, American Art Association - Anderson Galleries, Inc.,NY, about 1932); P. Warren.",
-    "dimensions":"H x W: 1.7 x 12.3cm (11\/16 x 4 13\/16in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Small circular plate with flat fluted rim, star cut on center bottom.",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18621237",
+    "tms:id": "185437",
+    "accession_number": "1986-61-171",
+    "title": "Plate (Ireland)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621237\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35236833",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424803",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "J.A. Lloyd Hyde (Sale, American Art Association - Anderson Galleries, Inc.,NY, about 1932); P. Warren.",
+    "dimensions": "H x W: 1.7 x 12.3cm (11\/16 x 4 13\/16in.)",
+    "dimensions_raw": {
+        "height": [
+            "1.70",
+            "centimeters"
+        ],
+        "width": [
+            "12.30",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Small circular plate with flat fluted rim, star cut on center bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424803",
+    "type": "plate",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112816_3ac7e396722cc968_b.jpg",
+                "width": 1024,
+                "height": 733,
+                "is_primary": "1",
+                "image_id": "112816"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112816_3ac7e396722cc968_z.jpg",
+                "width": 640,
+                "height": 458,
+                "is_primary": "1",
+                "image_id": "112816"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112816_3ac7e396722cc968_n.jpg",
+                "width": 320,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "112816"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112816_3ac7e396722cc968_d.gif",
+                "width": 320,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "112816"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112816_3ac7e396722cc968_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112816"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Plate.\nglass. Bequest of Walter Phelps Warren. 1986-61-171."
+    "tombstone": {
+        "epitaph": "Plate (Ireland). glass. \nBequest of Walter Phelps Warren. 1986-61-171"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "Ireland",
+    "is_loan_object": 0
 }

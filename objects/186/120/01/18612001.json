@@ -1,49 +1,112 @@
 {
-    "id":"18612001",
-    "tms:id":"99331",
-    "accession_number":"1948-71-3",
-    "title":"Print, \"A Tower of Cortes, Mexico\", 1888",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18612001\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35375969",
-    "type_id":"35236873",
-    "date":"1888",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424900",
-    "medium":"Etching on paper.",
-    "markings":"Watermark: \"Handmade Sweden\"",
-    "signed":"Signed in graphite in lower left margin: T. Moran; and signed on plate, at lower right: Moran 1883.",
-    "inscribed":"Inscribed in plate, at lower left: A tower of Cortes, Mexico [see curatorial remarks]",
-    "provenance":null,
-    "dimensions":"Platemark: 29.3 x 24.3 cm (11 9\/16 x 9 9\/16 in.)\nSheet: 44.6 x 36.7 cm (17 9\/16 x 14 7\/16 in.)",
-    "creditline":"Bequest of Ruth B. Moran",
-    "description":"Vertical view of a tower on a high elevation in the background, with a stream flowing through a chasm at lower right.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18612001",
+    "tms:id": "99331",
+    "accession_number": "1948-71-3",
+    "title": "Print, A Tower of Cortes, Mexico, 1888",
+    "title_raw": "A Tower of Cortes, Mexico",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18612001\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35375969",
+    "type_id": "35236873",
+    "date": "1888",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424900",
+    "medium": "Etching on paper.",
+    "markings": "Watermark: \"Handmade Sweden\"",
+    "signed": "Signed in graphite in lower left margin: T. Moran; and signed on plate, at lower right: Moran 1883.",
+    "inscribed": "Inscribed in plate, at lower left: A tower of Cortes, Mexico [see curatorial remarks]",
+    "provenance": null,
+    "dimensions": "Platemark: 29.3 x 24.3 cm (11 9\/16 x 9 9\/16 in.)\nSheet: 44.6 x 36.7 cm (17 9\/16 x 14 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "44.60",
+            "centimeters"
+        ],
+        "width": [
+            "36.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Bequest of Ruth B. Moran",
+    "description": "Vertical view of a tower on a high elevation in the background, with a stream flowing through a chasm at lower right.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424900",
+    "type": "Print",
+    "images": [
         {
-            "person_id":"18042237",
-            "role_id":"35236585",
-            "person_name":"Thomas Moran",
-            "role_name":"Etcher",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042237\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236585\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115975_6c034f815484d495_b.jpg",
+                "width": 837,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "115975"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115975_6c034f815484d495_z.jpg",
+                "width": 523,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115975"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115975_6c034f815484d495_n.jpg",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115975"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115975_6c034f815484d495_d.gif",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115975"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115975_6c034f815484d495_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115975"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"A Tower of Cortes, Mexico\", 1888.\n1888. Etching on paper.. Bequest of Ruth B. Moran. 1948-71-3."
+    "participants": [
+        {
+            "person_id": "18058295",
+            "role_id": "35351537",
+            "person_name": "Miss Ruth B. Moran",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058295\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18042237",
+            "role_id": "35236585",
+            "person_name": "Thomas Moran",
+            "person_date": "American, b. Britain, 1837\u20131926",
+            "role_name": "Etcher",
+            "role_display_name": "Etched by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042237\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236585\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, A Tower of Cortes, Mexico, 1888. Etching on paper.. \nBequest of Ruth B. Moran. 1948-71-3"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "Mexico",
+    "is_loan_object": 0
 }

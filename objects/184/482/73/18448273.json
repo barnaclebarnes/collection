@@ -1,42 +1,129 @@
 {
-    "id":"18448273",
-    "tms:id":"134652",
-    "accession_number":"1963-39-537",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448273\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1963",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18448273",
+    "tms:id": "134652",
+    "accession_number": "1963-39-537",
+    "title": "Drawing, Merchants Prefer Shell",
+    "title_raw": "Merchants Prefer Shell",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448273\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51686065",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1963",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Color pencil, graphite on off-white paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "19.5 x 25 cm (7 11\/16 x 9 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "19.50",
+            "centimeters"
+        ],
+        "width": [
+            "25.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Globe on a platform, a colored pencil, and keys on a ring. Below: MERCHANTS PREFER SHEL[L].",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66606_f1f392fef69d7176_b.jpg",
+                "width": 1024,
+                "height": 762,
+                "is_primary": "1",
+                "image_id": "66606"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66606_f1f392fef69d7176_z.jpg",
+                "width": 640,
+                "height": 476,
+                "is_primary": "1",
+                "image_id": "66606"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66606_f1f392fef69d7176_n.jpg",
+                "width": 320,
+                "height": 238,
+                "is_primary": "1",
+                "image_id": "66606"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66606_f1f392fef69d7176_d.gif",
+                "width": 320,
+                "height": 238,
+                "is_primary": "1",
+                "image_id": "66606"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66606_f1f392fef69d7176_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66606"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nGift of Mrs. E. McKnight Kauffer. 1963-39-537."
+    "tombstone": {
+        "epitaph": "Drawing, Merchants Prefer Shell. Color pencil, graphite on off-white paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-537"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#dddbcb",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#b2ae9c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#8b8678",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

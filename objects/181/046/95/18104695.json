@@ -1,42 +1,121 @@
 {
-    "id":"18104695",
-    "tms:id":"7013",
-    "accession_number":"1899-5-14",
-    "title":"Incomplete Cope Hood",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18104695\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410751",
-    "type_id":"35256305",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1899",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk: \nTechnique: silk",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Georges A. Glaenzer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35256305",
-        "name":"Incomplete cope hood"
-    },
-    "images":[
-
+    "id": "18104695",
+    "tms:id": "7013",
+    "accession_number": "1899-5-14",
+    "title": "Incomplete Cope Hood",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18104695\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410751",
+    "type_id": "35256305",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1899",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk: \nTechnique: silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Georges A. Glaenzer",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Incomplete cope hood",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67978_851d4b086893c5fa_b.jpg",
+                "width": 910,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "67978"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67978_851d4b086893c5fa_z.jpg",
+                "width": 568,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "67978"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67978_851d4b086893c5fa_n.jpg",
+                "width": 284,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67978"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67978_851d4b086893c5fa_d.gif",
+                "width": 284,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67978"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67978_851d4b086893c5fa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67978"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050397",
+            "role_id": "35351535",
+            "person_name": "Georges A. Glaenzer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050397\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Incomplete Cope Hood.\nMedium: silk: \nTechnique: silk. Gift of Georges A. Glaenzer. 1899-5-14."
+    "tombstone": {
+        "epitaph": "Incomplete Cope Hood. Medium: silk: \nTechnique: silk. \nGift of Georges A. Glaenzer. 1899-5-14"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#dad5c9",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#9caaa2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#374a39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d7bda3",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#b9bd98",
+            "closest_crayola": "#a8e4a0",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
 }

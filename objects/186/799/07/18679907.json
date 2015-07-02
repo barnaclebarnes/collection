@@ -1,95 +1,178 @@
 {
-    "id":"18679907",
-    "tms:id":"215427",
-    "accession_number":"1969-165-949",
-    "title":"Sample, \"Minichek\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18679907\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: plain weave with supplementary weft patterning",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 28.6 x 30.5 cm (11 1\/4 x 12 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Pattern of small checks in orange, pink and gold. Warp threads are orange and beige and weft threads are black with supplementary weft in orange, pink and gold. Number 114.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18679907",
+    "tms:id": "215427",
+    "accession_number": "1969-165-949",
+    "title": "Sample, Minichek",
+    "title_raw": "Minichek",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18679907\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1969",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: plain weave with supplementary weft patterning",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 28.6 x 30.5 cm (11 1\/4 x 12 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "28.58",
+            "centimeters"
+        ],
+        "weft": [
+            "30.48",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Pattern of small checks in orange, pink and gold. Warp threads are orange and beige and weft threads are black with supplementary weft in orange, pink and gold. Number 114.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17282_a8288cddbe2a52db_b.jpg",
-                "width":1024,
-                "height":954,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17282_a8288cddbe2a52db_b.jpg",
+                "width": 1024,
+                "height": 954,
+                "is_primary": "1",
+                "image_id": "17282"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17282_a8288cddbe2a52db_n.jpg",
-                "width":320,
-                "height":298,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17282_a8288cddbe2a52db_z.jpg",
+                "width": 640,
+                "height": 596,
+                "is_primary": "1",
+                "image_id": "17282"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17282_a8288cddbe2a52db_z.jpg",
-                "width":640,
-                "height":596,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17282_a8288cddbe2a52db_n.jpg",
+                "width": 320,
+                "height": 298,
+                "is_primary": "1",
+                "image_id": "17282"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17282_a8288cddbe2a52db_d.gif",
+                "width": 320,
+                "height": 298,
+                "is_primary": "1",
+                "image_id": "17282"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17282_a8288cddbe2a52db_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "17282"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115577_885d2c45ce610893_b.jpg",
+                "width": 1024,
+                "height": 1023,
+                "is_primary": "0",
+                "image_id": "115577"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115577_885d2c45ce610893_z.jpg",
+                "width": 640,
+                "height": 639,
+                "is_primary": "0",
+                "image_id": "115577"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115577_885d2c45ce610893_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "115577"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115577_885d2c45ce610893_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "115577"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115577_885d2c45ce610893_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "115577"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Minichek\".\nMedium: cotton\nTechnique: plain weave with supplementary weft patterning. Gift of Alexander H. Girard. 1969-165-949."
+    "tombstone": {
+        "epitaph": "Sample, Minichek. Medium: cotton\nTechnique: plain weave with supplementary weft patterning. \nGift of Alexander H. Girard. 1969-165-949"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cf3416",
-            "closest_css3":"#b22222"
+            "color": "#de4b2c",
+            "closest_crayola": "#cd4a4c",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
         },
         {
-            "color":"#f06222",
-            "closest_css3":"#d2691e"
+            "color": "#a40c05",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#8b0000",
+            "closest_css4": "#8b0000"
         },
         {
-            "color":"#fc5766",
-            "closest_css3":"#ff6347"
+            "color": "#fc5d7b",
+            "closest_crayola": "#fc6c85",
+            "closest_css3": "#fa8072",
+            "closest_css4": "#fa8072"
         },
         {
-            "color":"#5c5e52",
-            "closest_css3":"#696969"
+            "color": "#69685e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#9d0603",
-            "closest_css3":"#8b0000"
+            "color": "#dd3e4a",
+            "closest_crayola": "#cd4a4c",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,80 +1,172 @@
 {
-    "id":"18434447",
-    "tms:id":"127643",
-    "accession_number":"1960-79-32-a,b",
-    "title":"Textile, ca. 1835",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18434447\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1835",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1960",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: engraved and relief roller printed on plain weave; red, brown and black printed by engraved roller; yellow and blue printed by a relief roller",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Repeat H: 35.6 cm (14 in.)",
-    "creditline":"Gift of Harold M. Bailey",
-    "description":"Polychrome panel with a vertical arrangement of flower bouquets of roses and passion flowers with foliage. Set off against vertical background stripes of small S-curves within foliage. Staggered repeat.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18434447",
+    "tms:id": "127643",
+    "accession_number": "1960-79-32-a,b",
+    "title": "Textile (England), ca. 1835",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18434447\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1835",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1960",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: engraved and relief roller printed on plain weave; red, brown and black printed by engraved roller; yellow and blue printed by a relief roller",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Repeat H: 35.6 cm (14 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harold M. Bailey",
+    "description": "Polychrome panel with a vertical arrangement of flower bouquets of roses and passion flowers with foliage. Set off against vertical background stripes of small S-curves within foliage. Staggered repeat.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30423_0f6be53117074655_b.jpg",
-                "width":846,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123819_af71e1d176a3c6f4_b.jpg",
+                "width": 856,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "123819"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30423_0f6be53117074655_n.jpg",
-                "width":264,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123819_af71e1d176a3c6f4_z.jpg",
+                "width": 535,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "123819"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30423_0f6be53117074655_z.jpg",
-                "width":529,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123819_af71e1d176a3c6f4_n.jpg",
+                "width": 268,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123819"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123819_af71e1d176a3c6f4_d.gif",
+                "width": 268,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123819"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123819_af71e1d176a3c6f4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123819"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123089_e987d4a2ed1e333f_b.jpg",
+                "width": 832,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "123089"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123089_e987d4a2ed1e333f_z.jpg",
+                "width": 520,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "123089"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123089_e987d4a2ed1e333f_n.jpg",
+                "width": 260,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "123089"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123089_e987d4a2ed1e333f_d.gif",
+                "width": 260,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "123089"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123089_e987d4a2ed1e333f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "123089"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30423_0f6be53117074655_b.jpg",
+                "width": 846,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "30423"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30423_0f6be53117074655_z.jpg",
+                "width": 529,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "30423"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30423_0f6be53117074655_n.jpg",
+                "width": 264,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "30423"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30423_0f6be53117074655_d.gif",
+                "width": 264,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "30423"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30423_0f6be53117074655_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "30423"
             }
         }
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18051481",
+            "role_id": "35351535",
+            "person_name": "Harold M. Bailey",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), ca. 1835. Medium: cotton\nTechnique: engraved and relief roller printed on plain weave; red, brown and black printed by engraved roller; yellow and blue printed by a relief roller. \nGift of Harold M. Bailey. 1960-79-32-a,b"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1835.\nca. 1835. Medium: cotton\nTechnique: engraved and relief roller printed on plain weave; red, brown and black printed by engraved roller; yellow and blue printed by a relief roller. Gift of Harold M. Bailey. 1960-79-32-a,b."
-    },
-    "colors":[
-        {
-            "color":"#b4bfd2",
-            "closest_css3":"#b0c4de"
-        },
-        {
-            "color":"#4c5663",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#a2432c",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#8c8381",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#70533e",
-            "closest_css3":"#556b2f"
-        }
-    ]
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

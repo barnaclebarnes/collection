@@ -1,91 +1,164 @@
 {
-    "id":"18621419",
-    "tms:id":"185533",
-    "accession_number":"1986-61-29",
-    "title":"Obelisk, ca. 1700\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621419\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35270129",
-    "date":"ca. 1700\u201330",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Glazed earthenware",
-    "markings":"none",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"pre-1958: J. A. Lloyd Hide, New York; ca. 1958: Walter Phelps Warren, New York; 1986: bequested to Museum",
-    "dimensions":"31 x 11 x 11 cm (12 3\/16 x 4 5\/16 x 4 5\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Four-sided obelisk with molded shell and scroll ornaments at base of each side, finial at top, splayed foot; painted in underglaze blue, the sides with fruit and birds, the base with floral\/leaf scrolls.",
-    "justification":null,
-    "type":{
-        "id":"35270129",
-        "name":"obelisk"
+    "id": "18621419",
+    "tms:id": "185533",
+    "accession_number": "1986-61-29",
+    "title": "Obelisk (Netherlands), ca. 1700\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621419\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35270129",
+    "date": "ca. 1700\u201330",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Glazed earthenware",
+    "markings": "none",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "pre-1958: J. A. Lloyd Hide, New York; ca. 1958: Walter Phelps Warren, New York; 1986: bequested to Museum",
+    "dimensions": "31 x 11 x 11 cm (12 3\/16 x 4 5\/16 x 4 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "11.00",
+            "centimeters"
+        ],
+        "height": [
+            "31.00",
+            "centimeters"
+        ],
+        "width": [
+            "11.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Four-sided obelisk with molded shell and scroll ornaments at base of each side, finial at top, splayed foot; painted in underglaze blue, the sides with fruit and birds, the base with floral\/leaf scrolls.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "obelisk",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43857_75ea5f56600a74b2_b.jpg",
-                "width":640,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106855_84efa54711e617b6_b.jpg",
+                "width": 826,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "106855"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43857_75ea5f56600a74b2_n.jpg",
-                "width":200,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106855_84efa54711e617b6_z.jpg",
+                "width": 516,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "106855"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43857_75ea5f56600a74b2_z.jpg",
-                "width":400,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106855_84efa54711e617b6_n.jpg",
+                "width": 258,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106855"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106855_84efa54711e617b6_d.gif",
+                "width": 258,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106855"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106855_84efa54711e617b6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106855"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43857_75ea5f56600a74b2_b.jpg",
+                "width": 640,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "43857"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43857_75ea5f56600a74b2_z.jpg",
+                "width": 400,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "43857"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43857_75ea5f56600a74b2_n.jpg",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "43857"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43857_75ea5f56600a74b2_d.gif",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "43857"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43857_75ea5f56600a74b2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "43857"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044115",
-            "role_id":"35236565",
-            "person_name":"P V M",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044115\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "person_id":"18044113",
-            "role_id":"35236565",
-            "person_name":"Petrus van Marum",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044113\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18044113",
+            "role_id": "35236565",
+            "person_name": "Petrus van Marum",
+            "person_date": "",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044113\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Obelisk, ca. 1700\u201330.\nca. 1700\u201330. Glazed earthenware. Bequest of Walter Phelps Warren. 1986-61-29."
+    "tombstone": {
+        "epitaph": "Obelisk (Netherlands), ca. 1700\u201330. Glazed earthenware. \nBequest of Walter Phelps Warren. 1986-61-29"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#45578a",
-            "closest_css3":"#483d8b"
+            "color": "#9294a5",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#293669",
-            "closest_css3":"#191970"
-        },
-        {
-            "color":"#687393",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#ccd1d9",
-            "closest_css3":"#d3d3d3"
+            "color": "#535a7f",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
         }
-    ]
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

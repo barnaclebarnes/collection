@@ -1,49 +1,137 @@
 {
-    "id":"18649153",
-    "tms:id":"199486",
-    "accession_number":"1994-66-27-a,b",
-    "title":"Decanter, \"Servies H\", 1916\u201321",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649153\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35423733",
-    "type_id":"35284211",
-    "date":"1916\u201321",
-    "year_start":"1916",
-    "year_end":"1921",
-    "year_acquired":"1994",
-    "decade":"1910",
-    "woe:country":"23424909",
-    "medium":"Mold blown glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"25.9 x 10.2  diameter cm (10 3\/16 x 4 in.)",
-    "creditline":"Gift of Justin G. Schiller",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35284211",
-        "name":"Decanter"
+    "id": "18649153",
+    "tms:id": "199486",
+    "accession_number": "1994-66-27-a,b",
+    "title": "Servies H Decanter, 1916\u201321",
+    "title_raw": "Servies H",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18649153\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35423733",
+    "type_id": "35284211",
+    "date": "1916\u201321",
+    "year_start": 1916,
+    "year_end": 1921,
+    "year_acquired": "1994",
+    "decade": "1910",
+    "woe:country_id": "23424909",
+    "medium": "Mold blown glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "25.9 x 10.2  diameter cm (10 3\/16 x 4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.90",
+            "centimeters"
+        ],
+        "width": [
+            "10.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Justin G. Schiller",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Decanter",
+    "images": [
         {
-            "person_id":"18048945",
-            "role_id":"35236655",
-            "person_name":"K.P.C. (Karel Petrus Cornelis) de Bazel",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048945\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112997_fa859a8f1fe2c303_b.jpg",
+                "width": 682,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112997"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112997_fa859a8f1fe2c303_z.jpg",
+                "width": 426,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112997"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112997_fa859a8f1fe2c303_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112997"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112997_fa859a8f1fe2c303_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112997"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112997_fa859a8f1fe2c303_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112997"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Decanter, \"Servies H\", 1916\u201321.\n1916\u201321. Mold blown glass. Gift of Justin G. Schiller. 1994-66-27-a,b."
+    "participants": [
+        {
+            "person_id": "18041085",
+            "role_id": "35351535",
+            "person_name": "Mr. Justin G. Schiller",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041085\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048765",
+            "role_id": "35352245",
+            "person_name": "Cynthia Trope",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18048391",
+            "role_id": "35236657",
+            "person_name": "Leerdam Glasfabriek",
+            "person_date": "Dutch, founded 1875",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048391\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18048945",
+            "role_id": "35236655",
+            "person_name": "K.P.C. (Karel Petrus Cornelis) de Bazel",
+            "person_date": "1869 \u2013 1923",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048945\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Servies H Decanter, 1916\u201321. Mold blown glass. \nGift of Justin G. Schiller. 1994-66-27-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

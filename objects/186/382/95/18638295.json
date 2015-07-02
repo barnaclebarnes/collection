@@ -1,42 +1,107 @@
 {
-    "id":"18638295",
-    "tms:id":"194007",
-    "accession_number":"1991-96-3",
-    "title":"Glass",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18638295\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35407201",
-    "type_id":"35249055",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1991",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Glass (lead crystal)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"15.1 x 6.8 diameter cm (5 15\/16 x 2 11\/16 in.)",
-    "creditline":"Gift of Jacques Jugeat, Inc.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249055",
-        "name":"glass"
+    "id": "18638295",
+    "tms:id": "194007",
+    "accession_number": "1991-96-3",
+    "title": "Glass (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18638295\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35407201",
+    "type_id": "35249055",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1991",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Glass (lead crystal)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "15.1 x 6.8 diameter cm (5 15\/16 x 2 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "15.10",
+            "centimeters"
+        ],
+        "width": [
+            "6.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Jacques Jugeat, Inc.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113186_f94145089f6a1153_b.jpg",
+                "width": 711,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113186"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113186_f94145089f6a1153_z.jpg",
+                "width": 444,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113186"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113186_f94145089f6a1153_n.jpg",
+                "width": 222,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113186"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113186_f94145089f6a1153_d.gif",
+                "width": 222,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113186"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113186_f94145089f6a1153_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113186"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18043817",
+            "role_id": "35351535",
+            "person_name": "Jacques Jugeat, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Glass.\nGlass (lead crystal). Gift of Jacques Jugeat, Inc.. 1991-96-3."
+    "tombstone": {
+        "epitaph": "Glass (France). Glass (lead crystal). \nGift of Jacques Jugeat, Inc.. 1991-96-3"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

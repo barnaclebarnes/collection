@@ -1,80 +1,154 @@
 {
-    "id":"18319145",
-    "tms:id":"44766",
-    "accession_number":"1931-45-103-a\/o",
-    "title":"Sidewall, 1820\u201335",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18319145\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414641",
-    "type_id":"35256475",
-    "date":"1820\u201335",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"89 x 49 cm (35 1\/16 x 19 5\/16 in.)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":"Horizontal rectangle. Design of palmettes, vines and scrolls. Irise or rainbow insets in the shape of leaves. Printed in yellow-orange and turquoise, on paler neutral yellow-orange ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18319145",
+    "tms:id": "44766",
+    "accession_number": "1931-45-103-a\/o",
+    "title": "Sidewall (France), 1820\u201335",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18319145\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414641",
+    "type_id": "35256475",
+    "date": "1820\u201335",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Stamped on verso: Defosse manufacturer's stamp.",
+    "provenance": null,
+    "dimensions": "89 x 49 cm (35 1\/16 x 19 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "89.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Horizontal rectangle. Design of palmettes, vines and scrolls. Irise or rainbow insets in the shape of leaves. Printed in yellow-orange and turquoise, on paler neutral yellow-orange ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_b.jpg",
-                "width":1024,
-                "height":550,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63376_02d2a24283f6be13_b.jpg",
+                "width": 578,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63376"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_n.jpg",
-                "width":320,
-                "height":172,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63376_02d2a24283f6be13_z.jpg",
+                "width": 361,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63376"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_z.jpg",
-                "width":640,
-                "height":344,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63376_02d2a24283f6be13_n.jpg",
+                "width": 181,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63376"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63376_02d2a24283f6be13_d.gif",
+                "width": 181,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63376"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63376_02d2a24283f6be13_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63376"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_b.jpg",
+                "width": 1024,
+                "height": 550,
+                "is_primary": "0",
+                "image_id": "2600"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_z.jpg",
+                "width": 640,
+                "height": 344,
+                "is_primary": "0",
+                "image_id": "2600"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_n.jpg",
+                "width": 320,
+                "height": 172,
+                "is_primary": "0",
+                "image_id": "2600"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_d.gif",
+                "width": 320,
+                "height": 172,
+                "is_primary": "0",
+                "image_id": "2600"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2600"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1820\u201335.\n1820\u201335. Block-printed on handmade paper. Gift of Eleanor and Sarah Hewitt. 1931-45-103-a\/o."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#8ca1b4",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18048171",
+            "role_id": "35236657",
+            "person_name": "Defosse et Karth",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#687a89",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#676c66",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#3e4843",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#445d66",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18052661",
+            "role_id": "35352245",
+            "person_name": "Elizabeth Haynes",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (France), 1820\u201335. Block-printed on handmade paper. \nGift of Eleanor and Sarah Hewitt. 1931-45-103-a\/o"
+    },
+    "colors": [
+        {
+            "color": "#b8af85",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

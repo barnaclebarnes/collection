@@ -1,80 +1,168 @@
 {
-    "id":"18606615",
-    "tms:id":"96833",
-    "accession_number":"1947-49-3",
-    "title":"Textile, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18606615\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410831",
-    "type_id":"35251739",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1947",
-    "decade":null,
-    "woe:country":"23424833",
-    "medium":"Medium: silk embroidery on linen foundation\nTechnique: embroidered on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 19 x 25 cm (7 1\/2 x 9 13\/16 in.)",
-    "creditline":"Gift of the Museum of the Cranbrook Academy of Art",
-    "description":"Design of geometric forms with stylized plants and birds in red, yellow, blue, green and tan on white ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18606615",
+    "tms:id": "96833",
+    "accession_number": "1947-49-3",
+    "title": "Textile (Greece), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18606615\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410831",
+    "type_id": "35251739",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1947",
+    "decade": null,
+    "woe:country_id": "23424833",
+    "medium": "Medium: silk embroidery on linen foundation\nTechnique: embroidered on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 19 x 25 cm (7 1\/2 x 9 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "19.00",
+            "centimeters"
+        ],
+        "width": [
+            "25.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Museum of the Cranbrook Academy of Art",
+    "description": "Design of geometric forms with stylized plants and birds in red, yellow, blue, green and tan on white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424833",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32846_363afa1c86d341e5_b.jpg",
-                "width":1024,
-                "height":758,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82527_b8d750e6fe7e1802_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82527"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32846_363afa1c86d341e5_n.jpg",
-                "width":320,
-                "height":237,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82527_b8d750e6fe7e1802_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82527"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32846_363afa1c86d341e5_z.jpg",
-                "width":640,
-                "height":474,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82527_b8d750e6fe7e1802_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82527"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82527_b8d750e6fe7e1802_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82527"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82527_b8d750e6fe7e1802_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82527"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32846_363afa1c86d341e5_b.jpg",
+                "width": 1024,
+                "height": 758,
+                "is_primary": "0",
+                "image_id": "32846"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32846_363afa1c86d341e5_z.jpg",
+                "width": 640,
+                "height": 474,
+                "is_primary": "0",
+                "image_id": "32846"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32846_363afa1c86d341e5_n.jpg",
+                "width": 320,
+                "height": 237,
+                "is_primary": "0",
+                "image_id": "32846"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32846_363afa1c86d341e5_d.gif",
+                "width": 320,
+                "height": 237,
+                "is_primary": "0",
+                "image_id": "32846"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32846_363afa1c86d341e5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32846"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 18th century.\n18th century. Medium: silk embroidery on linen foundation\nTechnique: embroidered on plain weave. Gift of the Museum of the Cranbrook Academy of Art. 1947-49-3."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b89695",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#a36d54",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#805c61",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#3d1c18",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#722d21",
-            "closest_css3":"#8b4513"
+            "person_id": "18536889",
+            "role_id": "35351535",
+            "person_name": "Museum of the Cranbrook Academy of Art",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536889\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Greece), 18th century. Medium: silk embroidery on linen foundation\nTechnique: embroidered on plain weave. \nGift of the Museum of the Cranbrook Academy of Art. 1947-49-3"
+    },
+    "colors": [
+        {
+            "color": "#ceb88a",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#ac864b",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#707540",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#622225",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#3a4b56",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Greece",
+    "is_loan_object": 0
 }

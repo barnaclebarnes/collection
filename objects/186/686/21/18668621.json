@@ -1,80 +1,252 @@
 {
-    "id":"18668621",
-    "tms:id":"209720",
-    "accession_number":"1995-50-247-a\/c",
-    "title":"Textile, 1770s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18668621\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367117",
-    "type_id":"35251739",
-    "date":"1770s",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: linen warp, cotton weft\nTechnique: block printed on plain weave.",
-    "markings":null,
-    "signed":null,
-    "inscribed":"C has incomplete cloth marks on it consisting of incomplete numbers.",
-    "provenance":null,
-    "dimensions":"A. Warp: 220 cm (86 1\/4 in.); Weft: (selvage to selvage) 85 cm (33 3\/8 in.)\nB. Warp: 225.5 cm (88 1\/2 in.); Weft: (selvage to selvage) 85 cm (33 3\/8 in.)\nC. Warp: 19.5 cm (7 5\/8 in.); Weft: 41.5 cm (16 1\/4 in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Ogival center line patter in red on white. Two blocks were needed to print the pattern. The size of each block was 33 cm high by 21.5 cm wide.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18668621",
+    "tms:id": "209720",
+    "accession_number": "1995-50-247-a\/c",
+    "title": "Textile (France), 1770s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18668621\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367117",
+    "type_id": "35251739",
+    "date": "1770s",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: linen warp, cotton weft\nTechnique: block printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "C has incomplete cloth marks on it consisting of incomplete numbers.",
+    "provenance": null,
+    "dimensions": "Warp x Weft (a): 220 \u00d7 85 cm (7 ft. 2 5\/8 in. \u00d7 33 7\/16 in.)\nWarp x Weft (b): 225.5 \u00d7 85 cm (7 ft. 4 3\/4 in. \u00d7 33 7\/16 in.)\nWarp x Weft (c): 19.5 \u00d7 41.5 cm (7 11\/16 \u00d7 16 5\/16 in.)\nH x W (block): 33 \u00d7 21.5 cm (13 in. \u00d7 8 7\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "19.50",
+            "centimeters"
+        ],
+        "weft": [
+            "41.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Ogival center line pattern in red on white. Two blocks were needed to print the pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12678_9bdc6fc3ad818d08_b.jpg",
-                "width":659,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111467_fca4552c3a068e0b_b.jpg",
+                "width": 1024,
+                "height": 557,
+                "is_primary": "1",
+                "image_id": "111467"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12678_9bdc6fc3ad818d08_n.jpg",
-                "width":206,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111467_fca4552c3a068e0b_z.jpg",
+                "width": 640,
+                "height": 348,
+                "is_primary": "1",
+                "image_id": "111467"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12678_9bdc6fc3ad818d08_z.jpg",
-                "width":412,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111467_fca4552c3a068e0b_n.jpg",
+                "width": 320,
+                "height": 174,
+                "is_primary": "1",
+                "image_id": "111467"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111467_fca4552c3a068e0b_d.gif",
+                "width": 320,
+                "height": 174,
+                "is_primary": "1",
+                "image_id": "111467"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111467_fca4552c3a068e0b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111467"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107445_ef7bf55835062cde_b.jpg",
+                "width": 720,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "107445"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107445_ef7bf55835062cde_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "107445"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107445_ef7bf55835062cde_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "107445"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107445_ef7bf55835062cde_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "107445"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107445_ef7bf55835062cde_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "107445"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107529_27cd0119e3a0f6aa_b.jpg",
+                "width": 694,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "107529"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107529_27cd0119e3a0f6aa_z.jpg",
+                "width": 433,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "107529"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107529_27cd0119e3a0f6aa_n.jpg",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "107529"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107529_27cd0119e3a0f6aa_d.gif",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "107529"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107529_27cd0119e3a0f6aa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "107529"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12678_9bdc6fc3ad818d08_b.jpg",
+                "width": 659,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12678"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12678_9bdc6fc3ad818d08_z.jpg",
+                "width": 412,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12678"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12678_9bdc6fc3ad818d08_n.jpg",
+                "width": 206,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12678"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12678_9bdc6fc3ad818d08_d.gif",
+                "width": 206,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12678"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12678_9bdc6fc3ad818d08_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12678"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1770s.\n1770s. Medium: linen warp, cotton weft\nTechnique: block printed on plain weave.. Bequest of Elinor Merrell. 1995-50-247-a\/c."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#fc9495",
-            "closest_css3":"#ffa07a"
+            "person_id": "18045425",
+            "role_id": "35236671",
+            "person_name": "Oberkampf & Cie.",
+            "person_date": "Jouy-en-Josas, France, 1759 \u2013 1815",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045425\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
         },
         {
-            "color":"#dcc1b1",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#feefd2",
-            "closest_css3":"#ffefd5"
-        },
-        {
-            "color":"#c48f83",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#a46c68",
-            "closest_css3":"#cd5c5c"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), 1770s. Medium: linen warp, cotton weft\nTechnique: block printed on plain weave. \nBequest of Elinor Merrell. 1995-50-247-a\/c"
+    },
+    "colors": [
+        {
+            "color": "#e5e4cf",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#b57a78",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#c4a499",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#d4c4b3",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#9c555b",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

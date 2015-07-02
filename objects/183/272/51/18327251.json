@@ -1,80 +1,167 @@
 {
-    "id":"18327251",
-    "tms:id":"48051",
-    "accession_number":"1931-66-144",
-    "title":"Border, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18327251\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394325",
-    "type_id":"35237285",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: linen, silk\nTechnique: embroidered",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 13.7 x 42 cm (5 3\/8 x 16 9\/16 in.)",
-    "creditline":"Gift of Sarah Cooper Hewitt",
-    "description":"Embroidery in design of plants forms and fantastic animals standing on either side of an urn on which is a pelican in her piety.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18327251",
+    "tms:id": "48051",
+    "accession_number": "1931-66-144",
+    "title": "Border, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18327251\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394325",
+    "type_id": "35237285",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: linen, silk\nTechnique: embroidered",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 13.7 x 42 cm (5 3\/8 x 16 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "13.70",
+            "centimeters"
+        ],
+        "width": [
+            "42.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sarah Cooper Hewitt",
+    "description": "Embroidery in design of plants forms and fantastic animals standing on either side of an urn on which is a pelican in her piety.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29973_e906b7d732df615c_b.jpg",
-                "width":1024,
-                "height":364,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80257_bb47c77e5cec57c5_b.jpg",
+                "width": 1024,
+                "height": 466,
+                "is_primary": "1",
+                "image_id": "80257"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29973_e906b7d732df615c_n.jpg",
-                "width":320,
-                "height":114,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80257_bb47c77e5cec57c5_z.jpg",
+                "width": 640,
+                "height": 291,
+                "is_primary": "1",
+                "image_id": "80257"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29973_e906b7d732df615c_z.jpg",
-                "width":640,
-                "height":227,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80257_bb47c77e5cec57c5_n.jpg",
+                "width": 320,
+                "height": 146,
+                "is_primary": "1",
+                "image_id": "80257"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80257_bb47c77e5cec57c5_d.gif",
+                "width": 320,
+                "height": 146,
+                "is_primary": "1",
+                "image_id": "80257"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80257_bb47c77e5cec57c5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80257"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29973_e906b7d732df615c_b.jpg",
+                "width": 1024,
+                "height": 364,
+                "is_primary": "0",
+                "image_id": "29973"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29973_e906b7d732df615c_z.jpg",
+                "width": 640,
+                "height": 227,
+                "is_primary": "0",
+                "image_id": "29973"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29973_e906b7d732df615c_n.jpg",
+                "width": 320,
+                "height": 114,
+                "is_primary": "0",
+                "image_id": "29973"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29973_e906b7d732df615c_d.gif",
+                "width": 320,
+                "height": 114,
+                "is_primary": "0",
+                "image_id": "29973"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29973_e906b7d732df615c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29973"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, 17th century.\n17th century. Medium: linen, silk\nTechnique: embroidered. Gift of Sarah Cooper Hewitt. 1931-66-144."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#795746",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#eed6d1",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#a76b56",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#d59a7e",
-            "closest_css3":"#e9967a"
-        },
-        {
-            "color":"#5a342f",
-            "closest_css3":"#556b2f"
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border, 17th century. Medium: linen, silk\nTechnique: embroidered. \nGift of Sarah Cooper Hewitt. 1931-66-144"
+    },
+    "colors": [
+        {
+            "color": "#744d31",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#492b19",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#bfb186",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#886d46",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#9e8c60",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

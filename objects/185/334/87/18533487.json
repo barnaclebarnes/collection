@@ -1,80 +1,182 @@
 {
-    "id":"18533487",
-    "tms:id":"178817",
-    "accession_number":"1982-23-1224",
-    "title":"Matchsafe, \"Mokugyo (Gong) with Dragon Heads\", late 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18533487\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389403",
-    "type_id":"35287419",
-    "date":"late 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1982",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":"Copper",
-    "markings":"No marks",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"6.7 x 4.3 x 1.6 cm (2 5\/8 x 1 11\/16 x 5\/8 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"In the form of a mokugyo, or gong, with two dragon heads at top, both joined by single pearl clasped in their mouths. Identical on front and back. Dragon heads form lid, hinged on side. Reserve on box body with scales likely intended as striker.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18533487",
+    "tms:id": "178817",
+    "accession_number": "1982-23-1224",
+    "title": "Mokugyo (Gong) with Dragon Heads Matchsafe, late 19th century",
+    "title_raw": "Mokugyo (Gong) with Dragon Heads",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18533487\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389403",
+    "type_id": "35287419",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "Copper",
+    "markings": "No marks",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "6.7 x 4.3 x 1.6 cm (2 5\/8 x 1 11\/16 x 5\/8 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.60",
+            "centimeters"
+        ],
+        "height": [
+            "6.70",
+            "centimeters"
+        ],
+        "width": [
+            "4.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "In the form of a mokugyo, or gong, with two dragon heads at top, both joined by single pearl clasped in their mouths. Identical on front and back. Dragon heads form lid, hinged on side. Reserve on box body with scales likely intended as striker.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10160_85adc87bc121f95d_b.jpg",
-                "width":793,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96507_6b1fb5639394cd2b_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "96507"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10160_85adc87bc121f95d_n.jpg",
-                "width":248,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96507_6b1fb5639394cd2b_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "96507"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10160_85adc87bc121f95d_z.jpg",
-                "width":495,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96507_6b1fb5639394cd2b_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "96507"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96507_6b1fb5639394cd2b_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "96507"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96507_6b1fb5639394cd2b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "96507"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10160_85adc87bc121f95d_b.jpg",
+                "width": 793,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10160"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10160_85adc87bc121f95d_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10160"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10160_85adc87bc121f95d_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10160"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10160_85adc87bc121f95d_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10160"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10160_85adc87bc121f95d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10160"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Mokugyo (Gong) with Dragon Heads\", late 19th century.\nlate 19th century. Copper. Gift of Stephen W. Brener and Carol B. Brener. 1982-23-1224."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#a85b4b",
-            "closest_css3":"#a0522d"
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#72332e",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#c47569",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#3a1e27",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#beaab3",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Mokugyo (Gong) with Dragon Heads Matchsafe, late 19th century. Copper. \nGift of Stephen W. Brener and Carol B. Brener. 1982-23-1224"
+    },
+    "colors": [
+        {
+            "color": "#89604a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#634538",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#9e9494",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#b3856d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#cfb1a4",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

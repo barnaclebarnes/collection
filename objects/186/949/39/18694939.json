@@ -1,120 +1,336 @@
 {
-    "id":"18694939",
-    "tms:id":"223025",
-    "accession_number":"2001-28-92",
-    "title":"Fruit Dish, ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18694939\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35285583",
-    "date":"ca. 1930",
-    "year_start":"1925",
-    "year_end":"1935",
-    "year_acquired":"2001",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"6h x 26.6 diameter cm (2 3\/8 x 10 1\/2 in. )",
-    "creditline":"Gift of Victor Wiener",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35285583",
-        "name":"fruit dish"
+    "id": "18694939",
+    "tms:id": "223025",
+    "accession_number": "2001-28-92",
+    "title": "Fruit Dish (Germany), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18694939\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35285583",
+    "date": "ca. 1930",
+    "year_start": 1925,
+    "year_end": 1935,
+    "year_acquired": "2001",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Victor Wiener; 2001: acquired by Museum",
+    "dimensions": "H x diam.: 6 x 26.6 cm (2 3\/8 x 10 1\/2 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "26.60",
+            "centimeters"
+        ],
+        "height": [
+            "6.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Victor Wiener",
+    "description": "Flared yellow footed bowl.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "fruit dish",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14467_0ad212a469d0dd3b_b.jpg",
-                "width":1024,
-                "height":620,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111214_0435627c9290c13a_b.jpg",
+                "width": 1024,
+                "height": 813,
+                "is_primary": "1",
+                "image_id": "111214"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14467_0ad212a469d0dd3b_n.jpg",
-                "width":320,
-                "height":194,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111214_0435627c9290c13a_z.jpg",
+                "width": 640,
+                "height": 508,
+                "is_primary": "1",
+                "image_id": "111214"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14467_0ad212a469d0dd3b_z.jpg",
-                "width":640,
-                "height":388,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111214_0435627c9290c13a_n.jpg",
+                "width": 320,
+                "height": 254,
+                "is_primary": "1",
+                "image_id": "111214"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111214_0435627c9290c13a_d.gif",
+                "width": 320,
+                "height": 254,
+                "is_primary": "1",
+                "image_id": "111214"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111214_0435627c9290c13a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111214"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14465_ba5113ed18ddae8a_b.jpg",
-                "width":1024,
-                "height":618,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90559_0f0efa5ae215d52f_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90559"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14465_ba5113ed18ddae8a_n.jpg",
-                "width":320,
-                "height":193,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90559_0f0efa5ae215d52f_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90559"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14465_ba5113ed18ddae8a_z.jpg",
-                "width":640,
-                "height":386,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90559_0f0efa5ae215d52f_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90559"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90559_0f0efa5ae215d52f_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90559"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90559_0f0efa5ae215d52f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90559"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14466_add2640f31a068f9_b.jpg",
-                "width":1020,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90560_d6e7bea9fbca33d0_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90560"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14466_add2640f31a068f9_n.jpg",
-                "width":319,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90560_d6e7bea9fbca33d0_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90560"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14466_add2640f31a068f9_z.jpg",
-                "width":637,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90560_d6e7bea9fbca33d0_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90560"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90560_d6e7bea9fbca33d0_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90560"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90560_d6e7bea9fbca33d0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90560"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14467_0ad212a469d0dd3b_b.jpg",
+                "width": 1024,
+                "height": 620,
+                "is_primary": "0",
+                "image_id": "14467"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14467_0ad212a469d0dd3b_z.jpg",
+                "width": 640,
+                "height": 388,
+                "is_primary": "0",
+                "image_id": "14467"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14467_0ad212a469d0dd3b_n.jpg",
+                "width": 320,
+                "height": 194,
+                "is_primary": "0",
+                "image_id": "14467"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14467_0ad212a469d0dd3b_d.gif",
+                "width": 320,
+                "height": 194,
+                "is_primary": "0",
+                "image_id": "14467"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14467_0ad212a469d0dd3b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14467"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14465_ba5113ed18ddae8a_b.jpg",
+                "width": 1024,
+                "height": 618,
+                "is_primary": "0",
+                "image_id": "14465"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14465_ba5113ed18ddae8a_z.jpg",
+                "width": 640,
+                "height": 386,
+                "is_primary": "0",
+                "image_id": "14465"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14465_ba5113ed18ddae8a_n.jpg",
+                "width": 320,
+                "height": 193,
+                "is_primary": "0",
+                "image_id": "14465"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14465_ba5113ed18ddae8a_d.gif",
+                "width": 320,
+                "height": 193,
+                "is_primary": "0",
+                "image_id": "14465"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14465_ba5113ed18ddae8a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14465"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14466_add2640f31a068f9_b.jpg",
+                "width": 1020,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "14466"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14466_add2640f31a068f9_z.jpg",
+                "width": 637,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "14466"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14466_add2640f31a068f9_n.jpg",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "14466"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14466_add2640f31a068f9_d.gif",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "14466"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14466_add2640f31a068f9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14466"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fruit Dish, ca. 1930.\nca. 1930. Glazed earthenware. Gift of Victor Wiener. 2001-28-92."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cdb301",
-            "closest_css3":"#daa520"
+            "person_id": "18049137",
+            "role_id": "35236657",
+            "person_name": "Ha\u00ebl-Werkst\u00e4tten",
+            "person_date": "closed 1934",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#bc8403",
-            "closest_css3":"#b8860b"
+            "person_id": "18050259",
+            "role_id": "35236655",
+            "person_name": "Margarete H. L. Marks",
+            "person_date": "1899\u20131990",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050259\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#b3b090",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#5e4e3b",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#7e7867",
-            "closest_css3":"#696969"
+            "person_id": "18041855",
+            "role_id": "35351535",
+            "person_name": "Victor Wiener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fruit Dish (Germany), ca. 1930. Glazed earthenware. \nGift of Victor Wiener. 2001-28-92"
+    },
+    "colors": [
+        {
+            "color": "#f6e18c",
+            "closest_crayola": "#f0e891",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#ada28d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#cb9624",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#eabd54",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        },
+        {
+            "color": "#9f7b2a",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

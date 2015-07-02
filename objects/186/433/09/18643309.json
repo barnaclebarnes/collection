@@ -1,80 +1,180 @@
 {
-    "id":"18643309",
-    "tms:id":"196520",
-    "accession_number":"1993-121-22",
-    "title":"Sample",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643309\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"143979",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1993",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Technique: handwoven plain weave with weft floats",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Trude Guermonprez business card attached.",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 76.5 x 61 cm (30 1\/8 x 24 in.)",
-    "creditline":"Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives",
-    "description":"A sample with weft floats and stripes of tight warp set alternating with stripes of wide warp in off-white.  Small sample in grey attached.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18643309",
+    "tms:id": "196520",
+    "accession_number": "1993-121-22",
+    "title": "Sample (USA), ca. 1950",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18643309\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "143979",
+    "type_id": "35268079",
+    "date": "ca. 1950",
+    "year_start": 1945,
+    "year_end": 1955,
+    "year_acquired": "1993",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Medium: \nTechnique: hand woven plain weave with weft floats",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Trude Guermonprez business card attached.",
+    "provenance": "Eric and Sylvia Elsesser; 1993: acquired by Museum",
+    "dimensions": "Warp x Weft: 76.5 x 61 cm (30 1\/8 x 24 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "76.50",
+            "centimeters"
+        ],
+        "weft": [
+            "61.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives",
+    "description": "A sample with weft floats and stripes of tight warp set alternating with stripes of wide warp in off-white.  Small sample in grey attached.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31083_2ea0cf0b4d687ed0_b.jpg",
-                "width":1024,
-                "height":826,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111666_ed8d5a0390bd2db4_b.jpg",
+                "width": 1024,
+                "height": 690,
+                "is_primary": "1",
+                "image_id": "111666"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31083_2ea0cf0b4d687ed0_n.jpg",
-                "width":320,
-                "height":258,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111666_ed8d5a0390bd2db4_z.jpg",
+                "width": 640,
+                "height": 431,
+                "is_primary": "1",
+                "image_id": "111666"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31083_2ea0cf0b4d687ed0_z.jpg",
-                "width":640,
-                "height":516,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111666_ed8d5a0390bd2db4_n.jpg",
+                "width": 320,
+                "height": 216,
+                "is_primary": "1",
+                "image_id": "111666"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111666_ed8d5a0390bd2db4_d.gif",
+                "width": 320,
+                "height": 216,
+                "is_primary": "1",
+                "image_id": "111666"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111666_ed8d5a0390bd2db4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111666"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31083_2ea0cf0b4d687ed0_b.jpg",
+                "width": 1024,
+                "height": 826,
+                "is_primary": "0",
+                "image_id": "31083"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31083_2ea0cf0b4d687ed0_z.jpg",
+                "width": 640,
+                "height": 516,
+                "is_primary": "0",
+                "image_id": "31083"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31083_2ea0cf0b4d687ed0_n.jpg",
+                "width": 320,
+                "height": 258,
+                "is_primary": "0",
+                "image_id": "31083"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31083_2ea0cf0b4d687ed0_d.gif",
+                "width": 320,
+                "height": 258,
+                "is_primary": "0",
+                "image_id": "31083"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31083_2ea0cf0b4d687ed0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "31083"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sample.\nTechnique: handwoven plain weave with weft floats. Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives. 1993-121-22."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#ceb9a3",
-            "closest_css3":"#d2b48c"
+            "person_id": "18046169",
+            "role_id": "35236745",
+            "person_name": "Trude Guermonprez",
+            "person_date": "American, b. Germany, 1910\u20131976",
+            "role_name": "Weaver",
+            "role_display_name": "Woven by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046169\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236745\/"
         },
         {
-            "color":"#f3e7c9",
-            "closest_css3":"#ffebcd"
+            "person_id": "18041457",
+            "role_id": "35351535",
+            "person_name": "Eric and Sylvia Elsesser",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#ab9075",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#e6d0cb",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#8e7457",
-            "closest_css3":"#696969"
+            "person_id": "18046169",
+            "role_id": "35236655",
+            "person_name": "Trude Guermonprez",
+            "person_date": "American, b. Germany, 1910\u20131976",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046169\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sample (USA), ca. 1950. Medium: \nTechnique: hand woven plain weave with weft floats. \nGift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives. 1993-121-22"
+    },
+    "colors": [
+        {
+            "color": "#eee6c9",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#ffe4c4",
+            "closest_css4": "#ffe4c4"
+        },
+        {
+            "color": "#978f7e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

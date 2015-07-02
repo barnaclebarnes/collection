@@ -1,76 +1,135 @@
 {
-    "id":"18448899",
-    "tms:id":"134965",
-    "accession_number":"1963-39-808",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448899\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1963",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18448899",
+    "tms:id": "134965",
+    "accession_number": "1963-39-808",
+    "title": "Drawing (USA), May 27, 1946",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448899\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51686167",
+    "type_id": "35237093",
+    "date": "May 27, 1946",
+    "year_start": 1946,
+    "year_end": 1946,
+    "year_acquired": "1963",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Brush and black gouache on paper mounted on board",
+    "markings": null,
+    "signed": "Stamp in black ink, lower right: DESIGN BY \/ E. MCKNIGHT KAUFFER \/ [in script] 27\/5\/46",
+    "inscribed": null,
+    "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "25.5 x 20.3 cm (10 1\/16 in. x 8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.50",
+            "centimeters"
+        ],
+        "width": [
+            "20.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Abstract design in black gouache.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57373_7d7edda199b0adc2_b.jpg",
-                "width":814,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57373_13b6b8c47d2cd7f2_b.jpg",
+                "width": 806,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "57373"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57373_7d7edda199b0adc2_n.jpg",
-                "width":254,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57373_13b6b8c47d2cd7f2_z.jpg",
+                "width": 504,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "57373"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57373_7d7edda199b0adc2_z.jpg",
-                "width":509,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57373_13b6b8c47d2cd7f2_n.jpg",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "57373"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57373_13b6b8c47d2cd7f2_d.gif",
+                "width": 252,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "57373"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57373_13b6b8c47d2cd7f2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "57373"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nGift of Mrs. E. McKnight Kauffer. 1963-39-808."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#eae1cb",
-            "closest_css3":"#ffe4c4"
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#dcbd66",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#b4a074",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#57534e",
-            "closest_css3":"#696969"
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing (USA), May 27, 1946. Brush and black gouache on paper mounted on board. \nGift of Mrs. E. McKnight Kauffer. 1963-39-808"
+    },
+    "colors": [
+        {
+            "color": "#cfc46c",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#878375",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#504e48",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b0a882",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

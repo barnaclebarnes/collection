@@ -1,42 +1,119 @@
 {
-    "id":"18352203",
-    "tms:id":"59525",
-    "accession_number":"1938-58-1444",
-    "title":"Edging, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18352203\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35255127",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: linen\nTechnique: machine made",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 183 x 6 cm (6 ft. 1\/16 in. x 2 3\/8 in.)",
-    "creditline":"Gift of Norvin Hewitt Green",
-    "description":"Black Chantilly-type edging lace showing a pattern of floral sprays and bow-knots.",
-    "justification":null,
-    "type":{
-        "id":"35255127",
-        "name":"Edging"
+    "id": "18352203",
+    "tms:id": "59525",
+    "accession_number": "1938-58-1444",
+    "title": "Edging (France), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18352203\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35255127",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: linen\nTechnique: machine made",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 183 x 6 cm (6 ft. 1\/16 in. x 2 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "183.00",
+            "centimeters"
+        ],
+        "width": [
+            "6.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Norvin Hewitt Green",
+    "description": "Black Chantilly-type edging lace showing a pattern of floral sprays and bow-knots.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Edging",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70184_48bae816d8e98a68_b.jpg",
+                "width": 1024,
+                "height": 412,
+                "is_primary": "1",
+                "image_id": "70184"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70184_48bae816d8e98a68_z.jpg",
+                "width": 640,
+                "height": 258,
+                "is_primary": "1",
+                "image_id": "70184"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70184_48bae816d8e98a68_n.jpg",
+                "width": 320,
+                "height": 129,
+                "is_primary": "1",
+                "image_id": "70184"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70184_48bae816d8e98a68_d.gif",
+                "width": 320,
+                "height": 129,
+                "is_primary": "1",
+                "image_id": "70184"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70184_48bae816d8e98a68_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "70184"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18056845",
+            "role_id": "35351535",
+            "person_name": "Norvin Hewitt Green",
+            "person_date": "American, 1893\u20131955",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Edging, 19th century.\n19th century. Medium: linen\nTechnique: machine made. Gift of Norvin Hewitt Green. 1938-58-1444."
+    "tombstone": {
+        "epitaph": "Edging (France), 19th century. Medium: linen\nTechnique: machine made. \nGift of Norvin Hewitt Green. 1938-58-1444"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#23222d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#626168",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#43424b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

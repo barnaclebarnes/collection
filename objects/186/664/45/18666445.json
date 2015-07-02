@@ -1,87 +1,166 @@
 {
-    "id":"18666445",
-    "tms:id":"208602",
-    "accession_number":"1995-50-85",
-    "title":"Textile, \"La Mort de Didon (The Death of Dido)\", ca. 1790",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18666445\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1790",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton  \nTechnique: printed by engraved plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 128.5 cm (50 1\/2 in.). Weft: 98.5 cm (38 3\/4 in.)\nBoth selvedges present.",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Scenes of people in classical dress illustrating a story from Virgil's Aeneid that inspired two operas in eighteenth-century France.  Aeneas leaves Troy in flames carrying his father Anchises in his arms, Aeneas abandons Dido who then kills herself, and Aeneas kills Turmus. In red on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18666445",
+    "tms:id": "208602",
+    "accession_number": "1995-50-85",
+    "title": "Textile, La Mort de Didon (The Death of Dido), ca. 1790",
+    "title_raw": "La Mort de Didon (The Death of Dido)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18666445\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton  \nTechnique: printed by engraved plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 128.5 x 98.5 cm (50 9\/16 x 38 3\/4 in.)\nRepeat H: 84.5 cm (33 1\/4 in.)\nWidth of plate: 94.5 cm (37 1\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "128.50",
+            "centimeters"
+        ],
+        "weft": [
+            "98.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Scenes of people in classical dress illustrating a story from Virgil's Aeneid that inspired two operas in eighteenth-century France.  Aeneas leaves Troy in flames carrying his father Anchises in his arms, Aeneas abandons Dido who then kills herself, and Aeneas kills Turmus. In red on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12241_e62b7539bde0132e_b.jpg",
-                "width":656,
-                "height":962,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108027_4d2c6cd969cda125_b.jpg",
+                "width": 820,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108027"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12241_e62b7539bde0132e_n.jpg",
-                "width":218,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108027_4d2c6cd969cda125_z.jpg",
+                "width": 512,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108027"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12241_e62b7539bde0132e_z.jpg",
-                "width":436,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108027_4d2c6cd969cda125_n.jpg",
+                "width": 256,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108027"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108027_4d2c6cd969cda125_d.gif",
+                "width": 256,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108027"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108027_4d2c6cd969cda125_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108027"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12241_e62b7539bde0132e_b.jpg",
+                "width": 656,
+                "height": 962,
+                "is_primary": "0",
+                "image_id": "12241"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12241_e62b7539bde0132e_z.jpg",
+                "width": 436,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12241"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12241_e62b7539bde0132e_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12241"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12241_e62b7539bde0132e_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12241"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12241_e62b7539bde0132e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12241"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045481",
-            "role_id":"35236685",
-            "person_name":"Petitpierre et Cie",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045481\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18045481",
+            "role_id": "35236685",
+            "person_name": "Petitpierre et Cie",
+            "person_date": "1770 \u2013 1848",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"La Mort de Didon (The Death of Dido)\", ca. 1790.\nca. 1790. Medium: cotton  \nTechnique: printed by engraved plate on plain weave. Bequest of Elinor Merrell. 1995-50-85."
+    "tombstone": {
+        "epitaph": "Textile, La Mort de Didon (The Death of Dido), ca. 1790. Medium: cotton  \nTechnique: printed by engraved plate on plain weave. \nBequest of Elinor Merrell. 1995-50-85"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d79d80",
-            "closest_css3":"#e9967a"
+            "color": "#c1bca0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#fdddba",
-            "closest_css3":"#ffdab9"
+            "color": "#c6a491",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#c0adb4",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#977165",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#c08681",
-            "closest_css3":"#bc8f8f"
+            "color": "#ae706e",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

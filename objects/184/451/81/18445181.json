@@ -1,76 +1,189 @@
 {
-    "id":"18445181",
-    "tms:id":"133082",
-    "accession_number":"1962-54-1-b",
-    "title":"Waistcoat",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445181\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"112617",
-    "type_id":"35256965",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: embroidered",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 91.4 x 45.7 cm (36 x 18 in.)",
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35256965",
-        "name":"Waistcoat"
+    "id": "18445181",
+    "tms:id": "133082",
+    "accession_number": "1962-54-1-b",
+    "title": "Waistcoat",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445181\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "112617",
+    "type_id": "35256965",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: embroidered",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 91.4 x 45.7 cm (36 x 18 in.)",
+    "dimensions_raw": {
+        "height": [
+            "91.44",
+            "centimeters"
+        ],
+        "width": [
+            "45.72",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Waistcoat",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27374_4b120785bd8768f4_b.jpg",
-                "width":560,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98133_a213cd3dae427903_b.jpg",
+                "width": 538,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "98133"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27374_4b120785bd8768f4_n.jpg",
-                "width":175,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98133_a213cd3dae427903_z.jpg",
+                "width": 336,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "98133"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27374_4b120785bd8768f4_z.jpg",
-                "width":350,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98133_a213cd3dae427903_n.jpg",
+                "width": 168,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "98133"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98133_a213cd3dae427903_d.gif",
+                "width": 168,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "98133"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98133_a213cd3dae427903_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "98133"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95131_1720bcb70ce558f8_b.jpg",
+                "width": 538,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95131"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95131_1720bcb70ce558f8_z.jpg",
+                "width": 336,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95131"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95131_1720bcb70ce558f8_n.jpg",
+                "width": 168,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95131"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95131_1720bcb70ce558f8_d.gif",
+                "width": 168,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95131"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95131_1720bcb70ce558f8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95131"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27374_4b120785bd8768f4_b.jpg",
+                "width": 560,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "27374"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27374_4b120785bd8768f4_z.jpg",
+                "width": 350,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "27374"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27374_4b120785bd8768f4_n.jpg",
+                "width": 175,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "27374"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27374_4b120785bd8768f4_d.gif",
+                "width": 175,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "27374"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27374_4b120785bd8768f4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "27374"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Waistcoat.\nTechnique: embroidered. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-54-1-b."
+    "tombstone": {
+        "epitaph": "Waistcoat. Technique: embroidered. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-54-1-b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#7b6d47",
-            "closest_css3":"#696969"
+            "color": "#847354",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#b3a57a",
-            "closest_css3":"#bdb76b"
+            "color": "#d2c59b",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#5e4c25",
-            "closest_css3":"#556b2f"
+            "color": "#594b34",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#9d864f",
-            "closest_css3":"#cd853f"
+            "color": "#a39068",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

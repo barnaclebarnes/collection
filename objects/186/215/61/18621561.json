@@ -1,64 +1,144 @@
 {
-    "id":"18621561",
-    "tms:id":"185605",
-    "accession_number":"1986-61-92",
-    "title":"Sweetmeat Glass, 1750\u201375",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621561\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35293901",
-    "date":"1750\u201375",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Engraved in script, on side of mug: \"Erinerung\" [Rememberence]",
-    "provenance":"Delomosne and Son, Ltd., London; 1961: Walter Phelps Warren; 1986: bequested to Museum",
-    "dimensions":"H x W: 12.1 x 9.6cm (4 3\/4 x 3 3\/4in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Double ogee-shaped bowl, ribbed, on tall multi-knopped stem; domed, ribbed base, folded over at edge; pontil mark base.",
-    "justification":null,
-    "type":{
-        "id":"35293901",
-        "name":"sweetmeat glass"
+    "id": "18621561",
+    "tms:id": "185605",
+    "accession_number": "1986-61-92",
+    "title": "Sweetmeat Glass (England), 1750\u201375",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621561\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35293901",
+    "date": "1750\u201375",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Engraved in script, on side of mug: \"Erinerung\" [Rememberence]",
+    "provenance": "Delomosne and Son, Ltd., London; 1961: Walter Phelps Warren; 1986: bequested to Museum",
+    "dimensions": "H x W: 12.1 x 9.6cm (4 3\/4 x 3 3\/4in.)",
+    "dimensions_raw": {
+        "height": [
+            "12.10",
+            "centimeters"
+        ],
+        "width": [
+            "9.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Double ogee-shaped bowl, ribbed, on tall multi-knopped stem; domed, ribbed base, folded over at edge; pontil mark base.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "sweetmeat glass",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45008_b8e08712b5a05fb7_b.jpg",
-                "width":896,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45008_b8e08712b5a05fb7_b.jpg",
+                "width": 896,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "45008"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45008_b8e08712b5a05fb7_n.jpg",
-                "width":280,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45008_b8e08712b5a05fb7_z.jpg",
+                "width": 560,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "45008"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45008_b8e08712b5a05fb7_z.jpg",
-                "width":560,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45008_b8e08712b5a05fb7_n.jpg",
+                "width": 280,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45008"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45008_b8e08712b5a05fb7_d.gif",
+                "width": 280,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45008"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45008_b8e08712b5a05fb7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45008"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112964_6d16b60d542b30c5_b.jpg",
+                "width": 817,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "112964"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112964_6d16b60d542b30c5_z.jpg",
+                "width": 510,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "112964"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112964_6d16b60d542b30c5_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112964"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112964_6d16b60d542b30c5_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112964"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112964_6d16b60d542b30c5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "112964"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sweetmeat Glass, 1750\u201375.\n1750\u201375. Glass. Bequest of Walter Phelps Warren. 1986-61-92."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cecece",
-            "closest_css3":"#d3d3d3"
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sweetmeat Glass (England), 1750\u201375. Glass. \nBequest of Walter Phelps Warren. 1986-61-92"
+    },
+    "colors": [
+        {
+            "color": "#cecece",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

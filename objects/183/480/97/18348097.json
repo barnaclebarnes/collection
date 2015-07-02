@@ -1,42 +1,140 @@
 {
-    "id":"18348097",
-    "tms:id":"57849",
-    "accession_number":"1938-57-1197-c",
-    "title":"Towel",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18348097\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35283283",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35283283",
-        "name":"Towel"
-    },
-    "images":[
-
+    "id": "18348097",
+    "tms:id": "57849",
+    "accession_number": "1938-57-1197-c",
+    "title": "Towel",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18348097\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35283283",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Towel",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112482_c9bb994efecbce55_b.jpg",
+                "width": 499,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112482"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112482_c9bb994efecbce55_z.jpg",
+                "width": 312,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112482"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112482_c9bb994efecbce55_n.jpg",
+                "width": 156,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112482"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112482_c9bb994efecbce55_d.gif",
+                "width": 156,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112482"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112482_c9bb994efecbce55_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112482"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70121_431a0e423b33d30e_b.jpg",
+                "width": 528,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "70121"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70121_431a0e423b33d30e_z.jpg",
+                "width": 330,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "70121"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70121_431a0e423b33d30e_n.jpg",
+                "width": 165,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "70121"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70121_431a0e423b33d30e_d.gif",
+                "width": 165,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "70121"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70121_431a0e423b33d30e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "70121"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Towel.\nBequest of Erskine Hewitt. 1938-57-1197-c."
+    "tombstone": {
+        "epitaph": "Towel. \nBequest of Erskine Hewitt. 1938-57-1197-c"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#948261",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#baae8d",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
 }

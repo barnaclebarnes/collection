@@ -1,87 +1,182 @@
 {
-    "id":"18653705",
-    "tms:id":"201813",
-    "accession_number":"1996-47-1",
-    "title":"Hanging, \"Houses on a Street\", 1939",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18653705\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35257233",
-    "date":"1939",
-    "year_start":"1939",
-    "year_end":"1939",
-    "year_acquired":"1996",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: tapestry weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Woven label sewn to bottom right corner, \"LYDIA LUCILLE, HANDWOVEN.\" Paper label removed for conservation reasons and currently in textile conservation lab.",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 211 x 62 cm (6 ft. 11 1\/16 in. x 24 7\/16 in.)",
-    "creditline":"Gift of Lydia Van Gelder",
-    "description":"Stylized street scene woven in greens, brown, gold and natural color wefts.",
-    "justification":null,
-    "type":{
-        "id":"35257233",
-        "name":"Hanging"
+    "id": "18653705",
+    "tms:id": "201813",
+    "accession_number": "1996-47-1",
+    "title": "Hanging, Houses on a Street, 1939",
+    "title_raw": "Houses on a Street",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18653705\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35257233",
+    "date": "1939",
+    "year_start": 1939,
+    "year_end": 1939,
+    "year_acquired": "1996",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: plain weave with discontinuous wefts (tapestry)\nLabel: cotton tapestry weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "(woven label sewn to bottom right corner ) LYDIA LUCILLE, HANDWOVEN",
+    "provenance": "Lydia Van Gelder; 1996: acquired by Museum",
+    "dimensions": "H x W: 210.8 x 62.2 cm (6 ft. 11 in. x 24 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "210.82",
+            "centimeters"
+        ],
+        "width": [
+            "62.23",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Lydia Van Gelder",
+    "description": "Long vertical hanging with an abstracted street scene woven in greens, brown, gold and natural.",
+    "justification": null,
+    "gallery_text": "California textile artist Lydia van Gelder created this piece for the 1939 Golden Gate International Exposition in San Francisco. Best known now for her contributions to the fiber art movement of the 1960s and 70's, it serves as a unique reminder of her early engagement with the modernist aesthetics championed at the Exposition.\n \nThe Exposition unfolded over the course of eight months on San Francisco's newly-minted purpose-built Treasure Island. The exhibition\u2019s architectural program merged design elements from both eastern and western pacific coasts in a modern style then dubbed pacifica. Selected under the direction of textile designer Dorothy Wright Liebes, Van Gelder was among 110 artist-craftspeople exhibited in the Decorative Arts hall. Nearly a quarter of those exhibited were Californian, signaling the vitality of the state\u2019s arts and crafts sector to the Exposition\u2019s more than ten million visitors.",
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Hanging",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36485_26727c74aa3d850d_b.jpg",
-                "width":314,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109853_fda25c38b7cac488_b.jpg",
+                "width": 1024,
+                "height": 511,
+                "is_primary": "1",
+                "image_id": "109853"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36485_26727c74aa3d850d_n.jpg",
-                "width":98,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109853_fda25c38b7cac488_z.jpg",
+                "width": 640,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "109853"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36485_26727c74aa3d850d_z.jpg",
-                "width":196,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109853_fda25c38b7cac488_n.jpg",
+                "width": 320,
+                "height": 160,
+                "is_primary": "1",
+                "image_id": "109853"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109853_fda25c38b7cac488_d.gif",
+                "width": 320,
+                "height": 160,
+                "is_primary": "1",
+                "image_id": "109853"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109853_fda25c38b7cac488_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109853"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36485_26727c74aa3d850d_b.jpg",
+                "width": 314,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "36485"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36485_26727c74aa3d850d_z.jpg",
+                "width": 196,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "36485"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36485_26727c74aa3d850d_n.jpg",
+                "width": 98,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36485"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36485_26727c74aa3d850d_d.gif",
+                "width": 98,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36485"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36485_26727c74aa3d850d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36485"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041881",
-            "role_id":"35351535",
-            "person_name":"Lydia Van Gelder",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041881\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18041881",
+            "role_id": "35351535",
+            "person_name": "Lydia Van Gelder",
+            "person_date": "American, 1911\u20132012",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041881\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18041881",
-            "role_id":"35236565",
-            "person_name":"Lydia Van Gelder",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041881\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041881",
+            "role_id": "35236655",
+            "person_name": "Lydia Van Gelder",
+            "person_date": "American, 1911\u20132012",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041881\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Hanging, \"Houses on a Street\", 1939.\n1939. Medium: cotton\nTechnique: tapestry weave. Gift of Lydia Van Gelder. 1996-47-1."
+    "tombstone": {
+        "epitaph": "Hanging, Houses on a Street, 1939. Medium: cotton\nTechnique: plain weave with discontinuous wefts (tapestry)\nLabel: cotton tapestry weave. \nGift of Lydia Van Gelder. 1996-47-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c2ad79",
-            "closest_css3":"#bdb76b"
+            "color": "#9e9068",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#957844",
-            "closest_css3":"#a0522d"
+            "color": "#cac59a",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#785437",
-            "closest_css3":"#a0522d"
+            "color": "#756249",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#997e64",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

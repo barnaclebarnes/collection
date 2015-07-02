@@ -1,95 +1,198 @@
 {
-    "id":"18652389",
-    "tms:id":"201138",
-    "accession_number":"1995-80-1",
-    "title":"Textile, \"Peri\", 1870\u201371",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18652389\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":"1870\u201371",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk\nTechnique: two interconnected structures: 4+1 satin and 1\/2 twill (lampas)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 74 x 54 cm (29 1\/8 x 21 1\/4 in.)",
-    "creditline":"Museum purchase from Sarah Cooper-Hewitt Fund",
-    "description":"Woven silk with a highly stylized design of palmettes and floral crosses with curving vines in blue, red and gold on a black ground. Red has faded into rust on the front.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18652389",
+    "tms:id": "201138",
+    "accession_number": "1995-80-1",
+    "title": "Textile, Peri, 1870\u201371",
+    "title_raw": "Peri",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18652389\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "1870\u201371",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk\nTechnique: two interconnected structures: 4\\1 satin and 1\\2 twill (lampas)\nLabel: silk lampas",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 74 \u00d7 54 cm (29 1\/8 \u00d7 21 1\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "74.00",
+            "centimeters"
+        ],
+        "weft": [
+            "54.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Sarah Cooper-Hewitt Fund",
+    "description": "Woven silk with a highly stylized design of palmettes and floral crosses with curving vines in blue, red and gold on a black ground. Red has faded into rust on the front.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12702_f0c4ef11740cf5f5_b.jpg",
-                "width":754,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112157_53b8621b124ee2cf_b.jpg",
+                "width": 768,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112157"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12702_f0c4ef11740cf5f5_n.jpg",
-                "width":236,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112157_53b8621b124ee2cf_z.jpg",
+                "width": 480,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112157"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12702_f0c4ef11740cf5f5_z.jpg",
-                "width":471,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112157_53b8621b124ee2cf_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112157"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112157_53b8621b124ee2cf_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112157"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112157_53b8621b124ee2cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112157"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12702_f0c4ef11740cf5f5_b.jpg",
+                "width": 754,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12702"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12702_f0c4ef11740cf5f5_z.jpg",
+                "width": 471,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12702"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12702_f0c4ef11740cf5f5_n.jpg",
+                "width": 236,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12702"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12702_f0c4ef11740cf5f5_d.gif",
+                "width": 236,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12702"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12702_f0c4ef11740cf5f5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12702"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050005",
-            "role_id":"35236657",
-            "person_name":"Warner, Sillet & Ramm",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050005\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18046283",
-            "role_id":"35236655",
-            "person_name":"Owen Jones",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046283\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041719",
+            "role_id": "35352249",
+            "person_name": "Ms. Francesca Galloway",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041719\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18050005",
+            "role_id": "35236657",
+            "person_name": "Warner, Sillet & Ramm",
+            "person_date": "1871 - 1874",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050005\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18046283",
+            "role_id": "35236655",
+            "person_name": "Owen Jones",
+            "person_date": "English, 1809\u20131874",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046283\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Peri\", 1870\u201371.\n1870\u201371. Medium: silk\nTechnique: two interconnected structures: 4+1 satin and 1\/2 twill (lampas). Museum purchase from Sarah Cooper-Hewitt Fund. 1995-80-1."
+    "tombstone": {
+        "epitaph": "Textile, Peri, 1870\u201371. Medium: silk\nTechnique: two interconnected structures: 4\\1 satin and 1\\2 twill (lampas)\nLabel: silk lampas. \nMuseum purchase from Sarah Cooper-Hewitt Fund. 1995-80-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#e1c283",
-            "closest_css3":"#deb887"
+            "color": "#bbb290",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#a17449",
-            "closest_css3":"#a0522d"
+            "color": "#87816b",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#a69575",
-            "closest_css3":"#bc8f8f"
+            "color": "#302c27",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#c59565",
-            "closest_css3":"#bdb76b"
+            "color": "#957c6d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#403e2f",
-            "closest_css3":"#2f4f4f"
+            "color": "#ad9882",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

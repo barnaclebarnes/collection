@@ -1,58 +1,141 @@
 {
-    "id":"18758341",
-    "tms:id":"255456",
-    "accession_number":"2010-21-67",
-    "title":"Poster, \"Un Ballo in Maschera\", 1997",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758341\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"1997",
-    "year_start":"1997",
-    "year_end":"1997",
-    "year_acquired":"2010",
-    "decade":"1990",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"128 x 90.5 cm (50 3\/8 x 35 5\/8 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758341",
+    "tms:id": "255456",
+    "accession_number": "2010-21-67",
+    "title": "Poster, Un Ballo in Maschera, 1997",
+    "title_raw": "Un Ballo in Maschera",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758341\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431963",
+    "type_id": "35238163",
+    "date": "1997",
+    "year_start": 1997,
+    "year_end": 1997,
+    "year_acquired": "2010",
+    "decade": "1990",
+    "woe:country_id": "23424957",
+    "medium": "Offset lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in white ink, right: GESTALTUNG GEISSBUHLER \/ Foto Schimert",
+    "provenance": "Sara and Marc Benda (acquired new and directly from designer, Karl Domenic Geissb\u00fchler); 2010: acquired by Museum",
+    "dimensions": "128 x 90.5 cm (50 3\/8 x 35 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "128.00",
+            "centimeters"
+        ],
+        "width": [
+            "90.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "On a black ground, a masked woman wearing a wig, on her head and face visible, red lines vertically across her neck. In white ink, upper left: OPERNHAUS ZURICH; below: AB 19. MARZ 1989; OPER VON GIUSEPPE VERDI \/ UN BALLO IN MASCHERA.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46790_c672ab71bf344193_b.jpg",
-                "width":722,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46790_2db05ff54ccb716d_b.jpg",
+                "width": 722,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46790"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46790_c672ab71bf344193_n.jpg",
-                "width":226,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46790_2db05ff54ccb716d_z.jpg",
+                "width": 451,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46790"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46790_c672ab71bf344193_z.jpg",
-                "width":451,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46790_2db05ff54ccb716d_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46790"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46790_2db05ff54ccb716d_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46790"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46790_2db05ff54ccb716d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46790"
             }
         }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18063591",
+            "role_id": "35236655",
+            "person_name": "Karl Domenic Geissb\u00fchler",
+            "person_date": "Swiss, b. 1932",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063591\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68738781",
+            "role_id": "35236667",
+            "person_name": "Opernhaus, Z\u00fcrich",
+            "person_date": "Z\u00fcrich, Switzerland",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738781\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Un Ballo in Maschera, 1997. Offset lithograph on wove paper. \nGift of Sara and Marc Benda. 2010-21-67"
+    },
+    "colors": [
+        {
+            "color": "#49484f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#525ca5",
+            "closest_crayola": "#324ab2",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#b5542d",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#41456b",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#936c60",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

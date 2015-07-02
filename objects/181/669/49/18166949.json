@@ -1,87 +1,172 @@
 {
-    "id":"18166949",
-    "tms:id":"17547",
-    "accession_number":"1909-25-16-a\/d",
-    "title":"Mount, ca. 1780",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18166949\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35372063",
-    "type_id":"35259245",
-    "date":"ca. 1780",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1909",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Gilt bronze",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 13.5 x 13 x 1.1 cm (5 5\/16 x 5 1\/8 x 7\/16 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":"Cornucopia of flowers and central urn on scythe-shaped mount.",
-    "justification":null,
-    "type":{
-        "id":"35259245",
-        "name":"Mount"
+    "id": "18166949",
+    "tms:id": "17547",
+    "accession_number": "1909-25-16-a\/d",
+    "title": "Mount (France), ca. 1780",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18166949\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35372063",
+    "type_id": "35259245",
+    "date": "ca. 1780",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1909",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Gilt bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 13.5 x 13 x 1.1 cm (5 5\/16 x 5 1\/8 x 7\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.10",
+            "centimeters"
+        ],
+        "height": [
+            "13.50",
+            "centimeters"
+        ],
+        "width": [
+            "13.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "Cornucopia of flowers and central urn on scythe-shaped mount.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Mount",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26618_3cc327dbf4e87b49_b.jpg",
-                "width":998,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93948_bf6d20c57b0d13ef_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93948"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26618_3cc327dbf4e87b49_n.jpg",
-                "width":312,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93948_bf6d20c57b0d13ef_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93948"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26618_3cc327dbf4e87b49_z.jpg",
-                "width":624,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93948_bf6d20c57b0d13ef_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93948"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93948_bf6d20c57b0d13ef_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93948"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93948_bf6d20c57b0d13ef_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93948"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26618_3cc327dbf4e87b49_b.jpg",
+                "width": 998,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "26618"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26618_3cc327dbf4e87b49_z.jpg",
+                "width": 624,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "26618"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26618_3cc327dbf4e87b49_n.jpg",
+                "width": 312,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "26618"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26618_3cc327dbf4e87b49_d.gif",
+                "width": 312,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "26618"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26618_3cc327dbf4e87b49_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "26618"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Mount, ca. 1780.\nca. 1780. Gilt bronze. Purchased for the Museum by the Advisory Council. 1909-25-16-a\/d."
+    "tombstone": {
+        "epitaph": "Mount (France), ca. 1780. Gilt bronze. \nPurchased for the Museum by the Advisory Council. 1909-25-16-a\/d"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#563f29",
-            "closest_css3":"#556b2f"
+            "color": "#7a6c36",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#845c2f",
-            "closest_css3":"#a0522d"
+            "color": "#a69a57",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#ac843f",
-            "closest_css3":"#cd853f"
+            "color": "#d9d596",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
         },
         {
-            "color":"#331913",
-            "closest_css3":"#000000"
+            "color": "#a09c86",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#dfb655",
-            "closest_css3":"#f4a460"
+            "color": "#54492a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

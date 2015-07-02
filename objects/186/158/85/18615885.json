@@ -1,80 +1,196 @@
 {
-    "id":"18615885",
-    "tms:id":"176469",
-    "accession_number":"1981-11-1",
-    "title":"Handkerchief",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18615885\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35264069",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mr. and Mrs. Simeon Braguin",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35264069",
-        "name":"Handkerchief"
-    },
-    "images":[
+    "id": "18615885",
+    "tms:id": "176469",
+    "accession_number": "1981-11-1",
+    "title": "Handkerchief (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18615885\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35264069",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. Simeon Braguin",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Handkerchief",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29356_37c48b2b03b004cb_b.jpg",
-                "width":1024,
-                "height":877,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99438_1113ba0c27515915_b.jpg",
+                "width": 1024,
+                "height": 896,
+                "is_primary": "1",
+                "image_id": "99438"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29356_37c48b2b03b004cb_n.jpg",
-                "width":320,
-                "height":274,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99438_1113ba0c27515915_z.jpg",
+                "width": 640,
+                "height": 560,
+                "is_primary": "1",
+                "image_id": "99438"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29356_37c48b2b03b004cb_z.jpg",
-                "width":640,
-                "height":548,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99438_1113ba0c27515915_n.jpg",
+                "width": 320,
+                "height": 280,
+                "is_primary": "1",
+                "image_id": "99438"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99438_1113ba0c27515915_d.gif",
+                "width": 320,
+                "height": 280,
+                "is_primary": "1",
+                "image_id": "99438"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99438_1113ba0c27515915_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99438"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95143_c5084fbf60597443_b.jpg",
+                "width": 1024,
+                "height": 896,
+                "is_primary": "0",
+                "image_id": "95143"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95143_c5084fbf60597443_z.jpg",
+                "width": 640,
+                "height": 560,
+                "is_primary": "0",
+                "image_id": "95143"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95143_c5084fbf60597443_n.jpg",
+                "width": 320,
+                "height": 280,
+                "is_primary": "0",
+                "image_id": "95143"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95143_c5084fbf60597443_d.gif",
+                "width": 320,
+                "height": 280,
+                "is_primary": "0",
+                "image_id": "95143"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95143_c5084fbf60597443_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95143"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29356_37c48b2b03b004cb_b.jpg",
+                "width": 1024,
+                "height": 877,
+                "is_primary": "0",
+                "image_id": "29356"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29356_37c48b2b03b004cb_z.jpg",
+                "width": 640,
+                "height": 548,
+                "is_primary": "0",
+                "image_id": "29356"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29356_37c48b2b03b004cb_n.jpg",
+                "width": 320,
+                "height": 274,
+                "is_primary": "0",
+                "image_id": "29356"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29356_37c48b2b03b004cb_d.gif",
+                "width": 320,
+                "height": 274,
+                "is_primary": "0",
+                "image_id": "29356"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29356_37c48b2b03b004cb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29356"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Handkerchief.\nGift of Mr. and Mrs. Simeon Braguin. 1981-11-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#da7456",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#a23f26",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#cbaf9b",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#9e8c7f",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#70615c",
-            "closest_css3":"#696969"
+            "person_id": "18058003",
+            "role_id": "35351535",
+            "person_name": "Mr. and Mrs. Simeon Braguin",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058003\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Handkerchief (France). \nGift of Mr. and Mrs. Simeon Braguin. 1981-11-1"
+    },
+    "colors": [
+        {
+            "color": "#b49e75",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#5c4532",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#74654e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#977d5c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#373029",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

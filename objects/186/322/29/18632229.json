@@ -1,80 +1,202 @@
 {
-    "id":"18632229",
-    "tms:id":"190957",
-    "accession_number":"1989-109-1",
-    "title":"Necklace, \"Charm Necklace\", 1989",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18632229\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35392441",
-    "type_id":"35237147",
-    "date":"1989",
-    "year_start":"1989",
-    "year_end":"1989",
-    "year_acquired":"1989",
-    "decade":"1980",
-    "woe:country":"23424977",
-    "medium":"glass, silver",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall approx: 21 x 21 x 1.3 cm (8 1\/4 x 8 1\/4 x 1\/2 in.)",
-    "creditline":"Museum purchase from Ida McNeil Memorial Fund",
-    "description":"Colored and clear glass charms in various geometric shapes linked by silver chain; hook and loop and safety chain",
-    "justification":null,
-    "type":{
-        "id":"35237147",
-        "name":"Necklace"
+    "id": "18632229",
+    "tms:id": "190957",
+    "accession_number": "1989-109-1",
+    "title": "Charm Necklace Necklace, 1989",
+    "title_raw": "Charm Necklace",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18632229\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35392441",
+    "type_id": "35237147",
+    "date": "1989",
+    "year_start": 1989,
+    "year_end": 1989,
+    "year_acquired": "1989",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "Glass, silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1989: acquired by Museum (from Vitriesse Glass Studio)",
+    "dimensions": "H x W x D (approx.): 21 x 21 x 1.3 cm (8 1\/4 x 8 1\/4 x 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.30",
+            "centimeters"
+        ],
+        "height": [
+            "21.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Ida McNeil Memorial Fund",
+    "description": "Colored and clear glass charms in various geometric shapes linked by silver chain; hook and loop and safety chain.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Necklace",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25889_a2eefde62bd620ea_b.jpg",
-                "width":743,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90256_c63d6be55b5c1b3d_b.jpg",
+                "width": 1014,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90256"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25889_a2eefde62bd620ea_n.jpg",
-                "width":232,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90256_c63d6be55b5c1b3d_z.jpg",
+                "width": 634,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90256"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25889_a2eefde62bd620ea_z.jpg",
-                "width":465,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90256_c63d6be55b5c1b3d_n.jpg",
+                "width": 317,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90256"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90256_c63d6be55b5c1b3d_d.gif",
+                "width": 317,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90256"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90256_c63d6be55b5c1b3d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90256"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25889_a2eefde62bd620ea_b.jpg",
+                "width": 743,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "25889"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25889_a2eefde62bd620ea_z.jpg",
+                "width": 465,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "25889"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25889_a2eefde62bd620ea_n.jpg",
+                "width": 232,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "25889"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25889_a2eefde62bd620ea_d.gif",
+                "width": 232,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "25889"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25889_a2eefde62bd620ea_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "25889"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Necklace, \"Charm Necklace\", 1989.\n1989. glass, silver. Museum purchase from Ida McNeil Memorial Fund. 1989-109-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#313034",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18053179",
+            "role_id": "35352247",
+            "person_name": "Ida McNeil Memorial Fund",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053179\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
         },
         {
-            "color":"#e0d6bc",
-            "closest_css3":"#f5deb3"
+            "person_id": "18537193",
+            "role_id": "35352249",
+            "person_name": "Vitriesse Glass Studio",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537193\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "color":"#797b72",
-            "closest_css3":"#808080"
+            "person_id": "18537193",
+            "role_id": "35236685",
+            "person_name": "Vitriesse Glass Studio",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537193\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         },
         {
-            "color":"#1c2621",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#6b5f58",
-            "closest_css3":"#696969"
+            "person_id": "18537189",
+            "role_id": "35236655",
+            "person_name": "Lucy Bergamini",
+            "person_date": "b. 1961",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537189\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Charm Necklace Necklace, 1989. Glass, silver. \nMuseum purchase from Ida McNeil Memorial Fund. 1989-109-1"
+    },
+    "colors": [
+        {
+            "color": "#9e948e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#917161",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6b6b72",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#6b5559",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#7d8788",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

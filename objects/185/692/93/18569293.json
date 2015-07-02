@@ -1,95 +1,229 @@
 {
-    "id":"18569293",
-    "tms:id":"78347",
-    "accession_number":"1943-43-52-a,b",
-    "title":"Textile, ca. 1795",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18569293\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1795",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1943",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton \nTechnique: block printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft (a,b): 129.9 x 170.3 cm (51 1\/8 in. x 5 ft. 7 1\/16 in.)\nRepeat H: 69.9 cm (27 1\/2 in.)",
-    "creditline":"Gift of W. and J. Sloane",
-    "description":"Furnishing fabric. Pattern of large scale chinoiserie flowering branches printed in deep purple, red, green, blue, and yellow on white ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18569293",
+    "tms:id": "78347",
+    "accession_number": "1943-43-52-a,b",
+    "title": "Textile (France), ca. 1795",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18569293\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1795",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1943",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton \nTechnique: block printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft (a,b): 129.9 x 170.3 cm (51 1\/8 in. x 5 ft. 7 1\/16 in.)\nRepeat H: 69.9 cm (27 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "69.85",
+            "centimeters"
+        ],
+        "warp": [
+            "129.86",
+            "centimeters"
+        ],
+        "weft": [
+            "170.34",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of W. and J. Sloane",
+    "description": "Furnishing fabric. Pattern of large scale chinoiserie flowering branches printed in deep purple, red, green, blue, and yellow on white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4146_f6d7cd6ac870e2ea_b.jpg",
-                "width":689,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106037_40c3d401e21edda6_b.jpg",
+                "width": 714,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "106037"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4146_f6d7cd6ac870e2ea_n.jpg",
-                "width":215,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106037_40c3d401e21edda6_z.jpg",
+                "width": 446,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "106037"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4146_f6d7cd6ac870e2ea_z.jpg",
-                "width":431,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106037_40c3d401e21edda6_n.jpg",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106037"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106037_40c3d401e21edda6_d.gif",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106037"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106037_40c3d401e21edda6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106037"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106026_69be0e2df16f5d93_b.jpg",
+                "width": 726,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "106026"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106026_69be0e2df16f5d93_z.jpg",
+                "width": 453,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "106026"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106026_69be0e2df16f5d93_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "106026"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106026_69be0e2df16f5d93_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "106026"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106026_69be0e2df16f5d93_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "106026"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4146_f6d7cd6ac870e2ea_b.jpg",
+                "width": 689,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "4146"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4146_f6d7cd6ac870e2ea_z.jpg",
+                "width": 431,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "4146"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4146_f6d7cd6ac870e2ea_n.jpg",
+                "width": 215,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4146"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4146_f6d7cd6ac870e2ea_d.gif",
+                "width": 215,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4146"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4146_f6d7cd6ac870e2ea_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "4146"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042255",
-            "role_id":"35351535",
-            "person_name":"W. and J. Sloane",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042255\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18538605",
+            "role_id": "35352245",
+            "person_name": "Dorothy G. Shepherd",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538605\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18046245",
-            "role_id":"35236671",
-            "person_name":"Soehnee L'Aine et Cie",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046245\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "person_id": "18042255",
+            "role_id": "35351535",
+            "person_name": "W. and J. Sloane",
+            "person_date": "1843\u20131985",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042255\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046245",
+            "role_id": "35236671",
+            "person_name": "Soehnee L'Aine et Cie",
+            "person_date": "",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046245\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1795.\nca. 1795. Medium: cotton \nTechnique: block printed on plain weave. Gift of W. and J. Sloane. 1943-43-52-a,b."
+    "tombstone": {
+        "epitaph": "Textile (France), ca. 1795. Medium: cotton \nTechnique: block printed on plain weave. \nGift of W. and J. Sloane. 1943-43-52-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bba28c",
-            "closest_css3":"#bc8f8f"
+            "color": "#bcb598",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#e9d1bb",
-            "closest_css3":"#f5deb3"
+            "color": "#7e6858",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#7c625c",
-            "closest_css3":"#696969"
+            "color": "#423634",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#62453a",
-            "closest_css3":"#556b2f"
+            "color": "#a8967c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#93484b",
-            "closest_css3":"#a0522d"
+            "color": "#847c69",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

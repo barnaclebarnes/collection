@@ -1,87 +1,198 @@
 {
-    "id":"18634195",
-    "tms:id":"191944",
-    "accession_number":"1990-143-1",
-    "title":"Vessel, 1879\u201382",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18634195\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35249811",
-    "date":"1879\u201382",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1990",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 24.5 x 14 cm (9 5\/8 x 5 1\/2 in.)",
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249811",
-        "name":"vessel"
+    "id": "18634195",
+    "tms:id": "191944",
+    "accession_number": "1990-143-1",
+    "title": "Vessel (England), 1879\u201382",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18634195\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35249811",
+    "date": "1879\u201382",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1990",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 24.5 x 14 cm (9 5\/8 x 5 1\/2 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "14.00",
+            "centimeters"
+        ],
+        "height": [
+            "24.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "vessel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11757_c0a772a1334008bf_b.jpg",
-                "width":804,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107161_b60d04dac13fe0f5_b.jpg",
+                "width": 1024,
+                "height": 967,
+                "is_primary": "1",
+                "image_id": "107161"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11757_c0a772a1334008bf_n.jpg",
-                "width":251,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107161_b60d04dac13fe0f5_z.jpg",
+                "width": 640,
+                "height": 604,
+                "is_primary": "1",
+                "image_id": "107161"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11757_c0a772a1334008bf_z.jpg",
-                "width":503,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107161_b60d04dac13fe0f5_n.jpg",
+                "width": 320,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "107161"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107161_b60d04dac13fe0f5_d.gif",
+                "width": 320,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "107161"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107161_b60d04dac13fe0f5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107161"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11757_c0a772a1334008bf_b.jpg",
+                "width": 804,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11757"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11757_c0a772a1334008bf_z.jpg",
+                "width": 503,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11757"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11757_c0a772a1334008bf_n.jpg",
+                "width": 251,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11757"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11757_c0a772a1334008bf_d.gif",
+                "width": 251,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11757"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11757_c0a772a1334008bf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11757"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043763",
-            "role_id":"35236655",
-            "person_name":"Christopher Dresser",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043763\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18056273",
+            "role_id": "35352249",
+            "person_name": "Fine Art Society PLC",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056273\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18043843",
+            "role_id": "35236657",
+            "person_name": "Linthorpe Pottery, Yorkshire",
+            "person_date": "1879\u20131889",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043843\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18043763",
+            "role_id": "35236655",
+            "person_name": "Christopher Dresser",
+            "person_date": "English, 1834\u20131904",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043763\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Vessel, 1879\u201382.\n1879\u201382. Glazed earthenware. Museum purchase from Decorative Arts Association Acquisition Fund. 1990-143-1."
+    "tombstone": {
+        "epitaph": "Vessel (England), 1879\u201382. Glazed earthenware. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1990-143-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#443d0e",
-            "closest_css3":"#556b2f"
+            "color": "#736409",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#808000",
+            "closest_css4": "#808000"
         },
         {
-            "color":"#7a6517",
-            "closest_css3":"#808000"
+            "color": "#948a58",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#363c50",
-            "closest_css3":"#2f4f4f"
+            "color": "#4b3e15",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#311f0c",
-            "closest_css3":"#000000"
+            "color": "#655b37",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#555d6d",
-            "closest_css3":"#696969"
+            "color": "#ada585",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

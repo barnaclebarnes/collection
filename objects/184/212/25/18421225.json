@@ -1,80 +1,252 @@
 {
-    "id":"18421225",
-    "tms:id":"120853",
-    "accession_number":"1958-131-1-a\/c",
-    "title":"Panel, 1850\u201360",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18421225\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402849",
-    "type_id":"35237229",
-    "date":"1850\u201360",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1958",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: wool\nTechnique: block printed on 4\/1 satin weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"L x W x D: 209.5 x 239.5 cm (6 ft. 10 1\/2 in. x 7 ft. 10 5\/16 in.)\nRepeat H: 66 cm (26 in.)",
-    "creditline":"Gift of Miss Bertha Schaefer",
-    "description":"A satin-faced panel with a dark purple ground has naturalistic polychrome flowers arranged vertically between curving columns of decorative cartouches in dark green, tan and off-white. Panel is comprised of three sections of printed wool.",
-    "justification":null,
-    "type":{
-        "id":"35237229",
-        "name":"Panel"
+    "id": "18421225",
+    "tms:id": "120853",
+    "accession_number": "1958-131-1-a\/c",
+    "title": "Panel (England), 1850\u201360",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18421225\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402849",
+    "type_id": "35237229",
+    "date": "1850\u201360",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1958",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: wool\nTechnique: block printed on 4\/1 satin weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 209.6 x 239.7 cm (6 ft. 10 1\/2 in. x 7 ft. 10 3\/8 in.)\nRepeat H: 66 cm (26 in.)",
+    "dimensions_raw": {
+        "height": [
+            "209.55",
+            "centimeters"
+        ],
+        "width": [
+            "239.71",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Miss Bertha Schaefer",
+    "description": "A satin-faced panel with a dark purple ground has naturalistic polychrome flowers arranged vertically between curving columns of decorative cartouches in dark green, tan and off-white. Panel is comprised of three sections of printed wool.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Panel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5969_3caf9e653b77f792_b.jpg",
-                "width":502,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110109_4ae00eb682c61e68_b.jpg",
+                "width": 623,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110109"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5969_3caf9e653b77f792_n.jpg",
-                "width":157,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110109_4ae00eb682c61e68_z.jpg",
+                "width": 389,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110109"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5969_3caf9e653b77f792_z.jpg",
-                "width":314,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110109_4ae00eb682c61e68_n.jpg",
+                "width": 195,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110109"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110109_4ae00eb682c61e68_d.gif",
+                "width": 195,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110109"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110109_4ae00eb682c61e68_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110109"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109660_23068d39adc731c5_b.jpg",
+                "width": 643,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "109660"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109660_23068d39adc731c5_z.jpg",
+                "width": 402,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "109660"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109660_23068d39adc731c5_n.jpg",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "109660"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109660_23068d39adc731c5_d.gif",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "109660"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109660_23068d39adc731c5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "109660"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109469_63baa1bb3f0f8e9b_b.jpg",
+                "width": 628,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "109469"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109469_63baa1bb3f0f8e9b_z.jpg",
+                "width": 393,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "109469"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109469_63baa1bb3f0f8e9b_n.jpg",
+                "width": 196,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "109469"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109469_63baa1bb3f0f8e9b_d.gif",
+                "width": 196,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "109469"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109469_63baa1bb3f0f8e9b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "109469"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5969_3caf9e653b77f792_b.jpg",
+                "width": 502,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "5969"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5969_3caf9e653b77f792_z.jpg",
+                "width": 314,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "5969"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5969_3caf9e653b77f792_n.jpg",
+                "width": 157,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "5969"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5969_3caf9e653b77f792_d.gif",
+                "width": 157,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "5969"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5969_3caf9e653b77f792_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "5969"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Panel, 1850\u201360.\n1850\u201360. Medium: wool\nTechnique: block printed on 4\/1 satin weave. Gift of Miss Bertha Schaefer. 1958-131-1-a\/c."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#462a1d",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18539137",
+            "role_id": "35352245",
+            "person_name": "Sheila Franz",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#a26621",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#a57e32",
-            "closest_css3":"#cd853f"
-        },
-        {
-            "color":"#734a18",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#484121",
-            "closest_css3":"#556b2f"
+            "person_id": "18053087",
+            "role_id": "35351535",
+            "person_name": "Miss Bertha Schaefer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053087\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Panel (England), 1850\u201360. Medium: wool\nTechnique: block printed on 4\/1 satin weave. \nGift of Miss Bertha Schaefer. 1958-131-1-a\/c"
+    },
+    "colors": [
+        {
+            "color": "#3c2826",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#958b69",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#866142",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#484a32",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#75764c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

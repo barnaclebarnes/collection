@@ -1,42 +1,135 @@
 {
-    "id":"18343557",
-    "tms:id":"55621",
-    "accession_number":"1936-43-5",
-    "title":"Tile, late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18343557\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35406097",
-    "type_id":"35250645",
-    "date":"late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1936",
-    "decade":null,
-    "woe:country":"23424950",
-    "medium":"Lead glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 1.8 x 16 x 21.5 cm (11\/16 x 6 5\/16 x 8 7\/16 in.)",
-    "creditline":"Gift of Edith Wetmore",
-    "description":"Horizontal rectangle. Standing male, civilian costume with swoard. Amrs up-raised, palms outward, in one hand a three-cornered hat. At right, three cedar trees in blue and green cast brown and blue-gray shadows.",
-    "justification":null,
-    "type":{
-        "id":"35250645",
-        "name":"tile"
+    "id": "18343557",
+    "tms:id": "55621",
+    "accession_number": "1936-43-5",
+    "title": "Tile (possibly Spain), late 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18343557\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35406097",
+    "type_id": "35250645",
+    "date": "late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1936",
+    "decade": null,
+    "woe:country_id": "23424950",
+    "medium": "Lead glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 1.8 x 16 x 21.5 cm (11\/16 x 6 5\/16 x 8 7\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "21.50",
+            "centimeters"
+        ],
+        "height": [
+            "1.80",
+            "centimeters"
+        ],
+        "width": [
+            "16.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Edith Wetmore",
+    "description": "Horizontal rectangle. Standing male, civilian costume with swoard. Amrs up-raised, palms outward, in one hand a three-cornered hat. At right, three cedar trees in blue and green cast brown and blue-gray shadows.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424950",
+    "type": "tile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102535_53847d5eca3b2608_b.jpg",
+                "width": 1024,
+                "height": 789,
+                "is_primary": "1",
+                "image_id": "102535"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102535_53847d5eca3b2608_z.jpg",
+                "width": 640,
+                "height": 493,
+                "is_primary": "1",
+                "image_id": "102535"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102535_53847d5eca3b2608_n.jpg",
+                "width": 320,
+                "height": 247,
+                "is_primary": "1",
+                "image_id": "102535"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102535_53847d5eca3b2608_d.gif",
+                "width": 320,
+                "height": 247,
+                "is_primary": "1",
+                "image_id": "102535"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102535_53847d5eca3b2608_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "102535"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049921",
+            "role_id": "35351535",
+            "person_name": "Edith Wetmore",
+            "person_date": "American, b. Switzerland, 1870\u20131966",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049921\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Tile, late 18th century.\nlate 18th century. Lead glazed earthenware. Gift of Edith Wetmore. 1936-43-5."
+    "tombstone": {
+        "epitaph": "Tile (possibly Spain), late 18th century. Lead glazed earthenware. \nGift of Edith Wetmore. 1936-43-5"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8e8d85",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#beac70",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#9b5719",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#6a5e52",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a8b99d",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Spain",
+    "is_loan_object": 0
 }

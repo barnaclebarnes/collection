@@ -1,57 +1,127 @@
 {
-    "id":"18639673",
-    "tms:id":"194700",
-    "accession_number":"1992-179-1",
-    "title":"Lamp, \"Paraplu\", 1973",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18639673\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35421935",
-    "type_id":"35237335",
-    "date":"1973",
-    "year_start":"1973",
-    "year_end":"1973",
-    "year_acquired":"1992",
-    "decade":"1970",
-    "woe:country":"23424909",
-    "medium":"Chrome-plated metal, silk (synthetic), electrical components",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"72.3 x 23 cm (28 7\/16 x 9 1\/16 in.)",
-    "creditline":"Gift of Gijs Bakker and Helen W. Drutt English",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237335",
-        "name":"lamp"
+    "id": "18639673",
+    "tms:id": "194700",
+    "accession_number": "1992-179-1",
+    "title": "Paraplu Lamp, 1973",
+    "title_raw": "Paraplu",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18639673\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35421935",
+    "type_id": "35237335",
+    "date": "1973",
+    "year_start": 1973,
+    "year_end": 1973,
+    "year_acquired": "1992",
+    "decade": "1970",
+    "woe:country_id": "23424909",
+    "medium": "Chrome-plated metal, silk (synthetic), electrical components",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "72.3 x 23 cm (28 7\/16 x 9 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "72.30",
+            "centimeters"
+        ],
+        "width": [
+            "23.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Gijs Bakker and Helen W. Drutt English",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "lamp",
+    "images": [
         {
-            "person_id":"18044267",
-            "role_id":"35351535",
-            "person_name":"Gijs Bakker",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044267\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
-        },
-        {
-            "person_id":"18044267",
-            "role_id":"35236655",
-            "person_name":"Gijs Bakker",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044267\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103292_a42a6a11387c6885_b.jpg",
+                "width": 860,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103292"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103292_a42a6a11387c6885_z.jpg",
+                "width": 538,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103292"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103292_a42a6a11387c6885_n.jpg",
+                "width": 269,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103292"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103292_a42a6a11387c6885_d.gif",
+                "width": 269,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103292"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103292_a42a6a11387c6885_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103292"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Lamp, \"Paraplu\", 1973.\n1973. Chrome-plated metal, silk (synthetic), electrical components. Gift of Gijs Bakker and Helen W. Drutt English. 1992-179-1."
+    "participants": [
+        {
+            "person_id": "18044267",
+            "role_id": "35351535",
+            "person_name": "Gijs Bakker",
+            "person_date": "Dutch, b. 1942",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044267\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041065",
+            "role_id": "35351535",
+            "person_name": "Helen W. Drutt English",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041065\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044267",
+            "role_id": "35236655",
+            "person_name": "Gijs Bakker",
+            "person_date": "Dutch, b. 1942",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044267\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Paraplu Lamp, 1973. Chrome-plated metal, silk (synthetic), electrical components. \nGift of Gijs Bakker and Helen W. Drutt English. 1992-179-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

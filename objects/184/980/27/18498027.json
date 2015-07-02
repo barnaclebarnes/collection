@@ -1,57 +1,160 @@
 {
-    "id":"18498027",
-    "tms:id":"159910",
-    "accession_number":"1979-34-4",
-    "title":"Poster, \"Chuck Berry \/ Steve Miller Band\", 1968",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18498027\/",
-    "department_id":"35347493",
-    "period_id":"35435941",
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":"1968",
-    "year_start":"1968",
-    "year_end":"1968",
-    "year_acquired":"1979",
-    "decade":"1960",
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mr. and Mrs. Leslie J. Schreyer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18498027",
+    "tms:id": "159910",
+    "accession_number": "1979-34-4",
+    "title": "Poster, Chuck Berry \/ Steve Miller Band, 1968",
+    "title_raw": "Chuck Berry \/ Steve Miller Band",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18498027\/",
+    "department_id": "35347493",
+    "period_id": "35435941",
+    "media_id": "35431673",
+    "type_id": "35238163",
+    "date": "1968",
+    "year_start": 1968,
+    "year_end": 1968,
+    "year_acquired": "1979",
+    "decade": "1960",
+    "woe:country_id": null,
+    "medium": "Offset lithograph on white wove paper",
+    "markings": null,
+    "signed": "Imprinted in black, lower right: LEE CONKLIN",
+    "inscribed": "Imprinted in black, right edge: TEA LAUTREC LITHO S.F.; \u00a91968 BILL GRAHAM #135",
+    "provenance": "Mr. and Mrs. Leslie J. Schreyer; 1979: acquired by Museum",
+    "dimensions": "53.2 x 35.6 cm (20 15\/16 in. x 14 in.)",
+    "dimensions_raw": {
+        "height": [
+            "53.20",
+            "centimeters"
+        ],
+        "width": [
+            "35.60",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mr. and Mrs. Leslie J. Schreyer",
+    "description": "Black and white poster featuring a scene of skulls, and a moose with antlers in hand form.Ticket information below.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18056701",
-            "role_id":"35236673",
-            "person_name":"Tea Lautrec Litho, San Francisco",
-            "role_name":"Printer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056701\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
-        },
-        {
-            "person_id":"18056699",
-            "role_id":"35236655",
-            "person_name":"Lee Conklin",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056699\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82639_970653c2fa66bbd6_b.jpg",
+                "width": 728,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82639"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82639_970653c2fa66bbd6_z.jpg",
+                "width": 455,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82639"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82639_970653c2fa66bbd6_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82639"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82639_970653c2fa66bbd6_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82639"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82639_970653c2fa66bbd6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82639"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"Chuck Berry \/ Steve Miller Band\", 1968.\n1968. Gift of Mr. and Mrs. Leslie J. Schreyer. 1979-34-4."
+    "participants": [
+        {
+            "person_id": "18058429",
+            "role_id": "35351535",
+            "person_name": "Mr. Leslie Schreyer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058429\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18056701",
+            "role_id": "35236673",
+            "person_name": "Tea Lautrec Litho, San Francisco",
+            "person_date": "",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056701\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        },
+        {
+            "person_id": "18056699",
+            "role_id": "35236655",
+            "person_name": "Lee Conklin",
+            "person_date": "b. 1941",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056699\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68736623",
+            "role_id": "35351535",
+            "person_name": "Mrs. Alice Schreyer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736623\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Chuck Berry \/ Steve Miller Band, 1968. Offset lithograph on white wove paper. \nGift of Mr. and Mrs. Leslie J. Schreyer. 1979-34-4"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#32302c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#bdbab1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#53504a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#99958d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#75726b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

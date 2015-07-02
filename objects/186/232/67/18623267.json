@@ -1,71 +1,154 @@
 {
-    "id":"18623267",
-    "tms:id":"186470",
-    "accession_number":"1987-95-3",
-    "title":"Nutcracker, ca. 1987",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18623267\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431279",
-    "type_id":"35294101",
-    "date":"ca. 1987",
-    "year_start":"1977",
-    "year_end":"1987",
-    "year_acquired":"1987",
-    "decade":"1970",
-    "woe:country":"23424853",
-    "medium":"Stainless steel",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Dr. Richard Grant; 1987: acquired by Museum",
-    "dimensions":"H x diam.: 16 x 2.5 cm (6 5\/16 x 1 in.)",
-    "creditline":"Gift of Dr. Richard Grant",
-    "description":"Stainless steel nutcracker made of two thick smooth tongs, rounded on exterior and flat on interior, hinged together at one end. Interior has slight concavity with striations for placing nut.",
-    "justification":null,
-    "type":{
-        "id":"35294101",
-        "name":"nutcracker"
+    "id": "18623267",
+    "tms:id": "186470",
+    "accession_number": "1987-95-3",
+    "title": "Nutcracker (Italy), ca. 1987",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18623267\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431279",
+    "type_id": "35294101",
+    "date": "ca. 1987",
+    "year_start": 1977,
+    "year_end": 1987,
+    "year_acquired": "1987",
+    "decade": "1970",
+    "woe:country_id": "23424853",
+    "medium": "Stainless steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Dr. Richard Grant; 1987: acquired by Museum",
+    "dimensions": "L x diam.: 16 x 2.5 cm (6 5\/16 x 1 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "2.50",
+            "centimeters"
+        ],
+        "height": [
+            "16.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Dr. Richard Grant",
+    "description": "Stainless steel nutcracker made of two thick smooth tongs, rounded on exterior and flat on interior, hinged together at one end. Interior has slight concavity with striations for placing nut.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "nutcracker",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47435_38f591d19a4a4129_b.jpg",
-                "width":1024,
-                "height":833,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47435_38f591d19a4a4129_b.jpg",
+                "width": 1024,
+                "height": 833,
+                "is_primary": "1",
+                "image_id": "47435"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47435_38f591d19a4a4129_n.jpg",
-                "width":320,
-                "height":260,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47435_38f591d19a4a4129_z.jpg",
+                "width": 640,
+                "height": 520,
+                "is_primary": "1",
+                "image_id": "47435"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47435_38f591d19a4a4129_z.jpg",
-                "width":640,
-                "height":520,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47435_38f591d19a4a4129_n.jpg",
+                "width": 320,
+                "height": 260,
+                "is_primary": "1",
+                "image_id": "47435"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47435_38f591d19a4a4129_d.gif",
+                "width": 320,
+                "height": 260,
+                "is_primary": "1",
+                "image_id": "47435"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47435_38f591d19a4a4129_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47435"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113947_4f81a54b0cd88805_b.jpg",
+                "width": 1024,
+                "height": 780,
+                "is_primary": "0",
+                "image_id": "113947"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113947_4f81a54b0cd88805_z.jpg",
+                "width": 640,
+                "height": 487,
+                "is_primary": "0",
+                "image_id": "113947"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113947_4f81a54b0cd88805_n.jpg",
+                "width": 320,
+                "height": 244,
+                "is_primary": "0",
+                "image_id": "113947"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113947_4f81a54b0cd88805_d.gif",
+                "width": 320,
+                "height": 244,
+                "is_primary": "0",
+                "image_id": "113947"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113947_4f81a54b0cd88805_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113947"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18053893",
-            "role_id":"35236671",
-            "person_name":"Cini & Nils",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18053893\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "person_id": "68736543",
+            "role_id": "35351535",
+            "person_name": "Dr. Richard Grant",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736543\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053893",
+            "role_id": "35236671",
+            "person_name": "Cini & Nils",
+            "person_date": "Milan, Italy",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053893\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Nutcracker, ca. 1987.\nca. 1987. Stainless steel. Gift of Dr. Richard Grant. 1987-95-3."
+    "tombstone": {
+        "epitaph": "Nutcracker (Italy), ca. 1987. Stainless steel. \nGift of Dr. Richard Grant. 1987-95-3"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#aaaaab",
-            "closest_css3":"#a9a9a9"
+            "color": "#aaaaab",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

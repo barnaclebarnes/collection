@@ -1,42 +1,122 @@
 {
-    "id":"18563845",
-    "tms:id":"75126",
-    "accession_number":"1941-61-13",
-    "title":"Ribbon",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18563845\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254847",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424829",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. Henry M. Fechimer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254847",
-        "name":"Ribbon"
-    },
-    "images":[
-
+    "id": "18563845",
+    "tms:id": "75126",
+    "accession_number": "1941-61-13",
+    "title": "Ribbon (Germany)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18563845\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254847",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. Henry M. Fechimer",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Ribbon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70601_0c597315d475301e_b.jpg",
+                "width": 383,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "70601"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70601_0c597315d475301e_z.jpg",
+                "width": 239,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "70601"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70601_0c597315d475301e_n.jpg",
+                "width": 120,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "70601"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70601_0c597315d475301e_d.gif",
+                "width": 120,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "70601"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70601_0c597315d475301e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "70601"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049947",
+            "role_id": "35351535",
+            "person_name": "Mrs. Henry M. Fechimer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049947\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Ribbon.\nGift of Mrs. Henry M. Fechimer. 1941-61-13."
+    "tombstone": {
+        "epitaph": "Ribbon (Germany). \nGift of Mrs. Henry M. Fechimer. 1941-61-13"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#9c9779",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6c707c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#cac8b8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#865a50",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#af8f8b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

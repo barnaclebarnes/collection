@@ -1,76 +1,168 @@
 {
-    "id":"18803915",
-    "tms:id":"182235",
-    "accession_number":"1985-103-205",
-    "title":"Knife, ca. 1750",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18803915\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389975",
-    "type_id":"35248783",
-    "date":"ca. 1750",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1985",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"porcelain, silver",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Robert L. Metzenberg",
-    "dimensions":"L x W: 26.2 x 2.4 cm (10 5\/16 x 15\/16 in.)",
-    "creditline":"The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
-    "description":"Sabre-shaped blade, sharply waisted bolster. Silver ferrule with scalloped edge. Pistol-shaped white porcelain handle decorated in relief with scrolls, acanthus leaves and flowers. Small cap on top of handle.",
-    "justification":null,
-    "type":{
-        "id":"35248783",
-        "name":"knife"
+    "id": "18803915",
+    "tms:id": "182235",
+    "accession_number": "1985-103-205",
+    "title": "Knife (England), ca. 1750",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18803915\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389975",
+    "type_id": "35248783",
+    "date": "ca. 1750",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1985",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "porcelain, silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Robert L. Metzenberg",
+    "dimensions": "L x W: 26.2 x 2.4 cm (10 5\/16 x 15\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "26.20",
+            "centimeters"
+        ],
+        "width": [
+            "2.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description": "Sabre-shaped blade, sharply waisted bolster. Silver ferrule with scalloped edge. Pistol-shaped white porcelain handle decorated in relief with scrolls, acanthus leaves and flowers. Small cap on top of handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "knife",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19294_fe1f8e30f4a4fdef_b.jpg",
-                "width":489,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19294_fe1f8e30f4a4fdef_b.jpg",
+                "width": 489,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "19294"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19294_fe1f8e30f4a4fdef_n.jpg",
-                "width":153,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19294_fe1f8e30f4a4fdef_z.jpg",
+                "width": 305,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "19294"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19294_fe1f8e30f4a4fdef_z.jpg",
-                "width":305,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19294_fe1f8e30f4a4fdef_n.jpg",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "19294"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19294_fe1f8e30f4a4fdef_d.gif",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "19294"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19294_fe1f8e30f4a4fdef_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "19294"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121588_8d5694e77c8d14e9_b.jpg",
+                "width": 519,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "121588"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121588_8d5694e77c8d14e9_z.jpg",
+                "width": 324,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "121588"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121588_8d5694e77c8d14e9_n.jpg",
+                "width": 162,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "121588"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121588_8d5694e77c8d14e9_d.gif",
+                "width": 162,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "121588"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121588_8d5694e77c8d14e9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "121588"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Knife, ca. 1750.\nca. 1750. porcelain, silver. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-205."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#6f91d8",
-            "closest_css3":"#6495ed"
-        },
-        {
-            "color":"#4361b5",
-            "closest_css3":"#4682b4"
-        },
-        {
-            "color":"#33396a",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#cecde5",
-            "closest_css3":"#d3d3d3"
+            "person_id": "18048365",
+            "role_id": "35352245",
+            "person_name": "S. Wilmering",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Knife (England), ca. 1750. porcelain, silver. \nThe Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-205"
+    },
+    "colors": [
+        {
+            "color": "#6a8bd4",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#6495ed",
+            "closest_css4": "#6495ed"
+        },
+        {
+            "color": "#3750a5",
+            "closest_crayola": "#324ab2",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#4f6dc0",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#363a62",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d7d8ee",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

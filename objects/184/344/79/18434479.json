@@ -1,42 +1,131 @@
 {
-    "id":"18434479",
-    "tms:id":"127659",
-    "accession_number":"1960-79-45",
-    "title":"Textile, early 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18434479\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"early 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1960",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: block printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 41 x 28 cm (16 1\/8 in. x 11 in.)",
-    "creditline":"Gift of Harold M. Bailey",
-    "description":"Pale blue ground with a background of a small vine pattern reserved in white, possibly by discharge. Overprinted by block in a pattern of flower clusters in red, dark brown and dark green.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18434479",
+    "tms:id": "127659",
+    "accession_number": "1960-79-45",
+    "title": "Textile (France), early 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18434479\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "early 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1960",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: block printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 41 x 28 cm (16 1\/8 in. x 11 in.)",
+    "dimensions_raw": {
+        "height": [
+            "41.00",
+            "centimeters"
+        ],
+        "width": [
+            "28.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Harold M. Bailey",
+    "description": "Pale blue ground with a background of a small vine pattern reserved in white, possibly by discharge. Overprinted by block in a pattern of flower clusters in red, dark brown and dark green.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74065_52d311194e842c5f_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "1",
+                "image_id": "74065"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74065_52d311194e842c5f_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "1",
+                "image_id": "74065"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74065_52d311194e842c5f_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "74065"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74065_52d311194e842c5f_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "74065"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74065_52d311194e842c5f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "74065"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18051481",
+            "role_id": "35351535",
+            "person_name": "Harold M. Bailey",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile, early 19th century.\nearly 19th century. Medium: cotton\nTechnique: block printed. Gift of Harold M. Bailey. 1960-79-45."
+    "tombstone": {
+        "epitaph": "Textile (France), early 19th century. Medium: cotton\nTechnique: block printed. \nGift of Harold M. Bailey. 1960-79-45"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2e4956",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#446876",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#766a68",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#171e2a",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#75858c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

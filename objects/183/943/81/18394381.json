@@ -1,80 +1,164 @@
 {
-    "id":"18394381",
-    "tms:id":"107347",
-    "accession_number":"1953-106-93",
-    "title":"Miser's Purse, 1830\u201360",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394381\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35406419",
-    "type_id":"35269513",
-    "date":"1830\u201360",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk, glass beads, metal\nTechnique: bead-linked mesh",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"L: 24 cm (9 7\/16 in.)",
-    "creditline":"Gift of Mrs. Albert Blum",
-    "description":"Strings of tiny opalescent beads form a network of mesh.  A gold bead is centered at each intersection of the mesh.  Two honeycombed gold rings control side opening; two gold drops, also honeycombed, are at each end.",
-    "justification":null,
-    "type":{
-        "id":"35269513",
-        "name":"Miser's purse"
+    "id": "18394381",
+    "tms:id": "107347",
+    "accession_number": "1953-106-93",
+    "title": "Miser's Purse (France), 1830\u201360",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18394381\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35406419",
+    "type_id": "35269513",
+    "date": "1830\u201360",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk, glass beads, metal\nTechnique: bead-linked mesh",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "L: 24 cm (9 7\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "24.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Albert Blum",
+    "description": "Strings of tiny opalescent beads form a network of mesh.  A gold bead is centered at each intersection of the mesh.  Two honeycombed gold rings control side opening; two gold drops, also honeycombed, are at each end.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Miser's purse",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29444_53d856dbe69dc51d_b.jpg",
-                "width":1024,
-                "height":347,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94119_1c15f0f7a691457e_b.jpg",
+                "width": 1024,
+                "height": 591,
+                "is_primary": "1",
+                "image_id": "94119"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29444_53d856dbe69dc51d_n.jpg",
-                "width":320,
-                "height":108,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94119_1c15f0f7a691457e_z.jpg",
+                "width": 640,
+                "height": 369,
+                "is_primary": "1",
+                "image_id": "94119"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29444_53d856dbe69dc51d_z.jpg",
-                "width":640,
-                "height":217,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94119_1c15f0f7a691457e_n.jpg",
+                "width": 320,
+                "height": 185,
+                "is_primary": "1",
+                "image_id": "94119"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94119_1c15f0f7a691457e_d.gif",
+                "width": 320,
+                "height": 185,
+                "is_primary": "1",
+                "image_id": "94119"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94119_1c15f0f7a691457e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94119"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29444_53d856dbe69dc51d_b.jpg",
+                "width": 1024,
+                "height": 347,
+                "is_primary": "0",
+                "image_id": "29444"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29444_53d856dbe69dc51d_z.jpg",
+                "width": 640,
+                "height": 217,
+                "is_primary": "0",
+                "image_id": "29444"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29444_53d856dbe69dc51d_n.jpg",
+                "width": 320,
+                "height": 108,
+                "is_primary": "0",
+                "image_id": "29444"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29444_53d856dbe69dc51d_d.gif",
+                "width": 320,
+                "height": 108,
+                "is_primary": "0",
+                "image_id": "29444"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29444_53d856dbe69dc51d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29444"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Miser's Purse, 1830\u201360.\n1830\u201360. Medium: silk, glass beads, metal\nTechnique: bead-linked mesh. Gift of Mrs. Albert Blum. 1953-106-93."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#9da3ac",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#6e6e66",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#8d8876",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#5a4d39",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#312c2c",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18061351",
+            "role_id": "35351535",
+            "person_name": "Mrs. Albert Blum",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Miser's Purse (France), 1830\u201360. Medium: silk, glass beads, metal\nTechnique: bead-linked mesh. \nGift of Mrs. Albert Blum. 1953-106-93"
+    },
+    "colors": [
+        {
+            "color": "#b6b2a3",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#bab9c5",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#938b71",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#746846",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#554c33",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

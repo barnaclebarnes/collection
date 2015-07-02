@@ -1,42 +1,122 @@
 {
-    "id":"18395619",
-    "tms:id":"107970",
-    "accession_number":"1953-17-126-a,b",
-    "title":"Saucer",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18395619\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35237171",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":null,
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W (cup): 6 x 10.5 cm (2 3\/8 x 4 1\/8 in.)\nH x diam. (saucer): 3 x 13.8 cm (1 3\/16 x 5 7\/16 in.)",
-    "creditline":"Bequest of Georgiana L. McClellan",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237171",
-        "name":"Saucer"
+    "id": "18395619",
+    "tms:id": "107970",
+    "accession_number": "1953-17-126-a,b",
+    "title": "Cup And Saucer",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18395619\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35248193",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (cup): 6 x 10.5 cm (2 3\/8 x 4 1\/8 in.)\nH x diam. (saucer): 3 x 13.8 cm (1 3\/16 x 5 7\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "13.80",
+            "centimeters"
+        ],
+        "height": [
+            "3.00",
+            "centimeters"
+        ],
+        "width": [
+            "10.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Georgiana L. McClellan",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "cup and saucer",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105689_4350b8638d92f052_b.jpg",
+                "width": 1024,
+                "height": 906,
+                "is_primary": "1",
+                "image_id": "105689"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105689_4350b8638d92f052_z.jpg",
+                "width": 640,
+                "height": 566,
+                "is_primary": "1",
+                "image_id": "105689"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105689_4350b8638d92f052_n.jpg",
+                "width": 320,
+                "height": 283,
+                "is_primary": "1",
+                "image_id": "105689"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105689_4350b8638d92f052_d.gif",
+                "width": 320,
+                "height": 283,
+                "is_primary": "1",
+                "image_id": "105689"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105689_4350b8638d92f052_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105689"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18047239",
+            "role_id": "35351537",
+            "person_name": "Nancy McClelland",
+            "person_date": "American, b. 1877\u20131959",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047239\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Saucer.\nporcelain. Bequest of Georgiana L. McClellan. 1953-17-126-a,b."
+    "tombstone": {
+        "epitaph": "Cup And Saucer. porcelain. \nBequest of Georgiana L. McClellan. 1953-17-126-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a3836d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#906249",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#cab4a3",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
 }

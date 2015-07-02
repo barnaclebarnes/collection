@@ -1,58 +1,141 @@
 {
-    "id":"18758339",
-    "tms:id":"255455",
-    "accession_number":"2010-21-66",
-    "title":"Poster, \"Aida\", 1997",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758339\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"1997",
-    "year_start":"1997",
-    "year_end":"1997",
-    "year_acquired":"2010",
-    "decade":"1990",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"128 x 90.5 cm (50 3\/8 x 35 5\/8 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758339",
+    "tms:id": "255455",
+    "accession_number": "2010-21-66",
+    "title": "Poster, Aida, 1997",
+    "title_raw": "Aida",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758339\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431963",
+    "type_id": "35238163",
+    "date": "1997",
+    "year_start": 1997,
+    "year_end": 1997,
+    "year_acquired": "2010",
+    "decade": "1990",
+    "woe:country_id": "23424957",
+    "medium": "Offset lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in white ink, lower right: GEISSBUHLER",
+    "provenance": "Sara and Marc Benda (acquired new and directly from designer, Karl Domenic Geissb\u00fchler); 2010: acquired by Museum",
+    "dimensions": "128 x 90.5 cm (50 3\/8 x 35 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "128.00",
+            "centimeters"
+        ],
+        "width": [
+            "90.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "Poster depicts a mummy-like form with a bold black Egyptian eye painted onto the head of the figure, on a teal, blue and sea green. Across the top in white, in disappearing text: OPERNHAUS ZURICH; in arcs across left and right: Giuseppe VERDI Nikolaus HARNONCOURT Johannes SCHAAF Reinhard von der THANNEN Robertus CREMER Philipp EGLI; Unterstutzt von MERCEDES BENZ (Schweiz) AG \/ ab 1. Marz \u201997. Across the lower section, in orange and red: AIDA.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46787_79843b82b61b211e_b.jpg",
-                "width":728,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46787_9da6678f2742d1fb_b.jpg",
+                "width": 728,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46787"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46787_79843b82b61b211e_n.jpg",
-                "width":228,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46787_9da6678f2742d1fb_z.jpg",
+                "width": 455,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46787"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46787_79843b82b61b211e_z.jpg",
-                "width":455,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46787_9da6678f2742d1fb_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46787"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46787_9da6678f2742d1fb_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46787"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46787_9da6678f2742d1fb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46787"
             }
         }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18063591",
+            "role_id": "35236655",
+            "person_name": "Karl Domenic Geissb\u00fchler",
+            "person_date": "Swiss, b. 1932",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063591\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68738781",
+            "role_id": "35236667",
+            "person_name": "Opernhaus, Z\u00fcrich",
+            "person_date": "Z\u00fcrich, Switzerland",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738781\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Aida, 1997. Offset lithograph on wove paper. \nGift of Sara and Marc Benda. 2010-21-66"
+    },
+    "colors": [
+        {
+            "color": "#447e67",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2e8b57",
+            "closest_css4": "#2e8b57"
+        },
+        {
+            "color": "#518b90",
+            "closest_crayola": "#319177",
+            "closest_css3": "#5f9ea0",
+            "closest_css4": "#5f9ea0"
+        },
+        {
+            "color": "#578da9",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#5f9ea0",
+            "closest_css4": "#5f9ea0"
+        },
+        {
+            "color": "#4a619c",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#3a3877",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

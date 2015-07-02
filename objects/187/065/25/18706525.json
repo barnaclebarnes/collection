@@ -1,80 +1,178 @@
 {
-    "id":"18706525",
-    "tms:id":"229098",
-    "accession_number":"2007-1-1",
-    "title":"Sidewall, ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18706525\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367333",
-    "type_id":"35256475",
-    "date":"ca. 1930",
-    "year_start":"1925",
-    "year_end":"1935",
-    "year_acquired":"2007",
-    "decade":"1920",
-    "woe:country":"23424819",
-    "medium":"Machine-printed on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 401.3 x 50 cm (13 ft. 2 in. x 19 11\/16 in.)",
-    "creditline":"Museum purchase from General Acquisitions Endowment Fund",
-    "description":"Pink-flowered branches on geometric-patterned background. Rectangular shapes fade-out from solid to pebble texture to nothing. Printed in pink, taupe, metallic silver and gold on light taupe ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18706525",
+    "tms:id": "229098",
+    "accession_number": "2007-1-1",
+    "title": "Sidewall (France), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18706525\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35256475",
+    "date": "ca. 1930",
+    "year_start": 1925,
+    "year_end": 1935,
+    "year_acquired": "2007",
+    "decade": "1920",
+    "woe:country_id": "23424819",
+    "medium": "Machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 401.3 x 50 cm (13 ft. 2 in. x 19 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "401.32",
+            "centimeters"
+        ],
+        "width": [
+            "50.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from General Acquisitions Endowment Fund",
+    "description": "Pink-flowered branches on geometric-patterned background. Rectangular shapes fade-out from solid to pebble texture to nothing. Printed in pink, taupe, metallic silver and gold on light taupe ground.",
+    "justification": "This French art deco paper is boldly designed, brightly colored, and representative of the period. \nThe ground color is a very dense opaque pigment and is the first color applied, covering the paper from selvedge to selvedge. Applying the ground color is a separate process from printing the design colors and requires a separate printing machine. When the design is printed, all of the colors are printed in one pass through the printing press. The ground color serves the important function of giving the paper a uniform color. As the paper ages and oxidizes, the ground hides the fact that the once white paper is turning brown; this greatly extends the life of the wallpaper. Ground color became especially important after the introduction of wood pulp papers in the 1850s. Papers with ground color were printed on a slightly heavier paper stock and would have been more expensive to produce. \nThis paper is part of a larger group of rolls of papers under consideration for acquisition that would be a wonderful addition to the collection in both style and size. In 2001, we acquired a group of French art deco wallpaper sample book pages (ca. 1930) produced by the Isidore Leroy Company. Good examples of art deco papers are an area of top collection priority.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23018_c65c24482bacf6dd_b.jpg",
-                "width":680,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81024_d08cfb13610c8c23_b.jpg",
+                "width": 501,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81024"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23018_c65c24482bacf6dd_n.jpg",
-                "width":213,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81024_d08cfb13610c8c23_z.jpg",
+                "width": 313,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81024"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23018_c65c24482bacf6dd_z.jpg",
-                "width":425,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81024_d08cfb13610c8c23_n.jpg",
+                "width": 157,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81024"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81024_d08cfb13610c8c23_d.gif",
+                "width": 157,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81024"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81024_d08cfb13610c8c23_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81024"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23018_c65c24482bacf6dd_b.jpg",
+                "width": 680,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "23018"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23018_c65c24482bacf6dd_z.jpg",
+                "width": 425,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "23018"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23018_c65c24482bacf6dd_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "23018"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23018_c65c24482bacf6dd_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "23018"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23018_c65c24482bacf6dd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "23018"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall, ca. 1930.\nca. 1930. Machine-printed on paper. Museum purchase from General Acquisitions Endowment Fund. 2007-1-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b6b0a3",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
         },
         {
-            "color":"#7b7665",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#5c5440",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#c9033c",
-            "closest_css3":"#dc143c"
-        },
-        {
-            "color":"#f3799c",
-            "closest_css3":"#f08080"
+            "person_id": "18052217",
+            "role_id": "35352249",
+            "person_name": "Michael Bennett Levinson",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052217\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (France), ca. 1930. Machine-printed on paper. \nMuseum purchase from General Acquisitions Endowment Fund. 2007-1-1"
+    },
+    "colors": [
+        {
+            "color": "#989278",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7b765f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#524c39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#6b2f31",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#bf8d81",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

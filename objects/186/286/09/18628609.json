@@ -1,87 +1,161 @@
 {
-    "id":"18628609",
-    "tms:id":"189144",
-    "accession_number":"1988-4-57",
-    "title":"Print, \"Upholstered Furniture\", ca. 1700",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18628609\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35380921",
-    "type_id":"35236873",
-    "date":"ca. 1700",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1988",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Etching and black ink on white laid paper",
-    "markings":"Marks: illegible armorial shield",
-    "signed":"Signed on plate, lower left: Marot in: et fecit avec Previllege des Etats generaux et d'hollande We [---] frisse.",
-    "inscribed":"Inscribed in plate, counterclockwise: Rideau gallonnee\/ Differents Rideau de Croissees\/ Tabourets Tournee.",
-    "provenance":null,
-    "dimensions":"Overall: 34 x 22.5cm (13 3\/8 x 8 7\/8in.)\nPlatemark: 27.2 x 18.3 cm (10 11\/16 x 7 3\/16 in.)",
-    "creditline":"Museum purchase from General Acquisitions Endowment Fund",
-    "description":"Designs for upholstered furniture. Pictured are three different types of chairs with footstools and four different designs for window dressings. There are labels throughout the work.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18628609",
+    "tms:id": "189144",
+    "accession_number": "1988-4-57",
+    "title": "Print, Upholstered Furniture, ca. 1700",
+    "title_raw": "Upholstered Furniture",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18628609\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35392573",
+    "type_id": "35236873",
+    "date": "ca. 1700",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1988",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Etching on white laid paper",
+    "markings": "Marks: illegible armorial shield",
+    "signed": "Signed in plate, lower left: Marot in: et fecit avec Previllege des Etats generaux et d'hollande We [---] frisse.",
+    "inscribed": "Inscribed in plate, counterclockwise: Rideau gallonnee\/ Differents Rideau de Croissees\/ Tabourets Tournee.",
+    "provenance": "1988: acquired by Museum (from Priscilla Juvelis)",
+    "dimensions": "Overall: 34 x 22.5cm (13 3\/8 x 8 7\/8in.)\nPlatemark: 27.2 x 18.3 cm (10 11\/16 x 7 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.60",
+            "centimeters"
+        ],
+        "width": [
+            "45.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from General Acquisitions Endowment Fund",
+    "description": "Designs for upholstered furniture. Pictured are three different types of chairs with footstools and four different designs for window dressings. There are labels throughout the work.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29458_b33988db7ae675fc_b.jpg",
-                "width":692,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29458_b33988db7ae675fc_b.jpg",
+                "width": 692,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "29458"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29458_b33988db7ae675fc_n.jpg",
-                "width":216,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29458_b33988db7ae675fc_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "29458"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29458_b33988db7ae675fc_z.jpg",
-                "width":432,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29458_b33988db7ae675fc_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "29458"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29458_b33988db7ae675fc_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "29458"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29458_b33988db7ae675fc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "29458"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042233",
-            "role_id":"35236565",
-            "person_name":"Daniel Marot",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042233\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18041265",
+            "role_id": "35352249",
+            "person_name": "Ms. Priscilla Juvelis",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041265\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18047443",
+            "role_id": "35352245",
+            "person_name": "Megan L. Smith",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18042233",
+            "role_id": "35236565",
+            "person_name": "Daniel Marot",
+            "person_date": "French, active Netherlands and England, 1661\u20131752",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042233\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"Upholstered Furniture\", ca. 1700.\nca. 1700. Etching and black ink on white laid paper. Museum purchase from General Acquisitions Endowment Fund. 1988-4-57."
+    "tombstone": {
+        "epitaph": "Print, Upholstered Furniture, ca. 1700. Etching on white laid paper. \nMuseum purchase from General Acquisitions Endowment Fund. 1988-4-57"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b3aca2",
-            "closest_css3":"#a9a9a9"
+            "color": "#bdb5ac",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#928b7f",
-            "closest_css3":"#808080"
+            "color": "#999181",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#3c3a34",
-            "closest_css3":"#2f4f4f"
+            "color": "#524e47",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#dad7cb",
-            "closest_css3":"#d3d3d3"
+            "color": "#7c7268",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#716d63",
-            "closest_css3":"#696969"
+            "color": "#2d2928",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

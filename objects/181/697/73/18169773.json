@@ -1,95 +1,141 @@
 {
-    "id":"18169773",
-    "tms:id":"18050",
-    "accession_number":"1911-28-102",
-    "title":"Drawing, \"Project for a Coffered Ceiling, with the Muses\", ca. 1780",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18169773\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35417683",
-    "type_id":"35237093",
-    "date":"ca. 1780",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1911",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Pen and brown and black ink, brush and rose, gray, blue and brown washes, graphite onwhite laid paper, lined",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Leon Decloux; in his collection in 1906",
-    "dimensions":"13.6 x 42 cm (5 3\/8 x 16 9\/16 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":"The depicted part of the ceiling shows nine coffers of various shapes (rectangular at each corner, two oval, two octagonal, and one round at the center).  Each coffer includes an image of a reclining female nude on a cloud.  There is a decorative border between the coffers.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18169773",
+    "tms:id": "18050",
+    "accession_number": "1911-28-102",
+    "title": "Drawing, Project for a Coffered Ceiling, with the Muses, ca. 1780",
+    "title_raw": "Project for a Coffered Ceiling, with the Muses",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18169773\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "35417683",
+    "type_id": "35237093",
+    "date": "ca. 1780",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1911",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Pen and brown and black ink, brush and rose, gray, blue and brown washes, graphite onwhite laid paper, lined",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Leon Decloux; in his collection in 1906",
+    "dimensions": "13.6 x 42 cm (5 3\/8 x 16 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "13.60",
+            "centimeters"
+        ],
+        "width": [
+            "42.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "The depicted part of the ceiling shows nine coffers of various shapes (rectangular at each corner, two oval, two octagonal, and one round at the center).  Each coffer includes an image of a reclining female nude on a cloud.  There is a decorative border between the coffers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19043_c4a026aab974035c_b.jpg",
-                "width":1024,
-                "height":887,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19043_c4a026aab974035c_b.jpg",
+                "width": 1024,
+                "height": 887,
+                "is_primary": "1",
+                "image_id": "19043"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19043_c4a026aab974035c_n.jpg",
-                "width":320,
-                "height":277,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19043_c4a026aab974035c_z.jpg",
+                "width": 640,
+                "height": 555,
+                "is_primary": "1",
+                "image_id": "19043"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19043_c4a026aab974035c_z.jpg",
-                "width":640,
-                "height":555,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19043_c4a026aab974035c_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "19043"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19043_c4a026aab974035c_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "19043"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19043_c4a026aab974035c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "19043"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18042665",
-            "role_id":"35236715",
-            "person_name":"Charles de Wailly",
-            "role_name":"Workshop of",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042665\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236715\/"
+            "person_id": "18042665",
+            "role_id": "35236715",
+            "person_name": "Charles de Wailly",
+            "person_date": "French, 1730\u20131798",
+            "role_name": "Workshop of",
+            "role_display_name": "Workshop of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042665\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236715\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Project for a Coffered Ceiling, with the Muses\", ca. 1780.\nca. 1780. Pen and brown and black ink, brush and rose, gray, blue and brown washes, graphite onwhite laid paper, lined. Purchased for the Museum by the Advisory Council. 1911-28-102."
+    "tombstone": {
+        "epitaph": "Drawing, Project for a Coffered Ceiling, with the Muses, ca. 1780. Pen and brown and black ink, brush and rose, gray, blue and brown washes, graphite onwhite laid paper, lined. \nPurchased for the Museum by the Advisory Council. 1911-28-102"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cdc5b2",
-            "closest_css3":"#c0c0c0"
+            "color": "#c9c2bc",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#958f77",
-            "closest_css3":"#808080"
+            "color": "#989782",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#756f59",
-            "closest_css3":"#696969"
+            "color": "#78725b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#646f6f",
-            "closest_css3":"#696969"
+            "color": "#697376",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#807a78",
-            "closest_css3":"#808080"
+            "color": "#3c342d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

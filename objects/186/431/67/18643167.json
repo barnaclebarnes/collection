@@ -1,91 +1,235 @@
 {
-    "id":"18643167",
-    "tms:id":"196448",
-    "accession_number":"1993-116-1",
-    "title":"Textile, \"Academia\", 1993",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643167\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1993",
-    "year_start":"1993",
-    "year_end":"1993",
-    "year_acquired":"1993",
-    "decade":"1990",
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Academia Designed by Neil Bottle for Warner Fabrics Copyright MCMCXIII by Warner Fabrics (printed in selvedge)",
-    "provenance":null,
-    "dimensions":"H x W: 261.6 x 142.2 cm (103 x 56 in.)\nRepeat H: 91.4 cm (36 in.)",
-    "creditline":"Gift of Warner Fabrics",
-    "description":"Length of printed cotton with a collage-like arrangement of architectural sketches, botanical drawings, acanthus leaves, penmanship studies, tiles and other patterns in gray, taupe, and pale orange\/pink on an off-white ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18643167",
+    "tms:id": "196448",
+    "accession_number": "1993-116-1",
+    "title": "Textile, Academia, 1993",
+    "title_raw": "Academia",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18643167\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1993",
+    "year_start": 1993,
+    "year_end": 1993,
+    "year_acquired": "1993",
+    "decade": "1990",
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: screen printed on plain weave\nLabel: screen printed cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Academia Designed by Neil Bottle for Warner Fabrics Copyright MCMCXIII by Warner Fabrics (printed in selvedge)",
+    "provenance": null,
+    "dimensions": "H x W: 261.6 x 142.2 cm (103 x 56 in.)\nRepeat H: 91.4 cm (36 in.)",
+    "dimensions_raw": {
+        "height": [
+            "261.62",
+            "centimeters"
+        ],
+        "width": [
+            "142.24",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Warner Fabrics",
+    "description": "Length of printed cotton with a collage-like arrangement of architectural sketches, botanical drawings, acanthus leaves, penmanship studies, tiles and other patterns in gray, taupe, and pale orange\/pink on an off-white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43801_582590874249f354_b.jpg",
-                "width":1024,
-                "height":646,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43801_8ccbae226e2bc5d2_b.jpg",
+                "width": 1024,
+                "height": 622,
+                "is_primary": "1",
+                "image_id": "43801"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43801_582590874249f354_n.jpg",
-                "width":320,
-                "height":202,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43801_8ccbae226e2bc5d2_z.jpg",
+                "width": 640,
+                "height": 388,
+                "is_primary": "1",
+                "image_id": "43801"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43801_582590874249f354_z.jpg",
-                "width":640,
-                "height":404,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43801_8ccbae226e2bc5d2_n.jpg",
+                "width": 320,
+                "height": 194,
+                "is_primary": "1",
+                "image_id": "43801"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43801_8ccbae226e2bc5d2_d.gif",
+                "width": 320,
+                "height": 194,
+                "is_primary": "1",
+                "image_id": "43801"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43801_8ccbae226e2bc5d2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43801"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78934_63d0cc630439eac7_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "78934"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78934_63d0cc630439eac7_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "78934"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78934_63d0cc630439eac7_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "78934"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78934_63d0cc630439eac7_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "78934"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78934_63d0cc630439eac7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "78934"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78933_987d663c91529a0e_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "78933"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78933_987d663c91529a0e_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "78933"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78933_987d663c91529a0e_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "78933"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78933_987d663c91529a0e_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "78933"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78933_987d663c91529a0e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "78933"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18040977",
-            "role_id":"35351535",
-            "person_name":"Warner Fabrics",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18040977\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18040977",
+            "role_id": "35351535",
+            "person_name": "Warner Fabrics",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040977\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18040977",
-            "role_id":"35236657",
-            "person_name":"Warner Fabrics",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18040977\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18040977",
+            "role_id": "35236657",
+            "person_name": "Warner Fabrics",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040977\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041559",
+            "role_id": "35236655",
+            "person_name": "Neil Bottle",
+            "person_date": "English, b. 1966",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041559\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Academia\", 1993.\n1993. Medium: cotton\nTechnique: screen printed on plain weave. Gift of Warner Fabrics. 1993-116-1."
+    "tombstone": {
+        "epitaph": "Textile, Academia, 1993. Medium: cotton\nTechnique: screen printed on plain weave\nLabel: screen printed cotton. \nGift of Warner Fabrics. 1993-116-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#af9a7b",
-            "closest_css3":"#bc8f8f"
+            "color": "#e3dfcc",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#d09a7c",
-            "closest_css3":"#e9967a"
+            "color": "#aea78a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#7e6046",
-            "closest_css3":"#696969"
+            "color": "#867e61",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#967c60",
-            "closest_css3":"#808080"
+            "color": "#ad8460",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#64573e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

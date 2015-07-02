@@ -1,49 +1,131 @@
 {
-    "id":"18617739",
-    "tms:id":"177402",
-    "accession_number":"1981-29-315",
-    "title":"Poster, \"Heel\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617739\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 68.3 x 48.2 cm (26 7\/8 x 19 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617739",
+    "tms:id": "177402",
+    "accession_number": "1981-29-315",
+    "title": "Poster, Heel",
+    "title_raw": "Heel",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617739\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35407799",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "Overall: 68.3 x 48.2 cm (26 7\/8 x 19 in.)",
+    "dimensions_raw": {
+        "height": [
+            "68.30",
+            "centimeters"
+        ],
+        "width": [
+            "48.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Image of a dark purple high heeled shoe on a ground of purple horizontal stripes; information about registration.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042421",
-            "role_id":"35236667",
-            "person_name":"Brigham Young University",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82700_ff33741e04cae7d7_b.jpg",
+                "width": 720,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82700"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82700_ff33741e04cae7d7_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82700"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82700_ff33741e04cae7d7_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82700"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82700_ff33741e04cae7d7_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82700"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82700_ff33741e04cae7d7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82700"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"Heel\".\nOverall: 68.3 x 48.2 cm (26 7\/8 x 19 in.). Gift of Various Donors. 1981-29-315."
+    "participants": [
+        {
+            "person_id": "18042421",
+            "role_id": "35236667",
+            "person_name": "Brigham Young University",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Heel. Lithograph on wove paper. \nGift of Various Donors. 1981-29-315"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#edebb8",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#865b92",
+            "closest_crayola": "#8f509d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#19111d",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#533b56",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#c3c1a5",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

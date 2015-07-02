@@ -1,49 +1,122 @@
 {
-    "id":"18636737",
-    "tms:id":"193220",
-    "accession_number":"1991-59-120-a,b",
-    "title":"Caster And Base, 1930\u201339",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18636737\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35398855",
-    "type_id":"35294487",
-    "date":"1930\u201339",
-    "year_start":"1930",
-    "year_end":"1939",
-    "year_acquired":"1991",
-    "decade":"1930",
-    "woe:country":null,
-    "medium":"Polished chrome",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 7.5 x 6.5  diameter cm (2 15\/16 x 2 9\/16 in.)",
-    "creditline":"Gift of Mel Byars",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35294487",
-        "name":"caster and base"
+    "id": "18636737",
+    "tms:id": "193220",
+    "accession_number": "1991-59-120-a,b",
+    "title": "Caster And Base, 1930\u201339",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18636737\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35398855",
+    "type_id": "35294487",
+    "date": "1930\u201339",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1991",
+    "decade": "1930",
+    "woe:country_id": null,
+    "medium": "Polished chrome",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 7.5 x 6.5  diameter cm (2 15\/16 x 2 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "7.50",
+            "centimeters"
+        ],
+        "width": [
+            "6.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mel Byars",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "caster and base",
+    "images": [
         {
-            "person_id":"18040939",
-            "role_id":"35351535",
-            "person_name":"Mel Byars",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18040939\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103417_b78827248ac8bd3a_b.jpg",
+                "width": 1024,
+                "height": 947,
+                "is_primary": "1",
+                "image_id": "103417"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103417_b78827248ac8bd3a_z.jpg",
+                "width": 640,
+                "height": 592,
+                "is_primary": "1",
+                "image_id": "103417"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103417_b78827248ac8bd3a_n.jpg",
+                "width": 320,
+                "height": 296,
+                "is_primary": "1",
+                "image_id": "103417"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103417_b78827248ac8bd3a_d.gif",
+                "width": 320,
+                "height": 296,
+                "is_primary": "1",
+                "image_id": "103417"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103417_b78827248ac8bd3a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103417"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Caster And Base, 1930\u201339.\n1930\u201339. Polished chrome. Gift of Mel Byars. 1991-59-120-a,b."
+    "participants": [
+        {
+            "person_id": "18040939",
+            "role_id": "35351535",
+            "person_name": "Mel Byars",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040939\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18537451",
+            "role_id": "35236685",
+            "person_name": "Chase Brass & Copper Co.",
+            "person_date": "Founded 1876",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537451\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Caster And Base, 1930\u201339. Polished chrome. \nGift of Mel Byars. 1991-59-120-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#63615d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#36312f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

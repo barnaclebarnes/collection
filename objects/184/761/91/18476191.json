@@ -1,42 +1,127 @@
 {
-    "id":"18476191",
-    "tms:id":"148864",
-    "accession_number":"1972-38-4-a,b",
-    "title":"Ceiling Paper, 1895\u20131905",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476191\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35287951",
-    "date":"1895\u20131905",
-    "year_start":null,
-    "year_end":"1905",
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"89 x 51 cm (35 1\/16 x 20 1\/16 in.)",
-    "creditline":"Gift of Dr. and Mrs. Samuel J. Holman",
-    "description":"Cream background with gold flower pattern.",
-    "justification":null,
-    "type":{
-        "id":"35287951",
-        "name":"Ceiling paper"
+    "id": "18476191",
+    "tms:id": "148864",
+    "accession_number": "1972-38-4-a,b",
+    "title": "Ceiling Paper (USA), 1895\u20131905",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476191\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35287951",
+    "date": "1895\u20131905",
+    "year_start": null,
+    "year_end": 1905,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "89 x 51 cm (35 1\/16 x 20 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "89.00",
+            "centimeters"
+        ],
+        "width": [
+            "51.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Dr. and Mrs. Samuel J. Holman",
+    "description": "Cream background with gold flower pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Ceiling paper",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92972_c2285a1a2ae00ec7_b.jpg",
+                "width": 608,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92972"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92972_c2285a1a2ae00ec7_z.jpg",
+                "width": 380,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92972"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92972_c2285a1a2ae00ec7_n.jpg",
+                "width": 190,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92972"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92972_c2285a1a2ae00ec7_d.gif",
+                "width": 190,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92972"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92972_c2285a1a2ae00ec7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92972"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18538819",
+            "role_id": "35351535",
+            "person_name": "Mrs. Samuel J. Holman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538819\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538817",
+            "role_id": "35351535",
+            "person_name": "Dr. Samuel J. Holman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Ceiling Paper, 1895\u20131905.\n1895\u20131905. Machine-printed. Gift of Dr. and Mrs. Samuel J. Holman. 1972-38-4-a,b."
+    "tombstone": {
+        "epitaph": "Ceiling Paper (USA), 1895\u20131905. Machine-printed. \nGift of Dr. and Mrs. Samuel J. Holman. 1972-38-4-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#bcb173",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

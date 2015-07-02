@@ -1,80 +1,188 @@
 {
-    "id":"18623027",
-    "tms:id":"186350",
-    "accession_number":"1987-79-1",
-    "title":"Plate, ca. 1870",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18623027\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51587747",
-    "type_id":"35236833",
-    "date":"ca. 1870",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Glazed and gilt earthenware",
-    "markings":"On underside, underglaze ? artist's monogram: \"LP\"",
-    "signed":"Signed near edge on front, \"L Parvill\u00e9e\" in script.",
-    "inscribed":null,
-    "provenance":"1987: acquired by Museum (from Historical Design Inc.)",
-    "dimensions":"H x diam.: 6.8 x 62 cm (2 11\/16 x 24 7\/16 in.)",
-    "creditline":"Museum purchase from Charles E. Sampson Memorial and Decorative Arts Association Acquisition Funds",
-    "description":"A gold colored earthenware plate with a crosshatching texture. The plate is depicting a bird in flight approaching some tall flowers.",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18623027",
+    "tms:id": "186350",
+    "accession_number": "1987-79-1",
+    "title": "Plate (France), ca. 1870",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18623027\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68729917",
+    "type_id": "35236833",
+    "date": "ca. 1870",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1987",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Enamel-painted, glazed and gilt earthenware",
+    "markings": "On underside, underglaze ? artist's monogram: \"LP\"",
+    "signed": "Signed near edge on front, \"L Parvill\u00e9e\" in script.",
+    "inscribed": null,
+    "provenance": "1987: acquired by Museum (from Historical Design Inc.)",
+    "dimensions": "H x diam.: 6.8 x 62 cm (2 11\/16 x 24 7\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "62.00",
+            "centimeters"
+        ],
+        "height": [
+            "6.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Charles E. Sampson Memorial and Decorative Arts Association Acquisition Funds",
+    "description": "Circular plate with gold colored crosshatched ground deecorated with scene of colorful bird (parrot?) with outstretched wings on tall stalks of purple and yellow followering plants.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10513_40cc88bd6f27d80b_b.jpg",
-                "width":999,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106247_11969f56b4b354b0_b.jpg",
+                "width": 1024,
+                "height": 965,
+                "is_primary": "1",
+                "image_id": "106247"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10513_40cc88bd6f27d80b_n.jpg",
-                "width":312,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106247_11969f56b4b354b0_z.jpg",
+                "width": 640,
+                "height": 603,
+                "is_primary": "1",
+                "image_id": "106247"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10513_40cc88bd6f27d80b_z.jpg",
-                "width":625,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106247_11969f56b4b354b0_n.jpg",
+                "width": 320,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "106247"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106247_11969f56b4b354b0_d.gif",
+                "width": 320,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "106247"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106247_11969f56b4b354b0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106247"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10513_40cc88bd6f27d80b_b.jpg",
+                "width": 999,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10513"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10513_40cc88bd6f27d80b_z.jpg",
+                "width": 625,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10513"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10513_40cc88bd6f27d80b_n.jpg",
+                "width": 312,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10513"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10513_40cc88bd6f27d80b_d.gif",
+                "width": 312,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10513"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10513_40cc88bd6f27d80b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10513"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Plate, ca. 1870.\nca. 1870. Glazed and gilt earthenware. Museum purchase from Charles E. Sampson Memorial and Decorative Arts Association Acquisition Funds. 1987-79-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d7941c",
-            "closest_css3":"#daa520"
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
         },
         {
-            "color":"#b87512",
-            "closest_css3":"#b8860b"
+            "person_id": "18041381",
+            "role_id": "35352249",
+            "person_name": "Historical Design Inc.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041381\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "color":"#e6b943",
-            "closest_css3":"#f4a460"
-        },
-        {
-            "color":"#855118",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#2a2415",
-            "closest_css3":"#000000"
+            "person_id": "18044283",
+            "role_id": "35236565",
+            "person_name": "L\u00e9on Parvill\u00e9e",
+            "person_date": "French, 1830 - 1885",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044283\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Plate (France), ca. 1870. Enamel-painted, glazed and gilt earthenware. \nMuseum purchase from Charles E. Sampson Memorial and Decorative Arts Association Acquisition Funds. 1987-79-1"
+    },
+    "colors": [
+        {
+            "color": "#91790c",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#808000",
+            "closest_css4": "#808000"
+        },
+        {
+            "color": "#b3982b",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#b8860b",
+            "closest_css4": "#b8860b"
+        },
+        {
+            "color": "#6c4c1a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#2b2923",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b1a679",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

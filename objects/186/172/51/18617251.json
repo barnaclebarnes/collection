@@ -1,87 +1,178 @@
 {
-    "id":"18617251",
-    "tms:id":"177158",
-    "accession_number":"1981-28-99",
-    "title":"Sampler, 1791",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617251\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35432309",
-    "type_id":"35256439",
-    "date":"1791",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk embroidery on silk foundation, woven silk ribbon, mica and paper\nTechnique: embroidered in cross, satin, stem, eyelet, and chain stitches on plain weave foundation. Central panel appliqued over another embroidery.",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Mary Slatter ended this April the 29 1791",
-    "provenance":null,
-    "dimensions":"H x W: 35.6 x 45.1 cm (14 x 17 3\/4 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Within a curving border of strawberries, two couples courting, a large basket of flowers, and a house in a park.  Signature: \"Mary Slatter ended this April the 29 1791.\"  The couples' faces are engravings which have been cut out and pasted in place.  The windows of the house are mica couched in place.  Quilled woven silk ribbon surrounds the bouquet of flowers.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18617251",
+    "tms:id": "177158",
+    "accession_number": "1981-28-99",
+    "title": "Sampler (England), 1791",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617251\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432309",
+    "type_id": "35256439",
+    "date": "1791",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk embroidery on silk foundation, woven silk ribbon, mica and paper\nTechnique: embroidered in cross, satin, stem, eyelet, and chain stitches on plain weave foundation. Central panel appliqued over another embroidery.",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Mary Slatter ended this April the 29 1791",
+    "provenance": null,
+    "dimensions": "H x W: 35.6 x 45.1 cm (14 x 17 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "45.09",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Within a curving border of strawberries, two couples courting, a large basket of flowers, and a house in a park.  Signature: \"Mary Slatter ended this April the 29 1791.\"  The couples' faces are engravings which have been cut out and pasted in place.  The windows of the house are mica couched in place.  Quilled woven silk ribbon surrounds the bouquet of flowers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36647_8f9ae351fe0e6df9_b.jpg",
-                "width":1024,
-                "height":810,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81461_f0d63764ec1f8a8f_b.jpg",
+                "width": 1024,
+                "height": 815,
+                "is_primary": "1",
+                "image_id": "81461"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36647_8f9ae351fe0e6df9_n.jpg",
-                "width":320,
-                "height":253,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81461_f0d63764ec1f8a8f_z.jpg",
+                "width": 640,
+                "height": 509,
+                "is_primary": "1",
+                "image_id": "81461"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36647_8f9ae351fe0e6df9_z.jpg",
-                "width":640,
-                "height":506,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81461_f0d63764ec1f8a8f_n.jpg",
+                "width": 320,
+                "height": 255,
+                "is_primary": "1",
+                "image_id": "81461"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81461_f0d63764ec1f8a8f_d.gif",
+                "width": 320,
+                "height": 255,
+                "is_primary": "1",
+                "image_id": "81461"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81461_f0d63764ec1f8a8f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81461"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36647_8f9ae351fe0e6df9_b.jpg",
+                "width": 1024,
+                "height": 810,
+                "is_primary": "0",
+                "image_id": "36647"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36647_8f9ae351fe0e6df9_z.jpg",
+                "width": 640,
+                "height": 506,
+                "is_primary": "0",
+                "image_id": "36647"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36647_8f9ae351fe0e6df9_n.jpg",
+                "width": 320,
+                "height": 253,
+                "is_primary": "0",
+                "image_id": "36647"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36647_8f9ae351fe0e6df9_d.gif",
+                "width": 320,
+                "height": 253,
+                "is_primary": "0",
+                "image_id": "36647"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36647_8f9ae351fe0e6df9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36647"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050697",
-            "role_id":"35236583",
-            "person_name":"Mary Slatter",
-            "role_name":"Embroiderer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050697\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18050697",
+            "role_id": "35236583",
+            "person_name": "Mary Slatter",
+            "person_date": "English",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sampler, 1791.\n1791. Medium: silk embroidery on silk foundation, woven silk ribbon, mica and paper\nTechnique: embroidered in cross, satin, stem, eyelet, and chain stitches on plain weave foundation. Central panel appliqued over another embroidery.. Bequest of Gertrude M. Oppenheimer. 1981-28-99."
+    "tombstone": {
+        "epitaph": "Sampler (England), 1791. Medium: silk embroidery on silk foundation, woven silk ribbon, mica and paper\nTechnique: embroidered in cross, satin, stem, eyelet, and chain stitches on plain weave foundation. Central panel appliqued over another embroidery.. \nBequest of Gertrude M. Oppenheimer. 1981-28-99"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#675f54",
-            "closest_css3":"#696969"
+            "color": "#958a63",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#aab5c0",
-            "closest_css3":"#c0c0c0"
+            "color": "#c0b98a",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#937059",
-            "closest_css3":"#696969"
+            "color": "#6b5b35",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#71442e",
-            "closest_css3":"#8b4513"
+            "color": "#464a3d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#9f9d91",
-            "closest_css3":"#a9a9a9"
+            "color": "#767355",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

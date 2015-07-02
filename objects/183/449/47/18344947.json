@@ -1,71 +1,117 @@
 {
-    "id":"18344947",
-    "tms:id":"56337",
-    "accession_number":"1937-51-4",
-    "title":"Drawing, \"Sketches of New York Skyscrapers\", ca. 1915",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18344947\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"51585261",
-    "type_id":"35237093",
-    "date":"ca. 1915",
-    "year_start":"1910",
-    "year_end":"1920",
-    "year_acquired":"1937",
-    "decade":"1910",
-    "woe:country":"23424819",
-    "medium":"Pencil and red crayon on tracing paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Henry O. Milliken",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18344947",
+    "tms:id": "56337",
+    "accession_number": "1937-51-4",
+    "title": "Drawing, Sketches of New York Skyscrapers, ca. 1915",
+    "title_raw": "Sketches of New York Skyscrapers",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18344947\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51683723",
+    "type_id": "35237093",
+    "date": "ca. 1915",
+    "year_start": 1910,
+    "year_end": 1920,
+    "year_acquired": "1937",
+    "decade": "1910",
+    "woe:country_id": "23424819",
+    "medium": "Graphite, red crayon on tracing paper",
+    "markings": null,
+    "signed": "Signed in graphite, lower right: G. Umbdenstock",
+    "inscribed": "Inscribed in graphite, lower right: A mon ami et \u00e9leve Milliken \/ Souvenir et bons souhaits d[?] \/ [\u2026] l\u2019Am\u00e9rique!",
+    "provenance": "Henry O. Milliken; 1937: acquired by Museum",
+    "dimensions": "39 x 39 cm (15 3\/8 x 15 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "39.00",
+            "centimeters"
+        ],
+        "width": [
+            "39.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Henry O. Milliken",
+    "description": "Drawing depicts two American skyscrapers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59546_fbdd423247bb771b_b.jpg",
-                "width":1024,
-                "height":1010,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59546_93be12ebcfef052f_b.jpg",
+                "width": 1017,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "59546"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59546_fbdd423247bb771b_n.jpg",
-                "width":320,
-                "height":316,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59546_93be12ebcfef052f_z.jpg",
+                "width": 636,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "59546"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59546_fbdd423247bb771b_z.jpg",
-                "width":640,
-                "height":632,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59546_93be12ebcfef052f_n.jpg",
+                "width": 318,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "59546"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59546_93be12ebcfef052f_d.gif",
+                "width": 318,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "59546"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59546_93be12ebcfef052f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "59546"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044189",
-            "role_id":"35351535",
-            "person_name":"Henry O. Milliken",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044189\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "51584879",
+            "role_id": "35236565",
+            "person_name": "Gustav Umbdenstock",
+            "person_date": "French, 1866 - 1909",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51584879\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18044189",
+            "role_id": "35351535",
+            "person_name": "Henry O. Milliken",
+            "person_date": "1884 \u2013 1945",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044189\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Sketches of New York Skyscrapers\", ca. 1915.\nca. 1915. Pencil and red crayon on tracing paper. Gift of Henry O. Milliken. 1937-51-4."
+    "tombstone": {
+        "epitaph": "Drawing, Sketches of New York Skyscrapers, ca. 1915. Graphite, red crayon on tracing paper. \nGift of Henry O. Milliken. 1937-51-4"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c1b392",
-            "closest_css3":"#d2b48c"
+            "color": "#b1ac8a",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

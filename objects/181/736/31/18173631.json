@@ -1,80 +1,158 @@
 {
-    "id":"18173631",
-    "tms:id":"18765",
-    "accession_number":"1911-7-5",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18173631\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"117149",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1911",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: intaglio printed, monochrome",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. William D. Frismuth",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18173631",
+    "tms:id": "18765",
+    "accession_number": "1911-7-5",
+    "title": "Textile, 1830\u20131840",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18173631\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "117149",
+    "type_id": "35251739",
+    "date": "1830\u20131840",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1911",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: intaglio printed, monochrome",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. William D. Frismuth",
+    "description": "Pillar print with stylized Corinthian and Ionic capitals of flowers and leaves. An eagle in profile has a shield flag between outstretched wings.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1505_5c91c1cea38ee141_b.jpg",
-                "width":1024,
-                "height":674,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82476_8d0578aa8329f3ee_b.jpg",
+                "width": 1024,
+                "height": 630,
+                "is_primary": "1",
+                "image_id": "82476"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1505_5c91c1cea38ee141_n.jpg",
-                "width":320,
-                "height":211,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82476_8d0578aa8329f3ee_z.jpg",
+                "width": 640,
+                "height": 393,
+                "is_primary": "1",
+                "image_id": "82476"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1505_5c91c1cea38ee141_z.jpg",
-                "width":640,
-                "height":422,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82476_8d0578aa8329f3ee_n.jpg",
+                "width": 320,
+                "height": 197,
+                "is_primary": "1",
+                "image_id": "82476"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82476_8d0578aa8329f3ee_d.gif",
+                "width": 320,
+                "height": 197,
+                "is_primary": "1",
+                "image_id": "82476"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82476_8d0578aa8329f3ee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82476"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1505_5c91c1cea38ee141_b.jpg",
+                "width": 1024,
+                "height": 674,
+                "is_primary": "0",
+                "image_id": "1505"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1505_5c91c1cea38ee141_z.jpg",
+                "width": 640,
+                "height": 422,
+                "is_primary": "0",
+                "image_id": "1505"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1505_5c91c1cea38ee141_n.jpg",
+                "width": 320,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "1505"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1505_5c91c1cea38ee141_d.gif",
+                "width": 320,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "1505"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1505_5c91c1cea38ee141_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "1505"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: intaglio printed, monochrome. Gift of Mrs. William D. Frismuth. 1911-7-5."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#102c45",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#2e5881",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#86808b",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#5f7592",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#aab5cb",
-            "closest_css3":"#b0c4de"
+            "person_id": "18539545",
+            "role_id": "35351535",
+            "person_name": "Mrs. William D. Frismuth",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539545\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, 1830\u20131840. Technique: intaglio printed, monochrome. \nGift of Mrs. William D. Frismuth. 1911-7-5"
+    },
+    "colors": [
+        {
+            "color": "#32506c",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#486b7f",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#68858d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#8b9592",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#cac2a5",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "is_loan_object": 0
 }

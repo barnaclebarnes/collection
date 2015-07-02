@@ -1,87 +1,176 @@
 {
-    "id":"18483229",
-    "tms:id":"152477",
-    "accession_number":"1974-42-1",
-    "title":"Sampler, 1818",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18483229\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410831",
-    "type_id":"35256439",
-    "date":"1818",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1974",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, satin, surface satin, rococo, and stem stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Mary Cole's Work Wrought at Ellis Burg School 1818",
-    "provenance":"By 1941, Mrs. Henry E. Coe (Eva Johnston Coe)\n1941 - 1974, Rosalie Coe \n1974, Cooper-Hewitt Museum",
-    "dimensions":"H x W: 54.6 x 66 cm (21 1\/2 x 26 in.)",
-    "creditline":"Bequest of Rosalie Coe, from the collection inherited from her mother, Eva Johnston Coe",
-    "description":"A landscape at the bottom with a large house, trees, and animals. The ground is filled with scattered motifs, inside a curving rose vine border. At the center top a cartouche with the inscription, and a verse at center: \nNo longer I follow a sound\nNo longer a dream I pursue\nO happiness now to be found\nUnattainable treasure Adieux",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18483229",
+    "tms:id": "152477",
+    "accession_number": "1974-42-1",
+    "title": "Sampler (USA), 1818",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18483229\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410831",
+    "type_id": "35256439",
+    "date": "1818",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1974",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, satin, surface satin, rococo, and stem stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Mary Cole's Work Wrought at Ellis Burg School 1818",
+    "provenance": "By 1941, Mrs. Henry E. Coe (Eva Johnston Coe)\n1941 - 1974, Rosalie Coe \n1974, Cooper-Hewitt Museum",
+    "dimensions": "H x W: 54.6 x 66 cm (21 1\/2 x 26 in.)",
+    "dimensions_raw": {
+        "height": [
+            "54.61",
+            "centimeters"
+        ],
+        "width": [
+            "66.04",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Rosalie Coe, from the collection inherited from her mother, Eva Johnston Coe",
+    "description": "A landscape at the bottom with a large house, trees, and animals. The ground is filled with scattered motifs, inside a curving rose vine border. At the center top a cartouche with the inscription, and a verse at center: \nNo longer I follow a sound\nNo longer a dream I pursue\nO happiness now to be found\nUnattainable treasure Adieux",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27809_7ef9349986ac1e3e_b.jpg",
-                "width":1024,
-                "height":1012,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94199_7d4040a0413f85ce_b.jpg",
+                "width": 1024,
+                "height": 981,
+                "is_primary": "1",
+                "image_id": "94199"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27809_7ef9349986ac1e3e_n.jpg",
-                "width":320,
-                "height":316,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94199_7d4040a0413f85ce_z.jpg",
+                "width": 640,
+                "height": 613,
+                "is_primary": "1",
+                "image_id": "94199"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27809_7ef9349986ac1e3e_z.jpg",
-                "width":640,
-                "height":632,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94199_7d4040a0413f85ce_n.jpg",
+                "width": 320,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "94199"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94199_7d4040a0413f85ce_d.gif",
+                "width": 320,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "94199"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94199_7d4040a0413f85ce_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94199"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27809_7ef9349986ac1e3e_b.jpg",
+                "width": 1024,
+                "height": 1012,
+                "is_primary": "0",
+                "image_id": "27809"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27809_7ef9349986ac1e3e_z.jpg",
+                "width": 640,
+                "height": 632,
+                "is_primary": "0",
+                "image_id": "27809"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27809_7ef9349986ac1e3e_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "27809"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27809_7ef9349986ac1e3e_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "27809"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27809_7ef9349986ac1e3e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "27809"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18062713",
-            "role_id":"35236793",
-            "person_name":"Ellisburg School",
-            "role_name":"Student at",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18062713\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236793\/"
+            "person_id": "18062713",
+            "role_id": "35236793",
+            "person_name": "Ellisburg School",
+            "person_date": "",
+            "role_name": "Student at",
+            "role_display_name": "Student at",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062713\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236793\/"
+        },
+        {
+            "person_id": "18061409",
+            "role_id": "35236583",
+            "person_name": "Mary Cole",
+            "person_date": "American",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061409\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+        },
+        {
+            "person_id": "18050805",
+            "role_id": "35351537",
+            "person_name": "Rosalie Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050805\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sampler, 1818.\n1818. Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, satin, surface satin, rococo, and stem stitches on plain weave foundation. Bequest of Rosalie Coe, from the collection inherited from her mother, Eva Johnston Coe. 1974-42-1."
+    "tombstone": {
+        "epitaph": "Sampler (USA), 1818. Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, satin, surface satin, rococo, and stem stitches on plain weave foundation. \nBequest of Rosalie Coe, from the collection inherited from her mother, Eva Johnston Coe. 1974-42-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#97826f",
-            "closest_css3":"#808080"
+            "color": "#c4b68b",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#8c6c45",
-            "closest_css3":"#a0522d"
+            "color": "#98855d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#b99059",
-            "closest_css3":"#cd853f"
-        },
-        {
-            "color":"#624a2f",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#e2d3b6",
-            "closest_css3":"#f5deb3"
+            "color": "#645a3c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,49 +1,139 @@
 {
-    "id":"18476875",
-    "tms:id":"149216",
-    "accession_number":"1972-50-4-a,b",
-    "title":"Frieze, 1875\u20131925",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476875\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35259269",
-    "date":"1875\u20131925",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Marked: \"Carey Bros. WP Mfg. Co.\"",
-    "provenance":null,
-    "dimensions":"59.5 x 49.5 cm (23 7\/16 x 19 1\/2 in.)",
-    "creditline":"Gift of Greeley Municipal Museum",
-    "description":"On tan ground, flowers in shades of green, metallic gold and copper colors, all with stylization of horizontal pinstriping. Floral swags, panels, ribbons, pearl swags and diaper in shades of cream and beige.",
-    "justification":null,
-    "type":{
-        "id":"35259269",
-        "name":"Frieze"
+    "id": "18476875",
+    "tms:id": "149216",
+    "accession_number": "1972-50-4-a,b",
+    "title": "Frieze (USA), 1875\u20131925",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476875\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35259269",
+    "date": "1875\u20131925",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Marked: \"Carey Bros. WP Mfg. Co.\"",
+    "provenance": null,
+    "dimensions": "59.5 x 49.5 cm (23 7\/16 x 19 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "59.50",
+            "centimeters"
+        ],
+        "width": [
+            "49.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Greeley Municipal Museum",
+    "description": "On tan ground, flowers in shades of green, metallic gold and copper colors, all with stylization of horizontal pinstriping. Floral swags, panels, ribbons, pearl swags and diaper in shades of cream and beige.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Frieze",
+    "images": [
         {
-            "person_id":"18046507",
-            "role_id":"35236657",
-            "person_name":"Carey Bros. W.P. Mfg. Co.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046507\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92981_278476b2e4605af9_b.jpg",
+                "width": 1024,
+                "height": 845,
+                "is_primary": "1",
+                "image_id": "92981"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92981_278476b2e4605af9_z.jpg",
+                "width": 640,
+                "height": 528,
+                "is_primary": "1",
+                "image_id": "92981"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92981_278476b2e4605af9_n.jpg",
+                "width": 320,
+                "height": 264,
+                "is_primary": "1",
+                "image_id": "92981"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92981_278476b2e4605af9_d.gif",
+                "width": 320,
+                "height": 264,
+                "is_primary": "1",
+                "image_id": "92981"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92981_278476b2e4605af9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92981"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Frieze, 1875\u20131925.\n1875\u20131925. Machine-printed. Gift of Greeley Municipal Museum. 1972-50-4-a,b."
+    "participants": [
+        {
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18538895",
+            "role_id": "35351535",
+            "person_name": "Greeley Municipal Museum",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538895\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046507",
+            "role_id": "35236657",
+            "person_name": "Carey Bros. W.P. Mfg. Co.",
+            "person_date": "founded 1882",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046507\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Frieze (USA), 1875\u20131925. Machine-printed. \nGift of Greeley Municipal Museum. 1972-50-4-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#e3dfbf",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#7b653c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a6935d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

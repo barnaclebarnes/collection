@@ -1,49 +1,154 @@
 {
-    "id":"18431627",
-    "tms:id":"126231",
-    "accession_number":"1960-163-69-a,b",
-    "title":"Scenic - Panel, \"June Day\", 1939",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18431627\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35376083",
-    "type_id":"35287557",
-    "date":"1939",
-    "year_start":"1939",
-    "year_end":"1939",
-    "year_acquired":"1960",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"chromolithograph",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"208 x 49.5 cm (81 7\/8 x 19 1\/2 in.)",
-    "creditline":"Gift of Wallpaper Council, Inc.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35287557",
-        "name":"Scenic - panel"
+    "id": "18431627",
+    "tms:id": "126231",
+    "accession_number": "1960-163-69-a,b",
+    "title": "Scenic - Panel, June Day, 1939",
+    "title_raw": "June Day",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18431627\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35376083",
+    "type_id": "35287557",
+    "date": "1939",
+    "year_start": 1939,
+    "year_end": 1939,
+    "year_acquired": "1960",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "chromolithograph",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "208 x 49.5 cm (81 7\/8 x 19 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "208.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Wallpaper Council, Inc.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Scenic - panel",
+    "images": [
         {
-            "person_id":"18046573",
-            "role_id":"35236671",
-            "person_name":"The Schmitz-Horning Co.",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046573\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95165_bae71f1396562013_b.jpg",
+                "width": 253,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "95165"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95165_bae71f1396562013_z.jpg",
+                "width": 158,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "95165"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95165_bae71f1396562013_n.jpg",
+                "width": 79,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95165"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95165_bae71f1396562013_d.gif",
+                "width": 79,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95165"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95165_bae71f1396562013_sq.jpg",
+                "width": 253,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "95165"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95780_6e956174b2beb8b4_b.jpg",
+                "width": 253,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95780"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95780_6e956174b2beb8b4_z.jpg",
+                "width": 158,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95780"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95780_6e956174b2beb8b4_n.jpg",
+                "width": 79,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95780"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95780_6e956174b2beb8b4_d.gif",
+                "width": 79,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95780"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95780_6e956174b2beb8b4_sq.jpg",
+                "width": 253,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95780"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Scenic - Panel, \"June Day\", 1939.\n1939. chromolithograph. Gift of Wallpaper Council, Inc.. 1960-163-69-a,b."
+    "participants": [
+        {
+            "person_id": "18058445",
+            "role_id": "35351535",
+            "person_name": "Wallpaper Council, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046573",
+            "role_id": "35236671",
+            "person_name": "The Schmitz-Horning Co.",
+            "person_date": "1905",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046573\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Scenic - Panel, June Day, 1939. chromolithograph. \nGift of Wallpaper Council, Inc.. 1960-163-69-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b5b485",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

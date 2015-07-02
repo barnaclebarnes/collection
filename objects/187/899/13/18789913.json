@@ -1,87 +1,172 @@
 {
-    "id":"18789913",
-    "tms:id":"271271",
-    "accession_number":"2011-10-5-a,b",
-    "title":"Cup And Saucer, ca. 1932",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18789913\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35392471",
-    "type_id":"35248193",
-    "date":"ca. 1932",
-    "year_start":"1932",
-    "year_end":"1932",
-    "year_acquired":"2011",
-    "decade":"1930",
-    "woe:country":null,
-    "medium":"Glazed porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Estate of Ladislav Sutnar",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35248193",
-        "name":"cup and saucer"
-    },
-    "images":[
+    "id": "18789913",
+    "tms:id": "271271",
+    "accession_number": "2011-10-5-a,b",
+    "title": "Cup And Saucer, ca. 1932",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18789913\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35392471",
+    "type_id": "35248193",
+    "date": "ca. 1932",
+    "year_start": 1932,
+    "year_end": 1932,
+    "year_acquired": "2011",
+    "decade": "1930",
+    "woe:country_id": null,
+    "medium": "Glazed porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of Estate of Ladislav Sutnar",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "cup and saucer",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38845_790cd8679f7a0f6f_b.jpg",
-                "width":599,
-                "height":599,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109036_a57f4dbf74b3602a_b.jpg",
+                "width": 1024,
+                "height": 702,
+                "is_primary": "1",
+                "image_id": "109036"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38845_790cd8679f7a0f6f_n.jpg",
-                "width":320,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109036_a57f4dbf74b3602a_z.jpg",
+                "width": 640,
+                "height": 439,
+                "is_primary": "1",
+                "image_id": "109036"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38845_790cd8679f7a0f6f_z.jpg",
-                "width":599,
-                "height":599,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109036_a57f4dbf74b3602a_n.jpg",
+                "width": 320,
+                "height": 219,
+                "is_primary": "1",
+                "image_id": "109036"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109036_a57f4dbf74b3602a_d.gif",
+                "width": 320,
+                "height": 219,
+                "is_primary": "1",
+                "image_id": "109036"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109036_a57f4dbf74b3602a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109036"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38845_790cd8679f7a0f6f_b.jpg",
+                "width": 599,
+                "height": 599,
+                "is_primary": "0",
+                "image_id": "38845"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38845_790cd8679f7a0f6f_z.jpg",
+                "width": 599,
+                "height": 599,
+                "is_primary": "0",
+                "image_id": "38845"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38845_790cd8679f7a0f6f_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "38845"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38845_790cd8679f7a0f6f_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "38845"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38845_790cd8679f7a0f6f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "38845"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043523",
-            "role_id":"35236655",
-            "person_name":"Ladislav Sutnar",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043523\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18064593",
+            "role_id": "35352249",
+            "person_name": "Rago Arts and Auction Center",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064593\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18043523",
+            "role_id": "35236655",
+            "person_name": "Ladislav Sutnar",
+            "person_date": "American and Czech, b. Pilsen, Bohemia, 1897, d. New York, New York, USA, 1976",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043523\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Cup And Saucer, ca. 1932.\nca. 1932. Glazed porcelain. Museum purchase through gift of Estate of Ladislav Sutnar. 2011-10-5-a,b."
+    "tombstone": {
+        "epitaph": "Cup And Saucer, ca. 1932. Glazed porcelain. \nMuseum purchase through gift of Estate of Ladislav Sutnar. 2011-10-5-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#5c2c16",
-            "closest_css3":"#8b4513"
+            "color": "#aaa49c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#8c8783",
-            "closest_css3":"#808080"
+            "color": "#7c2618",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#864421",
-            "closest_css3":"#8b4513"
+            "color": "#9a7369",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#726056",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#30170d",
-            "closest_css3":"#000000"
+            "color": "#80493f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

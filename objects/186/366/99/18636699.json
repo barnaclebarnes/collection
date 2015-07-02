@@ -1,49 +1,122 @@
 {
-    "id":"18636699",
-    "tms:id":"193200",
-    "accession_number":"1991-59-103",
-    "title":"Vase, \"\"Ring\" vase\", 1930\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18636699\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35398825",
-    "type_id":"35237225",
-    "date":"1930\u201340",
-    "year_start":"1930",
-    "year_end":"1940",
-    "year_acquired":"1991",
-    "decade":"1930",
-    "woe:country":null,
-    "medium":"chromium, brass, black enamel",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 23.8 x 10.9  diameter cm (9 3\/8 x 4 5\/16 in.)",
-    "creditline":"Gift of Mel Byars",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18636699",
+    "tms:id": "193200",
+    "accession_number": "1991-59-103",
+    "title": "\"Ring\" vase Vase, 1930\u201340",
+    "title_raw": "\"Ring\" vase",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18636699\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35398825",
+    "type_id": "35237225",
+    "date": "1930\u201340",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1991",
+    "decade": "1930",
+    "woe:country_id": null,
+    "medium": "chromium, brass, black enamel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 23.8 x 10.9  diameter cm (9 3\/8 x 4 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.80",
+            "centimeters"
+        ],
+        "width": [
+            "10.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mel Byars",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Vase",
+    "images": [
         {
-            "person_id":"18040939",
-            "role_id":"35351535",
-            "person_name":"Mel Byars",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18040939\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103531_3d8848697c108651_b.jpg",
+                "width": 673,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103531"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103531_3d8848697c108651_z.jpg",
+                "width": 420,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103531"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103531_3d8848697c108651_n.jpg",
+                "width": 210,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103531"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103531_3d8848697c108651_d.gif",
+                "width": 210,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103531"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103531_3d8848697c108651_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103531"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Vase, \"\"Ring\" vase\", 1930\u201340.\n1930\u201340. chromium, brass, black enamel. Gift of Mel Byars. 1991-59-103."
+    "participants": [
+        {
+            "person_id": "18040939",
+            "role_id": "35351535",
+            "person_name": "Mel Byars",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040939\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18537451",
+            "role_id": "35236685",
+            "person_name": "Chase Brass & Copper Co.",
+            "person_date": "Founded 1876",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537451\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "\"Ring\" vase Vase, 1930\u201340. chromium, brass, black enamel. \nGift of Mel Byars. 1991-59-103"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2e2418",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#4e4431",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
 }

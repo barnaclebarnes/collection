@@ -1,49 +1,123 @@
 {
-    "id":"18618003",
-    "tms:id":"177535",
-    "accession_number":"1981-29-434",
-    "title":"Poster, \"IBM \/ To know is nothing at all; to imagine is everything.\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18618003\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18618003",
+    "tms:id": "177535",
+    "accession_number": "1981-29-434",
+    "title": "Poster, IBM \/ To know is nothing at all; to imagine is everything.",
+    "title_raw": "IBM \/ To know is nothing at all; to imagine is everything.",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18618003\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "53.3 x 38.2 cm (21 in. x 15 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "53.30",
+            "centimeters"
+        ],
+        "width": [
+            "38.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Photograph of close-up of a V-shaped wet spider web with rest of photograph out of focus. In white, upper left: To know is nothing at all; \/ to imagine is everything. \/ Anatole France; lower left: IBM logo \/ Santa Teresa Laboratory.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042357",
-            "role_id":"35236655",
-            "person_name":"Ken White",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042357\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90302_a3b658ce9a29cb05_b.jpg",
+                "width": 733,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90302"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90302_a3b658ce9a29cb05_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90302"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90302_a3b658ce9a29cb05_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90302"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90302_a3b658ce9a29cb05_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90302"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90302_a3b658ce9a29cb05_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90302"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"IBM \/ To know is nothing at all; to imagine is everything.\".\nGift of Various Donors. 1981-29-434."
+    "participants": [
+        {
+            "person_id": "18041871",
+            "role_id": "35236667",
+            "person_name": "IBM",
+            "person_date": "USA",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041871\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18042357",
+            "role_id": "35236655",
+            "person_name": "Ken White",
+            "person_date": "American, 1935-1985",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, IBM \/ To know is nothing at all; to imagine is everything.. Lithograph on paper. \nGift of Various Donors. 1981-29-434"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#765d46",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a89e95",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

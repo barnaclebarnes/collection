@@ -1,49 +1,122 @@
 {
-    "id":"18175185",
-    "tms:id":"19056",
-    "accession_number":"1912-12-54",
-    "title":"Drawing, \"Recto: Sheep Grazing\", probably 1875\u201378",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18175185\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35418301",
-    "type_id":"35237093",
-    "date":"probably 1875\u201378",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Graphite on gray-green paper",
-    "markings":"Watermark: \"Damask Linene\" and hand holding a rose",
-    "signed":"Verso: Signed with initials in ?, at lower right: ?",
-    "inscribed":"Recto: Inscribed in graphite: Hard-a-Port; and again erased: \"A Quick Passage from Europe.\"",
-    "provenance":null,
-    "dimensions":"17.6 x 21.4 cm (6 15\/16 x 8 7\/16 in.)",
-    "creditline":"Gift of Charles Savage Homer, Jr.",
-    "description":"Recto: Horizontal view with the  upper portion showing the trunk of a chestnut tree with grazing sheep, and the lower portion showing a steep hillside with grazing sheep.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18175185",
+    "tms:id": "19056",
+    "accession_number": "1912-12-54",
+    "title": "Drawing, Two Views of Sheep Grazing in a Field, probably 1875\u201378",
+    "title_raw": "Two Views of Sheep Grazing in a Field",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18175185\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35418301",
+    "type_id": "35237093",
+    "date": "probably 1875\u201378",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Graphite on gray-green paper",
+    "markings": "Watermark: \"Damask Linene\" and hand holding a rose",
+    "signed": "Verso: Signed with initials in ?, at lower right: ?",
+    "inscribed": "Recto: Inscribed in graphite: Hard-a-Port; and again erased: \"A Quick Passage from Europe.\"",
+    "provenance": null,
+    "dimensions": "17.6 x 21.4 cm (6 15\/16 x 8 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "17.60",
+            "centimeters"
+        ],
+        "width": [
+            "21.40",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Charles Savage Homer, Jr.",
+    "description": "Recto: Horizontal view with the  upper portion showing the trunk of a chestnut tree with grazing sheep, and the lower portion showing a steep hillside with grazing sheep.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18041949",
-            "role_id":"35236565",
-            "person_name":"Winslow Homer",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041949\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121801_113b54523073b047_b.jpg",
+                "width": 1024,
+                "height": 843,
+                "is_primary": "0",
+                "image_id": "121801"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121801_113b54523073b047_z.jpg",
+                "width": 640,
+                "height": 527,
+                "is_primary": "0",
+                "image_id": "121801"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121801_113b54523073b047_n.jpg",
+                "width": 320,
+                "height": 263,
+                "is_primary": "0",
+                "image_id": "121801"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121801_113b54523073b047_d.gif",
+                "width": 320,
+                "height": 263,
+                "is_primary": "0",
+                "image_id": "121801"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121801_113b54523073b047_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "121801"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Recto: Sheep Grazing\", probably 1875\u201378.\nprobably 1875\u201378. Graphite on gray-green paper. Gift of Charles Savage Homer, Jr.. 1912-12-54."
+    "participants": [
+        {
+            "person_id": "18537931",
+            "role_id": "35351535",
+            "person_name": "Charles Savage Homer, Jr.",
+            "person_date": "American, 1834\u20131917",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537931\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047639",
+            "role_id": "35352245",
+            "person_name": "Adrienne Sturbois",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041949",
+            "role_id": "35236565",
+            "person_name": "Winslow Homer",
+            "person_date": "American, 1836\u20131910",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041949\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Two Views of Sheep Grazing in a Field, probably 1875\u201378. Graphite on gray-green paper. \nGift of Charles Savage Homer, Jr.. 1912-12-54"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

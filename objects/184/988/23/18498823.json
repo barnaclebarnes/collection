@@ -1,49 +1,216 @@
 {
-    "id":"18498823",
-    "tms:id":"160313",
-    "accession_number":"1979-9-38-a,b",
-    "title":"Textile, 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18498823\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":"1920\u201340",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1979",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Medium: silk\nTechnique: satin damask, dip-dyed warp",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Attached label on A: \"SILK reversible Brocatelle. Note: five different colorations of 3 color dip yarns used in the warp. Attached is one of the 3-color dip yarns used.\"",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 138 x 130 cm (54 5\/16 x 51 3\/16 in.)\nRepeat H (straight): 69.9 x 63.5 cm (27 1\/2 x 25 in.)\nOther diam (skein): 38 cm (14 15\/16 in.)",
-    "creditline":"Gift of Mrs. R. Curt Hasenclever",
-    "description":"A. Pattern of urns within sculptured scrolls. Red ,green and yellow dip-dyed warp and a turquoise weft. Grommets for showroom use at top.\nB. skein of dip-dyed yarn. Red, green and yellow.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18498823",
+    "tms:id": "160313",
+    "accession_number": "1979-9-38-a,b",
+    "title": "Textile (USA), 1920\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18498823\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "1920\u201340",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1979",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk\nTechnique: satin damask, dip-dyed warp",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Attached label on A: \"SILK reversible Brocatelle. Note: five different colorations of 3 color dip yarns used in the warp. Attached is one of the 3-color dip yarns used.\"",
+    "provenance": null,
+    "dimensions": "Warp x Weft: 138 x 130 cm (54 5\/16 x 51 3\/16 in.)\nRepeat H (straight): 69.9 x 63.5 cm (27 1\/2 x 25 in.)\nOther diam (skein): 38 cm (14 15\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "38.00",
+            "centimeters"
+        ],
+        "height": [
+            "69.90",
+            "centimeters"
+        ],
+        "warp": [
+            "138.00",
+            "centimeters"
+        ],
+        "weft": [
+            "130.00",
+            "centimeters"
+        ],
+        "width": [
+            "63.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mrs. R. Curt Hasenclever",
+    "description": "A. Pattern of urns within sculptured scrolls. Red ,green and yellow dip-dyed warp and a turquoise weft. Grommets for showroom use at top.\nB. skein of dip-dyed yarn. Red, green and yellow.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18046337",
-            "role_id":"35236681",
-            "person_name":"F. Schumacher & Co.",
-            "role_name":"Company",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046337\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87236_ae2591e92001daa8_b.jpg",
+                "width": null,
+                "height": null,
+                "is_primary": "1",
+                "image_id": "87236"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87236_ae2591e92001daa8_z.jpg",
+                "width": 485,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "87236"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87238_8b469b5e8d32dd83_b.jpg",
+                "width": 1024,
+                "height": 937,
+                "is_primary": "0",
+                "image_id": "87238"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87238_8b469b5e8d32dd83_z.jpg",
+                "width": 640,
+                "height": 585,
+                "is_primary": "0",
+                "image_id": "87238"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87238_8b469b5e8d32dd83_n.jpg",
+                "width": 320,
+                "height": 293,
+                "is_primary": "0",
+                "image_id": "87238"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87238_8b469b5e8d32dd83_d.gif",
+                "width": 320,
+                "height": 293,
+                "is_primary": "0",
+                "image_id": "87238"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87238_8b469b5e8d32dd83_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "87238"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87237_bbb7a2a62c5c4577_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "87237"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87237_bbb7a2a62c5c4577_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "87237"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87237_bbb7a2a62c5c4577_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "87237"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87237_bbb7a2a62c5c4577_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "87237"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87237_bbb7a2a62c5c4577_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "87237"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1920\u201340.\n1920\u201340. Medium: silk\nTechnique: satin damask, dip-dyed warp. Gift of Mrs. R. Curt Hasenclever. 1979-9-38-a,b."
+    "participants": [
+        {
+            "person_id": "18046337",
+            "role_id": "35236681",
+            "person_name": "F. Schumacher & Co.",
+            "person_date": "New York, New York, USA, founded 1889",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046337\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18055565",
+            "role_id": "35351535",
+            "person_name": "Mrs. R. Curt Hasenclever",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (USA), 1920\u201340. Medium: silk\nTechnique: satin damask, dip-dyed warp. \nGift of Mrs. R. Curt Hasenclever. 1979-9-38-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#807c75",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#9d9a8f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#809f9b",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#d2bea5",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#655549",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

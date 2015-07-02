@@ -1,49 +1,111 @@
 {
-    "id":"18454031",
-    "tms:id":"137570",
-    "accession_number":"1966-55-10",
-    "title":"Vase",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18454031\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237225",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1966",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 7.3 x 9 cm (2 7\/8 x 3 9\/16 in.)",
-    "creditline":"Bequest of Joseph L. Morris",
-    "description":"Green glass",
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18454031",
+    "tms:id": "137570",
+    "accession_number": "1966-55-10",
+    "title": "Vase",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18454031\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237225",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1966",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 7.3 x 9 cm (2 7\/8 x 3 9\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "9.00",
+            "centimeters"
+        ],
+        "height": [
+            "7.30",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Bequest of Joseph L. Morris",
+    "description": "Green glass",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Vase",
+    "images": [
         {
-            "person_id":"18044255",
-            "role_id":"35236685",
-            "person_name":"Louis Comfort Tiffany",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044255\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114698_6c06f74601b88d67_b.jpg",
+                "width": 920,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "114698"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114698_6c06f74601b88d67_z.jpg",
+                "width": 575,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "114698"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114698_6c06f74601b88d67_n.jpg",
+                "width": 288,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "114698"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114698_6c06f74601b88d67_d.gif",
+                "width": 288,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "114698"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/114698_6c06f74601b88d67_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "114698"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Vase.\nglass. Bequest of Joseph L. Morris. 1966-55-10."
+    "participants": [
+        {
+            "person_id": "18057045",
+            "role_id": "35351537",
+            "person_name": "Joseph L. Morris",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057045\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18044255",
+            "role_id": "35236685",
+            "person_name": "Louis Comfort Tiffany",
+            "person_date": "American, 1848\u20131933",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044255\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase. glass. \nBequest of Joseph L. Morris. 1966-55-10"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "is_loan_object": 0
 }

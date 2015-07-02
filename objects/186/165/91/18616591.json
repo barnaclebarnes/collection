@@ -1,80 +1,168 @@
 {
-    "id":"18616591",
-    "tms:id":"176825",
-    "accession_number":"1981-28-232",
-    "title":"Sampler, early 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616591\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410831",
-    "type_id":"35256439",
-    "date":"early 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, long-armed cross, and four-sided stitches with  withdrawn element work on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 31.1 x 64.8 cm (12 1\/4 x 25 1\/2 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Green and brown bands of pattern.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616591",
+    "tms:id": "176825",
+    "accession_number": "1981-28-232",
+    "title": "Sampler (Netherlands), early 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616591\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410831",
+    "type_id": "35256439",
+    "date": "early 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, long-armed cross, and four-sided stitches with  withdrawn element work on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 31.1 x 64.8 cm (12 1\/4 x 25 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "31.12",
+            "centimeters"
+        ],
+        "width": [
+            "64.77",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Green and brown bands of pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36826_2636c14fcbf41014_b.jpg",
-                "width":1024,
-                "height":530,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94214_ecf513cd5351aeca_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94214"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36826_2636c14fcbf41014_n.jpg",
-                "width":320,
-                "height":166,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94214_ecf513cd5351aeca_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94214"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36826_2636c14fcbf41014_z.jpg",
-                "width":640,
-                "height":331,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94214_ecf513cd5351aeca_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94214"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94214_ecf513cd5351aeca_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94214"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94214_ecf513cd5351aeca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94214"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36826_2636c14fcbf41014_b.jpg",
+                "width": 1024,
+                "height": 530,
+                "is_primary": "0",
+                "image_id": "36826"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36826_2636c14fcbf41014_z.jpg",
+                "width": 640,
+                "height": 331,
+                "is_primary": "0",
+                "image_id": "36826"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36826_2636c14fcbf41014_n.jpg",
+                "width": 320,
+                "height": 166,
+                "is_primary": "0",
+                "image_id": "36826"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36826_2636c14fcbf41014_d.gif",
+                "width": 320,
+                "height": 166,
+                "is_primary": "0",
+                "image_id": "36826"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36826_2636c14fcbf41014_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36826"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, early 18th century.\nearly 18th century. Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, long-armed cross, and four-sided stitches with  withdrawn element work on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-232."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bbbaaf",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#8491a2",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#4d3e39",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#5b6442",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#efe5c8",
-            "closest_css3":"#ffe4c4"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Netherlands), early 18th century. Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, long-armed cross, and four-sided stitches with  withdrawn element work on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-232"
+    },
+    "colors": [
+        {
+            "color": "#a6986d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#5f5b34",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#4b3a24",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#867751",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3b4342",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

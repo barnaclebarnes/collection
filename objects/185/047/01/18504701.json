@@ -1,80 +1,178 @@
 {
-    "id":"18504701",
-    "tms:id":"163254",
-    "accession_number":"1980-31-4",
-    "title":"Patchwork Cover, ca. 1910",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18504701\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410719",
-    "type_id":"35293333",
-    "date":"ca. 1910",
-    "year_start":"1905",
-    "year_end":"1915",
-    "year_acquired":"1980",
-    "decade":"1900",
-    "woe:country":"23424977",
-    "medium":"Medium: silk, cotton\nTechnique: chromolithography printed on 7 & 1 satin, stitching",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 50.5 x 55.5 cm (19 7\/8 x 21 7\/8 in.)",
-    "creditline":"Gift of Mr. and Mrs. Stephen Smith",
-    "description":"Patchwork cover made of cigarette souvenir squares printed with different types of flowers as well as two squares containing the mottos: \"Always laugh when you can,\" and \"Discontent is the want of self-reliance.\" Backed with pink cotton fabric.",
-    "justification":null,
-    "type":{
-        "id":"35293333",
-        "name":"Patchwork cover"
+    "id": "18504701",
+    "tms:id": "163254",
+    "accession_number": "1980-31-4",
+    "title": "Patchwork Cover (USA), ca. 1910",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18504701\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410719",
+    "type_id": "35293333",
+    "date": "ca. 1910",
+    "year_start": 1905,
+    "year_end": 1915,
+    "year_acquired": "1980",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk, cotton\nTechnique: chromolithography printed on 7 & 1 satin, stitching",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 50.5 x 55.5 cm (19 7\/8 x 21 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "50.50",
+            "centimeters"
+        ],
+        "width": [
+            "55.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mr. and Mrs. Stephen Smith",
+    "description": "Patchwork cover made of cigarette souvenir squares printed with different types of flowers as well as two squares containing the mottos: \"Always laugh when you can,\" and \"Discontent is the want of self-reliance.\" Backed with pink cotton fabric.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Patchwork cover",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32169_cc6c7076a65dca12_b.jpg",
-                "width":1024,
-                "height":942,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90123_2f05bd465ec40198_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90123"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32169_cc6c7076a65dca12_n.jpg",
-                "width":320,
-                "height":295,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90123_2f05bd465ec40198_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90123"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32169_cc6c7076a65dca12_z.jpg",
-                "width":640,
-                "height":589,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90123_2f05bd465ec40198_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90123"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90123_2f05bd465ec40198_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90123"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90123_2f05bd465ec40198_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90123"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32169_cc6c7076a65dca12_b.jpg",
+                "width": 1024,
+                "height": 942,
+                "is_primary": "0",
+                "image_id": "32169"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32169_cc6c7076a65dca12_z.jpg",
+                "width": 640,
+                "height": 589,
+                "is_primary": "0",
+                "image_id": "32169"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32169_cc6c7076a65dca12_n.jpg",
+                "width": 320,
+                "height": 295,
+                "is_primary": "0",
+                "image_id": "32169"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32169_cc6c7076a65dca12_d.gif",
+                "width": 320,
+                "height": 295,
+                "is_primary": "0",
+                "image_id": "32169"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32169_cc6c7076a65dca12_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32169"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Patchwork Cover, ca. 1910.\nca. 1910. Medium: silk, cotton\nTechnique: chromolithography printed on 7 &amp; 1 satin, stitching. Gift of Mr. and Mrs. Stephen Smith. 1980-31-4."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#ded1c0",
-            "closest_css3":"#d3d3d3"
+            "person_id": "18055561",
+            "role_id": "35351535",
+            "person_name": "Mrs. Stephen Smith",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055561\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#362222",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#ae3622",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#b27054",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#74190f",
-            "closest_css3":"#800000"
+            "person_id": "18055559",
+            "role_id": "35351535",
+            "person_name": "Mr. Stephen Smith",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055559\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Patchwork Cover (USA), ca. 1910. Medium: silk, cotton\nTechnique: chromolithography printed on 7 &amp; 1 satin, stitching. \nGift of Mr. and Mrs. Stephen Smith. 1980-31-4"
+    },
+    "colors": [
+        {
+            "color": "#dfd8b8",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#814f2e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#7d8b5b",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#4b5140",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#ba7f4b",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

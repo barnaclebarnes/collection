@@ -1,42 +1,131 @@
 {
-    "id":"18476551",
-    "tms:id":"149052",
-    "accession_number":"1972-42-20-a\/d",
-    "title":"Border, 1825\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476551\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414641",
-    "type_id":"35237285",
-    "date":"1825\u201330",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"86.5 x 7 cm (34 1\/16 x 2 3\/4 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"Stylized foliate forms, striped edging. End of run included. Printed in yellow, brown, orange and tan. Printed on ocher background over a gray base coat.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18476551",
+    "tms:id": "149052",
+    "accession_number": "1972-42-20-a\/d",
+    "title": "Border (France), 1825\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476551\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414641",
+    "type_id": "35237285",
+    "date": "1825\u201330",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Josephine Howell; 1972: acquired by Museum",
+    "dimensions": "86.5 x 7 cm (34 1\/16 x 2 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "86.50",
+            "centimeters"
+        ],
+        "width": [
+            "7.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Josephine Howell",
+    "description": "Stylized foliate forms, striped edging. End of run included. Printed in yellow, brown, orange and tan. Printed on ocher background over a gray base coat.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92303_4cc3589a5df4eb42_b.jpg",
+                "width": 1024,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "92303"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92303_4cc3589a5df4eb42_z.jpg",
+                "width": 640,
+                "height": 160,
+                "is_primary": "1",
+                "image_id": "92303"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92303_4cc3589a5df4eb42_n.jpg",
+                "width": 320,
+                "height": 80,
+                "is_primary": "1",
+                "image_id": "92303"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92303_4cc3589a5df4eb42_d.gif",
+                "width": 320,
+                "height": 80,
+                "is_primary": "1",
+                "image_id": "92303"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92303_4cc3589a5df4eb42_sq.jpg",
+                "width": 300,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "92303"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Border, 1825\u201330.\n1825\u201330. Block-printed on handmade paper. Gift of Josephine Howell. 1972-42-20-a\/d."
+    "tombstone": {
+        "epitaph": "Border (France), 1825\u201330. Block-printed on handmade paper. \nGift of Josephine Howell. 1972-42-20-a\/d"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b3973d",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#dad860",
+            "closest_crayola": "#f8d568",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#785631",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#9a7b39",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#583d27",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

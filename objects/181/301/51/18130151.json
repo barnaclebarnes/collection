@@ -1,49 +1,129 @@
 {
-    "id":"18130151",
-    "tms:id":"11217",
-    "accession_number":"1902-1-1001",
-    "title":"Fragment, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18130151\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371963",
-    "type_id":"35254623",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, linen\nTechnique: woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Antonio Viv\u00e9s y Escudero",
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Strip of brocatelle in green, yellow and white.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18130151",
+    "tms:id": "11217",
+    "accession_number": "1902-1-1001",
+    "title": "Fragment, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18130151\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371963",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, linen\nTechnique: woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Antonio Viv\u00e9s y Escudero",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Strip of brocatelle in green, yellow and white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115731_4c295468a7990020_b.jpg",
+                "width": 345,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "115731"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115731_4c295468a7990020_z.jpg",
+                "width": 215,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115731"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115731_4c295468a7990020_n.jpg",
+                "width": 108,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115731"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115731_4c295468a7990020_d.gif",
+                "width": 108,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115731"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115731_4c295468a7990020_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115731"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68051_875cb2e7daa99330_b.jpg",
+                "width": 568,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68051"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68051_875cb2e7daa99330_z.jpg",
+                "width": 355,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68051"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68051_875cb2e7daa99330_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68051"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68051_875cb2e7daa99330_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68051"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68051_875cb2e7daa99330_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68051"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 17th century.\n17th century. Medium: silk, linen\nTechnique: woven. Gift of John Pierpont Morgan. 1902-1-1001."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 17th century. Medium: silk, linen\nTechnique: woven. \nGift of John Pierpont Morgan. 1902-1-1001"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "is_loan_object": 0
 }

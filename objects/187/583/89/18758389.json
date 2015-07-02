@@ -1,58 +1,140 @@
 {
-    "id":"18758389",
-    "tms:id":"255480",
-    "accession_number":"2010-21-91",
-    "title":"Poster, 1996",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758389\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"1996",
-    "year_start":"1996",
-    "year_end":"1996",
-    "year_acquired":"2010",
-    "decade":"1990",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"128 x 90.5 cm (50 3\/8 x 35 5\/8 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":"The photo is reminiscent of work by California artist John Baldessari (b. 1931)",
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758389",
+    "tms:id": "255480",
+    "accession_number": "2010-21-91",
+    "title": "Poster, Z\u00fcrcher Theater Spektakel [Z\u00fcrich Theatre Festivel], 1996",
+    "title_raw": "Z\u00fcrcher Theater Spektakel [Z\u00fcrich Theatre Festivel]",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758389\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431963",
+    "type_id": "35238163",
+    "date": "1996",
+    "year_start": 1996,
+    "year_end": 1996,
+    "year_acquired": "2010",
+    "decade": "1990",
+    "woe:country_id": null,
+    "medium": "Offset lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Upper left: Tages Anzeiger \/Prasidialdepartement \/Der Stadt Zurich \nIn script at lower left: Zuercher Theater Spktakel  22.8.-8.9.96\nLower left: Zucher \/ Kantonalbank \/ Schweizer Ruck",
+    "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
+    "dimensions": "128.1 \u00d7 90.6 cm (50 7\/16 \u00d7 35 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "128.00",
+            "centimeters"
+        ],
+        "width": [
+            "90.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "Dining room interior, family dinner scene. Right: daughter and son sitting at dining table with green and blue circles covering their faces, respectively. Center: mother holding white pot, standing on dining table with a red circle covering her face. Right: father sitting at dining table with yellow circle covering his face. Bottom left corner: Z\u00fcrcher Kantonalbank Scheizer R\u00fcck logo. Bottom center: man crawling from under the table, looking straight at the viewer. Bottom: yellow text: Z\u00fcrcher\/Theater; large blue text: Spektakel; yellow text: 12.8-8.9.96",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "Here, an ordinary family dinner takes a strange turn. The mother stands on a chair while the father is chained to a table leg like a dog, staring straight at the viewer from beneath the table, appearing resigned to his fate. By blocking the other faces with colored dots, the poster intensifies our emotional connection with the beleaguered patriarch.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46827_a09995c65036af59_b.jpg",
-                "width":722,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46827_58e8a7d5871f7a66_b.jpg",
+                "width": 724,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46827"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46827_a09995c65036af59_n.jpg",
-                "width":226,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46827_58e8a7d5871f7a66_z.jpg",
+                "width": 453,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46827"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46827_a09995c65036af59_z.jpg",
-                "width":451,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46827_58e8a7d5871f7a66_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46827"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46827_58e8a7d5871f7a66_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46827"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46827_58e8a7d5871f7a66_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46827"
             }
         }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18063515",
+            "role_id": "35236799",
+            "person_name": "Benker & Steiner Werbeagentur AG",
+            "person_date": "Z\u00fcrich. Switzerland, 1996\u20132000",
+            "role_name": "Design Director",
+            "role_display_name": "Design Director:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063515\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236799\/"
+        },
+        {
+            "person_id": "68778193",
+            "role_id": "35236667",
+            "person_name": "Z\u00fcrcher Theater Spektakel",
+            "person_date": "Z\u00fcrich, Switzerland",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68778193\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Z\u00fcrcher Theater Spektakel [Z\u00fcrich Theatre Festivel], 1996. Offset lithograph on wove paper. \nGift of Sara and Marc Benda. 2010-21-91"
+    },
+    "colors": [
+        {
+            "color": "#008bda",
+            "closest_crayola": "#1974d2",
+            "closest_css3": "#1e90ff",
+            "closest_css4": "#1e90ff"
+        },
+        {
+            "color": "#fcef52",
+            "closest_crayola": "#fff44f",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#8b5c59",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#cddc9e",
+            "closest_crayola": "#c5e384",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#4f6e83",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

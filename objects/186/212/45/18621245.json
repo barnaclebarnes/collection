@@ -1,72 +1,155 @@
 {
-    "id":"18621245",
-    "tms:id":"185441",
-    "accession_number":"1986-61-175",
-    "title":"Caster, ca. 1800",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621245\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35251361",
-    "date":"ca. 1800",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"To WPW from estate.",
-    "dimensions":"H x diam.: 13.2 x 7.2 cm (5 3\/16 x 2 13\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Pear shaped body, with band of flat diamond cutting and prismatic rings. Fluted, waisted neck and hemisperical top with holes. Waisted join betweenbody and circular dome foot with scalloped edge. Hole in bottom for Cork.",
-    "justification":null,
-    "type":{
-        "id":"35251361",
-        "name":"caster"
+    "id": "18621245",
+    "tms:id": "185441",
+    "accession_number": "1986-61-175",
+    "title": "Caster, ca. 1800",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621245\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35251361",
+    "date": "ca. 1800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "To WPW from estate.",
+    "dimensions": "H x diam.: 13.2 x 7.2 cm (5 3\/16 x 2 13\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "7.20",
+            "centimeters"
+        ],
+        "height": [
+            "13.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Pear shaped body, with band of flat diamond cutting and prismatic rings. Fluted, waisted neck and hemisperical top with holes. Waisted join betweenbody and circular dome foot with scalloped edge. Hole in bottom for Cork.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "caster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31244_b804865e7a7fceee_b.jpg",
-                "width":622,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31244_b804865e7a7fceee_b.jpg",
+                "width": 622,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "31244"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31244_b804865e7a7fceee_n.jpg",
-                "width":194,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31244_b804865e7a7fceee_z.jpg",
+                "width": 389,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "31244"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31244_b804865e7a7fceee_z.jpg",
-                "width":389,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31244_b804865e7a7fceee_n.jpg",
+                "width": 194,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "31244"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31244_b804865e7a7fceee_d.gif",
+                "width": 194,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "31244"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31244_b804865e7a7fceee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "31244"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112862_9eb6c267a19ce073_b.jpg",
+                "width": 752,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "112862"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112862_9eb6c267a19ce073_z.jpg",
+                "width": 470,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "112862"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112862_9eb6c267a19ce073_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112862"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112862_9eb6c267a19ce073_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112862"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112862_9eb6c267a19ce073_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "112862"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Caster, ca. 1800.\nca. 1800. glass. Bequest of Walter Phelps Warren. 1986-61-175."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#99958e",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#d2cec3",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#6a6964",
-            "closest_css3":"#696969"
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Caster, ca. 1800. glass. \nBequest of Walter Phelps Warren. 1986-61-175"
+    },
+    "colors": [
+        {
+            "color": "#bebab1",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#99958e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6a6964",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

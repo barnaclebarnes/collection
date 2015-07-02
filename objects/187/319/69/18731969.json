@@ -1,79 +1,164 @@
 {
-    "id":"18731969",
-    "tms:id":"242085",
-    "accession_number":"2009-18-50",
-    "title":"Water Glass, \"No. 176\", ca. 1880",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731969\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51588543",
-    "type_id":"35291075",
-    "date":"ca. 1880",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"2009",
-    "decade":null,
-    "woe:country":"23424750",
-    "medium":"Mouth-blown crystal, hand-cut and polished",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 13.1 x 7.8 cm (5 3\/16 x 3 1\/16 in.)",
-    "creditline":"Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
-    "description":"Mouth-blown crystal, hand-cut and polished",
-    "justification":null,
-    "type":{
-        "id":"35291075",
-        "name":"Water glass"
+    "id": "18731969",
+    "tms:id": "242085",
+    "accession_number": "2009-18-50",
+    "title": "No. 176 Water Glass, ca. 1880",
+    "title_raw": "No. 176",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18731969\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51588539",
+    "type_id": "35291075",
+    "date": "ca. 1880",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2009",
+    "decade": null,
+    "woe:country_id": "23424750",
+    "medium": "Mouth-blown crystal, hand-cut and polished",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 13.1 x 7.8 cm (5 3\/16 x 3 1\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "7.80",
+            "centimeters"
+        ],
+        "height": [
+            "13.10",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
+    "description": "Mouth-blown crystal, hand-cut and polished",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Water glass",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30705_78231ae32f074abe_b.jpg",
-                "width":550,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30705_78231ae32f074abe_b.jpg",
+                "width": 550,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "30705"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30705_78231ae32f074abe_n.jpg",
-                "width":172,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30705_78231ae32f074abe_z.jpg",
+                "width": 344,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "30705"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30705_78231ae32f074abe_z.jpg",
-                "width":344,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30705_78231ae32f074abe_n.jpg",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "30705"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30705_78231ae32f074abe_d.gif",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "30705"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30705_78231ae32f074abe_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "30705"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120789_4ac2f7bba784eda0_b.jpg",
+                "width": 698,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120789"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120789_4ac2f7bba784eda0_z.jpg",
+                "width": 436,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120789"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120789_4ac2f7bba784eda0_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120789"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120789_4ac2f7bba784eda0_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120789"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120789_4ac2f7bba784eda0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120789"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18061841",
-            "role_id":"35236657",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18061841",
+            "role_id": "35236657",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18061841",
-            "role_id":"51571131",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Lender",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+            "person_id": "18062617",
+            "role_id": "35236655",
+            "person_name": "Ludwig Lobmeyr",
+            "person_date": "Austrian, 1829 - 1917",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062617\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061841",
+            "role_id": "51571131",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Water Glass, \"No. 176\", ca. 1880.\nca. 1880. Mouth-blown crystal, hand-cut and polished. Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-50."
+    "tombstone": {
+        "epitaph": "No. 176 Water Glass, ca. 1880. Mouth-blown crystal, hand-cut and polished. \nMuseum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-50"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#000000",
-            "closest_css3":"#000000"
+            "color": "#a1a29d",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

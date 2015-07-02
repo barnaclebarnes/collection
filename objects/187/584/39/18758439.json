@@ -1,58 +1,151 @@
 {
-    "id":"18758439",
-    "tms:id":"255505",
-    "accession_number":"2010-21-115",
-    "title":"Poster, \"Architektur und Kinder\", 1995",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758439\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"1995",
-    "year_start":"1995",
-    "year_end":"1995",
-    "year_acquired":"2010",
-    "decade":"1990",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"128 x 96 cm (50 3\/8 x 37 13\/16 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758439",
+    "tms:id": "255505",
+    "accession_number": "2010-21-115",
+    "title": "Poster, Architektur und Kinder, 1995",
+    "title_raw": "Architektur und Kinder",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758439\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399029",
+    "type_id": "35238163",
+    "date": "1995",
+    "year_start": 1995,
+    "year_end": 1995,
+    "year_acquired": "2010",
+    "decade": "1990",
+    "woe:country_id": "23424957",
+    "medium": "Screenprint on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in gray, lower margin: GESTALTUNG: PETER FREY  SERIGRAPHIE: ULDRY",
+    "provenance": "Sara and Marc Benda (acquired new and directly from designer, Peter Frye); 2010: acquired by Museum",
+    "dimensions": "128 x 96 cm (50 3\/8 x 37 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "128.00",
+            "centimeters"
+        ],
+        "width": [
+            "96.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "Rows of red and blue asterisks of different widths. Red text, upper left: MUSEUM FUR GESTALTUNG \/ ZURICH \/ 23.9.-19.1.95; across poster in green outline: ARCHITEKTUR \/ [upside down, in green: + KINDER.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46832_ac3de848013a4a96_b.jpg",
-                "width":1024,
-                "height":727,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46832_2357989456349418_b.jpg",
+                "width": 1024,
+                "height": 717,
+                "is_primary": "1",
+                "image_id": "46832"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46832_ac3de848013a4a96_n.jpg",
-                "width":320,
-                "height":227,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46832_2357989456349418_z.jpg",
+                "width": 640,
+                "height": 448,
+                "is_primary": "1",
+                "image_id": "46832"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46832_ac3de848013a4a96_z.jpg",
-                "width":640,
-                "height":455,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46832_2357989456349418_n.jpg",
+                "width": 320,
+                "height": 224,
+                "is_primary": "1",
+                "image_id": "46832"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46832_2357989456349418_d.gif",
+                "width": 320,
+                "height": 224,
+                "is_primary": "1",
+                "image_id": "46832"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46832_2357989456349418_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46832"
             }
         }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "51865071",
+            "role_id": "35236673",
+            "person_name": "Serigraphie Uldry AG",
+            "person_date": "Swiss",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51865071\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        },
+        {
+            "person_id": "18063557",
+            "role_id": "35236667",
+            "person_name": "Museum f\u00fcr Gestaltung, Z\u00fcrich",
+            "person_date": "Z\u00fcrich, Switzerland",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063557\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "68738775",
+            "role_id": "35236655",
+            "person_name": "Peter Frey",
+            "person_date": "Swiss, b. 1959",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738775\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Architektur und Kinder, 1995. Screenprint on wove paper. \nGift of Sara and Marc Benda. 2010-21-115"
+    },
+    "colors": [
+        {
+            "color": "#231921",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#c05b2a",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#4f52b8",
+            "closest_crayola": "#324ab2",
+            "closest_css3": "#6a5acd",
+            "closest_css4": "#6a5acd"
+        },
+        {
+            "color": "#74ac40",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        },
+        {
+            "color": "#dfbcac",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

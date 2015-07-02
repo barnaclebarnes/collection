@@ -1,95 +1,154 @@
 {
-    "id":"18653753",
-    "tms:id":"201837",
-    "accession_number":"1996-53-1",
-    "title":"Border, \"Alphabet\", 1993",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18653753\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35426827",
-    "type_id":"35237285",
-    "date":"1993",
-    "year_start":"1993",
-    "year_end":"1993",
-    "year_acquired":"1996",
-    "decade":"1990",
-    "woe:country":"23424977",
-    "medium":"Screen printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"967 x 34.5 cm (380 11\/16 x 13 9\/16 in. )",
-    "creditline":"Gift of A\/D Gallery",
-    "description":"Children's border with the entire alphabet, from A to Z, is displayed in order with each character composed of one, two or three weimaraner dogs. The dogs are printed in black and white on an orange-red ground. After the \"Z\", the artists name and wallpaper title are printed in white script, along with the date and the A\/D Gallery Logo: \"William Wegman\/Alphabet 1993\". Following, written in graphite, is the print edition \"38\/1500\".",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18653753",
+    "tms:id": "201837",
+    "accession_number": "1996-53-1",
+    "title": "Border, Alphabet, 1993",
+    "title_raw": "Alphabet",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18653753\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35376447",
+    "type_id": "35237285",
+    "date": "1993",
+    "year_start": 1993,
+    "year_end": 1993,
+    "year_acquired": "1996",
+    "decade": "1990",
+    "woe:country_id": "23424977",
+    "medium": "Screen-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "967 x 34.5 cm (380 11\/16 x 13 9\/16 in. )",
+    "dimensions_raw": {
+        "height": [
+            "967.00",
+            "centimeters"
+        ],
+        "width": [
+            "34.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of A\/D Gallery",
+    "description": "Children's border with the entire alphabet, from A to Z, is displayed in order with each character composed of one, two or three weimaraner dogs. The dogs are printed in black and white on an orange-red ground. After the \"Z\", the artists name and wallpaper title are printed in white script, along with the date and the A\/D Gallery Logo: \"William Wegman\/Alphabet 1993\". Following, written in graphite, is the print edition \"38\/1500\".",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13427_868f35de36d071a0_b.jpg",
-                "width":1024,
-                "height":337,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83880_44e0975fd87ed8a6_b.jpg",
+                "width": 1024,
+                "height": 306,
+                "is_primary": "1",
+                "image_id": "83880"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13427_868f35de36d071a0_n.jpg",
-                "width":320,
-                "height":105,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83880_44e0975fd87ed8a6_z.jpg",
+                "width": 640,
+                "height": 191,
+                "is_primary": "1",
+                "image_id": "83880"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13427_868f35de36d071a0_z.jpg",
-                "width":640,
-                "height":211,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83880_44e0975fd87ed8a6_n.jpg",
+                "width": 320,
+                "height": 96,
+                "is_primary": "1",
+                "image_id": "83880"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83880_44e0975fd87ed8a6_d.gif",
+                "width": 320,
+                "height": 96,
+                "is_primary": "1",
+                "image_id": "83880"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83880_44e0975fd87ed8a6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83880"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13427_868f35de36d071a0_b.jpg",
+                "width": 1024,
+                "height": 337,
+                "is_primary": "0",
+                "image_id": "13427"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13427_868f35de36d071a0_z.jpg",
+                "width": 640,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "13427"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13427_868f35de36d071a0_n.jpg",
+                "width": 320,
+                "height": 105,
+                "is_primary": "0",
+                "image_id": "13427"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13427_868f35de36d071a0_d.gif",
+                "width": 320,
+                "height": 105,
+                "is_primary": "0",
+                "image_id": "13427"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13427_868f35de36d071a0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "13427"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041885",
-            "role_id":"35236659",
-            "person_name":"A\/D Gallery",
-            "role_name":"Distributor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041885\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236659\/"
+            "person_id": "18041885",
+            "role_id": "35236659",
+            "person_name": "A\/D Gallery",
+            "person_date": "",
+            "role_name": "Distributor",
+            "role_display_name": "Distributed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041885\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236659\/"
         },
         {
-            "person_id":"18047345",
-            "role_id":"35236655",
-            "person_name":"William Wegman",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047345\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18047345",
+            "role_id": "35236655",
+            "person_name": "William Wegman",
+            "person_date": "American, b. 1943",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047345\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Border, \"Alphabet\", 1993.\n1993. Screen printed. Gift of A\/D Gallery. 1996-53-1."
+    "tombstone": {
+        "epitaph": "Border, Alphabet, 1993. Screen-printed on paper. \nGift of A\/D Gallery. 1996-53-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#9e5f44",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#d1e6e3",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#878a81",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#685341",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#a6b4ae",
-            "closest_css3":"#a9a9a9"
+            "color": "#756d68",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

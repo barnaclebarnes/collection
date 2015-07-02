@@ -1,87 +1,178 @@
 {
-    "id":"18653353",
-    "tms:id":"201635",
-    "accession_number":"1996-18-88",
-    "title":"Vase, 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18653353\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35237225",
-    "date":"1920\u201340",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1996",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Glazed earthenware",
-    "markings":"Underglaze blue mark on bottom, the initials SMF in a shield surrounded by \"HANDPAINTED\", \"SCHRAMBERG\", and \"GERMANY\".  Also, in black, \"68\" and \"G2\".  Imprinted into clay \"2447\".",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"height 13.6, diameter 19.6 centimeters",
-    "creditline":"Gift of Victor Wiener",
-    "description":"Vertical cylinder widening from bottom to an asymmetrical undulating top edge glazed with black.  Handpainted gray ground patterned with large stylized floral blooms in orange, burgundy, black, yellow, green, and blue.",
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18653353",
+    "tms:id": "201635",
+    "accession_number": "1996-18-88",
+    "title": "Vase (Germany), 1920\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18653353\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35237225",
+    "date": "1920\u201340",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1996",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Glazed earthenware",
+    "markings": "Underglaze blue mark on bottom, the initials SMF in a shield surrounded by \"HANDPAINTED\", \"SCHRAMBERG\", and \"GERMANY\".  Also, in black, \"68\" and \"G2\".  Imprinted into clay \"2447\".",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "height 13.6, diameter 19.6 centimeters",
+    "dimensions_raw": {
+        "diameter": [
+            "19.60",
+            "centimeters"
+        ],
+        "height": [
+            "13.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Victor Wiener",
+    "description": "Vertical cylinder widening from bottom to an asymmetrical undulating top edge glazed with black.  Handpainted gray ground patterned with large stylized floral blooms in orange, burgundy, black, yellow, green, and blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Vase",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12962_5218271031086613_b.jpg",
-                "width":835,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109919_f31ed2c872b582a4_b.jpg",
+                "width": 973,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109919"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12962_5218271031086613_n.jpg",
-                "width":261,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109919_f31ed2c872b582a4_z.jpg",
+                "width": 608,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109919"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12962_5218271031086613_z.jpg",
-                "width":522,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109919_f31ed2c872b582a4_n.jpg",
+                "width": 304,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109919"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109919_f31ed2c872b582a4_d.gif",
+                "width": 304,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109919"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109919_f31ed2c872b582a4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109919"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12962_5218271031086613_b.jpg",
+                "width": 835,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12962"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12962_5218271031086613_z.jpg",
+                "width": 522,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12962"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12962_5218271031086613_n.jpg",
+                "width": 261,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12962"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12962_5218271031086613_d.gif",
+                "width": 261,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12962"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12962_5218271031086613_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12962"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049133",
-            "role_id":"35236657",
-            "person_name":"Schramberg",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049133\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041855",
+            "role_id": "35351535",
+            "person_name": "Victor Wiener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049133",
+            "role_id": "35236657",
+            "person_name": "Schramberg",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049133\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Vase, 1920\u201340.\n1920\u201340. Glazed earthenware. Gift of Victor Wiener. 1996-18-88."
+    "tombstone": {
+        "epitaph": "Vase (Germany), 1920\u201340. Glazed earthenware. \nGift of Victor Wiener. 1996-18-88"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d5daed",
-            "closest_css3":"#dcdcdc"
+            "color": "#91937a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#aab1c9",
-            "closest_css3":"#c0c0c0"
+            "color": "#6b413e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#46423d",
-            "closest_css3":"#2f4f4f"
+            "color": "#2b2522",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#97504a",
-            "closest_css3":"#a0522d"
+            "color": "#d1a062",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#6d6566",
-            "closest_css3":"#696969"
+            "color": "#5b6055",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

@@ -1,42 +1,122 @@
 {
-    "id":"18669519",
-    "tms:id":"210176",
-    "accession_number":"1998-71-22",
-    "title":"Drawing, \"Round Table\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18669519\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1998",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Alfons and Anita S. Bach",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18669519",
+    "tms:id": "210176",
+    "accession_number": "1998-71-22",
+    "title": "Drawing, Round Table, 1940s",
+    "title_raw": "Round Table",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18669519\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35424023",
+    "type_id": "35237093",
+    "date": "1940s",
+    "year_start": 1940,
+    "year_end": 1949,
+    "year_acquired": "1998",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Graphite on cream tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "In graphite, lower left: CIRCULAR TABLE \/ COM. # 37011; lower right: DESIGNED BY ALFONS BACH \/ 724 FIFTH AVE. N.Y.C.",
+    "provenance": "Alfons and Anita S. Bach: 1998: acquired by Museum",
+    "dimensions": "29.1 \u00d7 29 cm (11 7\/16 \u00d7 11 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "29.10",
+            "centimeters"
+        ],
+        "width": [
+            "29.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alfons and Anita S. Bach",
+    "description": "Two-tiered round table with four legs.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124148_c6af9b9e33f4d550_b.jpg",
+                "width": 1009,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "124148"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124148_c6af9b9e33f4d550_z.jpg",
+                "width": 630,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "124148"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124148_c6af9b9e33f4d550_n.jpg",
+                "width": 315,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "124148"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124148_c6af9b9e33f4d550_d.gif",
+                "width": 315,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "124148"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124148_c6af9b9e33f4d550_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "124148"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18053553",
+            "role_id": "35351535",
+            "person_name": "Alfons Bach",
+            "person_date": "German, 1904\u20131999",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053553",
+            "role_id": "35236655",
+            "person_name": "Alfons Bach",
+            "person_date": "German, 1904\u20131999",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18049487",
+            "role_id": "35351535",
+            "person_name": "Anita S. Bach",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049487\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Round Table, 1940s. Graphite on cream tracing paper. \nGift of Alfons and Anita S. Bach. 1998-71-22"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Round Table\".\nGift of Alfons and Anita S. Bach. 1998-71-22."
-    },
-    "colors":[
-
-    ]
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

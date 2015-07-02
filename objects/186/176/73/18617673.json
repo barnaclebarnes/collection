@@ -1,49 +1,119 @@
 {
-    "id":"18617673",
-    "tms:id":"177369",
-    "accession_number":"1981-29-286",
-    "title":"Poster, \"Yale Symphony Orchestra\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617673\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617673",
+    "tms:id": "177369",
+    "accession_number": "1981-29-286",
+    "title": "Poster, Yale Symphony Orchestra, 1980",
+    "title_raw": "Yale Symphony Orchestra",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617673\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431679",
+    "type_id": "35238163",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1981",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "Screenprint on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed upper right, in white: Design: Kristie Williams",
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "71.2 x 45.8 cm (28 1\/16 x 18 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.20",
+            "centimeters"
+        ],
+        "width": [
+            "45.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Poster depicting black and purple lines across a gray background. In pink, center right: Lutoslawski \/ [in white] Concerto for Orchestra; left: Tchaikovsky \/ [in white] Serenade for Strings; below, in white: Yale Symphony Orchestra \/ Robert Kapilow, music director \/ Saturday December 6, 1980 \/ 8:00 pm Woolsey Hall \/ admission free.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18051021",
-            "role_id":"35236655",
-            "person_name":"Kristie Williams",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051021\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64039_91e4c4b8c44d1eab_b.jpg",
+                "width": 657,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64039"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64039_91e4c4b8c44d1eab_z.jpg",
+                "width": 410,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64039"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64039_91e4c4b8c44d1eab_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64039"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64039_91e4c4b8c44d1eab_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64039"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64039_91e4c4b8c44d1eab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64039"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"Yale Symphony Orchestra\".\nGift of Various Donors. 1981-29-286."
+    "participants": [
+        {
+            "person_id": "18051021",
+            "role_id": "35236655",
+            "person_name": "Kristie Williams",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Yale Symphony Orchestra, 1980. Screenprint on paper. \nGift of Various Donors. 1981-29-286"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8882c7",
+            "closest_crayola": "#9d81ba",
+            "closest_css3": "#9370d8",
+            "closest_css4": "#9370db"
+        },
+        {
+            "color": "#7a7599",
+            "closest_crayola": "#926eae",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#c5ab90",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

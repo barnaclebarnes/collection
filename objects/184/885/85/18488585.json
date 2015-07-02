@@ -1,87 +1,197 @@
 {
-    "id":"18488585",
-    "tms:id":"155161",
-    "accession_number":"1975-60-51-a",
-    "title":"Textile, \"Diane Chasseresse\", ca. 1800",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18488585\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1800",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1975",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: copperplate printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft (a): 87 x 94 cm (34 1\/4 x 37 in.)",
-    "creditline":"Museum purchase from General Acquisitions Endowment",
-    "description":"Classical figures in medallions and plaques depicting domestic scenes with cows and Diana with her dog. Brown on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18488585",
+    "tms:id": "155161",
+    "accession_number": "1975-60-51-a",
+    "title": "Textile, Diane Chasseresse, ca. 1800",
+    "title_raw": "Diane Chasseresse",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18488585\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1975",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: copperplate printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft (a): 87 x 94 cm (34 1\/4 x 37 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "87.00",
+            "centimeters"
+        ],
+        "weft": [
+            "94.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from General Acquisitions Endowment",
+    "description": "Classical figures in medallions and plaques depicting domestic scenes with cows and Diana with her dog. Brown on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36871_c528ad9ed88a4069_b.jpg",
-                "width":1024,
-                "height":969,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108262_0bc589d95d041500_b.jpg",
+                "width": 1024,
+                "height": 981,
+                "is_primary": "1",
+                "image_id": "108262"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36871_c528ad9ed88a4069_n.jpg",
-                "width":320,
-                "height":303,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108262_0bc589d95d041500_z.jpg",
+                "width": 640,
+                "height": 613,
+                "is_primary": "1",
+                "image_id": "108262"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36871_c528ad9ed88a4069_z.jpg",
-                "width":640,
-                "height":606,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108262_0bc589d95d041500_n.jpg",
+                "width": 320,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "108262"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108262_0bc589d95d041500_d.gif",
+                "width": 320,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "108262"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108262_0bc589d95d041500_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108262"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76696_a75ef4ea3c3b961b_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "76696"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76696_a75ef4ea3c3b961b_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "76696"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76696_a75ef4ea3c3b961b_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "76696"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76696_a75ef4ea3c3b961b_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "76696"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76696_a75ef4ea3c3b961b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "76696"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36871_c528ad9ed88a4069_b.jpg",
+                "width": 1024,
+                "height": 969,
+                "is_primary": "0",
+                "image_id": "36871"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36871_c528ad9ed88a4069_z.jpg",
+                "width": 640,
+                "height": 606,
+                "is_primary": "0",
+                "image_id": "36871"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36871_c528ad9ed88a4069_n.jpg",
+                "width": 320,
+                "height": 303,
+                "is_primary": "0",
+                "image_id": "36871"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36871_c528ad9ed88a4069_d.gif",
+                "width": 320,
+                "height": 303,
+                "is_primary": "0",
+                "image_id": "36871"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36871_c528ad9ed88a4069_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36871"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043497",
-            "role_id":"35236655",
-            "person_name":"Jean-Baptiste Marie Huet",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043497\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18043497",
+            "role_id": "35236655",
+            "person_name": "Jean-Baptiste Marie Huet",
+            "person_date": "French, 1745 - 1811",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Diane Chasseresse\", ca. 1800.\nca. 1800. Medium: cotton\nTechnique: copperplate printed on plain weave. Museum purchase from General Acquisitions Endowment. 1975-60-51-a."
+    "tombstone": {
+        "epitaph": "Textile, Diane Chasseresse, ca. 1800. Medium: cotton\nTechnique: copperplate printed on plain weave. \nMuseum purchase from General Acquisitions Endowment. 1975-60-51-a"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#ddd2c2",
-            "closest_css3":"#d3d3d3"
+            "color": "#76634a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#2f1f16",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#755c41",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#595a55",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#0f210e",
-            "closest_css3":"#000000"
+            "color": "#a99777",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

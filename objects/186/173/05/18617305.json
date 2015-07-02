@@ -1,57 +1,151 @@
 {
-    "id":"18617305",
-    "tms:id":"177185",
-    "accession_number":"1981-29-122",
-    "title":"Poster, \"Books Take You Away\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617305\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"19 5\/16 x 13 7\/16 in. (49 x 34.2 cm)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617305",
+    "tms:id": "177185",
+    "accession_number": "1981-29-122",
+    "title": "Poster, Books Take You Away",
+    "title_raw": "Books Take You Away",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617305\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": "Imprinted [signed] in black ink, lower left: Isador Seltzer",
+    "inscribed": "Imprinted in black ink, lower right: Prepared by The New York Times",
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "49 x 34.2 cm (19 5\/16 x 13 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "49.00",
+            "centimeters"
+        ],
+        "width": [
+            "34.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Book as a ship with two chimneys, at sea, against a setting sun. In white above: Books take you away.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18056973",
-            "role_id":"35236655",
-            "person_name":"Andrew Kner",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056973\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
-        },
-        {
-            "person_id":"18056973",
-            "role_id":"35236787",
-            "person_name":"Andrew Kner",
-            "role_name":"Art Director",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056973\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236787\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90288_28d057f0ae17bd3b_b.jpg",
+                "width": 712,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90288"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90288_28d057f0ae17bd3b_z.jpg",
+                "width": 445,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90288"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90288_28d057f0ae17bd3b_n.jpg",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90288"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90288_28d057f0ae17bd3b_d.gif",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90288"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90288_28d057f0ae17bd3b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90288"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"Books Take You Away\".\n19 5\/16 x 13 7\/16 in. (49 x 34.2 cm). Gift of Various Donors. 1981-29-122."
+    "participants": [
+        {
+            "person_id": "18052529",
+            "role_id": "35236601",
+            "person_name": "Isadore Seltzer",
+            "person_date": "American, b. 1930",
+            "role_name": "Illustrator",
+            "role_display_name": "Illustrated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052529\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236601\/"
+        },
+        {
+            "person_id": "18056973",
+            "role_id": "35236655",
+            "person_name": "Andrew Kner",
+            "person_date": "Hungarian, born 1935",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056973\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18056973",
+            "role_id": "35236787",
+            "person_name": "Andrew Kner",
+            "person_date": "Hungarian, born 1935",
+            "role_name": "Art Director",
+            "role_display_name": "Art Director:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056973\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236787\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Books Take You Away. Lithograph on paper. \nGift of Various Donors. 1981-29-122"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b26c27",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#292219",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#c8ab37",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#a1511e",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#5a959c",
+            "closest_crayola": "#6dae81",
+            "closest_css3": "#5f9ea0",
+            "closest_css4": "#5f9ea0"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

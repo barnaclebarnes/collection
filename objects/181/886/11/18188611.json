@@ -1,72 +1,150 @@
 {
-    "id":"18188611",
-    "tms:id":"21501",
-    "accession_number":"1916-33-57",
-    "title":"Textile, 1870\u20131880",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18188611\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1870\u20131880",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1916",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: roller printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 14.6 x 83.5 cm (5 3\/4 x 32 7\/8 in.)",
-    "creditline":"Gift of Mrs. William P. Treadwell",
-    "description":"Black and purple on a white ground in an allover pattern of tiny black sprigs and black and white dots on a purple ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18188611",
+    "tms:id": "21501",
+    "accession_number": "1916-33-57",
+    "title": "Textile (USA), 1870\u201380",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18188611\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1870\u201380",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1916",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: roller printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 14.6 x 83.5 cm (5 3\/4 x 32 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "14.60",
+            "centimeters"
+        ],
+        "width": [
+            "83.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. William P. Treadwell",
+    "description": "Black and purple on a white ground in an allover pattern of tiny black sprigs and black and white dots on a purple ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1729_33f5e04da4f0c265_b.jpg",
-                "width":1024,
-                "height":698,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106153_7e28da1f6d6cf372_b.jpg",
+                "width": 349,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "106153"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1729_33f5e04da4f0c265_n.jpg",
-                "width":320,
-                "height":218,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106153_7e28da1f6d6cf372_z.jpg",
+                "width": 218,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "106153"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1729_33f5e04da4f0c265_z.jpg",
-                "width":640,
-                "height":436,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106153_7e28da1f6d6cf372_n.jpg",
+                "width": 109,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106153"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106153_7e28da1f6d6cf372_d.gif",
+                "width": 109,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106153"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106153_7e28da1f6d6cf372_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106153"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1729_33f5e04da4f0c265_b.jpg",
+                "width": 1024,
+                "height": 698,
+                "is_primary": "0",
+                "image_id": "1729"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1729_33f5e04da4f0c265_z.jpg",
+                "width": 640,
+                "height": 436,
+                "is_primary": "0",
+                "image_id": "1729"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1729_33f5e04da4f0c265_n.jpg",
+                "width": 320,
+                "height": 218,
+                "is_primary": "0",
+                "image_id": "1729"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1729_33f5e04da4f0c265_d.gif",
+                "width": 320,
+                "height": 218,
+                "is_primary": "0",
+                "image_id": "1729"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1729_33f5e04da4f0c265_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "1729"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1870\u20131880.\n1870\u20131880. Medium: cotton\nTechnique: roller printed on plain weave. Gift of Mrs. William P. Treadwell. 1916-33-57."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#433637",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#22151c",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#b4b1c0",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18049893",
+            "role_id": "35351535",
+            "person_name": "Mrs. William P. Treadwell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049893\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (USA), 1870\u201380. Medium: cotton\nTechnique: roller printed on plain weave. \nGift of Mrs. William P. Treadwell. 1916-33-57"
+    },
+    "colors": [
+        {
+            "color": "#8e8480",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#665a5b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

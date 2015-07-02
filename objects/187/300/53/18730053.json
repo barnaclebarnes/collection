@@ -1,42 +1,108 @@
 {
-    "id":"18730053",
-    "tms:id":"241030",
-    "accession_number":"1977-52-15-b",
-    "title":"Two Plates, ca. 1775",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18730053\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35252571",
-    "date":"ca. 1775",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1977",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. John Jay Ide in memory of John Jay Ide",
-    "description":"Pair of blue and white porcelain plates.",
-    "justification":null,
-    "type":{
-        "id":"35252571",
-        "name":"two plates"
-    },
-    "images":[
-
+    "id": "18730053",
+    "tms:id": "241030",
+    "accession_number": "1977-52-15-b",
+    "title": "Two Plates (France), ca. 1775",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18730053\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35252571",
+    "date": "ca. 1775",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1977",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "The John Jay Ide Collection",
+    "description": "Pair of blue and white porcelain plates.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "two plates",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106543_8d1baf3ce7ee8e07_b.jpg",
+                "width": 1024,
+                "height": 687,
+                "is_primary": "1",
+                "image_id": "106543"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106543_8d1baf3ce7ee8e07_z.jpg",
+                "width": 640,
+                "height": 429,
+                "is_primary": "1",
+                "image_id": "106543"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106543_8d1baf3ce7ee8e07_n.jpg",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "106543"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106543_8d1baf3ce7ee8e07_d.gif",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "106543"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106543_8d1baf3ce7ee8e07_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106543"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18040913",
+            "role_id": "35351535",
+            "person_name": "Mrs. John Jay Ide",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040913\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18537445",
+            "role_id": "35236685",
+            "person_name": "Chantilly Porcelain Factory",
+            "person_date": "Chantilly, France, ca. 1725\u20131789",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Two Plates, ca. 1775.\nca. 1775. Porcelain. Gift of Mrs. John Jay Ide in memory of John Jay Ide. 1977-52-15-b."
+    "tombstone": {
+        "epitaph": "Two Plates (France), ca. 1775. Porcelain. \nThe John Jay Ide Collection. 1977-52-15-b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#93999e",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

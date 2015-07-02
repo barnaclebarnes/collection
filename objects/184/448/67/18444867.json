@@ -1,80 +1,131 @@
 {
-    "id":"18444867",
-    "tms:id":"132922",
-    "accession_number":"1962-50-47",
-    "title":"Border, late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18444867\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35237285",
-    "date":"late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424757",
-    "medium":"Medium: linen\nTechnique: needle lace  with bobbin ground",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex-collection: Madame Jules Porg\u00e8s",
-    "dimensions":"H x W: 11.5 x 129 cm (4 1\/2 x 50 13\/16 in.)",
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Straight border of floral branches, blossoms and leaves",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18444867",
+    "tms:id": "132922",
+    "accession_number": "1962-50-47",
+    "title": "Border (Belgium), late 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18444867\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35237285",
+    "date": "late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424757",
+    "medium": "Medium: linen\nTechnique: needle lace  with bobbin ground",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex-collection: Madame Jules Porg\u00e8s",
+    "dimensions": "H x W: 11.5 x 129 cm (4 1\/2 x 50 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "11.50",
+            "centimeters"
+        ],
+        "width": [
+            "129.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Straight border of floral branches, blossoms and leaves",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424757",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31956_1eec12c51d166310_b.jpg",
-                "width":1024,
-                "height":494,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31956_1eec12c51d166310_b.jpg",
+                "width": 1024,
+                "height": 494,
+                "is_primary": "1",
+                "image_id": "31956"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31956_1eec12c51d166310_n.jpg",
-                "width":320,
-                "height":154,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31956_1eec12c51d166310_z.jpg",
+                "width": 640,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "31956"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31956_1eec12c51d166310_z.jpg",
-                "width":640,
-                "height":308,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31956_1eec12c51d166310_n.jpg",
+                "width": 320,
+                "height": 154,
+                "is_primary": "1",
+                "image_id": "31956"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31956_1eec12c51d166310_d.gif",
+                "width": 320,
+                "height": 154,
+                "is_primary": "1",
+                "image_id": "31956"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31956_1eec12c51d166310_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "31956"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, late 18th century.\nlate 18th century. Medium: linen\nTechnique: needle lace  with bobbin ground. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-50-47."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#291b1a",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#b0d8dd",
-            "closest_css3":"#add8e6"
-        },
-        {
-            "color":"#abbbc3",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#e6d1dc",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#8195a1",
-            "closest_css3":"#778899"
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border (Belgium), late 18th century. Medium: linen\nTechnique: needle lace  with bobbin ground. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-50-47"
+    },
+    "colors": [
+        {
+            "color": "#2a1a1a",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#6a7a83",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#837270",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#44525a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#ead8de",
+            "closest_crayola": "#ebc7df",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "woe:country_name": "Belgium",
+    "is_loan_object": 0
 }

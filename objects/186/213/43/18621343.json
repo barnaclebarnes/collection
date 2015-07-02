@@ -1,42 +1,110 @@
 {
-    "id":"18621343",
-    "tms:id":"185490",
-    "accession_number":"1986-61-219",
-    "title":"Jug, ca. 1800\u201310",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621343\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237591",
-    "date":"ca. 1800\u201310",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"McKearin's Antiques, Hoosick Falls, NY; about 1940 Phelps Warren, NY",
-    "dimensions":"11.6 x 17 x 7.5 cm (4 9\/16 x 6 11\/16 x 2 15\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Straigh-sided oval body with shaped lip, pouring spout, notched loop handlesides cut with sallow faceting under lip, then bands of diamonds, vertical flute, diamonds and wide flutes; a star on the bottom; glass bubbly, bluish",
-    "justification":null,
-    "type":{
-        "id":"35237591",
-        "name":"jug"
+    "id": "18621343",
+    "tms:id": "185490",
+    "accession_number": "1986-61-219",
+    "title": "Jug, ca. 1800\u201310",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621343\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237591",
+    "date": "ca. 1800\u201310",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "McKearin's Antiques, Hoosick Falls, NY; about 1940 Phelps Warren, NY",
+    "dimensions": "11.6 x 17 x 7.5 cm (4 9\/16 x 6 11\/16 x 2 15\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "7.50",
+            "centimeters"
+        ],
+        "height": [
+            "11.60",
+            "centimeters"
+        ],
+        "width": [
+            "17.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Straigh-sided oval body with shaped lip, pouring spout, notched loop handlesides cut with sallow faceting under lip, then bands of diamonds, vertical flute, diamonds and wide flutes; a star on the bottom; glass bubbly, bluish",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "jug",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112720_1935a8f068e0b4ea_b.jpg",
+                "width": 1024,
+                "height": 877,
+                "is_primary": "1",
+                "image_id": "112720"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112720_1935a8f068e0b4ea_z.jpg",
+                "width": 640,
+                "height": 548,
+                "is_primary": "1",
+                "image_id": "112720"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112720_1935a8f068e0b4ea_n.jpg",
+                "width": 320,
+                "height": 274,
+                "is_primary": "1",
+                "image_id": "112720"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112720_1935a8f068e0b4ea_d.gif",
+                "width": 320,
+                "height": 274,
+                "is_primary": "1",
+                "image_id": "112720"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112720_1935a8f068e0b4ea_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112720"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Jug, ca. 1800\u201310.\nca. 1800\u201310. glass. Bequest of Walter Phelps Warren. 1986-61-219."
+    "tombstone": {
+        "epitaph": "Jug, ca. 1800\u201310. glass. \nBequest of Walter Phelps Warren. 1986-61-219"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a4a5a7",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "is_loan_object": 0
 }

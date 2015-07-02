@@ -1,42 +1,129 @@
 {
-    "id":"18312603",
-    "tms:id":"42140",
-    "accession_number":"1926-22-97-a\/e",
-    "title":"Clock, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18312603\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371679",
-    "type_id":"35249083",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1926",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":"wood, lacquer, gilding",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 34 x 18.5 x 18.5 cm (13 3\/8 x 7 5\/16 x 7 5\/16 in.)",
-    "creditline":"Bequest of Mrs. John Innes Kane",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249083",
-        "name":"clock"
+    "id": "18312603",
+    "tms:id": "42140",
+    "accession_number": "1926-22-97-a\/e",
+    "title": "Clock (Japan), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18312603\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371679",
+    "type_id": "35249083",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1926",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "wood, lacquer, gilding",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 34 x 18.5 x 18.5 cm (13 3\/8 x 7 5\/16 x 7 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "18.50",
+            "centimeters"
+        ],
+        "height": [
+            "34.00",
+            "centimeters"
+        ],
+        "width": [
+            "18.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Mrs. John Innes Kane",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "clock",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105904_b362c01acc7015c1_b.jpg",
+                "width": 751,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "105904"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105904_b362c01acc7015c1_z.jpg",
+                "width": 469,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "105904"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105904_b362c01acc7015c1_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105904"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105904_b362c01acc7015c1_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105904"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105904_b362c01acc7015c1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105904"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049373",
+            "role_id": "35351537",
+            "person_name": "Mrs. John Innes Kane",
+            "person_date": "American, d. 1926",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049373\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Clock, 18th century.\n18th century. wood, lacquer, gilding. Bequest of Mrs. John Innes Kane. 1926-22-97-a\/e."
+    "tombstone": {
+        "epitaph": "Clock (Japan), 18th century. wood, lacquer, gilding. \nBequest of Mrs. John Innes Kane. 1926-22-97-a\/e"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#30231f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5c534b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#56362e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#7b6f60",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

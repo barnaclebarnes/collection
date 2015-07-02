@@ -1,42 +1,119 @@
 {
-    "id":"18349699",
-    "tms:id":"58489",
-    "accession_number":"1938-57-345",
-    "title":"Vase",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18349699\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402647",
-    "type_id":"35237225",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":"earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 17.3 x 5.8 cm (6 13\/16 x 2 5\/16 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18349699",
+    "tms:id": "58489",
+    "accession_number": "1938-57-345",
+    "title": "Vase (Japan)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18349699\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35237225",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 17.3 x 5.8 cm (6 13\/16 x 2 5\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "5.80",
+            "centimeters"
+        ],
+        "height": [
+            "17.30",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109449_2f4ccde6ab0b2390_b.jpg",
+                "width": 854,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109449"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109449_2f4ccde6ab0b2390_z.jpg",
+                "width": 534,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109449"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109449_2f4ccde6ab0b2390_n.jpg",
+                "width": 267,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109449"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109449_2f4ccde6ab0b2390_d.gif",
+                "width": 267,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109449"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109449_2f4ccde6ab0b2390_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109449"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Vase.\nearthenware. Bequest of Erskine Hewitt. 1938-57-345."
+    "tombstone": {
+        "epitaph": "Vase (Japan). earthenware. \nBequest of Erskine Hewitt. 1938-57-345"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#cab695",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#99856b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#736553",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

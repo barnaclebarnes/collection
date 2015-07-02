@@ -1,76 +1,178 @@
 {
-    "id":"18350001",
-    "tms:id":"58613",
-    "accession_number":"1938-57-448-b",
-    "title":"Bowl, ca. 1780",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18350001\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51585337",
-    "type_id":"35237197",
-    "date":"ca. 1780",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Gilt and glazed porcelain",
-    "markings":"none",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Erskine Hewitt; 1938: acquired by Museum",
-    "dimensions":"H x diam.: 6.2 x 23.8 cm (2 7\/16 x 9 3\/8 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":"Gold and blue rimmed bowl; at center, a view of a white brick palazzo, flanked by two towers, facing a garden with figures.",
-    "justification":null,
-    "type":{
-        "id":"35237197",
-        "name":"Bowl"
+    "id": "18350001",
+    "tms:id": "58613",
+    "accession_number": "1938-57-448-b",
+    "title": "Bowl (Italy), ca. 1780",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18350001\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51585329",
+    "type_id": "35237197",
+    "date": "ca. 1780",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Gilt and glazed porcelain",
+    "markings": "none",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Erskine Hewitt; 1938: acquired by Museum",
+    "dimensions": "H x diam.: 6.2 x 23.8 cm (2 7\/16 x 9 3\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "23.80",
+            "centimeters"
+        ],
+        "height": [
+            "6.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": "Gold and blue rimmed bowl; at center, a view of a white brick palazzo, flanked by two towers, facing a garden with figures.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Bowl",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47448_e04431acc4950d74_b.jpg",
-                "width":1024,
-                "height":1001,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111016_d44285c8dad465f2_b.jpg",
+                "width": 1024,
+                "height": 654,
+                "is_primary": "1",
+                "image_id": "111016"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47448_e04431acc4950d74_n.jpg",
-                "width":320,
-                "height":313,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111016_d44285c8dad465f2_z.jpg",
+                "width": 640,
+                "height": 408,
+                "is_primary": "1",
+                "image_id": "111016"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47448_e04431acc4950d74_z.jpg",
-                "width":640,
-                "height":626,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111016_d44285c8dad465f2_n.jpg",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "111016"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111016_d44285c8dad465f2_d.gif",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "111016"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111016_d44285c8dad465f2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111016"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47448_c61e15df4f057cbd_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "47448"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47448_c61e15df4f057cbd_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "47448"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47448_c61e15df4f057cbd_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "47448"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47448_c61e15df4f057cbd_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "47448"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47448_c61e15df4f057cbd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "47448"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Bowl, ca. 1780.\nca. 1780. Gilt and glazed porcelain. Bequest of Erskine Hewitt. 1938-57-448-b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#4b464e",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18058569",
+            "role_id": "35236657",
+            "person_name": "Doccia Porcelain Manufactory",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058569\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#755f40",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#a39582",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#947c59",
-            "closest_css3":"#808080"
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Bowl (Italy), ca. 1780. Gilt and glazed porcelain. \nBequest of Erskine Hewitt. 1938-57-448-b"
+    },
+    "colors": [
+        {
+            "color": "#9a9a90",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#948569",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#beb296",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#686259",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3b3c4b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

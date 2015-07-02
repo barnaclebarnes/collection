@@ -1,42 +1,122 @@
 {
-    "id":"18388967",
-    "tms:id":"104628",
-    "accession_number":"1951-60-25",
-    "title":"Border, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18388967\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35237285",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1951",
-    "decade":null,
-    "woe:country":"23424757",
-    "medium":"Medium: linen\nTechnique: bobbin lace, late Valencienne ground, with Brussels motifs",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. R. Keith Kane from the estate of Mrs. Robert B. Noyes",
-    "description":"Border resembling Valenciennes type, but made in Belgium. Design of floral, leaf and scroll forms. R\u00e9seau: twisted square shape; modes: fond de neige, portes. Valencienne ground hooked into Brussels motifs.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
-    },
-    "images":[
-
+    "id": "18388967",
+    "tms:id": "104628",
+    "accession_number": "1951-60-25",
+    "title": "Edge (Belgium), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18388967\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35285443",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1951",
+    "decade": null,
+    "woe:country_id": "23424757",
+    "medium": "Medium: linen\nTechnique: bobbin lace, late twisted Valencienne ground, with Brussels motifs",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. R. Keith Kane from the estate of Mrs. Robert B. Noyes",
+    "description": "Border resembling Valenciennes type, but made in Belgium. Design of floral, leaf and scroll forms. Twisted Valencienne ground hooked into Brussels motifs.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424757",
+    "type": "Edge",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72667_36b2282017f684e3_b.jpg",
+                "width": 1024,
+                "height": 345,
+                "is_primary": "1",
+                "image_id": "72667"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72667_36b2282017f684e3_z.jpg",
+                "width": 640,
+                "height": 216,
+                "is_primary": "1",
+                "image_id": "72667"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72667_36b2282017f684e3_n.jpg",
+                "width": 320,
+                "height": 108,
+                "is_primary": "1",
+                "image_id": "72667"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72667_36b2282017f684e3_d.gif",
+                "width": 320,
+                "height": 108,
+                "is_primary": "1",
+                "image_id": "72667"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72667_36b2282017f684e3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "72667"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539321",
+            "role_id": "35351535",
+            "person_name": "Mrs. R. Keith Kane",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Border, 19th century.\n19th century. Medium: linen\nTechnique: bobbin lace, late Valencienne ground, with Brussels motifs. Gift of Mrs. R. Keith Kane from the estate of Mrs. Robert B. Noyes. 1951-60-25."
+    "tombstone": {
+        "epitaph": "Edge (Belgium), 19th century. Medium: linen\nTechnique: bobbin lace, late twisted Valencienne ground, with Brussels motifs. \nGift of Mrs. R. Keith Kane from the estate of Mrs. Robert B. Noyes. 1951-60-25"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a6afb1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#161327",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#6e7379",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#51535e",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2d3141",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Belgium",
+    "is_loan_object": 0
 }

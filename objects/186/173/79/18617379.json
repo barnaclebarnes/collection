@@ -1,49 +1,131 @@
 {
-    "id":"18617379",
-    "tms:id":"177222",
-    "accession_number":"1981-29-156",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617379\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617379",
+    "tms:id": "177222",
+    "accession_number": "1981-29-156",
+    "title": "Poster, Alan Arkin in The Defection of Simas Kudirka",
+    "title_raw": "Alan Arkin in The Defection of Simas Kudirka",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617379\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Imprinted in black ink, right margin: DESIGN: WILLIAM WONDRISKA",
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "96.4 x 66.3 cm (37 15\/16 x 26 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "96.40",
+            "centimeters"
+        ],
+        "width": [
+            "66.30",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "White poster with text in black and orange silhouetted bird.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"34624575",
-            "role_id":"35236655",
-            "person_name":"William Wondriska",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/34624575\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82314_0c5747d6772b758c_b.jpg",
+                "width": 702,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82314"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82314_0c5747d6772b758c_z.jpg",
+                "width": 438,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82314"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82314_0c5747d6772b758c_n.jpg",
+                "width": 219,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82314"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82314_0c5747d6772b758c_d.gif",
+                "width": 219,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82314"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82314_0c5747d6772b758c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82314"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster.\nGift of Various Donors. 1981-29-156."
+    "participants": [
+        {
+            "person_id": "34624575",
+            "role_id": "35236655",
+            "person_name": "William Wondriska",
+            "person_date": "American, b. 1931",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/34624575\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Alan Arkin in The Defection of Simas Kudirka. Lithograph on paper. \nGift of Various Donors. 1981-29-156"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#dadacc",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#37342e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#635f53",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#939082",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b06d38",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

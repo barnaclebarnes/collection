@@ -1,80 +1,130 @@
 {
-    "id":"18564353",
-    "tms:id":"75377",
-    "accession_number":"1941-69-66",
-    "title":"Sampler, 1832",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564353\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427163",
-    "type_id":"35256439",
-    "date":"1832",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk embroidery on linen\nTechnique: cross, satin, and back stitches on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"embroidered \"FAIT AN 1832 V P Q\"",
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"Warp x Weft: 17 x 27 cm (6 11\/16 x 10 5\/8 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"Vase of flowers in center of other ornaments. Sampler may have been made in France or in a school in another country where French was taught to young women.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18564353",
+    "tms:id": "75377",
+    "accession_number": "1941-69-66",
+    "title": "Sampler, 1832",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564353\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427163",
+    "type_id": "35256439",
+    "date": "1832",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk embroidery on linen\nTechnique: cross, satin, and back stitches on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "embroidered \"FAIT AN 1832 V P Q\"",
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "Warp x Weft: 17 x 27 cm (6 11\/16 x 10 5\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "17.00",
+            "centimeters"
+        ],
+        "weft": [
+            "27.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "Vase of flowers in center of other ornaments. Sampler may have been made in France or in a school in another country where French was taught to young women.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29061_391e1efa55f6459f_b.jpg",
-                "width":1024,
-                "height":683,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29061_391e1efa55f6459f_b.jpg",
+                "width": 1024,
+                "height": 683,
+                "is_primary": "1",
+                "image_id": "29061"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29061_391e1efa55f6459f_n.jpg",
-                "width":320,
-                "height":213,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29061_391e1efa55f6459f_z.jpg",
+                "width": 640,
+                "height": 427,
+                "is_primary": "1",
+                "image_id": "29061"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29061_391e1efa55f6459f_z.jpg",
-                "width":640,
-                "height":427,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29061_391e1efa55f6459f_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "29061"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29061_391e1efa55f6459f_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "29061"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29061_391e1efa55f6459f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "29061"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1832.\n1832. Medium: silk embroidery on linen\nTechnique: cross, satin, and back stitches on plain weave. Bequest of Mrs. Henry E. Coe. 1941-69-66."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#36497e",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#a99a9e",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#c6bcc8",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#916250",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#6b3c2d",
-            "closest_css3":"#8b4513"
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler, 1832. Medium: silk embroidery on linen\nTechnique: cross, satin, and back stitches on plain weave. \nBequest of Mrs. Henry E. Coe. 1941-69-66"
+    },
+    "colors": [
+        {
+            "color": "#aa9a9f",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#8b5c4a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#c8c0cd",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#a1a8ae",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#4c2a20",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

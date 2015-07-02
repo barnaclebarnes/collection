@@ -1,42 +1,104 @@
 {
-    "id":"18548321",
-    "tms:id":"67259",
-    "accession_number":"1938-88-6406",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18548321\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
-
+    "id": "18548321",
+    "tms:id": "67259",
+    "accession_number": "1938-88-6406",
+    "title": "Drawing (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18548321\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92653_94c70962f0efa72b_b.jpg",
+                "width": 634,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92653"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92653_94c70962f0efa72b_z.jpg",
+                "width": 396,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92653"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92653_94c70962f0efa72b_n.jpg",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92653"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92653_94c70962f0efa72b_d.gif",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92653"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92653_94c70962f0efa72b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92653"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042677",
+            "role_id": "35236565",
+            "person_name": "Filippo Marchionni",
+            "person_date": "Italian, 1732\u20131805",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042677\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-6406."
+    "tombstone": {
+        "epitaph": "Drawing (Italy). \nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-6406"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#aea799",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#888177",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

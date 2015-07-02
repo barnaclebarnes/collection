@@ -1,42 +1,135 @@
 {
-    "id":"18318503",
-    "tms:id":"44504",
-    "accession_number":"1931-4-94",
-    "title":"Border, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18318503\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35237285",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424757",
-    "medium":"Medium: linen\nTechnique: Brussels style bobbin lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 45.7 x 10 cm (18 x 3 15\/16 in.)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt",
-    "description":"Design of scrolling vine at lower border with some branches curving up to top edge. Leaves solid while blossoms have some openwork. Known as \"Point Duchesse.\"",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18318503",
+    "tms:id": "44504",
+    "accession_number": "1931-4-94",
+    "title": "Border (Belgium), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18318503\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35237285",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424757",
+    "medium": "Medium: linen\nTechnique: Brussels style bobbin lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 45.7 x 10 cm (18 x 3 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "45.70",
+            "centimeters"
+        ],
+        "width": [
+            "10.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt",
+    "description": "Design of scrolling vine at lower border with some branches curving up to top edge. Leaves solid while blossoms have some openwork. Known as \"Point Duchesse.\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424757",
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69360_017730a9d13994bd_b.jpg",
+                "width": 1024,
+                "height": 547,
+                "is_primary": "1",
+                "image_id": "69360"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69360_017730a9d13994bd_z.jpg",
+                "width": 640,
+                "height": 342,
+                "is_primary": "1",
+                "image_id": "69360"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69360_017730a9d13994bd_n.jpg",
+                "width": 320,
+                "height": 171,
+                "is_primary": "1",
+                "image_id": "69360"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69360_017730a9d13994bd_d.gif",
+                "width": 320,
+                "height": 171,
+                "is_primary": "1",
+                "image_id": "69360"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69360_017730a9d13994bd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "69360"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Border, 19th century.\n19th century. Medium: linen\nTechnique: Brussels style bobbin lace. Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt. 1931-4-94."
+    "tombstone": {
+        "epitaph": "Border (Belgium), 19th century. Medium: linen\nTechnique: Brussels style bobbin lace. \nGift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt. 1931-4-94"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#383945",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a4a7ae",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#7a7f89",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#61656f",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Belgium",
+    "is_loan_object": 0
 }

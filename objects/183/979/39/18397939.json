@@ -1,42 +1,109 @@
 {
-    "id":"18397939",
-    "tms:id":"109135",
-    "accession_number":"1953-34-9",
-    "title":"Handkerchief",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18397939\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"112617",
-    "type_id":"35264069",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: embroidered",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Richard C. Greenleaf",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35264069",
-        "name":"Handkerchief"
-    },
-    "images":[
-
+    "id": "18397939",
+    "tms:id": "109135",
+    "accession_number": "1953-34-9",
+    "title": "Handkerchief",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18397939\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "112617",
+    "type_id": "35264069",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: embroidered",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Richard C. Greenleaf",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Handkerchief",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73052_2178f79352aeebde_b.jpg",
+                "width": 986,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "73052"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73052_2178f79352aeebde_z.jpg",
+                "width": 616,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "73052"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73052_2178f79352aeebde_n.jpg",
+                "width": 308,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "73052"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73052_2178f79352aeebde_d.gif",
+                "width": 308,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "73052"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73052_2178f79352aeebde_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "73052"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049377",
+            "role_id": "35351535",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Handkerchief.\nTechnique: embroidered. Gift of Richard C. Greenleaf. 1953-34-9."
+    "tombstone": {
+        "epitaph": "Handkerchief. Technique: embroidered. \nGift of Richard C. Greenleaf. 1953-34-9"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#182432",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#cbdce3",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#606d78",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

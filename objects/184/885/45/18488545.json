@@ -1,42 +1,131 @@
 {
-    "id":"18488545",
-    "tms:id":"155141",
-    "accession_number":"1975-60-40",
-    "title":"Textile, ca. 1805",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18488545\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1805",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1975",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: block printed on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from General Acquisitions Endowment",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18488545",
+    "tms:id": "155141",
+    "accession_number": "1975-60-40",
+    "title": "Textile (England), ca. 1805",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18488545\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1805",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1975",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: block printed on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 43 x 42 cm (16 15\/16 x 16 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "43.00",
+            "centimeters"
+        ],
+        "width": [
+            "42.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from General Acquisitions Endowment",
+    "description": "Diamond lattice decorated by a brown scroll pattern enclosing an oak leaf on a yellow background. Blue warp a right edge.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76684_4f456d9747600851_b.jpg",
+                "width": 789,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "76684"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76684_4f456d9747600851_z.jpg",
+                "width": 493,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "76684"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76684_4f456d9747600851_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76684"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76684_4f456d9747600851_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76684"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76684_4f456d9747600851_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76684"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1805.\nca. 1805. Medium: cotton\nTechnique: block printed on plain weave foundation. Museum purchase from General Acquisitions Endowment. 1975-60-40."
+    "tombstone": {
+        "epitaph": "Textile (England), ca. 1805. Medium: cotton\nTechnique: block printed on plain weave foundation. \nMuseum purchase from General Acquisitions Endowment. 1975-60-40"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8a8185",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#462823",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#c4b4ab",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#67646b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#876957",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

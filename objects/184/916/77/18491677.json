@@ -1,87 +1,225 @@
 {
-    "id":"18491677",
-    "tms:id":"156719",
-    "accession_number":"1976-98-9",
-    "title":"Textile, 1930s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18491677\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1930s",
-    "year_start":"1930",
-    "year_end":"1939",
-    "year_acquired":"1976",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: hand screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"In pencil on back: S. Silver Age 11",
-    "provenance":null,
-    "dimensions":"H x W: 118.1 x 92.7 cm (46 1\/2 x 36 1\/2 in.)",
-    "creditline":"Gift of the Estate of Ella Ostrowsky",
-    "description":"Textile with printed repeat. Design of a rabbit among grass and flowers, path leading to a house, four trees, and sky with clouds. Printed in red, green, and blue (red and green to make brown, red and blue to make purple).",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18491677",
+    "tms:id": "156719",
+    "accession_number": "1976-98-9",
+    "title": "Textile (USA), 1930s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18491677\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1930s",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1976",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: hand screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "In pencil on back: S. Silver Age 11",
+    "provenance": null,
+    "dimensions": "H x W: 118.1 x 92.7 cm (46 1\/2 x 36 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "118.11",
+            "centimeters"
+        ],
+        "width": [
+            "92.71",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of Ella Ostrowsky",
+    "description": "Textile with printed repeat. Design of a rabbit among grass and flowers, path leading to a house, four trees, and sky with clouds. Printed in red, green, and blue (red and green to make brown, red and blue to make purple).",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45293_e96f7f3d04752abc_b.jpg",
-                "width":798,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107266_b1f70506c83c254b_b.jpg",
+                "width": 792,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "107266"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45293_e96f7f3d04752abc_n.jpg",
-                "width":249,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107266_b1f70506c83c254b_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "107266"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45293_e96f7f3d04752abc_z.jpg",
-                "width":499,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107266_b1f70506c83c254b_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107266"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107266_b1f70506c83c254b_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107266"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107266_b1f70506c83c254b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107266"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76935_4f173fef891cf001_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "76935"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76935_4f173fef891cf001_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "76935"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76935_4f173fef891cf001_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "76935"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76935_4f173fef891cf001_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "76935"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76935_4f173fef891cf001_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "76935"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45293_c85f7ff8fea5a4f7_b.jpg",
+                "width": 832,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "45293"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45293_c85f7ff8fea5a4f7_z.jpg",
+                "width": 520,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "45293"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45293_c85f7ff8fea5a4f7_n.jpg",
+                "width": 260,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "45293"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45293_c85f7ff8fea5a4f7_d.gif",
+                "width": 260,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "45293"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45293_c85f7ff8fea5a4f7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "45293"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049575",
-            "role_id":"35236793",
-            "person_name":"The Educational Alliance",
-            "role_name":"Student at",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049575\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236793\/"
+            "person_id": "18049575",
+            "role_id": "35236793",
+            "person_name": "The Educational Alliance",
+            "person_date": "",
+            "role_name": "Student at",
+            "role_display_name": "Student at",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049575\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236793\/"
+        },
+        {
+            "person_id": "34624799",
+            "role_id": "35236685",
+            "person_name": "S. Silver",
+            "person_date": "American",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/34624799\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18537843",
+            "role_id": "35351535",
+            "person_name": "Estate of Ella Ostrowsky",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537843\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1930s.\n1930s. Medium: cotton\nTechnique: hand screen printed on plain weave. Gift of the Estate of Ella Ostrowsky. 1976-98-9."
+    "tombstone": {
+        "epitaph": "Textile (USA), 1930s. Medium: cotton\nTechnique: hand screen printed on plain weave. \nGift of the Estate of Ella Ostrowsky. 1976-98-9"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#eee2cd",
-            "closest_css3":"#faebd7"
+            "color": "#dde1ca",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#758b66",
-            "closest_css3":"#808080"
+            "color": "#799777",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#6f4737",
-            "closest_css3":"#556b2f"
+            "color": "#80555a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#7591b2",
-            "closest_css3":"#778899"
+            "color": "#84a0b0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
         },
         {
-            "color":"#9d9e8a",
-            "closest_css3":"#8fbc8f"
+            "color": "#c1665f",
+            "closest_crayola": "#bc5d58",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

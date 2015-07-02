@@ -1,42 +1,137 @@
 {
-    "id":"18434487",
-    "tms:id":"127663",
-    "accession_number":"1960-79-48-a\/c",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18434487\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367167",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1960",
-    "decade":null,
-    "woe:country":null,
-    "medium":"printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Harold M. Bailey",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18434487",
+    "tms:id": "127663",
+    "accession_number": "1960-79-48-a\/c",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18434487\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367167",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1960",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Harold M. Bailey",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82569_7ae5a0e5bd5000a0_b.jpg",
+                "width": 1024,
+                "height": 763,
+                "is_primary": "1",
+                "image_id": "82569"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82569_7ae5a0e5bd5000a0_z.jpg",
+                "width": 640,
+                "height": 477,
+                "is_primary": "1",
+                "image_id": "82569"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82569_7ae5a0e5bd5000a0_n.jpg",
+                "width": 320,
+                "height": 238,
+                "is_primary": "1",
+                "image_id": "82569"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82569_7ae5a0e5bd5000a0_d.gif",
+                "width": 320,
+                "height": 238,
+                "is_primary": "1",
+                "image_id": "82569"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82569_7ae5a0e5bd5000a0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82569"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86675_e094155d05c512f1_b.jpg",
+                "width": null,
+                "height": null,
+                "is_primary": "0",
+                "image_id": "86675"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86675_e094155d05c512f1_z.jpg",
+                "width": 640,
+                "height": 624,
+                "is_primary": "0",
+                "image_id": "86675"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18051481",
+            "role_id": "35351535",
+            "person_name": "Harold M. Bailey",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nprinted. Gift of Harold M. Bailey. 1960-79-48-a\/c."
+    "tombstone": {
+        "epitaph": "Textile. printed. \nGift of Harold M. Bailey. 1960-79-48-a\/c"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a6a287",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7c7d6f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#61686b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2a3349",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#495465",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

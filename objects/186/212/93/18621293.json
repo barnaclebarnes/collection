@@ -1,42 +1,107 @@
 {
-    "id":"18621293",
-    "tms:id":"185465",
-    "accession_number":"1986-61-197",
-    "title":"Goblet, ca. 1820\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621293\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35250731",
-    "date":"ca. 1820\u201330",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424803",
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Delomosne and Son, Ltd, London (by gift of Martin C.F. Mortimer); 1966 WPW, NY",
-    "dimensions":"H x W: 9.7 x 5.6 cm (3 13\/16 x 2 3\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"3-part blown molded; straignt flaring sides, tall stem with central knop, wipde flat circular foot, molded pattern of diamonds with blazes above and vertical fluting below; ground pontil mark below.",
-    "justification":null,
-    "type":{
-        "id":"35250731",
-        "name":"goblet"
+    "id": "18621293",
+    "tms:id": "185465",
+    "accession_number": "1986-61-197",
+    "title": "Goblet (Ireland), ca. 1820\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621293\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35250731",
+    "date": "ca. 1820\u201330",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424803",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Delomosne and Son, Ltd, London (by gift of Martin C.F. Mortimer); 1966 WPW, NY",
+    "dimensions": "H x W: 9.7 x 5.6 cm (3 13\/16 x 2 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "9.70",
+            "centimeters"
+        ],
+        "width": [
+            "5.60",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "3-part blown molded; straignt flaring sides, tall stem with central knop, wipde flat circular foot, molded pattern of diamonds with blazes above and vertical fluting below; ground pontil mark below.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424803",
+    "type": "goblet",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112838_e7198ef4cf320577_b.jpg",
+                "width": 760,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112838"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112838_e7198ef4cf320577_z.jpg",
+                "width": 475,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112838"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112838_e7198ef4cf320577_n.jpg",
+                "width": 238,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112838"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112838_e7198ef4cf320577_d.gif",
+                "width": 238,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112838"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112838_e7198ef4cf320577_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112838"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Goblet, ca. 1820\u201330.\nca. 1820\u201330. glass. Bequest of Walter Phelps Warren. 1986-61-197."
+    "tombstone": {
+        "epitaph": "Goblet (Ireland), ca. 1820\u201330. glass. \nBequest of Walter Phelps Warren. 1986-61-197"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#7b7974",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Ireland",
+    "is_loan_object": 0
 }

@@ -1,95 +1,183 @@
 {
-    "id":"18632815",
-    "tms:id":"191250",
-    "accession_number":"1989-41-129",
-    "title":"Figure, \"Maria\", 1923",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18632815\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35393671",
-    "type_id":"35237189",
-    "date":"1923",
-    "year_start":"1923",
-    "year_end":"1923",
-    "year_acquired":"1989",
-    "decade":"1920",
-    "woe:country":null,
-    "medium":"Porcelain, enamel, gilding",
-    "markings":"underside: hammer, sickle, cog hand-painted in blue overglaze",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"The Henry and Ludmilla Shapiro Collection",
-    "dimensions":"H: 6.4 cm (2 1\/2 in.)",
-    "creditline":"The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
-    "description":"Woman wearing blue veil and holding rosary, seated on polychrome patterned cushion",
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18632815",
+    "tms:id": "191250",
+    "accession_number": "1989-41-129",
+    "title": "Maria Figure, 1923",
+    "title_raw": "Maria",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18632815\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68249249",
+    "type_id": "35237189",
+    "date": "1923",
+    "year_start": 1923,
+    "year_end": 1923,
+    "year_acquired": "1989",
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "Gilt and enameled porcelain",
+    "markings": "underside: hammer, sickle, cog hand-painted in blue overglaze",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "The Henry and Ludmilla Shapiro Collection; 1989: acquired by Museum",
+    "dimensions": "H: 6.4 cm (2 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "6.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
+    "description": "Woman wearing blue veil and holding rosary, seated on polychrome patterned cushion.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Figure",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11023_29f58747a62a4d84_b.jpg",
-                "width":709,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11023_29f58747a62a4d84_b.jpg",
+                "width": 709,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "11023"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11023_29f58747a62a4d84_n.jpg",
-                "width":222,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11023_29f58747a62a4d84_z.jpg",
+                "width": 443,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "11023"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11023_29f58747a62a4d84_z.jpg",
-                "width":443,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11023_29f58747a62a4d84_n.jpg",
+                "width": 222,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "11023"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11023_29f58747a62a4d84_d.gif",
+                "width": 222,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "11023"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11023_29f58747a62a4d84_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "11023"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115498_97b204c8a94ca6ba_b.jpg",
+                "width": 1024,
+                "height": 951,
+                "is_primary": "0",
+                "image_id": "115498"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115498_97b204c8a94ca6ba_z.jpg",
+                "width": 640,
+                "height": 594,
+                "is_primary": "0",
+                "image_id": "115498"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115498_97b204c8a94ca6ba_n.jpg",
+                "width": 320,
+                "height": 297,
+                "is_primary": "0",
+                "image_id": "115498"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115498_97b204c8a94ca6ba_d.gif",
+                "width": 320,
+                "height": 297,
+                "is_primary": "0",
+                "image_id": "115498"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115498_97b204c8a94ca6ba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "115498"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045193",
-            "role_id":"35236655",
-            "person_name":"Natalya Yakovlevna Danko",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045193\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18047827",
+            "role_id": "35352245",
+            "person_name": "Deborah S. Shinn",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18045179",
-            "role_id":"35236657",
-            "person_name":"State Porcelain Factory",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045179\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18045193",
+            "role_id": "35236655",
+            "person_name": "Natalya Yakovlevna Danko",
+            "person_date": "Russian, b. Georgia, 1892\u20131942",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045193\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18045179",
+            "role_id": "35236657",
+            "person_name": "State Porcelain Factory",
+            "person_date": "Leningrad, USSR, founded 1918",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045179\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Figure, \"Maria\", 1923.\n1923. Porcelain, enamel, gilding. The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-129."
+    "tombstone": {
+        "epitaph": "Maria Figure, 1923. Gilt and enameled porcelain. \nThe Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-129"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#22212b",
-            "closest_css3":"#2f4f4f"
+            "color": "#6a6c8c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#4d4959",
-            "closest_css3":"#2f4f4f"
+            "color": "#c0b0ba",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#686889",
-            "closest_css3":"#708090"
+            "color": "#8a7b83",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#ebd7d8",
-            "closest_css3":"#dcdcdc"
+            "color": "#ecd8da",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#ab9ba7",
-            "closest_css3":"#a9a9a9"
+            "color": "#655862",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

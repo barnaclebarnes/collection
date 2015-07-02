@@ -1,42 +1,116 @@
 {
-    "id":"18558575",
-    "tms:id":"72488",
-    "accession_number":"1940-120-36",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18558575\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1940",
-    "decade":null,
-    "woe:country":"23424750",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mary Hearn Greims",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18558575",
+    "tms:id": "72488",
+    "accession_number": "1940-120-36",
+    "title": "Drawing, Wallpaper Design, 1850\u201360",
+    "title_raw": "Wallpaper Design",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18558575\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35421791",
+    "type_id": "35237093",
+    "date": "1850\u201360",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1940",
+    "decade": null,
+    "woe:country_id": "23424750",
+    "medium": "Brush and gouache, graphite on white paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1940: acquired by Museum",
+    "dimensions": "33 x 24.3 cm (13 in. x 9 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.00",
+            "centimeters"
+        ],
+        "width": [
+            "24.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Mary Hearn Greims",
+    "description": "A dado is shown at the bottom, an entablature on top. The panel shows vertical rows of two intertwined waved bands which are formed by boughs with leaves. For these is alternatively suggested to color those at left of the bands white and those at right dark, or to color those of one band white and those of the other dark. Purple stripes are beneath the entablature.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63509_400c60b210c37407_b.jpg",
+                "width": 743,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63509"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63509_400c60b210c37407_z.jpg",
+                "width": 464,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63509"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63509_400c60b210c37407_n.jpg",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63509"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63509_400c60b210c37407_d.gif",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63509"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63509_400c60b210c37407_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63509"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mary Hearn Greims. 1940-120-36."
+    "tombstone": {
+        "epitaph": "Drawing, Wallpaper Design, 1850\u201360. Brush and gouache, graphite on white paper. \nMuseum purchase through gift of Mary Hearn Greims. 1940-120-36"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d0ccac",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#7e7f90",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#876b64",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#656168",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

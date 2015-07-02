@@ -1,80 +1,170 @@
 {
-    "id":"18429647",
-    "tms:id":"125216",
-    "accession_number":"1960-1-70",
-    "title":"Figure, \"America\", 1722\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18429647\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35237189",
-    "date":"1722\u201330",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1960",
-    "decade":null,
-    "woe:country":"23424750",
-    "medium":"Porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of James Hazen Hyde",
-    "dimensions":"H: 20 x L: 17.3 x W: 9.7 cm",
-    "creditline":"Gift of the Estate of James Hazen Hyde",
-    "description":"Figure dressed in diapered tunic and knee-length trousers, feather skirt and headdress, with quiver onback; seated cross-legged on cushion, holding lamp in each hand.",
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18429647",
+    "tms:id": "125216",
+    "accession_number": "1960-1-70",
+    "title": "America Figure, 1722\u201330",
+    "title_raw": "America",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18429647\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237189",
+    "date": "1722\u201330",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1960",
+    "decade": null,
+    "woe:country_id": "23424750",
+    "medium": "Porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of James Hazen Hyde",
+    "dimensions": "H: 20 x L: 17.3 x W: 9.7 cm",
+    "dimensions_raw": {
+        "height": [
+            "20.00",
+            "centimeters"
+        ],
+        "length": [
+            "17.30",
+            "centimeters"
+        ],
+        "width": [
+            "9.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of James Hazen Hyde",
+    "description": "Figure dressed in diapered tunic and knee-length trousers, feather skirt and headdress, with quiver onback; seated cross-legged on cushion, holding lamp in each hand.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Figure",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6091_7b3ea4842a951d57_b.jpg",
-                "width":767,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108078_96e45de039acead2_b.jpg",
+                "width": 930,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108078"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6091_7b3ea4842a951d57_n.jpg",
-                "width":240,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108078_96e45de039acead2_z.jpg",
+                "width": 581,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108078"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6091_7b3ea4842a951d57_z.jpg",
-                "width":480,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108078_96e45de039acead2_n.jpg",
+                "width": 291,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108078"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108078_96e45de039acead2_d.gif",
+                "width": 291,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108078"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108078_96e45de039acead2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108078"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6091_7b3ea4842a951d57_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "6091"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6091_7b3ea4842a951d57_z.jpg",
+                "width": 480,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "6091"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6091_7b3ea4842a951d57_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6091"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6091_7b3ea4842a951d57_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6091"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6091_7b3ea4842a951d57_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "6091"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Figure, \"America\", 1722\u201330.\n1722\u201330. Porcelain. Gift of the Estate of James Hazen Hyde. 1960-1-70."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#464951",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18048035",
+            "role_id": "35352245",
+            "person_name": "Hedy Backlin-Landman",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#2a2a32",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#b5c2c3",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#808995",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#817679",
-            "closest_css3":"#808080"
+            "person_id": "18049369",
+            "role_id": "35351535",
+            "person_name": "Estate of James Hazen Hyde",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049369\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "America Figure, 1722\u201330. Porcelain. \nGift of the Estate of James Hazen Hyde. 1960-1-70"
+    },
+    "colors": [
+        {
+            "color": "#9d917e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6f6151",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#514539",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

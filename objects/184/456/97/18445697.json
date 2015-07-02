@@ -1,80 +1,158 @@
 {
-    "id":"18445697",
-    "tms:id":"133359",
-    "accession_number":"1962-56-75",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445697\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18445697",
+    "tms:id": "133359",
+    "accession_number": "1962-56-75",
+    "title": "Textile, 1750\u20131800",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445697\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "1750\u20131800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk\nTechnique: woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Light green ribbed silk brocaded with multicolored silk patterned with floral sprays and figures seated under a tree.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38086_b0e42eacba5df404_b.jpg",
-                "width":653,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38086_b0e42eacba5df404_b.jpg",
+                "width": 653,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "38086"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38086_b0e42eacba5df404_n.jpg",
-                "width":204,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38086_b0e42eacba5df404_z.jpg",
+                "width": 408,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "38086"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38086_b0e42eacba5df404_z.jpg",
-                "width":408,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38086_b0e42eacba5df404_n.jpg",
+                "width": 204,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "38086"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38086_b0e42eacba5df404_d.gif",
+                "width": 204,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "38086"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38086_b0e42eacba5df404_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "38086"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117974_8c307830b01e6cfc_b.jpg",
+                "width": 541,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "117974"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117974_8c307830b01e6cfc_z.jpg",
+                "width": 338,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "117974"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117974_8c307830b01e6cfc_n.jpg",
+                "width": 169,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "117974"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117974_8c307830b01e6cfc_d.gif",
+                "width": 169,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "117974"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117974_8c307830b01e6cfc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "117974"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-75."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cdd1a3",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#95b18d",
-            "closest_css3":"#8fbc8f"
-        },
-        {
-            "color":"#d1e1d8",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#aed8bb",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#9891ab",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, 1750\u20131800. Medium: silk\nTechnique: woven. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-75"
+    },
+    "colors": [
+        {
+            "color": "#7b9075",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b6c0b8",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#8984a1",
+            "closest_crayola": "#926eae",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#484b3f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a46d4f",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,80 +1,179 @@
 {
-    "id":"18635427",
-    "tms:id":"192561",
-    "accession_number":"1991-105-1",
-    "title":"Pot, 1991",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18635427\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402647",
-    "type_id":"35237689",
-    "date":"1991",
-    "year_start":"1991",
-    "year_end":"1991",
-    "year_acquired":"1991",
-    "decade":"1990",
-    "woe:country":"23424977",
-    "medium":"earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237689",
-        "name":"pot"
-    },
-    "images":[
+    "id": "18635427",
+    "tms:id": "192561",
+    "accession_number": "1991-105-1",
+    "title": "Pot (USA), 1991",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18635427\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35237689",
+    "date": "1991",
+    "year_start": 1991,
+    "year_end": 1991,
+    "year_acquired": "1991",
+    "decade": "1990",
+    "woe:country_id": "23424977",
+    "medium": "earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "pot",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12271_546763c73a475c84_b.jpg",
-                "width":1024,
-                "height":724,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112209_03b55f242742d90e_b.jpg",
+                "width": 1024,
+                "height": 654,
+                "is_primary": "1",
+                "image_id": "112209"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12271_546763c73a475c84_n.jpg",
-                "width":320,
-                "height":226,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112209_03b55f242742d90e_z.jpg",
+                "width": 640,
+                "height": 408,
+                "is_primary": "1",
+                "image_id": "112209"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12271_546763c73a475c84_z.jpg",
-                "width":640,
-                "height":453,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112209_03b55f242742d90e_n.jpg",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "112209"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112209_03b55f242742d90e_d.gif",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "112209"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112209_03b55f242742d90e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112209"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12271_546763c73a475c84_b.jpg",
+                "width": 1024,
+                "height": 724,
+                "is_primary": "0",
+                "image_id": "12271"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12271_546763c73a475c84_z.jpg",
+                "width": 640,
+                "height": 453,
+                "is_primary": "0",
+                "image_id": "12271"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12271_546763c73a475c84_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "12271"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12271_546763c73a475c84_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "12271"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12271_546763c73a475c84_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12271"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Pot, 1991.\n1991. earthenware. Museum purchase from Decorative Arts Association Acquisition Fund. 1991-105-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d1eaed",
-            "closest_css3":"#dcdcdc"
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
         },
         {
-            "color":"#c59460",
-            "closest_css3":"#cd853f"
+            "person_id": "51676889",
+            "role_id": "35352249",
+            "person_name": "Rick Dillingham",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676889\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "color":"#9c694f",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#33160d",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#7c3923",
-            "closest_css3":"#8b4513"
+            "person_id": "18044319",
+            "role_id": "35236565",
+            "person_name": "Mark Tahbo",
+            "person_date": "",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044319\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Pot (USA), 1991. earthenware. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1991-105-1"
+    },
+    "colors": [
+        {
+            "color": "#5b5654",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#af836c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6d5046",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#c1aa93",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#7e7877",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

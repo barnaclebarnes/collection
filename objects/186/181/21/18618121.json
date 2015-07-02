@@ -1,49 +1,131 @@
 {
-    "id":"18618121",
-    "tms:id":"177594",
-    "accession_number":"1981-29-488",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18618121\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 46.8 x 61 cm (18 7\/16 x 24 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18618121",
+    "tms:id": "177594",
+    "accession_number": "1981-29-488",
+    "title": "Poster (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18618121\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "46.8 x 61 cm (18 7\/16 x 24 in.)",
+    "dimensions_raw": {
+        "height": [
+            "46.80",
+            "centimeters"
+        ],
+        "width": [
+            "61.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Photograph of a snowy mountainous view and highway with semi-truck; hailing down the truck are three figures: Santa Claus, a pilgrim, and a witch. This is all framed by a blue border.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18056989",
-            "role_id":"35236655",
-            "person_name":"David Strong",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056989\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90334_ad3f8750e4ec0278_b.jpg",
+                "width": 1024,
+                "height": 789,
+                "is_primary": "1",
+                "image_id": "90334"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90334_ad3f8750e4ec0278_z.jpg",
+                "width": 640,
+                "height": 493,
+                "is_primary": "1",
+                "image_id": "90334"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90334_ad3f8750e4ec0278_n.jpg",
+                "width": 320,
+                "height": 247,
+                "is_primary": "1",
+                "image_id": "90334"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90334_ad3f8750e4ec0278_d.gif",
+                "width": 320,
+                "height": 247,
+                "is_primary": "1",
+                "image_id": "90334"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90334_ad3f8750e4ec0278_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90334"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster.\nOverall: 46.8 x 61 cm (18 7\/16 x 24 in.). Gift of Various Donors. 1981-29-488."
+    "participants": [
+        {
+            "person_id": "18056989",
+            "role_id": "35236655",
+            "person_name": "David Strong",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056989\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster (USA). Lithograph on paper. \nGift of Various Donors. 1981-29-488"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#415784",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#31374a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#707782",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#585761",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#ac9e8f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

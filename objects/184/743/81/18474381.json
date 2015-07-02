@@ -1,42 +1,97 @@
 {
-    "id":"18474381",
-    "tms:id":"147950",
-    "accession_number":"1971-50-286",
-    "title":"Border",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474381\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"112427",
-    "type_id":"35237285",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium:\nTechnique: needle lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
-    },
-    "images":[
-
+    "id": "18474381",
+    "tms:id": "147950",
+    "accession_number": "1971-50-286",
+    "title": "Border",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474381\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "112427",
+    "type_id": "35237285",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium:\nTechnique: needle lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75927_e14574a1f60bff65_b.jpg",
+                "width": 1024,
+                "height": 296,
+                "is_primary": "1",
+                "image_id": "75927"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75927_e14574a1f60bff65_z.jpg",
+                "width": 640,
+                "height": 185,
+                "is_primary": "1",
+                "image_id": "75927"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75927_e14574a1f60bff65_n.jpg",
+                "width": 320,
+                "height": 93,
+                "is_primary": "1",
+                "image_id": "75927"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75927_e14574a1f60bff65_d.gif",
+                "width": 320,
+                "height": 93,
+                "is_primary": "1",
+                "image_id": "75927"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75927_e14574a1f60bff65_sq.jpg",
+                "width": 300,
+                "height": 296,
+                "is_primary": "1",
+                "image_id": "75927"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Border.\nMedium:\nTechnique: needle lace. Bequest of Marian Hague. 1971-50-286."
+    "tombstone": {
+        "epitaph": "Border. Medium:\nTechnique: needle lace. \nBequest of Marian Hague. 1971-50-286"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2d2829",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

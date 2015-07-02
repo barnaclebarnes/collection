@@ -1,42 +1,107 @@
 {
-    "id":"18350717",
-    "tms:id":"58920",
-    "accession_number":"1938-57-712-a",
-    "title":"Plate",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18350717\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35236833",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 2.5 x 19.9 cm (1 x 7 13\/16 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18350717",
+    "tms:id": "58920",
+    "accession_number": "1938-57-712-a",
+    "title": "Plate (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18350717\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236833",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 2.5 x 19.9 cm (1 x 7 13\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "19.90",
+            "centimeters"
+        ],
+        "height": [
+            "2.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "plate",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105717_5f244f5bb92f4a29_b.jpg",
+                "width": 1024,
+                "height": 650,
+                "is_primary": "1",
+                "image_id": "105717"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105717_5f244f5bb92f4a29_z.jpg",
+                "width": 640,
+                "height": 406,
+                "is_primary": "1",
+                "image_id": "105717"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105717_5f244f5bb92f4a29_n.jpg",
+                "width": 320,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "105717"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105717_5f244f5bb92f4a29_d.gif",
+                "width": 320,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "105717"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105717_5f244f5bb92f4a29_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105717"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Plate.\nH x diam.: 2.5 x 19.9 cm (1 x 7 13\/16 in.). Bequest of Erskine Hewitt. 1938-57-712-a."
+    "tombstone": {
+        "epitaph": "Plate (England). H x diam.: 2.5 x 19.9 cm (1 x 7 13\/16 in.). \nBequest of Erskine Hewitt. 1938-57-712-a"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#807e78",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

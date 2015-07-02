@@ -1,80 +1,196 @@
 {
-    "id":"18474831",
-    "tms:id":"148178",
-    "accession_number":"1971-50-489",
-    "title":"Pendant, 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474831\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35397797",
-    "type_id":"35249041",
-    "date":"20th century",
-    "year_start":"1901",
-    "year_end":"1971",
-    "year_acquired":"1971",
-    "decade":"1900",
-    "woe:country":"23424977",
-    "medium":"Medium: beads, leather\nTechnique: beads embroidered to leather backing",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":"Circular pendant in a design of concentric circles worked in seed beads of yellow, blue, light blue, pink and black.",
-    "justification":null,
-    "type":{
-        "id":"35249041",
-        "name":"pendant"
-    },
-    "images":[
+    "id": "18474831",
+    "tms:id": "148178",
+    "accession_number": "1971-50-489",
+    "title": "Pendant (USA), 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474831\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35397797",
+    "type_id": "35249041",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 1971,
+    "year_acquired": "1971",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "Medium: beads, leather\nTechnique: beads embroidered to leather backing",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": "Circular pendant in a design of concentric circles worked in seed beads of yellow, blue, light blue, pink and black.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "pendant",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36858_7740ed9aeb154db2_b.jpg",
-                "width":972,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88321_4f61184dd95dad07_b.jpg",
+                "width": 903,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "88321"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36858_7740ed9aeb154db2_n.jpg",
-                "width":304,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88321_4f61184dd95dad07_z.jpg",
+                "width": 564,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "88321"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36858_7740ed9aeb154db2_z.jpg",
-                "width":608,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88321_4f61184dd95dad07_n.jpg",
+                "width": 282,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88321"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88321_4f61184dd95dad07_d.gif",
+                "width": 282,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88321"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88321_4f61184dd95dad07_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88321"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88322_f2da22714f1a13e6_b.jpg",
+                "width": 932,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "88322"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88322_f2da22714f1a13e6_z.jpg",
+                "width": 582,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "88322"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88322_f2da22714f1a13e6_n.jpg",
+                "width": 291,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "88322"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88322_f2da22714f1a13e6_d.gif",
+                "width": 291,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "88322"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88322_f2da22714f1a13e6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "88322"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36858_7740ed9aeb154db2_b.jpg",
+                "width": 972,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "36858"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36858_7740ed9aeb154db2_z.jpg",
+                "width": 608,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "36858"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36858_7740ed9aeb154db2_n.jpg",
+                "width": 304,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36858"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36858_7740ed9aeb154db2_d.gif",
+                "width": 304,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36858"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36858_7740ed9aeb154db2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36858"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Pendant, 20th century.\n20th century. Medium: beads, leather\nTechnique: beads embroidered to leather backing. Bequest of Marian Hague. 1971-50-489."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b4bbd0",
-            "closest_css3":"#b0c4de"
-        },
-        {
-            "color":"#73a5d5",
-            "closest_css3":"#6495ed"
-        },
-        {
-            "color":"#212913",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#859389",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#56746a",
-            "closest_css3":"#696969"
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Pendant (USA), 20th century. Medium: beads, leather\nTechnique: beads embroidered to leather backing. \nBequest of Marian Hague. 1971-50-489"
+    },
+    "colors": [
+        {
+            "color": "#86849a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#b8b3a6",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#483b38",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#bdb761",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#b3b3be",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

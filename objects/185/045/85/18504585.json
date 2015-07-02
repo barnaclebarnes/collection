@@ -1,49 +1,127 @@
 {
-    "id":"18504585",
-    "tms:id":"163196",
-    "accession_number":"1980-18-3",
-    "title":"Jar",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18504585\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35250397",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1980",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"16.5 cm (6 1\/2 in. )",
-    "creditline":"Gift of S.C.Johnson & Son, Inc.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35250397",
-        "name":"jar"
+    "id": "18504585",
+    "tms:id": "163196",
+    "accession_number": "1980-18-3",
+    "title": "Jar (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18504585\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35250397",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1980",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "16.5 cm (6 1\/2 in. )",
+    "dimensions_raw": {
+        "height": [
+            "16.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of S.C.Johnson & Son, Inc.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "jar",
+    "images": [
         {
-            "person_id":"18061171",
-            "role_id":"35351535",
-            "person_name":"S. C. Johnson & Son, Inc.",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061171\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111833_09604bfd21a178a0_b.jpg",
+                "width": 1024,
+                "height": 1004,
+                "is_primary": "1",
+                "image_id": "111833"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111833_09604bfd21a178a0_z.jpg",
+                "width": 640,
+                "height": 627,
+                "is_primary": "1",
+                "image_id": "111833"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111833_09604bfd21a178a0_n.jpg",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "111833"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111833_09604bfd21a178a0_d.gif",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "111833"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111833_09604bfd21a178a0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111833"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Jar.\n16.5 cm (6 1\/2 in. ). Gift of S.C.Johnson &amp; Son, Inc.. 1980-18-3."
+    "participants": [
+        {
+            "person_id": "18061171",
+            "role_id": "35351535",
+            "person_name": "S. C. Johnson & Son, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Jar (USA). 16.5 cm (6 1\/2 in. ). \nGift of S.C.Johnson &amp; Son, Inc.. 1980-18-3"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#665f56",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#937760",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#af997e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7e7d6e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#543b27",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

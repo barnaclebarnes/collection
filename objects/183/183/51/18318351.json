@@ -1,76 +1,145 @@
 {
-    "id":"18318351",
-    "tms:id":"44446",
-    "accession_number":"1931-4-23",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18318351\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18318351",
+    "tms:id": "44446",
+    "accession_number": "1931-4-23",
+    "title": "Textile (Japan)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18318351\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2634_6bb07e6e6ba73086_b.jpg",
-                "width":344,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111277_d0722f30380c51be_b.jpg",
+                "width": 548,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111277"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2634_6bb07e6e6ba73086_n.jpg",
-                "width":108,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111277_d0722f30380c51be_z.jpg",
+                "width": 343,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111277"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2634_6bb07e6e6ba73086_z.jpg",
-                "width":215,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111277_d0722f30380c51be_n.jpg",
+                "width": 171,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111277"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111277_d0722f30380c51be_d.gif",
+                "width": 171,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111277"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111277_d0722f30380c51be_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111277"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2634_6bb07e6e6ba73086_b.jpg",
+                "width": 344,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2634"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2634_6bb07e6e6ba73086_z.jpg",
+                "width": 215,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2634"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2634_6bb07e6e6ba73086_n.jpg",
+                "width": 108,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2634"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2634_6bb07e6e6ba73086_d.gif",
+                "width": 108,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2634"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2634_6bb07e6e6ba73086_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2634"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nGift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt. 1931-4-23."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#707685",
-            "closest_css3":"#708090"
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#786b6e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#4c4245",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#595b63",
-            "closest_css3":"#696969"
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Japan). \nGift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt. 1931-4-23"
+    },
+    "colors": [
+        {
+            "color": "#9b968b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

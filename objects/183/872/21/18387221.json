@@ -1,42 +1,125 @@
 {
-    "id":"18387221",
-    "tms:id":"103752",
-    "accession_number":"1951-132-5",
-    "title":"Tassel",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18387221\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35255087",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1951",
-    "decade":null,
-    "woe:country":"23424919",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Agnes M. O'Donnell",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35255087",
-        "name":"Tassel"
+    "id": "18387221",
+    "tms:id": "103752",
+    "accession_number": "1951-132-5",
+    "title": "Tassel (Peru), 1000\u20131200",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18387221\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410677",
+    "type_id": "35255087",
+    "date": "1000\u20131200",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1951",
+    "decade": null,
+    "woe:country_id": "23424919",
+    "medium": "Medium: cotton, wool\nTechnique: twisted fringe, embroidered cord",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 23.5 cm (9 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of Agnes M. O'Donnell",
+    "description": "Large tassel with long heavy twisted red wool fringes and wool yarn stretched in 1\/4\" band of white, red, green, yellow over the top of the core, and a thick stiff stem of cotton yarns wound tightly with cotton threads over which stem stitch appears to have been worked in a design of geometrical rosettes, with a diamond center, in black, red, white, yellow wool ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424919",
+    "type": "Tassel",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81378_98fa5dd1fdb97c5c_b.jpg",
+                "width": 491,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81378"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81378_98fa5dd1fdb97c5c_z.jpg",
+                "width": 307,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81378"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81378_98fa5dd1fdb97c5c_n.jpg",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81378"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81378_98fa5dd1fdb97c5c_d.gif",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81378"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81378_98fa5dd1fdb97c5c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81378"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18057773",
+            "role_id": "35351535",
+            "person_name": "Agnes M. O'Donnell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057773\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18057771",
+            "role_id": "35352249",
+            "person_name": "Good Neighbor Imports, Inc.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057771\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Tassel.\nMuseum purchase through gift of Agnes M. O&#039;Donnell. 1951-132-5."
+    "tombstone": {
+        "epitaph": "Tassel (Peru), 1000\u20131200. Medium: cotton, wool\nTechnique: twisted fringe, embroidered cord. \nMuseum purchase through gift of Agnes M. O&#039;Donnell. 1951-132-5"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4c2719",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#26130d",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#88704a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Peru",
+    "is_loan_object": 0
 }

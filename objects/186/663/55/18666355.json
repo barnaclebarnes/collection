@@ -1,87 +1,181 @@
 {
-    "id":"18666355",
-    "tms:id":"208557",
-    "accession_number":"1995-50-86",
-    "title":"Textile, ca. 1795",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18666355\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1795",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: cotton \nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 145 x 100 cm (57 1\/16 x 39 3\/8 in.)\nRepeat H: 103.5 cm (40 3\/4 in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Assortment of maritime and patriotic scenes as well as a Chinese pavilion. Neptune in a chariot gives orders to Mercury and Pallas Athena. A child holding a book titles \"Nouvelle Loi\" (new Law) stands beside them. There is a scene apparently granting freedom to three slaves which may coincide with the first abolition of slavery in 1794. In red on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18666355",
+    "tms:id": "208557",
+    "accession_number": "1995-50-86",
+    "title": "Textile, Neptune, ou la maitrise des mers (Neptune or the Mastery of the Sea), ca. 1795",
+    "title_raw": "Neptune, ou la maitrise des mers (Neptune or the Mastery of the Sea)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18666355\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1795",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: cotton \nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 145 x 100 cm (57 1\/16 x 39 3\/8 in.)\nRepeat H: 103.5 cm (40 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "103.50",
+            "centimeters"
+        ],
+        "warp": [
+            "145.00",
+            "centimeters"
+        ],
+        "weft": [
+            "100.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Assortment of maritime and patriotic scenes as well as a Chinese pavilion. Neptune in a chariot gives orders to Mercury and Pallas Athena. A child holding a book titles \"Nouvelle Loi\" (new Law) stands beside them. There is a scene apparently granting freedom to three slaves which may coincide with the first abolition of slavery in 1794. In red on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12710_3a19639067f09f06_b.jpg",
-                "width":673,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108044_50070ddb8e01860d_b.jpg",
+                "width": 768,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108044"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12710_3a19639067f09f06_n.jpg",
-                "width":210,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108044_50070ddb8e01860d_z.jpg",
+                "width": 480,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108044"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12710_3a19639067f09f06_z.jpg",
-                "width":421,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108044_50070ddb8e01860d_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108044"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108044_50070ddb8e01860d_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108044"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108044_50070ddb8e01860d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108044"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12710_3a19639067f09f06_b.jpg",
+                "width": 673,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12710"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12710_3a19639067f09f06_z.jpg",
+                "width": 421,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12710"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12710_3a19639067f09f06_n.jpg",
+                "width": 210,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12710"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12710_3a19639067f09f06_d.gif",
+                "width": 210,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12710"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12710_3a19639067f09f06_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12710"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045481",
-            "role_id":"35236685",
-            "person_name":"Petitpierre et Cie",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045481\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18045481",
+            "role_id": "35236685",
+            "person_name": "Petitpierre et Cie",
+            "person_date": "1770 \u2013 1848",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1795.\nca. 1795. Medium: cotton \nTechnique: printed by engraved copper plate on plain weave. Bequest of Elinor Merrell. 1995-50-86."
+    "tombstone": {
+        "epitaph": "Textile, Neptune, ou la maitrise des mers (Neptune or the Mastery of the Sea), ca. 1795. Medium: cotton \nTechnique: printed by engraved copper plate on plain weave. \nBequest of Elinor Merrell. 1995-50-86"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#fad3b8",
-            "closest_css3":"#ffdab9"
+            "color": "#cac6a8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#fcf0d4",
-            "closest_css3":"#ffefd5"
+            "color": "#b39b89",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#d37461",
-            "closest_css3":"#cd5c5c"
+            "color": "#9b6562",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#c4958b",
-            "closest_css3":"#bc8f8f"
+            "color": "#a98176",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#f49e7e",
-            "closest_css3":"#ffa07a"
+            "color": "#864548",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

@@ -1,42 +1,116 @@
 {
-    "id":"18104997",
-    "tms:id":"7060",
-    "accession_number":"1899-5-8",
-    "title":"Fragment, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18104997\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1899",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Georges A. Glaenzer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18104997",
+    "tms:id": "7060",
+    "accession_number": "1899-5-8",
+    "title": "Fragment (France), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18104997\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1899",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Georges A. Glaenzer",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68019_aa828212b109e7ff_b.jpg",
+                "width": 894,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "68019"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68019_aa828212b109e7ff_z.jpg",
+                "width": 558,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "68019"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68019_aa828212b109e7ff_n.jpg",
+                "width": 279,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "68019"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68019_aa828212b109e7ff_d.gif",
+                "width": 279,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "68019"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68019_aa828212b109e7ff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "68019"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050397",
+            "role_id": "35351535",
+            "person_name": "Georges A. Glaenzer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050397\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk\nTechnique: woven. Gift of Georges A. Glaenzer. 1899-5-8."
+    "tombstone": {
+        "epitaph": "Fragment (France), 18th century. Medium: silk\nTechnique: woven. \nGift of Georges A. Glaenzer. 1899-5-8"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#61707f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#c4d3dd",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#425361",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7c909a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

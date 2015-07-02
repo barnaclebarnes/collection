@@ -1,87 +1,167 @@
 {
-    "id":"18464191",
-    "tms:id":"142701",
-    "accession_number":"1968-135-40",
-    "title":"Purse, 1900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464191\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410745",
-    "type_id":"35264073",
-    "date":"1900",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, glass beads\nTechnique: knitted in crossed stockinette stitch",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 26 x 17 cm (10 1\/4 x 6 11\/16 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"Pouch-shaped bag drawn together at bottom with a tassel; drawstring closure. Dark blue beads for an Art Nouveau pattern on a clear glass bead ground.",
-    "justification":null,
-    "type":{
-        "id":"35264073",
-        "name":"Purse"
+    "id": "18464191",
+    "tms:id": "142701",
+    "accession_number": "1968-135-40",
+    "title": "Purse, 1900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18464191\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410745",
+    "type_id": "35264073",
+    "date": "1900",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, glass beads\nTechnique: knitted in crossed stockinette stitch",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 26 x 17 cm (10 1\/4 x 6 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "26.00",
+            "centimeters"
+        ],
+        "width": [
+            "17.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Pouch-shaped bag drawn together at bottom with a tassel; drawstring closure. Dark blue beads for an Art Nouveau pattern on a clear glass bead ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Purse",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6541_5257abd716d7287f_b.jpg",
-                "width":560,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67437_d18f4d063a211fae_b.jpg",
+                "width": 576,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "67437"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6541_5257abd716d7287f_n.jpg",
-                "width":175,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67437_d18f4d063a211fae_z.jpg",
+                "width": 360,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "67437"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6541_5257abd716d7287f_z.jpg",
-                "width":350,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67437_d18f4d063a211fae_n.jpg",
+                "width": 180,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67437"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67437_d18f4d063a211fae_d.gif",
+                "width": 180,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67437"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67437_d18f4d063a211fae_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67437"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6541_5257abd716d7287f_b.jpg",
+                "width": 560,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "6541"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6541_5257abd716d7287f_z.jpg",
+                "width": 350,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "6541"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6541_5257abd716d7287f_n.jpg",
+                "width": 175,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6541"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6541_5257abd716d7287f_d.gif",
+                "width": 175,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6541"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6541_5257abd716d7287f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "6541"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Purse, 1900.\n1900. Medium: silk, glass beads\nTechnique: knitted in crossed stockinette stitch. Gift of Harvey Smith. 1968-135-40."
+    "tombstone": {
+        "epitaph": "Purse, 1900. Medium: silk, glass beads\nTechnique: knitted in crossed stockinette stitch. \nGift of Harvey Smith. 1968-135-40"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#456aa4",
-            "closest_css3":"#4682b4"
+            "color": "#7b7260",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#2f4374",
-            "closest_css3":"#483d8b"
+            "color": "#605746",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#759aa6",
-            "closest_css3":"#778899"
+            "color": "#1a152c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         },
         {
-            "color":"#525759",
-            "closest_css3":"#696969"
+            "color": "#999077",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#1a1c3c",
-            "closest_css3":"#191970"
+            "color": "#423a34",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

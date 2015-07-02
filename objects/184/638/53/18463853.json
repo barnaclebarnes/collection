@@ -1,49 +1,121 @@
 {
-    "id":"18463853",
-    "tms:id":"142532",
-    "accession_number":"1968-130-5",
-    "title":"Tile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18463853\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35250645",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Harvey Smith",
-    "description":"Tile of glazed earthenware- yellow, brown and white with star motif.",
-    "justification":null,
-    "type":{
-        "id":"35250645",
-        "name":"tile"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18463853",
+    "tms:id": "142532",
+    "accession_number": "1968-130-5",
+    "title": "Tile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18463853\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35250645",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Harvey Smith",
+    "description": "Tile of glazed earthenware- yellow, brown and white with star motif.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "tile",
+    "images": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102519_8cf3736878829820_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "102519"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102519_8cf3736878829820_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "102519"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102519_8cf3736878829820_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "102519"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102519_8cf3736878829820_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "102519"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102519_8cf3736878829820_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "102519"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Tile.\nGlazed earthenware. Gift of Harvey Smith. 1968-130-5."
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Tile. Glazed earthenware. \nGift of Harvey Smith. 1968-130-5"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#99958b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#cb9511",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#b8860b",
+            "closest_css4": "#b8860b"
+        },
+        {
+            "color": "#452e27",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#62442e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#beac8c",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
 }

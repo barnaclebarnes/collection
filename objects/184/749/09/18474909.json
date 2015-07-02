@@ -1,42 +1,158 @@
 {
-    "id":"18474909",
-    "tms:id":"148217",
-    "accession_number":"1971-50-524",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474909\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35397811",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":"tiraz tapestry",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18474909",
+    "tms:id": "148217",
+    "accession_number": "1971-50-524",
+    "title": "Fragment",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474909\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35397811",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: tapestry weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97579_5778435e275a01ac_b.jpg",
+                "width": 1024,
+                "height": 922,
+                "is_primary": "1",
+                "image_id": "97579"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97579_5778435e275a01ac_z.jpg",
+                "width": 640,
+                "height": 576,
+                "is_primary": "1",
+                "image_id": "97579"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97579_5778435e275a01ac_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "97579"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97579_5778435e275a01ac_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "97579"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97579_5778435e275a01ac_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "97579"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94970_3f5d990e426f0524_b.jpg",
+                "width": 1024,
+                "height": 922,
+                "is_primary": "0",
+                "image_id": "94970"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94970_3f5d990e426f0524_z.jpg",
+                "width": 640,
+                "height": 576,
+                "is_primary": "0",
+                "image_id": "94970"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94970_3f5d990e426f0524_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "0",
+                "image_id": "94970"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94970_3f5d990e426f0524_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "0",
+                "image_id": "94970"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94970_3f5d990e426f0524_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "94970"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\ntiraz tapestry. Bequest of Marian Hague. 1971-50-524."
+    "tombstone": {
+        "epitaph": "Fragment. Technique: tapestry weave. \nBequest of Marian Hague. 1971-50-524"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#efe9d2",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#bd986b",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#906b48",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#604c35",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#d1c0a1",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,80 +1,168 @@
 {
-    "id":"18559111",
-    "tms:id":"72756",
-    "accession_number":"1940-4-27",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18559111\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35518687",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1940",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"Medium: silk, paper with applied gold foil\nTechnique: plain compound weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 43.8 x 5.1 cm (17 1\/4 in. x 2 in.)",
-    "creditline":"Gift of Miss Beatrice Kates",
-    "description":"Two pieces sewn together down vertical center. Red and yellow parts have same motif of roundels with clouds and diamonds in interspaces.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18559111",
+    "tms:id": "72756",
+    "accession_number": "1940-4-27",
+    "title": "Textile (China)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18559111\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35518687",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1940",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "Medium: silk, paper with applied gold foil\nTechnique: plain compound weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 43.8 x 5.1 cm (17 1\/4 in. x 2 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "43.82",
+            "centimeters"
+        ],
+        "weft": [
+            "5.08",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Miss Beatrice Kates",
+    "description": "Two pieces sewn together down vertical center. Red and yellow parts have same motif of roundels with clouds and diamonds in interspaces.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48878_edca6fce682f6768_b.jpg",
-                "width":184,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63318_3656c5498b2f0a3b_b.jpg",
+                "width": 229,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63318"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48878_edca6fce682f6768_n.jpg",
-                "width":57,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63318_3656c5498b2f0a3b_z.jpg",
+                "width": 143,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63318"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48878_edca6fce682f6768_z.jpg",
-                "width":115,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63318_3656c5498b2f0a3b_n.jpg",
+                "width": 72,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63318"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63318_3656c5498b2f0a3b_d.gif",
+                "width": 72,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63318"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63318_3656c5498b2f0a3b_sq.jpg",
+                "width": 229,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63318"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48878_edca6fce682f6768_b.jpg",
+                "width": 184,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "48878"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48878_edca6fce682f6768_z.jpg",
+                "width": 115,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "48878"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48878_edca6fce682f6768_n.jpg",
+                "width": 57,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "48878"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48878_edca6fce682f6768_d.gif",
+                "width": 57,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "48878"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48878_edca6fce682f6768_sq.jpg",
+                "width": 184,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "48878"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nMedium: silk, paper with applied gold foil\nTechnique: plain compound weave. Gift of Miss Beatrice Kates. 1940-4-27."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#896316",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#7d4936",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#602820",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#9d8349",
-            "closest_css3":"#cd853f"
-        },
-        {
-            "color":"#616057",
-            "closest_css3":"#696969"
+            "person_id": "18052475",
+            "role_id": "35351535",
+            "person_name": "Beatrice Kates",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052475\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (China). Medium: silk, paper with applied gold foil\nTechnique: plain compound weave. \nGift of Miss Beatrice Kates. 1940-4-27"
+    },
+    "colors": [
+        {
+            "color": "#ddd8be",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#4e341f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a29443",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#6a572f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#857537",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

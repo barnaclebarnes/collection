@@ -1,71 +1,98 @@
 {
-    "id":"18221173",
-    "tms:id":"26599",
-    "accession_number":"1921-6-205",
-    "title":"Book",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18221173\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35247441",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1921",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"From the Collection of L\u00e9on Decloux",
-    "dimensions":null,
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35247441",
-        "name":"book"
-    },
-    "images":[
+    "id": "18221173",
+    "tms:id": "26599",
+    "accession_number": "1921-6-205",
+    "title": "Book (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18221173\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35247441",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1921",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "From the Collection of L\u00e9on Decloux",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "book",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22927_d08426745fc5c1b5_b.jpg",
-                "width":704,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22927_d08426745fc5c1b5_b.jpg",
+                "width": 704,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "22927"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22927_d08426745fc5c1b5_n.jpg",
-                "width":220,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22927_d08426745fc5c1b5_z.jpg",
+                "width": 440,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "22927"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22927_d08426745fc5c1b5_z.jpg",
-                "width":440,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22927_d08426745fc5c1b5_n.jpg",
+                "width": 220,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "22927"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22927_d08426745fc5c1b5_d.gif",
+                "width": 220,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "22927"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22927_d08426745fc5c1b5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "22927"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Book.\nPurchased for the Museum by the Advisory Council. 1921-6-205."
+    "tombstone": {
+        "epitaph": "Book (France). \nPurchased for the Museum by the Advisory Council. 1921-6-205"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b8b8b8",
-            "closest_css3":"#c0c0c0"
+            "color": "#b0b0b0",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

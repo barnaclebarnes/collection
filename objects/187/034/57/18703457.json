@@ -1,80 +1,218 @@
 {
-    "id":"18703457",
-    "tms:id":"227506",
-    "accession_number":"2007-45-2",
-    "title":"Stairway Model, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18703457\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402729",
-    "type_id":"35302423",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"2007",
-    "decade":null,
-    "woe:country":null,
-    "medium":"mahogany",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 53.2 x 51 x 49.5 cm (20 15\/16 x 20 1\/16 x 19 1\/2 in.)",
-    "creditline":"Gift of Eugene V. and Clare E. Thaw",
-    "description":"Stairway model turning at right angles",
-    "justification":null,
-    "type":{
-        "id":"35302423",
-        "name":"Stairway model"
+    "id": "18703457",
+    "tms:id": "227506",
+    "accession_number": "2007-45-2",
+    "title": "Staircase Model, 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18703457\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402729",
+    "type_id": "35302429",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2007",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Mahogany",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Eugene V. and Clare E. Thaw; 2007: acquired by Museum",
+    "dimensions": "H x W x D: 53.2 x 51 x 49.5 cm (20 15\/16 x 20 1\/16 x 19 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "49.50",
+            "centimeters"
+        ],
+        "height": [
+            "53.20",
+            "centimeters"
+        ],
+        "width": [
+            "51.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eugene V. and Clare E. Thaw",
+    "description": "Staircase model turning at right angles in two levels.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Staircase model",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21618_39df3f4b8cbbfa68_b.jpg",
-                "width":1024,
-                "height":892,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105937_c2669668c3f5deb8_b.jpg",
+                "width": 1024,
+                "height": 892,
+                "is_primary": "1",
+                "image_id": "105937"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21618_39df3f4b8cbbfa68_n.jpg",
-                "width":320,
-                "height":279,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105937_c2669668c3f5deb8_z.jpg",
+                "width": 640,
+                "height": 558,
+                "is_primary": "1",
+                "image_id": "105937"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21618_39df3f4b8cbbfa68_z.jpg",
-                "width":640,
-                "height":557,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105937_c2669668c3f5deb8_n.jpg",
+                "width": 320,
+                "height": 279,
+                "is_primary": "1",
+                "image_id": "105937"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105937_c2669668c3f5deb8_d.gif",
+                "width": 320,
+                "height": 279,
+                "is_primary": "1",
+                "image_id": "105937"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105937_c2669668c3f5deb8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105937"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90923_79aa2211c9e4fe47_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90923"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90923_79aa2211c9e4fe47_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90923"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90923_79aa2211c9e4fe47_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90923"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90923_79aa2211c9e4fe47_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90923"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90923_79aa2211c9e4fe47_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90923"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21618_39df3f4b8cbbfa68_b.jpg",
+                "width": 1024,
+                "height": 892,
+                "is_primary": "0",
+                "image_id": "21618"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21618_39df3f4b8cbbfa68_z.jpg",
+                "width": 640,
+                "height": 557,
+                "is_primary": "0",
+                "image_id": "21618"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21618_39df3f4b8cbbfa68_n.jpg",
+                "width": 320,
+                "height": 279,
+                "is_primary": "0",
+                "image_id": "21618"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21618_39df3f4b8cbbfa68_d.gif",
+                "width": 320,
+                "height": 279,
+                "is_primary": "0",
+                "image_id": "21618"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21618_39df3f4b8cbbfa68_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21618"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Stairway Model, 19th century.\n19th century. mahogany. Gift of Eugene V. and Clare E. Thaw. 2007-45-2."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#482923",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18060137",
+            "role_id": "35351535",
+            "person_name": "Clare E. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#240f13",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#6a5449",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#69636a",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#84705f",
-            "closest_css3":"#696969"
+            "person_id": "68736639",
+            "role_id": "35351535",
+            "person_name": "Eugene V. Thaw",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Staircase Model, 19th century. Mahogany. \nGift of Eugene V. and Clare E. Thaw. 2007-45-2"
+    },
+    "colors": [
+        {
+            "color": "#472922",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#240f12",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#544544",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#655f66",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#7f6654",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

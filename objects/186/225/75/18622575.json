@@ -1,42 +1,131 @@
 {
-    "id":"18622575",
-    "tms:id":"186124",
-    "accession_number":"1987-46-9",
-    "title":"Sample",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622575\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"140933",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Technique: cylinder printed on alternate stripes of plain weave and 4&1 satin",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 19.5 x 2.5 cm (7 11\/16 x 1 in.)",
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":"Long and narrow fragment with parts of floral pattern in green, brown, lavendar and black.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18622575",
+    "tms:id": "186124",
+    "accession_number": "1987-46-9",
+    "title": "Sample (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18622575\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "140933",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1987",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Technique: cylinder printed on alternate stripes of plain weave and 4&1 satin",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 19.5 x 2.5 cm (7 11\/16 x 1 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "19.50",
+            "centimeters"
+        ],
+        "weft": [
+            "2.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": "Long and narrow fragment with parts of floral pattern in green, brown, lavendar and black.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78111_2e7cbffe64d2a434_b.jpg",
+                "width": 245,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "78111"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78111_2e7cbffe64d2a434_z.jpg",
+                "width": 153,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "78111"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78111_2e7cbffe64d2a434_n.jpg",
+                "width": 77,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "78111"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78111_2e7cbffe64d2a434_d.gif",
+                "width": 77,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "78111"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78111_2e7cbffe64d2a434_sq.jpg",
+                "width": 245,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "78111"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sample.\nTechnique: cylinder printed on alternate stripes of plain weave and 4&amp;1 satin. Museum purchase from Au Panier Fleuri Fund. 1987-46-9."
+    "tombstone": {
+        "epitaph": "Sample (England). Technique: cylinder printed on alternate stripes of plain weave and 4&amp;1 satin. \nMuseum purchase from Au Panier Fleuri Fund. 1987-46-9"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#939fa8",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#a09a8b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#757c82",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#2a2025",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#766255",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

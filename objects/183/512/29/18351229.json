@@ -1,71 +1,178 @@
 {
-    "id":"18351229",
-    "tms:id":"59139",
-    "accession_number":"1938-57-890",
-    "title":"Drawing, \"Portrait of Sarah Cooper Hewitt in French Costume\", 1899",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18351229\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35374849",
-    "type_id":"35237093",
-    "date":"1899",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Pastel on paper mounted on linen",
-    "markings":null,
-    "signed":"At right next to image",
-    "inscribed":"At right in pastel: \u00e0 Mlle Hewitt \/ Souvenir \/ du 5 Avril 99 \/ Carroll Beckwith.",
-    "provenance":"Erskin Hewitt",
-    "dimensions":"(oval): 24 1\/2 x 19 in. (62.2 x 48.3 cm)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":"Three quarter protrait of a woman wearing a black hat, facing left. She is dressed in a blue coat, yellow skirt and white jabot. On her right arm she supports a brass hunting horn.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18351229",
+    "tms:id": "59139",
+    "accession_number": "1938-57-890",
+    "title": "Drawing, Portrait of Sarah Cooper Hewitt in French Costume, 1899",
+    "title_raw": "Portrait of Sarah Cooper Hewitt in French Costume",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18351229\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35374849",
+    "type_id": "35237093",
+    "date": "1899",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Pastel on paper mounted on linen",
+    "markings": null,
+    "signed": "At right next to image: Carroll Beckwith",
+    "inscribed": "At right in pastel: \u00e0 Mlle Hewitt \/ Souvenir \/ du 5 Avril 99 \/ Carroll Beckwith.",
+    "provenance": "Erskin Hewitt; 1938: bequested to Museum",
+    "dimensions": "(oval): 24 1\/2 x 19 in. (62.2 x 48.3 cm)",
+    "dimensions_raw": {
+        "height": [
+            "62.20",
+            "centimeters"
+        ],
+        "width": [
+            "48.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": "Three quarter protrait of a woman wearing a black hat, facing left. She is dressed in a blue coat, yellow skirt and white jabot. On her right arm she supports a brass hunting horn.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23844_a53f1a5b3b962de0_b.jpg",
-                "width":815,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84996_c3666e9fd45c8d3a_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "84996"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23844_a53f1a5b3b962de0_n.jpg",
-                "width":255,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84996_c3666e9fd45c8d3a_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "84996"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23844_a53f1a5b3b962de0_z.jpg",
-                "width":509,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84996_c3666e9fd45c8d3a_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "84996"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84996_c3666e9fd45c8d3a_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "84996"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/84996_c3666e9fd45c8d3a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "84996"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23844_a53f1a5b3b962de0_b.jpg",
+                "width": 815,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "23844"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23844_a53f1a5b3b962de0_z.jpg",
+                "width": 509,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "23844"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23844_a53f1a5b3b962de0_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "23844"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23844_a53f1a5b3b962de0_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "23844"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23844_a53f1a5b3b962de0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "23844"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050447",
-            "role_id":"35236565",
-            "person_name":"J. Carroll Beckwith",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050447\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18050447",
+            "role_id": "35236565",
+            "person_name": "J. Carroll Beckwith",
+            "person_date": "American, 1852\u20131917",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050447\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Portrait of Sarah Cooper Hewitt in French Costume\", 1899.\n1899. Pastel on paper mounted on linen. Bequest of Erskine Hewitt. 1938-57-890."
+    "tombstone": {
+        "epitaph": "Drawing, Portrait of Sarah Cooper Hewitt in French Costume, 1899. Pastel on paper mounted on linen. \nBequest of Erskine Hewitt. 1938-57-890"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#ffffff",
-            "closest_css3":"#ffffff"
+            "color": "#aca197",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#716555",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#86a3a5",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#c8ae78",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#443f3b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

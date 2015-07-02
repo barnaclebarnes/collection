@@ -1,76 +1,146 @@
 {
-    "id":"18390089",
-    "tms:id":"105189",
-    "accession_number":"1952-105-2",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18390089\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"117147",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1952",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mr. and Mrs. G. Glen Gould",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18390089",
+    "tms:id": "105189",
+    "accession_number": "1952-105-2",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18390089\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "117147",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1952",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. G. Glen Gould",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17831_85ea11aed03ee49b_b.jpg",
-                "width":661,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107104_49ad2a12077a8434_b.jpg",
+                "width": 726,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "107104"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17831_85ea11aed03ee49b_n.jpg",
-                "width":207,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107104_49ad2a12077a8434_z.jpg",
+                "width": 454,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "107104"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17831_85ea11aed03ee49b_z.jpg",
-                "width":413,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107104_49ad2a12077a8434_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107104"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107104_49ad2a12077a8434_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107104"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107104_49ad2a12077a8434_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107104"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17831_85ea11aed03ee49b_b.jpg",
+                "width": 661,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "17831"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17831_85ea11aed03ee49b_z.jpg",
+                "width": 413,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "17831"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17831_85ea11aed03ee49b_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17831"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17831_85ea11aed03ee49b_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17831"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17831_85ea11aed03ee49b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17831"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: printed. Gift of Mr. and Mrs. G. Glen Gould. 1952-105-2."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#a997c4",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#946183",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#70718c",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#854257",
-            "closest_css3":"#696969"
+            "person_id": "18059469",
+            "role_id": "35351535",
+            "person_name": "Mr. and Mrs. G. Glen Gould",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile. Technique: printed. \nGift of Mr. and Mrs. G. Glen Gould. 1952-105-2"
+    },
+    "colors": [
+        {
+            "color": "#a3636b",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#baa49a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#b38987",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "is_loan_object": 0
 }

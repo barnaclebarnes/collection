@@ -1,42 +1,158 @@
 {
-    "id":"18496967",
-    "tms:id":"159377",
-    "accession_number":"1978-169-81",
-    "title":"Tile,study Collection",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18496967\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35293187",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Eleanor M. Delanoy",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35293187",
-        "name":"tile,study collection"
-    },
-    "images":[
-
+    "id": "18496967",
+    "tms:id": "159377",
+    "accession_number": "1978-169-81-a,b",
+    "title": "Tile,study Collection",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18496967\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293187",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor M. Delanoy",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "tile,study collection",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100407_cf96b13b8922f669_b.jpg",
+                "width": 1024,
+                "height": 919,
+                "is_primary": "1",
+                "image_id": "100407"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100407_cf96b13b8922f669_z.jpg",
+                "width": 640,
+                "height": 574,
+                "is_primary": "1",
+                "image_id": "100407"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100407_cf96b13b8922f669_n.jpg",
+                "width": 320,
+                "height": 287,
+                "is_primary": "1",
+                "image_id": "100407"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100407_cf96b13b8922f669_d.gif",
+                "width": 320,
+                "height": 287,
+                "is_primary": "1",
+                "image_id": "100407"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100407_cf96b13b8922f669_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "100407"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100247_83232c59f4d8c84c_b.jpg",
+                "width": 1024,
+                "height": 874,
+                "is_primary": "0",
+                "image_id": "100247"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100247_83232c59f4d8c84c_z.jpg",
+                "width": 640,
+                "height": 546,
+                "is_primary": "0",
+                "image_id": "100247"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100247_83232c59f4d8c84c_n.jpg",
+                "width": 320,
+                "height": 273,
+                "is_primary": "0",
+                "image_id": "100247"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100247_83232c59f4d8c84c_d.gif",
+                "width": 320,
+                "height": 273,
+                "is_primary": "0",
+                "image_id": "100247"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100247_83232c59f4d8c84c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "100247"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18537141",
+            "role_id": "35351535",
+            "person_name": "Eleanor Marquand Delanoy",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537141\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Tile,study Collection.\nGift of Eleanor M. Delanoy. 1978-169-81."
+    "tombstone": {
+        "epitaph": "Tile,study Collection. \nGift of Eleanor M. Delanoy. 1978-169-81-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ae9980",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#8b8880",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#60534a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#656653",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8d765f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

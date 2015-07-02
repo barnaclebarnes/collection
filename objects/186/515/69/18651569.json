@@ -1,49 +1,180 @@
 {
-    "id":"18651569",
-    "tms:id":"200726",
-    "accession_number":"1995-50-62",
-    "title":"Fragment, ca. 1805",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18651569\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"145591",
-    "type_id":"35254623",
-    "date":"ca. 1805",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Technique: Printed by engraved plate on cotton plain weave foundation.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 66cm (26in.). Weft: 77cm (30 1\/4in.) All edges cut. two pieces seamed together correctly in the center.\nPattern: Height of repeat: 51cm (20in.).\nDesigned for lengths to form a straight repeat when sewn together",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Circular and oval cartouches containing goddesses and decorative ornament on a background of scalloped lines. In blue on white.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18651569",
+    "tms:id": "200726",
+    "accession_number": "1995-50-62",
+    "title": "Fragment, The deities of Olympus (The Olympian Gods), ca. 1805",
+    "title_raw": "The deities of Olympus (The Olympian Gods)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18651569\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "145591",
+    "type_id": "35254623",
+    "date": "ca. 1805",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Technique: Printed by engraved plate on cotton plain weave foundation.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 66 x 77 cm (26 x 30 5\/16 in.)\nRepeat H (pattern): 51 cm (20 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "51.00",
+            "centimeters"
+        ],
+        "warp": [
+            "66.00",
+            "centimeters"
+        ],
+        "weft": [
+            "77.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Circular and oval cartouches containing goddesses and decorative ornament on a background of scalloped lines. In blue on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18045567",
-            "role_id":"35236655",
-            "person_name":"Jean-Baptiste Hu\u00ebt",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045567\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106038_bb4c0d7514db4a5d_b.jpg",
+                "width": 1024,
+                "height": 863,
+                "is_primary": "1",
+                "image_id": "106038"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106038_bb4c0d7514db4a5d_z.jpg",
+                "width": 640,
+                "height": 539,
+                "is_primary": "1",
+                "image_id": "106038"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106038_bb4c0d7514db4a5d_n.jpg",
+                "width": 320,
+                "height": 270,
+                "is_primary": "1",
+                "image_id": "106038"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106038_bb4c0d7514db4a5d_d.gif",
+                "width": 320,
+                "height": 270,
+                "is_primary": "1",
+                "image_id": "106038"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106038_bb4c0d7514db4a5d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106038"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79398_0059ae2401f36b2e_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "79398"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79398_0059ae2401f36b2e_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "79398"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79398_0059ae2401f36b2e_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79398"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79398_0059ae2401f36b2e_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79398"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79398_0059ae2401f36b2e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79398"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, ca. 1805.\nca. 1805. Technique: Printed by engraved plate on cotton plain weave foundation.. Bequest of Elinor Merrell. 1995-50-62."
+    "participants": [
+        {
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18045567",
+            "role_id": "35236655",
+            "person_name": "Jean-Baptiste Hu\u00ebt",
+            "person_date": "1745 \u2013 1811",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18045425",
+            "role_id": "35236681",
+            "person_name": "Oberkampf & Cie.",
+            "person_date": "Jouy-en-Josas, France, 1759 \u2013 1815",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045425\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, The deities of Olympus (The Olympian Gods), ca. 1805. Technique: Printed by engraved plate on cotton plain weave foundation.. \nBequest of Elinor Merrell. 1995-50-62"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#dcd9c0",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#717f88",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#8e9c9c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

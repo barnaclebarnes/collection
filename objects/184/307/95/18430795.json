@@ -1,42 +1,109 @@
 {
-    "id":"18430795",
-    "tms:id":"125791",
-    "accession_number":"1960-151-1-a",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18430795\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1960",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Rodman A. Heeren",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18430795",
+    "tms:id": "125791",
+    "accession_number": "1960-151-1-a",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18430795\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1960",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Rodman A. Heeren",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113544_89fc3ce8f712decb_b.jpg",
+                "width": 391,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113544"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113544_89fc3ce8f712decb_z.jpg",
+                "width": 244,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113544"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113544_89fc3ce8f712decb_n.jpg",
+                "width": 122,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113544"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113544_89fc3ce8f712decb_d.gif",
+                "width": 122,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113544"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113544_89fc3ce8f712decb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113544"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18053075",
+            "role_id": "35351535",
+            "person_name": "Rodman A. Heeren",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053075\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nMedium: silk. Gift of Rodman A. Heeren. 1960-151-1-a."
+    "tombstone": {
+        "epitaph": "Textile. Medium: silk. \nGift of Rodman A. Heeren. 1960-151-1-a"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b4bfb7",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#754853",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#95787e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

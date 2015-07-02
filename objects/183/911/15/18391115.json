@@ -1,49 +1,241 @@
 {
-    "id":"18391115",
-    "tms:id":"105704",
-    "accession_number":"1952-161-220-a,b",
-    "title":"Fan And Case",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18391115\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35261657",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1952",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Anonymous Donor",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35261657",
-        "name":"Fan and case"
+    "id": "18391115",
+    "tms:id": "105704",
+    "accession_number": "1952-161-220-a,b",
+    "title": "Fan And Case",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18391115\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35261657",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1952",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (a): 21.6 x 32.4 cm (8 1\/2 x 12 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "21.59",
+            "centimeters"
+        ],
+        "width": [
+            "32.39",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Anonymous Donor",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fan and case",
+    "images": [
         {
-            "person_id":"18049335",
-            "role_id":"35351535",
-            "person_name":"Anonymous",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81091_349520e88a604505_b.jpg",
+                "width": 1024,
+                "height": 720,
+                "is_primary": "1",
+                "image_id": "81091"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81091_349520e88a604505_z.jpg",
+                "width": 640,
+                "height": 450,
+                "is_primary": "1",
+                "image_id": "81091"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81091_349520e88a604505_n.jpg",
+                "width": 320,
+                "height": 225,
+                "is_primary": "1",
+                "image_id": "81091"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81091_349520e88a604505_d.gif",
+                "width": 320,
+                "height": 225,
+                "is_primary": "1",
+                "image_id": "81091"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81091_349520e88a604505_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81091"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86440_e0408be68e351350_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "86440"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86440_e0408be68e351350_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "86440"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86440_e0408be68e351350_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "86440"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86440_e0408be68e351350_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "86440"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86440_e0408be68e351350_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "86440"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86441_550535bfe012bd83_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "86441"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86441_550535bfe012bd83_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "86441"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86441_550535bfe012bd83_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "86441"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86441_550535bfe012bd83_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "86441"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86441_550535bfe012bd83_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "86441"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81092_2c75b4c824b1db81_b.jpg",
+                "width": 1024,
+                "height": 710,
+                "is_primary": "0",
+                "image_id": "81092"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81092_2c75b4c824b1db81_z.jpg",
+                "width": 640,
+                "height": 443,
+                "is_primary": "0",
+                "image_id": "81092"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81092_2c75b4c824b1db81_n.jpg",
+                "width": 320,
+                "height": 222,
+                "is_primary": "0",
+                "image_id": "81092"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81092_2c75b4c824b1db81_d.gif",
+                "width": 320,
+                "height": 222,
+                "is_primary": "0",
+                "image_id": "81092"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81092_2c75b4c824b1db81_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "81092"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fan And Case.\nGift of Anonymous Donor. 1952-161-220-a,b."
+    "participants": [
+        {
+            "person_id": "18049335",
+            "role_id": "35351535",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fan And Case. H x W (a): 21.6 x 32.4 cm (8 1\/2 x 12 3\/4 in.). \nGift of Anonymous Donor. 1952-161-220-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#6e684a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9d8857",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#67513a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#443526",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b5a96f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "is_loan_object": 0
 }

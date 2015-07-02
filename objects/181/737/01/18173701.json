@@ -1,49 +1,132 @@
 {
-    "id":"18173701",
-    "tms:id":"18800",
-    "accession_number":"1912-12-114",
-    "title":"Drawing, probably 1862",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18173701\/",
-    "department_id":"35347493",
-    "period_id":"35417141",
-    "media_id":"35418181",
-    "type_id":"35237093",
-    "date":"probably 1862",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Graphite on gray-brown paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"32.1 x 25 cm (12 5\/8 x 9 13\/16 in.)",
-    "creditline":"Gift of Charles Savage Homer, Jr.",
-    "description":"Recto: Vertical view of a man wearing a Zouave's cap and blowing a bugle.\nVerso:  Figures of women and a flight of steps.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18173701",
+    "tms:id": "18800",
+    "accession_number": "1912-12-114",
+    "title": "Drawing, Man Wearing Zouave's Cap, probably 1862",
+    "title_raw": "Man Wearing Zouave's Cap",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18173701\/",
+    "department_id": "35347493",
+    "period_id": "35417141",
+    "media_id": "35418181",
+    "type_id": "35237093",
+    "date": "probably 1862",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Graphite on gray-brown paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "32.1 x 25 cm (12 5\/8 x 9 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "32.10",
+            "centimeters"
+        ],
+        "width": [
+            "25.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Charles Savage Homer, Jr.",
+    "description": "Recto: Vertical view of a man wearing a Zouave's cap and blowing a bugle.\nVerso:  Figures of women and a flight of steps.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18041949",
-            "role_id":"35236565",
-            "person_name":"Winslow Homer",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041949\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116492_d4ca768d51d076d7_b.jpg",
+                "width": 794,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "116492"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116492_d4ca768d51d076d7_z.jpg",
+                "width": 496,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "116492"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116492_d4ca768d51d076d7_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "116492"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116492_d4ca768d51d076d7_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "116492"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116492_d4ca768d51d076d7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "116492"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, probably 1862.\nprobably 1862. Graphite on gray-brown paper. Gift of Charles Savage Homer, Jr.. 1912-12-114."
+    "participants": [
+        {
+            "person_id": "18052379",
+            "role_id": "35352245",
+            "person_name": "Calvin S.  Hathaway",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18047639",
+            "role_id": "35352245",
+            "person_name": "Adrienne Sturbois",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18537931",
+            "role_id": "35351535",
+            "person_name": "Charles Savage Homer, Jr.",
+            "person_date": "American, 1834\u20131917",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537931\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041949",
+            "role_id": "35236565",
+            "person_name": "Winslow Homer",
+            "person_date": "American, 1836\u20131910",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041949\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Man Wearing Zouave's Cap, probably 1862. Graphite on gray-brown paper. \nGift of Charles Savage Homer, Jr.. 1912-12-114"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

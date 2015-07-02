@@ -1,87 +1,188 @@
 {
-    "id":"18452065",
-    "tms:id":"136560",
-    "accession_number":"1964-46-4-a,b",
-    "title":"Sidewall, 1963",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18452065\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35426827",
-    "type_id":"35256475",
-    "date":"1963",
-    "year_start":"1963",
-    "year_end":"1963",
-    "year_acquired":"1964",
-    "decade":"1960",
-    "woe:country":"23424977",
-    "medium":"Screen printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Reproduced from second of four wallpapers on walls of John Jay House in Katonah, New York. Used in restoration.",
-    "dimensions":"49 x 52.5 cm (19 5\/16 x 20 11\/16 in.)",
-    "creditline":"Gift of New York State Department of Education, University of New York",
-    "description":"Lattice design of leaves on black, with white imbrication on mustard ground in openings.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18452065",
+    "tms:id": "136560",
+    "accession_number": "1964-46-4-a,b",
+    "title": "Sidewall (USA), 1963",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18452065\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35426827",
+    "type_id": "35256475",
+    "date": "1963",
+    "year_start": 1963,
+    "year_end": 1963,
+    "year_acquired": "1964",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "Screen printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Reproduced from second of four wallpapers on walls of John Jay House in Katonah, New York. Used in restoration.",
+    "dimensions": "49 x 52.5 cm (19 5\/16 x 20 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "49.00",
+            "centimeters"
+        ],
+        "width": [
+            "52.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of New York State Department of Education, University of New York",
+    "description": "Lattice design of leaves on black, with white imbrication on mustard ground in openings.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6374_469d161e77066a1f_b.jpg",
-                "width":1024,
-                "height":925,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65750_c575d83f0c724339_b.jpg",
+                "width": 1024,
+                "height": 936,
+                "is_primary": "1",
+                "image_id": "65750"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6374_469d161e77066a1f_n.jpg",
-                "width":320,
-                "height":289,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65750_c575d83f0c724339_z.jpg",
+                "width": 640,
+                "height": 585,
+                "is_primary": "1",
+                "image_id": "65750"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6374_469d161e77066a1f_z.jpg",
-                "width":640,
-                "height":578,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65750_c575d83f0c724339_n.jpg",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "65750"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65750_c575d83f0c724339_d.gif",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "65750"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65750_c575d83f0c724339_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65750"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6374_469d161e77066a1f_b.jpg",
+                "width": 1024,
+                "height": 925,
+                "is_primary": "0",
+                "image_id": "6374"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6374_469d161e77066a1f_z.jpg",
+                "width": 640,
+                "height": 578,
+                "is_primary": "0",
+                "image_id": "6374"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6374_469d161e77066a1f_n.jpg",
+                "width": 320,
+                "height": 289,
+                "is_primary": "0",
+                "image_id": "6374"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6374_469d161e77066a1f_d.gif",
+                "width": 320,
+                "height": 289,
+                "is_primary": "0",
+                "image_id": "6374"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6374_469d161e77066a1f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "6374"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18047127",
-            "role_id":"35236671",
-            "person_name":"Molly Coman",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047127\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "person_id": "18059915",
+            "role_id": "35351535",
+            "person_name": "New York State Dept. of Education",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059915\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048035",
+            "role_id": "35352245",
+            "person_name": "Hedy Backlin-Landman",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18047127",
+            "role_id": "35236671",
+            "person_name": "Molly Coman",
+            "person_date": "",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047127\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1963.\n1963. Screen printed. Gift of New York State Department of Education, University of New York. 1964-46-4-a,b."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1963. Screen printed. \nGift of New York State Department of Education, University of New York. 1964-46-4-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c9e6e2",
-            "closest_css3":"#dcdcdc"
+            "color": "#2f2f2c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#666f5e",
-            "closest_css3":"#696969"
+            "color": "#e2e2ca",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#271115",
-            "closest_css3":"#000000"
+            "color": "#b5a48e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#735b3d",
-            "closest_css3":"#556b2f"
+            "color": "#8e8b51",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#3d4139",
-            "closest_css3":"#2f4f4f"
+            "color": "#565239",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

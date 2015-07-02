@@ -1,69 +1,145 @@
 {
-  "year_start": "1918", 
-  "exhibitions": [
-    {
-      "url": "http://collection.cooperhewitt.org/exhibitions/35350971/", 
-      "date_end": "2010-12-31", 
-      "date_start": "2010-04-23", 
-      "id": "35350971", 
-      "title": "Ted Muehling Selects: Lobmeyr"
-    }
-  ], 
-  "justification": null, 
-  "tms:id": "74526", 
-  "images": [
-    {
-      "b": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/31449_ab5ed1bf010a61d8_b.jpg", 
-        "width": 872, 
-        "is_primary": "1", 
-        "height": 1024
-      }, 
-      "z": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/31449_ab5ed1bf010a61d8_z.jpg", 
-        "width": 545, 
-        "is_primary": "1", 
-        "height": 640
-      }, 
-      "n": {
-        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/31449_ab5ed1bf010a61d8_n.jpg", 
-        "width": 273, 
-        "is_primary": "1", 
-        "height": 320
-      }
-    }
-  ], 
-  "id": "18562643", 
-  "decade": "1910", 
-  "dimensions": "H x diam.: 17.4 x 15.4 cm (6 7/8 x 6 1/16 in.)", 
-  "title": "Pitcher, \"Patrician\", ca. 1928", 
-  "provenance": null, 
-  "participants": [
-    {
-      "person_name": "Josef Hoffmann", 
-      "role_url": "http://collection.cooperhewitt.org/roles/35236655/", 
-      "person_url": "http://collection.cooperhewitt.org/people/18046353/", 
-      "role_name": "Designer", 
-      "person_id": "18046353", 
-      "role_id": "35236655"
-    }
-  ], 
-  "woe:country": "23424750", 
-  "department_id": "35347497", 
-  "medium": "Glass", 
-  "description": "Clear, thin-walled glass form: slightly ovoid bowl with everted rim and small lip, surmounting short slender stem with slightly domed foot; large C-shaped handle.handle.", 
-  "creditline": "Gift of Elisha Dyer", 
-  "period_id": null, 
-  "date": "ca. 1928", 
-  "url": "http://collection.cooperhewitt.org/objects/18562643/", 
-  "type": {
-    "id": "35237237", 
-    "name": "Pitcher"
-  }, 
-  "accession_number": "1941-3-7", 
-  "year_end": "1938", 
-  "signed": null, 
-  "inscribed": null, 
-  "markings": null, 
-  "year_acquired": "1941"
+    "id": "18562643",
+    "tms:id": "74526",
+    "accession_number": "1941-3-7",
+    "title": "Patrician Pitcher, ca. 1928",
+    "title_raw": "Patrician",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18562643\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51585935",
+    "type_id": "35237237",
+    "date": "ca. 1928",
+    "year_start": 1918,
+    "year_end": 1938,
+    "year_acquired": "1941",
+    "decade": "1910",
+    "woe:country_id": "23424750",
+    "medium": "Mouth-blown crystal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 17.4 x 15.4 cm (6 7\/8 x 6 1\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "15.40",
+            "centimeters"
+        ],
+        "height": [
+            "17.40",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of Elisha Dyer",
+    "description": "Clear, thin-walled glass form: slightly ovoid bowl with everted rim and small lip, surmounting short slender stem with slightly domed foot; large C-shaped handle.handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Pitcher",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116736_03fe5cd3c990cce4_b.jpg",
+                "width": 885,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "116736"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116736_03fe5cd3c990cce4_z.jpg",
+                "width": 553,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "116736"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116736_03fe5cd3c990cce4_n.jpg",
+                "width": 277,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "116736"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116736_03fe5cd3c990cce4_d.gif",
+                "width": 277,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "116736"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116736_03fe5cd3c990cce4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "116736"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18046353",
+            "role_id": "35236655",
+            "person_name": "Josef Hoffmann",
+            "person_date": "Austrian, b. Moravia, present-day Czech Republic, 1870\u20131956",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046353\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18051763",
+            "role_id": "35351535",
+            "person_name": "Elisha Dyer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051763\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045401",
+            "role_id": "35236657",
+            "person_name": "J. & L. Lobmeyr",
+            "person_date": "Vienna, Austria",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045401\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Patrician Pitcher, ca. 1928. Mouth-blown crystal. \nGift of Elisha Dyer. 1941-3-7"
+    },
+    "colors": [
+        {
+            "color": "#eacba9",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#f1d6cd",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#ffe4c4",
+            "closest_css4": "#ffe4c4"
+        },
+        {
+            "color": "#967d48",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#7d602e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

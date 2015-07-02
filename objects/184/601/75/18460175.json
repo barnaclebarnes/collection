@@ -1,80 +1,166 @@
 {
-    "id":"18460175",
-    "tms:id":"140670",
-    "accession_number":"1968-1-15",
-    "title":"Figure, \"Cat\", 1904",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18460175\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414527",
-    "type_id":"35237189",
-    "date":"1904",
-    "year_start":"1904",
-    "year_end":"1904",
-    "year_acquired":"1968",
-    "decade":"1900",
-    "woe:country":"23424856",
-    "medium":"stoneware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"8 x 11 x 10 cm (3 1\/8 x 4 5\/16 x 3 15\/16 in.)",
-    "creditline":"Gift of J. Lionberger Davis",
-    "description":"Figure of a cat, curled about himself, licking back paw.  Satsuma style, cream-colored small crackle glaze, with painted streaks of brown and gold, tongue painted red.",
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18460175",
+    "tms:id": "140670",
+    "accession_number": "1968-1-15",
+    "title": "Cat Figure, 1904",
+    "title_raw": "Cat",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18460175\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414527",
+    "type_id": "35237189",
+    "date": "1904",
+    "year_start": 1904,
+    "year_end": 1904,
+    "year_acquired": "1968",
+    "decade": "1900",
+    "woe:country_id": "23424856",
+    "medium": "stoneware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "8 x 11 x 10 cm (3 1\/8 x 4 5\/16 x 3 15\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "10.00",
+            "centimeters"
+        ],
+        "height": [
+            "8.00",
+            "centimeters"
+        ],
+        "width": [
+            "11.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of J. Lionberger Davis",
+    "description": "Figure of a cat, curled about himself, licking back paw.  Satsuma style, cream-colored small crackle glaze, with painted streaks of brown and gold, tongue painted red.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Figure",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25009_2dfa27b1fc8dd185_b.jpg",
-                "width":1024,
-                "height":833,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109631_f5ddc2dd49a22246_b.jpg",
+                "width": 1024,
+                "height": 878,
+                "is_primary": "1",
+                "image_id": "109631"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25009_2dfa27b1fc8dd185_n.jpg",
-                "width":320,
-                "height":260,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109631_f5ddc2dd49a22246_z.jpg",
+                "width": 640,
+                "height": 548,
+                "is_primary": "1",
+                "image_id": "109631"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25009_2dfa27b1fc8dd185_z.jpg",
-                "width":640,
-                "height":520,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109631_f5ddc2dd49a22246_n.jpg",
+                "width": 320,
+                "height": 274,
+                "is_primary": "1",
+                "image_id": "109631"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109631_f5ddc2dd49a22246_d.gif",
+                "width": 320,
+                "height": 274,
+                "is_primary": "1",
+                "image_id": "109631"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109631_f5ddc2dd49a22246_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109631"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25009_2dfa27b1fc8dd185_b.jpg",
+                "width": 1024,
+                "height": 833,
+                "is_primary": "0",
+                "image_id": "25009"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25009_2dfa27b1fc8dd185_z.jpg",
+                "width": 640,
+                "height": 520,
+                "is_primary": "0",
+                "image_id": "25009"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25009_2dfa27b1fc8dd185_n.jpg",
+                "width": 320,
+                "height": 260,
+                "is_primary": "0",
+                "image_id": "25009"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25009_2dfa27b1fc8dd185_d.gif",
+                "width": 320,
+                "height": 260,
+                "is_primary": "0",
+                "image_id": "25009"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25009_2dfa27b1fc8dd185_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "25009"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Figure, \"Cat\", 1904.\n1904. stoneware. Gift of J. Lionberger Davis. 1968-1-15."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#a28e65",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#6e5931",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#936328",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#bbb8aa",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#46331c",
-            "closest_css3":"#556b2f"
+            "person_id": "18537073",
+            "role_id": "35351535",
+            "person_name": "J. Lionberger Davis",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537073\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Cat Figure, 1904. stoneware. \nGift of J. Lionberger Davis. 1968-1-15"
+    },
+    "colors": [
+        {
+            "color": "#d4be9a",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#aa9371",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#8d714d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#684e33",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

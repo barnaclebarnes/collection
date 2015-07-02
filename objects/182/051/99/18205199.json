@@ -1,80 +1,178 @@
 {
-    "id":"18205199",
-    "tms:id":"24148",
-    "accession_number":"1918-8-2",
-    "title":"Sample, ca. 1918",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18205199\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35268079",
-    "date":"ca. 1918",
-    "year_start":"1908",
-    "year_end":"1928",
-    "year_acquired":"1918",
-    "decade":"1900",
-    "woe:country":"23424977",
-    "medium":"Medium: silk\nTechnique: printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 35.8 x 49 cm (14 1\/8 x 19 5\/16 in.)",
-    "creditline":"Gift of J. L. Duplan",
-    "description":"Border design of stylized tulips and flowers, printed in light browns, green, purple, blue and black.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18205199",
+    "tms:id": "24148",
+    "accession_number": "1918-8-2",
+    "title": "Sample (USA), ca. 1918",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18205199\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35268079",
+    "date": "ca. 1918",
+    "year_start": 1908,
+    "year_end": 1928,
+    "year_acquired": "1918",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk\nTechnique: printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 35.8 x 49 cm (14 1\/8 x 19 5\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "35.80",
+            "centimeters"
+        ],
+        "weft": [
+            "49.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of J. L. Duplan",
+    "description": "Border design of stylized tulips and flowers, printed in light browns, green, purple, blue and black.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2235_20778c1dca2d6d90_b.jpg",
-                "width":726,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62047_0dc449bd6a20cbdb_b.jpg",
+                "width": 757,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "62047"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2235_20778c1dca2d6d90_n.jpg",
-                "width":227,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62047_0dc449bd6a20cbdb_z.jpg",
+                "width": 473,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "62047"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2235_20778c1dca2d6d90_z.jpg",
-                "width":454,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62047_0dc449bd6a20cbdb_n.jpg",
+                "width": 237,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "62047"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62047_0dc449bd6a20cbdb_d.gif",
+                "width": 237,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "62047"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62047_0dc449bd6a20cbdb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "62047"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2235_20778c1dca2d6d90_b.jpg",
+                "width": 726,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2235"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2235_20778c1dca2d6d90_z.jpg",
+                "width": 454,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2235"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2235_20778c1dca2d6d90_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2235"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2235_20778c1dca2d6d90_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2235"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2235_20778c1dca2d6d90_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2235"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sample, ca. 1918.\nca. 1918. Medium: silk\nTechnique: printed on plain weave. Gift of J. L. Duplan. 1918-8-2."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d0ddf9",
-            "closest_css3":"#e6e6fa"
+            "person_id": "51677593",
+            "role_id": "35236657",
+            "person_name": "Duplan Silk Corporation",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51677593\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#888aa6",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#1f2a4b",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#2b59a8",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#497d91",
-            "closest_css3":"#4682b4"
+            "person_id": "68736497",
+            "role_id": "35351535",
+            "person_name": "J. L. Duplan",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sample (USA), ca. 1918. Medium: silk\nTechnique: printed on plain weave. \nGift of J. L. Duplan. 1918-8-2"
+    },
+    "colors": [
+        {
+            "color": "#948f5b",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#bebaa0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#4f6b3a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#47647b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#323c3c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,42 +1,131 @@
 {
-    "id":"18617727",
-    "tms:id":"177396",
-    "accession_number":"1981-29-31",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617727\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617727",
+    "tms:id": "177396",
+    "accession_number": "1981-29-31",
+    "title": "Poster, Grand Rapids Art Museum, 1979",
+    "title_raw": "Grand Rapids Art Museum",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617727\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35238163",
+    "date": "1979",
+    "year_start": 1979,
+    "year_end": 1979,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Offset Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in black ink, lower margin: \u00a9 1979 Grand Rapids Art Museum. Design by Stephen Frykholm.",
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "H x W: 92.8 x 57.3 cm (36 9\/16 x 22 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "92.80",
+            "centimeters"
+        ],
+        "width": [
+            "57.30",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Various Donors",
+    "description": "Poster depicts a vertical rectangle containing a line drawing of the upper story of a building\u2019s fa\u00e7ade, focusing on the decorative elements: an eagle (under which some pigeons are perched), shutters, a lunette over the door; background is blue. Above, in white: GRAND RAPIDS ART MUSEUM.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80008_7936f254df992a08_b.jpg",
+                "width": 635,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "80008"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80008_7936f254df992a08_z.jpg",
+                "width": 397,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "80008"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80008_7936f254df992a08_n.jpg",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80008"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80008_7936f254df992a08_d.gif",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80008"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80008_7936f254df992a08_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80008"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042365",
+            "role_id": "35236655",
+            "person_name": "Stephen Frykholm",
+            "person_date": "American, b. 1942",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Poster.\nGift of Various Donors. 1981-29-31."
+    "tombstone": {
+        "epitaph": "Poster, Grand Rapids Art Museum, 1979. Offset Lithograph on paper. \nGift of Various Donors. 1981-29-31"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#5f7cc8",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#ceccc0",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#b7d9d0",
+            "closest_crayola": "#aaf0d1",
+            "closest_css3": "#b0e0e6",
+            "closest_css4": "#b0e0e6"
+        },
+        {
+            "color": "#a1bbc1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#63676a",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

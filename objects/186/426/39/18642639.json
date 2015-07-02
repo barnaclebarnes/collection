@@ -1,42 +1,123 @@
 {
-    "id":"18642639",
-    "tms:id":"196184",
-    "accession_number":"1993-108-340",
-    "title":"Drawing, \"C-5. Round miror with rou\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18642639\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35422409",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1993",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Chalk, watercolor",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Alfons Bach",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18642639",
+    "tms:id": "196184",
+    "accession_number": "1993-108-340",
+    "title": "Drawing, Round mirror, 20th century",
+    "title_raw": "Round mirror",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18642639\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51686313",
+    "type_id": "35237093",
+    "date": "20th century",
+    "year_start": 1920,
+    "year_end": 1999,
+    "year_acquired": "1993",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Chalk, brush and gouache on black paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in white chalk, lower left: C-5",
+    "provenance": "Alfons Bach; 1993: acquired by Museum",
+    "dimensions": "30.9 x 46 cm (12 3\/16 x 18 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.90",
+            "centimeters"
+        ],
+        "width": [
+            "46.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Alfons Bach",
+    "description": "Round mirror with bottom frame composed of white spiral shell-like discs.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64330_9707ec2b7cc04d42_b.jpg",
+                "width": 1024,
+                "height": 688,
+                "is_primary": "1",
+                "image_id": "64330"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64330_9707ec2b7cc04d42_z.jpg",
+                "width": 640,
+                "height": 430,
+                "is_primary": "1",
+                "image_id": "64330"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64330_9707ec2b7cc04d42_n.jpg",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "64330"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64330_9707ec2b7cc04d42_d.gif",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "64330"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64330_9707ec2b7cc04d42_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64330"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18053553",
+            "role_id": "35351535",
+            "person_name": "Alfons Bach",
+            "person_date": "German, 1904\u20131999",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053553",
+            "role_id": "35236655",
+            "person_name": "Alfons Bach",
+            "person_date": "German, 1904\u20131999",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"C-5. Round miror with rou\".\nChalk, watercolor. Gift of Alfons Bach. 1993-108-340."
+    "tombstone": {
+        "epitaph": "Drawing, Round mirror, 20th century. Chalk, brush and gouache on black paper. \nGift of Alfons Bach. 1993-108-340"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#787983",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#505157",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

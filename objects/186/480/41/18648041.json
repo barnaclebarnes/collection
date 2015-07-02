@@ -1,49 +1,161 @@
 {
-    "id":"18648041",
-    "tms:id":"198927",
-    "accession_number":"1994-134-1",
-    "title":"Vase, 1907",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18648041\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35237225",
-    "date":"1907",
-    "year_start":"1907",
-    "year_end":"1907",
-    "year_acquired":"1994",
-    "decade":"1900",
-    "woe:country":"23424909",
-    "medium":"Porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"28.5 x 12.5 cm (11 1\/4 x 4 15\/16 in.)",
-    "creditline":"Gift of Jareth Holub",
-    "description":"Globular, with long neck, painted with Persian-inspired polychrome decoration.",
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18648041",
+    "tms:id": "198927",
+    "accession_number": "1994-134-1",
+    "title": "Vase (Netherlands), 1907",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18648041\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237225",
+    "date": "1907",
+    "year_start": 1907,
+    "year_end": 1907,
+    "year_acquired": "1994",
+    "decade": "1900",
+    "woe:country_id": "23424909",
+    "medium": "Porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "28.5 x 12.5 cm (11 1\/4 x 4 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.50",
+            "centimeters"
+        ],
+        "width": [
+            "12.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Jareth Holub",
+    "description": "Globular, with long neck, painted with Persian-inspired polychrome decoration.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Vase",
+    "images": [
         {
-            "person_id":"18048495",
-            "role_id":"35236657",
-            "person_name":"Rozenburg Pottery and Porcelain Factory",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048495\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107186_f915b4b9766430b2_b.jpg",
+                "width": 892,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "107186"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107186_f915b4b9766430b2_z.jpg",
+                "width": 557,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "107186"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107186_f915b4b9766430b2_n.jpg",
+                "width": 279,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107186"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107186_f915b4b9766430b2_d.gif",
+                "width": 279,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107186"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107186_f915b4b9766430b2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107186"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Vase, 1907.\n1907. Porcelain. Gift of Jareth Holub. 1994-134-1."
+    "participants": [
+        {
+            "person_id": "18041701",
+            "role_id": "35351535",
+            "person_name": "Jareth Holub",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041701\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048765",
+            "role_id": "35352245",
+            "person_name": "Cynthia Trope",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18048495",
+            "role_id": "35236657",
+            "person_name": "Rozenburg Pottery and Porcelain Factory",
+            "person_date": "Active 1883\u20131913",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048495\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18045083",
+            "role_id": "35236761",
+            "person_name": "Samuel Schellink",
+            "person_date": "1876 \u2013 1958",
+            "role_name": "Painter",
+            "role_display_name": "Painted by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045083\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236761\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase (Netherlands), 1907. Porcelain. \nGift of Jareth Holub. 1994-134-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#9ea89e",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#676853",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3d3435",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#715635",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#171522",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

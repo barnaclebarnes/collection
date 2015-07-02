@@ -1,80 +1,163 @@
 {
-    "id":"18461309",
-    "tms:id":"141259",
-    "accession_number":"1968-110-132",
-    "title":"Textile, 1930s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18461309\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1930s",
-    "year_start":"1930",
-    "year_end":"1939",
-    "year_acquired":"1968",
-    "decade":"1930",
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"from Ericson and Weiss Collection",
-    "dimensions":"Warp x Weft: 99 x 76 cm (39 x 29 15\/16 in.)\nRepeat H: 68.6 cm (27 in.)",
-    "creditline":"Gift of Mrs. Germaine Little",
-    "description":"Birds on a curving branch with flowers and mushrooms on a dark background.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18461309",
+    "tms:id": "141259",
+    "accession_number": "1968-110-132",
+    "title": "Textile (England), 1930s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18461309\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1930s",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1968",
+    "decade": "1930",
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "from Ericson and Weiss Collection",
+    "dimensions": "Warp x Weft: 99 x 76 cm (39 x 29 15\/16 in.)\nRepeat H: 68.6 cm (27 in.)",
+    "dimensions_raw": {
+        "height": [
+            "68.60",
+            "centimeters"
+        ],
+        "warp": [
+            "99.00",
+            "centimeters"
+        ],
+        "weft": [
+            "76.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Germaine Little",
+    "description": "Birds on a curving branch with flowers and mushrooms on a dark background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24916_a9b522d592d91197_b.jpg",
-                "width":792,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106149_d8661bfd00eca121_b.jpg",
+                "width": 797,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "106149"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24916_a9b522d592d91197_n.jpg",
-                "width":247,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106149_d8661bfd00eca121_z.jpg",
+                "width": 498,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "106149"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24916_a9b522d592d91197_z.jpg",
-                "width":495,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106149_d8661bfd00eca121_n.jpg",
+                "width": 249,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106149"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106149_d8661bfd00eca121_d.gif",
+                "width": 249,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106149"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106149_d8661bfd00eca121_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106149"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24916_a9b522d592d91197_b.jpg",
+                "width": 792,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "24916"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24916_a9b522d592d91197_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "24916"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24916_a9b522d592d91197_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "24916"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24916_a9b522d592d91197_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "24916"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24916_a9b522d592d91197_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "24916"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1930s.\n1930s. Medium: cotton\nTechnique: screen printed on plain weave. Gift of Mrs. Germaine Little. 1968-110-132."
+    "tombstone": {
+        "epitaph": "Textile (England), 1930s. Medium: cotton\nTechnique: screen printed on plain weave. \nGift of Mrs. Germaine Little. 1968-110-132"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#211624",
-            "closest_css3":"#000000"
+            "color": "#464238",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#cebbca",
-            "closest_css3":"#d8bfd8"
+            "color": "#84866d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#403331",
-            "closest_css3":"#2f4f4f"
+            "color": "#6f6d60",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#2c3448",
-            "closest_css3":"#2f4f4f"
+            "color": "#68514a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#983032",
-            "closest_css3":"#a52a2a"
+            "color": "#b58c66",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,71 +1,131 @@
 {
-    "id":"18464431",
-    "tms:id":"142824",
-    "accession_number":"1968-144-6-a\/c",
-    "title":"Desk, ca. 1935",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464431\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389779",
-    "type_id":"35251149",
-    "date":"ca. 1935",
-    "year_start":"1930",
-    "year_end":"1940",
-    "year_acquired":"1968",
-    "decade":"1930",
-    "woe:country":"23424819",
-    "medium":"wood",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 73 x 143 x 76 cm (28 3\/4 x 56 5\/16 x 29 15\/16 in.)",
-    "creditline":"Gift of Mr. and Mrs. Forsythe Sherfesee",
-    "description":"Black lacquer desk",
-    "justification":null,
-    "type":{
-        "id":"35251149",
-        "name":"desk"
+    "id": "18464431",
+    "tms:id": "142824",
+    "accession_number": "1968-144-6-a\/c",
+    "title": "Desk (France), ca. 1935",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18464431\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389779",
+    "type_id": "35251149",
+    "date": "ca. 1935",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1968",
+    "decade": "1930",
+    "woe:country_id": "23424819",
+    "medium": "wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 73 x 143 x 76 cm (28 3\/4 x 56 5\/16 x 29 15\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "76.00",
+            "centimeters"
+        ],
+        "height": [
+            "73.00",
+            "centimeters"
+        ],
+        "width": [
+            "143.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mr. and Mrs. Forsythe Sherfesee",
+    "description": "Black lacquer desk",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "desk",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6952_2ef7440deb949c5c_b.jpg",
-                "width":1024,
-                "height":696,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6952_2ef7440deb949c5c_b.jpg",
+                "width": 1024,
+                "height": 696,
+                "is_primary": "1",
+                "image_id": "6952"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6952_2ef7440deb949c5c_n.jpg",
-                "width":320,
-                "height":218,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6952_2ef7440deb949c5c_z.jpg",
+                "width": 640,
+                "height": 435,
+                "is_primary": "1",
+                "image_id": "6952"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6952_2ef7440deb949c5c_z.jpg",
-                "width":640,
-                "height":435,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6952_2ef7440deb949c5c_n.jpg",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "6952"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6952_2ef7440deb949c5c_d.gif",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "6952"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6952_2ef7440deb949c5c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "6952"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18535925",
-            "role_id":"35236655",
-            "person_name":"Jean-Michel Frank",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18535925\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18535883",
+            "role_id": "35351535",
+            "person_name": "Mrs. Forsythe Sherfesee",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535883\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18535881",
+            "role_id": "35351535",
+            "person_name": "Forsythe Sherfesee",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535881\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18535925",
+            "role_id": "35236655",
+            "person_name": "Jean-Michel Frank",
+            "person_date": "French, 1895\u20131941",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535925\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Desk, ca. 1935.\nca. 1935. wood. Gift of Mr. and Mrs. Forsythe Sherfesee. 1968-144-6-a\/c."
+    "tombstone": {
+        "epitaph": "Desk (France), ca. 1935. wood. \nGift of Mr. and Mrs. Forsythe Sherfesee. 1968-144-6-a\/c"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c1c1c1",
-            "closest_css3":"#c0c0c0"
+            "color": "#c2c2c2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

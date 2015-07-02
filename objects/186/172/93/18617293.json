@@ -1,49 +1,131 @@
 {
-    "id":"18617293",
-    "tms:id":"177179",
-    "accession_number":"1981-29-117",
-    "title":"Poster, \"Bone Up\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617293\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 70.7 x 52.5 cm (27 13\/16 x 20 11\/16 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617293",
+    "tms:id": "177179",
+    "accession_number": "1981-29-117",
+    "title": "Poster, Bone Up",
+    "title_raw": "Bone Up",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617293\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "Overall: 70.7 x 52.5 cm (27 13\/16 x 20 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "70.70",
+            "centimeters"
+        ],
+        "width": [
+            "52.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Rows of bones with black text: Bone Up.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042421",
-            "role_id":"35236667",
-            "person_name":"Brigham Young University",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82690_156fe89573dffd6e_b.jpg",
+                "width": 754,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82690"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82690_156fe89573dffd6e_z.jpg",
+                "width": 471,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82690"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82690_156fe89573dffd6e_n.jpg",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82690"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82690_156fe89573dffd6e_d.gif",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82690"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82690_156fe89573dffd6e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82690"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"Bone Up\".\nOverall: 70.7 x 52.5 cm (27 13\/16 x 20 11\/16 in.). Gift of Various Donors. 1981-29-117."
+    "participants": [
+        {
+            "person_id": "18042421",
+            "role_id": "35236667",
+            "person_name": "Brigham Young University",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Bone Up. Lithograph on paper. \nGift of Various Donors. 1981-29-117"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b9a270",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#f1f0d9",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
+        },
+        {
+            "color": "#7b735e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#bcb8a5",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#38352c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

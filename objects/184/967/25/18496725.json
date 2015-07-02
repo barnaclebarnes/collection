@@ -1,42 +1,112 @@
 {
-    "id":"18496725",
-    "tms:id":"159256",
-    "accession_number":"1978-168-60",
-    "title":"Figure, \"Venus and Cupid\", 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18496725\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35390047",
-    "type_id":"35237189",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":null,
-    "medium":"bronze",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"29.8 cm (11 3\/4 in. )",
-    "creditline":"Gift of Mrs. Howard J. Sachs and Mr. Peter G. Sachs in memory of Miss Edith L. Sachs",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18496725",
+    "tms:id": "159256",
+    "accession_number": "1978-168-60",
+    "title": "Venus and Cupid Figure, 19th century",
+    "title_raw": "Venus and Cupid",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18496725\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35390047",
+    "type_id": "35237189",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "29.8 cm (11 3\/4 in. )",
+    "dimensions_raw": {
+        "height": [
+            "29.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mrs. Howard J. Sachs and Mr. Peter G. Sachs in memory of Miss Edith L. Sachs",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Figure",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103773_be5b617a935931c6_b.jpg",
+                "width": 733,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103773"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103773_be5b617a935931c6_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103773"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103773_be5b617a935931c6_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103773"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103773_be5b617a935931c6_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103773"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103773_be5b617a935931c6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103773"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18054121",
+            "role_id": "35351535",
+            "person_name": "Peter G. Sachs",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054121\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18052049",
+            "role_id": "35351535",
+            "person_name": "Mrs. Howard J. Sachs",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Figure, \"Venus and Cupid\", 19th century.\n19th century. bronze. Gift of Mrs. Howard J. Sachs and Mr. Peter G. Sachs in memory of Miss Edith L. Sachs. 1978-168-60."
+    "tombstone": {
+        "epitaph": "Venus and Cupid Figure, 19th century. bronze. \nGift of Mrs. Howard J. Sachs and Mr. Peter G. Sachs in memory of Miss Edith L. Sachs. 1978-168-60"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#3e3831",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

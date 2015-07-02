@@ -1,83 +1,140 @@
 {
-    "id":"18758233",
-    "tms:id":"255400",
-    "accession_number":"2010-21-14",
-    "title":"Poster, \"High Heels\", 1991",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758233\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"1991",
-    "year_start":"1991",
-    "year_end":"1991",
-    "year_acquired":"2010",
-    "decade":"1990",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"95.3 x 66.9 cm (37 1\/2 x 26 5\/16 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":"On red background, a photograph of a polished black high-heeled shoe, the heel in the shape of a handgun, and framed by the inscription \"TACONES\" at top, and 'LEJANOS\" at bottom. At the very top is written: \"EL DESEO S.A. PRESENTA UN FILM DE PEDRO ALMODOVAR\", and at bottom are the credits: \"VICTORIA ABRIL  MARISA PAREDES  MIGUEL BOSE\" followed by further credits in smaller type.",
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758233",
+    "tms:id": "255400",
+    "accession_number": "2010-21-14",
+    "title": "Poster, Tacones Lejanos [High Heels], 1991",
+    "title_raw": "Tacones Lejanos [High Heels]",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758233\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431963",
+    "type_id": "35238163",
+    "date": "1991",
+    "year_start": 1991,
+    "year_end": 1991,
+    "year_acquired": "2010",
+    "decade": "1990",
+    "woe:country_id": null,
+    "medium": "Offset lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
+    "dimensions": "95.3 x 66.9 cm (37 1\/2 x 26 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "95.30",
+            "centimeters"
+        ],
+        "width": [
+            "66.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "On red background, a photograph of a polished black high-heeled shoe, the heel in the shape of a handgun, and framed by the inscription \"TACONES\" at top, and 'LEJANOS\" at bottom. At the very top is written: \"EL DESEO S.A. PRESENTA UN FILM DE PEDRO ALMODOVAR\", and at bottom are the credits: \"VICTORIA ABRIL  MARISA PAREDES  MIGUEL BOSE\" followed by further credits in smaller type.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46884_c566a1dd2ba9986a_b.jpg",
-                "width":723,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46884_afa8da6b07fdeee0_b.jpg",
+                "width": 722,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46884"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46884_c566a1dd2ba9986a_n.jpg",
-                "width":226,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46884_afa8da6b07fdeee0_z.jpg",
+                "width": 451,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46884"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46884_c566a1dd2ba9986a_z.jpg",
-                "width":452,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46884_afa8da6b07fdeee0_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46884"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46884_afa8da6b07fdeee0_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46884"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46884_afa8da6b07fdeee0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46884"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18063481",
-            "role_id":"35236667",
-            "person_name":"Pedro Almod\u00f3var Caballero",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18063481\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "person_id": "18063481",
+            "role_id": "35236667",
+            "person_name": "Pedro Almod\u00f3var Caballero",
+            "person_date": "Spanish, b. 1951",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18063483",
+            "role_id": "35236655",
+            "person_name": "Studio Gatti",
+            "person_date": "Spanish, founded 1985",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063483\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"High Heels\", 1991.\n1991. Offset lithograph on wove paper. Gift of Sara and Marc Benda. 2010-21-14."
+    "tombstone": {
+        "epitaph": "Poster, Tacones Lejanos [High Heels], 1991. Offset lithograph on wove paper. \nGift of Sara and Marc Benda. 2010-21-14"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c3351d",
-            "closest_css3":"#b22222"
+            "color": "#ab4e23",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#8b2316",
-            "closest_css3":"#a52a2a"
+            "color": "#803516",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#47251d",
-            "closest_css3":"#2f4f4f"
+            "color": "#363532",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#9f9797",
-            "closest_css3":"#a9a9a9"
+            "color": "#9f9490",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#322218",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

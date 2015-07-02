@@ -1,42 +1,131 @@
 {
-    "id":"18622437",
-    "tms:id":"186055",
-    "accession_number":"1987-46-16",
-    "title":"Sample",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622437\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"140881",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Technique: discharge printed on indigo dyed plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 10 x 4.7 cm (3 15\/16 x 1 7\/8 in.)",
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":"Orange and yellow circles in orange grid on dark blue.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18622437",
+    "tms:id": "186055",
+    "accession_number": "1987-46-16",
+    "title": "Sample (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18622437\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "140881",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1987",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Technique: discharge printed on indigo dyed plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 10 x 4.7 cm (3 15\/16 x 1 7\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "10.00",
+            "centimeters"
+        ],
+        "weft": [
+            "4.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": "Orange and yellow circles in orange grid on dark blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78042_7d9e5753efc0a392_b.jpg",
+                "width": 576,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "78042"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78042_7d9e5753efc0a392_z.jpg",
+                "width": 360,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "78042"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78042_7d9e5753efc0a392_n.jpg",
+                "width": 180,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "78042"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78042_7d9e5753efc0a392_d.gif",
+                "width": 180,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "78042"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78042_7d9e5753efc0a392_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "78042"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sample.\nTechnique: discharge printed on indigo dyed plain weave. Museum purchase from Au Panier Fleuri Fund. 1987-46-16."
+    "tombstone": {
+        "epitaph": "Sample (England). Technique: discharge printed on indigo dyed plain weave. \nMuseum purchase from Au Panier Fleuri Fund. 1987-46-16"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#172135",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d69139",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#e7bc60",
+            "closest_crayola": "#faa76c",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        },
+        {
+            "color": "#444849",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b19156",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

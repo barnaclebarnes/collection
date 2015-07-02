@@ -1,75 +1,170 @@
 {
-    "id":"18498745",
-    "tms:id":"160273",
-    "accession_number":"1979-89-3",
-    "title":"Textile, 1956",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18498745\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1956",
-    "year_start":"1956",
-    "year_end":"1956",
-    "year_acquired":"1979",
-    "decade":"1950",
-    "woe:country":"23424812",
-    "medium":"Medium: cotton \nTechnique: screen printed (in two colors) on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Printed in purple on one side: \"Maija Isola \"Kivet\" Marimekko Oy Suomi Finland 1956.\"",
-    "provenance":null,
-    "dimensions":"H x W: 351 x 135 cm (11 ft. 6 3\/16 in. x 53 1\/8 in.)\nwidth selvedge to selvedge\nRepeat H: 64 cm (25 3\/16 in.)",
-    "creditline":"Gift of Marimekko, Inc.",
-    "description":"Design of circles with irregular contours in dark blue on green ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18498745",
+    "tms:id": "160273",
+    "accession_number": "1979-89-3",
+    "title": "Textile, Kivet, 1956",
+    "title_raw": "Kivet",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18498745\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1956",
+    "year_start": 1956,
+    "year_end": 1956,
+    "year_acquired": "1979",
+    "decade": "1950",
+    "woe:country_id": "23424812",
+    "medium": "Medium: cotton \nTechnique: screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in purple on one side: \"Maija Isola \"Kivet\" Marimekko Oy Suomi Finland 1956.\"",
+    "provenance": "Marimekko, Inc.; 1979: acquired by Museum",
+    "dimensions": "H x W: 351.2 x 135 cm (11 ft. 6 1\/4 in. x 53 1\/8 in.)\nRepeat H: 64 cm (25 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "351.16",
+            "centimeters"
+        ],
+        "width": [
+            "135.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Marimekko, Inc.",
+    "description": "Design of circles with irregular contours in dark blue on green ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424812",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43748_58ac8afb8ce4760e_b.jpg",
-                "width":626,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43748_bc3e618fe0bad4bc_b.jpg",
+                "width": 628,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "43748"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43748_58ac8afb8ce4760e_n.jpg",
-                "width":196,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43748_bc3e618fe0bad4bc_z.jpg",
+                "width": 392,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "43748"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43748_58ac8afb8ce4760e_z.jpg",
-                "width":391,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43748_bc3e618fe0bad4bc_n.jpg",
+                "width": 196,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43748"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43748_bc3e618fe0bad4bc_d.gif",
+                "width": 196,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43748"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43748_bc3e618fe0bad4bc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43748"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77062_d77fe3441582be45_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "77062"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77062_d77fe3441582be45_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "77062"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77062_d77fe3441582be45_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77062"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77062_d77fe3441582be45_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "77062"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77062_d77fe3441582be45_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "77062"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049849",
-            "role_id":"35236655",
-            "person_name":"Maija Isola",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049849\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
-        }
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1956.\n1956. Medium: cotton \nTechnique: screen printed (in two colors) on plain weave. Gift of Marimekko, Inc.. 1979-89-3."
-    },
-    "colors":[
-        {
-            "color":"#444621",
-            "closest_css3":"#556b2f"
+            "person_id": "18045663",
+            "role_id": "35236657",
+            "person_name": "Marimekko Oy",
+            "person_date": "Helsinki, Finland, founded 1951",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045663\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#2f2f26",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18048723",
+            "role_id": "35351535",
+            "person_name": "Marimekko, Inc.",
+            "person_date": "1951 \u2013 1979",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048723\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049849",
+            "role_id": "35236655",
+            "person_name": "Maija Isola",
+            "person_date": "Finnish, 1927\u20132001",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Kivet, 1956. Medium: cotton \nTechnique: screen printed on plain weave. \nGift of Marimekko, Inc.. 1979-89-3"
+    },
+    "colors": [
+        {
+            "color": "#191725",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#2f331a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Finland",
+    "is_loan_object": 0
 }

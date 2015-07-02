@@ -1,76 +1,198 @@
 {
-    "id":"18565587",
-    "tms:id":"76085",
-    "accession_number":"1942-36-30",
-    "title":"Print, 1621",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18565587\/",
-    "department_id":"35347493",
-    "period_id":"35417081",
-    "media_id":"35394413",
-    "type_id":"35236873",
-    "date":"1621",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1942",
-    "decade":null,
-    "woe:country":"23424829",
-    "medium":"Engraving on white laid paper",
-    "markings":null,
-    "signed":"Signed in plate, lower center below central ornamental motif: Isaac Brun Sculp",
-    "inscribed":"Inscribed in plate, upper center: 21; lower left: XXI",
-    "provenance":null,
-    "dimensions":"Sheet: 16.5 x 12 cm (6 1\/2 x 4 3\/4 in.)\nPlatemark: 16.3 x 11.7 cm (6 7\/16 x 4 5\/8 in.)",
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Four nosegays are in the corners beside a great symmetrically disposed nosegay. Those in the bottom corners are black moresques.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18565587",
+    "tms:id": "76085",
+    "accession_number": "1942-36-30",
+    "title": "Print, Design for a Pendant, plate XXI, from the series Tabulae Gemmiferae XXIV, 1621",
+    "title_raw": "Design for a Pendant, plate XXI, from the series Tabulae Gemmiferae XXIV",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18565587\/",
+    "department_id": "35347493",
+    "period_id": "35417081",
+    "media_id": "35394413",
+    "type_id": "35236873",
+    "date": "1621",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1942",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "Engraving on white laid paper",
+    "markings": null,
+    "signed": "Signed in plate, lower center below central ornamental motif: Isaac Brun Sculp",
+    "inscribed": "Inscribed in plate, upper center: 21; lower left: XXI",
+    "provenance": "1942: acquired by Museum (from P. and D. Colnaghi and Co., Ltd.)",
+    "dimensions": "Sheet: 16.5 x 12 cm (6 1\/2 x 4 3\/4 in.)\nPlatemark: 16.3 x 11.7 cm (6 7\/16 x 4 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "16.50",
+            "centimeters"
+        ],
+        "width": [
+            "12.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Four nosegays are in the corners beside a great symmetrically disposed nosegay. Those in the bottom corners are black moresques.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/20733_ad87d313181479e0_b.jpg",
-                "width":760,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87878_9c72b640315605ae_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "87878"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/20733_ad87d313181479e0_n.jpg",
-                "width":238,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87878_9c72b640315605ae_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "87878"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/20733_ad87d313181479e0_z.jpg",
-                "width":475,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87878_9c72b640315605ae_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "87878"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87878_9c72b640315605ae_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "87878"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87878_9c72b640315605ae_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "87878"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20733_ad87d313181479e0_b.jpg",
+                "width": 760,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "20733"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20733_ad87d313181479e0_z.jpg",
+                "width": 475,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "20733"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20733_ad87d313181479e0_n.jpg",
+                "width": 238,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "20733"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20733_ad87d313181479e0_d.gif",
+                "width": 238,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "20733"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20733_ad87d313181479e0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "20733"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Print, 1621.\n1621. Engraving on white laid paper. Museum purchase through gift of Mrs. John Innes Kane. 1942-36-30."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#3a342e",
-            "closest_css3":"#2f4f4f"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#b2a99d",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18055503",
+            "role_id": "35236743",
+            "person_name": "Isaac Brun",
+            "person_date": "German, ca. 1590\u2013after 1657",
+            "role_name": "Engraver",
+            "role_display_name": "Engraved by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055503\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236743\/"
         },
         {
-            "color":"#726a5f",
-            "closest_css3":"#696969"
+            "person_id": "18055501",
+            "role_id": "35236655",
+            "person_name": "Peter Symony",
+            "person_date": "Swiss, active 1603\u20131621",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055501\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#8f867b",
-            "closest_css3":"#808080"
+            "person_id": "18536707",
+            "role_id": "35352249",
+            "person_name": "P. and D. Colnaghi and Co., Ltd.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536707\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Print, Design for a Pendant, plate XXI, from the series Tabulae Gemmiferae XXIV, 1621. Engraving on white laid paper. \nMuseum purchase through gift of Mrs. John Innes Kane. 1942-36-30"
+    },
+    "colors": [
+        {
+            "color": "#d6d3c3",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#544f43",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#878272",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b0ab9a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#2e2c26",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

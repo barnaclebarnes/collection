@@ -1,65 +1,151 @@
 {
-    "id":"18684331",
-    "tms:id":"217645",
-    "accession_number":"1969-165-425",
-    "title":"Drawing, \"Design for Textile-Inventory Card\", 1952\u201369",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18684331\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35384727",
-    "type_id":"35237093",
-    "date":"1952\u201369",
-    "year_start":"1952",
-    "year_end":"1969",
-    "year_acquired":"1969",
-    "decade":"1950",
-    "woe:country":null,
-    "medium":"Green, red and orange colored pencil on white tracing paper fastened to white cardboard with four staples.",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Verso of cardboard mount in graphite upper left corner: II - 7",
-    "provenance":"This collection was donated to the Cooper-Hewitt, National Design Museum in 1969 by Alexander Girard",
-    "dimensions":"10.0 x 9.5 cm (3 15\/16 x 3 3\/4 in. )",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Alternating rows of geometric patterns based on a complicated motif comprised of triangles, white diamonds and rectangles. Color repeats: green\/red, green\/orange",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18684331",
+    "tms:id": "217645",
+    "accession_number": "1969-165-425",
+    "title": "Drawing, Design for Textile-Inventory Card, 1952\u201369",
+    "title_raw": "Design for Textile-Inventory Card",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18684331\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35384727",
+    "type_id": "35237093",
+    "date": "1952\u201369",
+    "year_start": 1952,
+    "year_end": 1969,
+    "year_acquired": "1969",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Green, red and orange colored pencil on white tracing paper fastened to white cardboard with four staples.",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Verso of cardboard mount in graphite upper left corner: II - 7",
+    "provenance": "Alexander H. Girard; 1969: acquired by Museum",
+    "dimensions": "10.2 x 10.2 cm (4 x 4 in.)\nOther (cardboard mount): 10.2 x 16.5 cm (4 in. x 6 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "10.20",
+            "centimeters"
+        ],
+        "width": [
+            "16.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Alternating rows of geometric patterns based on a complicated motif comprised of triangles, white diamonds and rectangles. Color repeats: green\/red, green\/orange.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18048151",
-            "role_id":"35236703",
-            "person_name":"Herman Miller, Inc.",
-            "role_name":"Office of",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048151\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
-        },
-        {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
-        },
-        {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85094_fddf346d5199fc07_b.jpg",
+                "width": 1024,
+                "height": 608,
+                "is_primary": "1",
+                "image_id": "85094"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85094_fddf346d5199fc07_z.jpg",
+                "width": 640,
+                "height": 380,
+                "is_primary": "1",
+                "image_id": "85094"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85094_fddf346d5199fc07_n.jpg",
+                "width": 320,
+                "height": 190,
+                "is_primary": "1",
+                "image_id": "85094"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85094_fddf346d5199fc07_d.gif",
+                "width": 320,
+                "height": 190,
+                "is_primary": "1",
+                "image_id": "85094"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85094_fddf346d5199fc07_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "85094"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for Textile-Inventory Card\", 1952\u201369.\n1952\u201369. Green, red and orange colored pencil on white tracing paper fastened to white cardboard with four staples.. Gift of Alexander H. Girard. 1969-165-425."
+    "participants": [
+        {
+            "person_id": "18049013",
+            "role_id": "35236703",
+            "person_name": "Herman Miller Furniture Company",
+            "person_date": "Zeeland, Michigan, USA, 1923\u20131960",
+            "role_name": "Office of",
+            "role_display_name": "Office of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049013\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+        },
+        {
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for Textile-Inventory Card, 1952\u201369. Green, red and orange colored pencil on white tracing paper fastened to white cardboard with four staples.. \nGift of Alexander H. Girard. 1969-165-425"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#be744b",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#697671",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a0543b",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#c5977b",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#3f4e4c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

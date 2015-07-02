@@ -1,49 +1,167 @@
 {
-    "id":"18134221",
-    "tms:id":"12210",
-    "accession_number":"1902-1-960",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18134221\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367215",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: wool, linen\/\nTechnique: plain weave with complementary wefts",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Stanislaus Baron",
-    "dimensions":"H x W: 62 x 48 cm (24 7\/16 x 18 7\/8 in.)",
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Red and yellow motifs arranges in rows on a blue field.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18134221",
+    "tms:id": "12210",
+    "accession_number": "1902-1-960",
+    "title": "Fragment",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18134221\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367215",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: wool, linen\/\nTechnique: plain weave with complementary wefts",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Stanislaus Baron",
+    "dimensions": "H x W: 62 x 48 cm (24 7\/16 x 18 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "62.00",
+            "centimeters"
+        ],
+        "width": [
+            "48.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Red and yellow motifs arranges in rows on a blue field.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94272_6a53dd57e3363b5d_b.jpg",
+                "width": 514,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94272"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94272_6a53dd57e3363b5d_z.jpg",
+                "width": 321,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94272"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94272_6a53dd57e3363b5d_n.jpg",
+                "width": 161,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94272"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94272_6a53dd57e3363b5d_d.gif",
+                "width": 161,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94272"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94272_6a53dd57e3363b5d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94272"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68462_48307e8c66237a3b_b.jpg",
+                "width": 645,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68462"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68462_48307e8c66237a3b_z.jpg",
+                "width": 403,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68462"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68462_48307e8c66237a3b_n.jpg",
+                "width": 202,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68462"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68462_48307e8c66237a3b_d.gif",
+                "width": 202,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68462"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68462_48307e8c66237a3b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68462"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nMedium: wool, linen\/\nTechnique: plain weave with complementary wefts. Gift of John Pierpont Morgan. 1902-1-960."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment. Medium: wool, linen\/\nTechnique: plain weave with complementary wefts. \nGift of John Pierpont Morgan. 1902-1-960"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#425051",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#74442e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#94823e",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        },
+        {
+            "color": "#63593e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#48413b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

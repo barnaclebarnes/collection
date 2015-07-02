@@ -1,42 +1,121 @@
 {
-    "id":"18104943",
-    "tms:id":"7052",
-    "accession_number":"1899-5-55",
-    "title":"Trimming Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18104943\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410751",
-    "type_id":"35256329",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1899",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk:\nTechnique: woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Georges A. Glaenzer",
-    "description":"Greek key design in blue and yellow",
-    "justification":null,
-    "type":{
-        "id":"35256329",
-        "name":"Trimming fragment"
-    },
-    "images":[
-
+    "id": "18104943",
+    "tms:id": "7052",
+    "accession_number": "1899-5-55",
+    "title": "Trimming Fragment",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18104943\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410751",
+    "type_id": "35256329",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1899",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk:\nTechnique: woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Georges A. Glaenzer",
+    "description": "Greek key design in blue and yellow",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Trimming fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68011_c0cc12bd9e17ffdd_b.jpg",
+                "width": 1024,
+                "height": 619,
+                "is_primary": "1",
+                "image_id": "68011"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68011_c0cc12bd9e17ffdd_z.jpg",
+                "width": 640,
+                "height": 387,
+                "is_primary": "1",
+                "image_id": "68011"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68011_c0cc12bd9e17ffdd_n.jpg",
+                "width": 320,
+                "height": 193,
+                "is_primary": "1",
+                "image_id": "68011"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68011_c0cc12bd9e17ffdd_d.gif",
+                "width": 320,
+                "height": 193,
+                "is_primary": "1",
+                "image_id": "68011"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68011_c0cc12bd9e17ffdd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "68011"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050397",
+            "role_id": "35351535",
+            "person_name": "Georges A. Glaenzer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050397\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Trimming Fragment.\nMedium: silk:\nTechnique: woven. Gift of Georges A. Glaenzer. 1899-5-55."
+    "tombstone": {
+        "epitaph": "Trimming Fragment. Medium: silk:\nTechnique: woven. \nGift of Georges A. Glaenzer. 1899-5-55"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#7f8279",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#0e2b42",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#295363",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b58e53",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#cdbe69",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,80 +1,172 @@
 {
-    "id":"18339375",
-    "tms:id":"53496",
-    "accession_number":"1934-15-1",
-    "title":"Textile, \"Ship on Wave Crest\", before 1933",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18339375\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410719",
-    "type_id":"35251739",
-    "date":"before 1933",
-    "year_start":"1925",
-    "year_end":"1933",
-    "year_acquired":"1934",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Medium: silk, cotton\nTechnique: linoleum block printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 155 x 141 cm (5 ft. 1 in. x 55 1\/2 in.)",
-    "creditline":"Gift of Susie Fletcher",
-    "description":"Linoleum block print or a sailing vessel on the crest of a wave, printed in dark blue, silver and gold on a natural ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18339375",
+    "tms:id": "53496",
+    "accession_number": "1934-15-1",
+    "title": "Textile, Ship on Wave Crest, before 1933",
+    "title_raw": "Ship on Wave Crest",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18339375\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410719",
+    "type_id": "35251739",
+    "date": "before 1933",
+    "year_start": 1925,
+    "year_end": 1933,
+    "year_acquired": "1934",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk, cotton\nTechnique: linoleum block printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 155 x 141 cm (5 ft. 1 in. x 55 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "155.00",
+            "centimeters"
+        ],
+        "width": [
+            "141.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Susie Fletcher",
+    "description": "Linoleum block print or a sailing vessel on the crest of a wave, printed in dark blue, silver and gold on a natural ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2701_676441c339793dbc_b.jpg",
-                "width":930,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108834_5c46be45dbd62737_b.jpg",
+                "width": 769,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108834"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2701_676441c339793dbc_n.jpg",
-                "width":291,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108834_5c46be45dbd62737_z.jpg",
+                "width": 481,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108834"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2701_676441c339793dbc_z.jpg",
-                "width":582,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108834_5c46be45dbd62737_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108834"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108834_5c46be45dbd62737_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108834"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108834_5c46be45dbd62737_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108834"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2701_676441c339793dbc_b.jpg",
+                "width": 930,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2701"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2701_676441c339793dbc_z.jpg",
+                "width": 582,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2701"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2701_676441c339793dbc_n.jpg",
+                "width": 291,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2701"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2701_676441c339793dbc_d.gif",
+                "width": 291,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2701"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2701_676441c339793dbc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2701"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, \"Ship on Wave Crest\", before 1933.\nbefore 1933. Medium: silk, cotton\nTechnique: linoleum block printed on plain weave. Gift of Susie Fletcher. 1934-15-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d9c2bd",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18045949",
+            "role_id": "35236655",
+            "person_name": "Gilbert Fletcher",
+            "person_date": "American, 1882 - 1933",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045949\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#af9f9b",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#0f2139",
-            "closest_css3":"#191970"
-        },
-        {
-            "color":"#d3d2de",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#9799ab",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18058875",
+            "role_id": "35351535",
+            "person_name": "Susie Fletcher",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058875\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Ship on Wave Crest, before 1933. Medium: silk, cotton\nTechnique: linoleum block printed on plain weave. \nGift of Susie Fletcher. 1934-15-1"
+    },
+    "colors": [
+        {
+            "color": "#bbb291",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#3a4046",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9c9d92",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#817f70",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

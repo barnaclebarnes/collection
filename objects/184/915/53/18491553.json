@@ -1,42 +1,113 @@
 {
-    "id":"18491553",
-    "tms:id":"156657",
-    "accession_number":"1976-92-7",
-    "title":"Handkerchief, 1900\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18491553\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35421063",
-    "type_id":"35264069",
-    "date":"1900\u201350",
-    "year_start":null,
-    "year_end":"1950",
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":"23424957",
-    "medium":"Medium: cotton on linen\nTechnique: satin, stem, speckling and couching stitches with areas of deflected element work and cutwork with insertions on a plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 21 x 21 cm (8 1\/4 x 8 1\/4 in.)",
-    "creditline":"Gift of Stanley Herzman",
-    "description":"Handkerchief with a pattern of scrolls and flower sprays.",
-    "justification":null,
-    "type":{
-        "id":"35264069",
-        "name":"Handkerchief"
+    "id": "18491553",
+    "tms:id": "156657",
+    "accession_number": "1976-92-7",
+    "title": "Handkerchief (Switzerland), 1900\u20131950",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18491553\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35421063",
+    "type_id": "35264069",
+    "date": "1900\u20131950",
+    "year_start": null,
+    "year_end": 1950,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": "23424957",
+    "medium": "Medium: cotton on linen\nTechnique: satin, stem, speckling and couching stitches with areas of deflected element work and cutwork with insertions on a plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 21 x 21 cm (8 1\/4 x 8 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "21.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Stanley Herzman",
+    "description": "Handkerchief with a pattern of scrolls and flower sprays.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "Handkerchief",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76889_fabc5c17047d226c_b.jpg",
+                "width": 1024,
+                "height": 951,
+                "is_primary": "1",
+                "image_id": "76889"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76889_fabc5c17047d226c_z.jpg",
+                "width": 640,
+                "height": 595,
+                "is_primary": "1",
+                "image_id": "76889"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76889_fabc5c17047d226c_n.jpg",
+                "width": 320,
+                "height": 297,
+                "is_primary": "1",
+                "image_id": "76889"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76889_fabc5c17047d226c_d.gif",
+                "width": 320,
+                "height": 297,
+                "is_primary": "1",
+                "image_id": "76889"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76889_fabc5c17047d226c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76889"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18059723",
+            "role_id": "35351535",
+            "person_name": "Stanley Herzman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059723\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Handkerchief, 1900\u201350.\n1900\u201350. Medium: cotton on linen\nTechnique: satin, stem, speckling and couching stitches with areas of deflected element work and cutwork with insertions on a plain weave foundation. Gift of Stanley Herzman. 1976-92-7."
+    "tombstone": {
+        "epitaph": "Handkerchief (Switzerland), 1900\u20131950. Medium: cotton on linen\nTechnique: satin, stem, speckling and couching stitches with areas of deflected element work and cutwork with insertions on a plain weave foundation. \nGift of Stanley Herzman. 1976-92-7"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#212d34",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#686261",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

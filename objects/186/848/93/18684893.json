@@ -1,87 +1,178 @@
 {
-    "id":"18684893",
-    "tms:id":"217928",
-    "accession_number":"2000-20-2",
-    "title":"Sample, 1936",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18684893\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35384955",
-    "type_id":"35268079",
-    "date":"1936",
-    "year_start":"1936",
-    "year_end":"1936",
-    "year_acquired":"2000",
-    "decade":"1930",
-    "woe:country":"23424829",
-    "medium":"Medium: cellophane, jute (?)\nTechnique: two interconnected plain weave structures plain weave",
-    "markings":"Label attached with maker's printed monogram on one side and information in German written on the other side.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 17.5 x 20 cm (6 7\/8 x 7 7\/8 in.)",
-    "creditline":"Gift of Elaine Lustig Cohen",
-    "description":"Black warp and white weft woven fabric with cellophane plain weave face on the front and burlap type plain weave face on the back.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18684893",
+    "tms:id": "217928",
+    "accession_number": "2000-20-2",
+    "title": "Sample (Germany), 1936",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18684893\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35384955",
+    "type_id": "35268079",
+    "date": "1936",
+    "year_start": 1936,
+    "year_end": 1936,
+    "year_acquired": "2000",
+    "decade": "1930",
+    "woe:country_id": "23424829",
+    "medium": "Medium: cellophane, jute (?)\nTechnique: two interconnected plain weave structures (double cloth)",
+    "markings": "Label attached with maker's printed monogram on one side and information in German written on the other side.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Private collection; 2000: acquired by Museum",
+    "dimensions": "Warp x Weft: 17.5 x 20 cm (6 7\/8 x 7 7\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "17.50",
+            "centimeters"
+        ],
+        "weft": [
+            "20.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Elaine Lustig Cohen",
+    "description": "Black warp and white weft woven fabric with cellophane plain weave face on the front and burlap type plain weave face on the back.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14224_d8c66ea7e8d1c202_b.jpg",
-                "width":1024,
-                "height":813,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82939_dcf47e2c828c6e3c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82939"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14224_d8c66ea7e8d1c202_n.jpg",
-                "width":320,
-                "height":254,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82939_dcf47e2c828c6e3c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82939"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14224_d8c66ea7e8d1c202_z.jpg",
-                "width":640,
-                "height":508,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82939_dcf47e2c828c6e3c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82939"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82939_dcf47e2c828c6e3c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82939"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82939_dcf47e2c828c6e3c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82939"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14224_d8c66ea7e8d1c202_b.jpg",
+                "width": 1024,
+                "height": 813,
+                "is_primary": "0",
+                "image_id": "14224"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14224_d8c66ea7e8d1c202_z.jpg",
+                "width": 640,
+                "height": 508,
+                "is_primary": "0",
+                "image_id": "14224"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14224_d8c66ea7e8d1c202_n.jpg",
+                "width": 320,
+                "height": 254,
+                "is_primary": "0",
+                "image_id": "14224"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14224_d8c66ea7e8d1c202_d.gif",
+                "width": 320,
+                "height": 254,
+                "is_primary": "0",
+                "image_id": "14224"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14224_d8c66ea7e8d1c202_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14224"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18048729",
-            "role_id":"35351535",
-            "person_name":"Private collection",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048729\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18048729",
+            "role_id": "35351535",
+            "person_name": "Private collection",
+            "person_date": "American",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048729\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18052861",
+            "role_id": "35236655",
+            "person_name": "Adelgunde (Gunta) St\u00f6lzl",
+            "person_date": "German, 1897\u20131983",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052861\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, 1936.\n1936. Medium: cellophane, jute (?)\nTechnique: two interconnected plain weave structures plain weave. Gift of Elaine Lustig Cohen. 2000-20-2."
+    "tombstone": {
+        "epitaph": "Sample (Germany), 1936. Medium: cellophane, jute (?)\nTechnique: two interconnected plain weave structures (double cloth). \nGift of Elaine Lustig Cohen. 2000-20-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#e0d9ea",
-            "closest_css3":"#dcdcdc"
+            "color": "#948b66",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#283f36",
-            "closest_css3":"#2f4f4f"
+            "color": "#d3cda7",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#dcbca0",
-            "closest_css3":"#d2b48c"
+            "color": "#6c664e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#284d29",
-            "closest_css3":"#2f4f4f"
+            "color": "#292720",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#72694c",
-            "closest_css3":"#696969"
+            "color": "#4e4939",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

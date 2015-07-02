@@ -1,80 +1,199 @@
 {
-    "id":"18188625",
-    "tms:id":"21508",
-    "accession_number":"1916-33-70-a,b",
-    "title":"Textile, ca. 1810",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18188625\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1810",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1916",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: printed by engraved roller on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 114.8 x 66.8 cm (45 3\/16 x 26 5\/16 in.)",
-    "creditline":"Gift of Mrs. William P. Treadwell",
-    "description":"Cotton print; red on white; vertical stripes alternating red and white with realistic flower and fruit designs. Two pieces sewed together. Edges bound with linen and rings attached to top for hanging.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18188625",
+    "tms:id": "21508",
+    "accession_number": "1916-33-70-a,b",
+    "title": "Textile (England), ca. 1810",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18188625\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1810",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1916",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: printed by engraved roller on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 114.8 x 66.8 cm (45 3\/16 x 26 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "114.80",
+            "centimeters"
+        ],
+        "width": [
+            "66.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. William P. Treadwell",
+    "description": "Cotton print; red on white; vertical stripes alternating red and white with realistic flower and fruit designs. Two pieces sewed together. Edges bound with linen and rings attached to top for hanging.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2037_445b9ed20702e334_b.jpg",
-                "width":1024,
-                "height":692,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107155_8304ff6082f12c00_b.jpg",
+                "width": 972,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "107155"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2037_445b9ed20702e334_n.jpg",
-                "width":320,
-                "height":216,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107155_8304ff6082f12c00_z.jpg",
+                "width": 608,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "107155"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2037_445b9ed20702e334_z.jpg",
-                "width":640,
-                "height":433,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107155_8304ff6082f12c00_n.jpg",
+                "width": 304,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107155"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107155_8304ff6082f12c00_d.gif",
+                "width": 304,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107155"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107155_8304ff6082f12c00_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107155"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106989_ea9cf94939d5257e_b.jpg",
+                "width": 899,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "106989"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106989_ea9cf94939d5257e_z.jpg",
+                "width": 562,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "106989"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106989_ea9cf94939d5257e_n.jpg",
+                "width": 281,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "106989"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106989_ea9cf94939d5257e_d.gif",
+                "width": 281,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "106989"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106989_ea9cf94939d5257e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "106989"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2037_445b9ed20702e334_b.jpg",
+                "width": 1024,
+                "height": 692,
+                "is_primary": "0",
+                "image_id": "2037"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2037_445b9ed20702e334_z.jpg",
+                "width": 640,
+                "height": 433,
+                "is_primary": "0",
+                "image_id": "2037"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2037_445b9ed20702e334_n.jpg",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "2037"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2037_445b9ed20702e334_d.gif",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "2037"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2037_445b9ed20702e334_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2037"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1810.\nca. 1810. Medium: cotton\nTechnique: printed by engraved roller on plain weave. Gift of Mrs. William P. Treadwell. 1916-33-70-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#78322f",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#c5c8e3",
-            "closest_css3":"#b0c4de"
-        },
-        {
-            "color":"#87554f",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#a79ebe",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#a4877f",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18049893",
+            "role_id": "35351535",
+            "person_name": "Mrs. William P. Treadwell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049893\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), ca. 1810. Medium: cotton\nTechnique: printed by engraved roller on plain weave. \nGift of Mrs. William P. Treadwell. 1916-33-70-a,b"
+    },
+    "colors": [
+        {
+            "color": "#cebfa6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#92504b",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#aa7d70",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#be9f8c",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,42 +1,131 @@
 {
-    "id":"18488551",
-    "tms:id":"155144",
-    "accession_number":"1975-60-43-a",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18488551\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"119189",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1975",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Technique: relief printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from General Acquisitions Endowment",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18488551",
+    "tms:id": "155144",
+    "accession_number": "1975-60-43-a",
+    "title": "Textile (England), 1803\u20131805",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18488551\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "119189",
+    "type_id": "35251739",
+    "date": "1803\u20131805",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1975",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: \nTechnique: relief printed on plain weave (lapis-style printing)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 71.5 x 26.5 cm (28 1\/8 x 10 7\/16 in.)\nRepeat H x W (straight repeat): 25.3 x 22.5 cm (9 15\/16 x 8 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.30",
+            "centimeters"
+        ],
+        "width": [
+            "22.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from General Acquisitions Endowment",
+    "description": "Vertically curving vines with roses on a blue background covered with red dots.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76687_1f6b8192f9245d99_b.jpg",
+                "width": 468,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "76687"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76687_1f6b8192f9245d99_z.jpg",
+                "width": 293,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "76687"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76687_1f6b8192f9245d99_n.jpg",
+                "width": 146,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76687"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76687_1f6b8192f9245d99_d.gif",
+                "width": 146,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76687"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76687_1f6b8192f9245d99_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76687"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: relief printed. Museum purchase from General Acquisitions Endowment. 1975-60-43-a."
+    "tombstone": {
+        "epitaph": "Textile (England), 1803\u20131805. Medium: \nTechnique: relief printed on plain weave (lapis-style printing). \nMuseum purchase from General Acquisitions Endowment. 1975-60-43-a"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2c484e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#f0d5d0",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#1e252c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#dea392",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#6e5b60",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

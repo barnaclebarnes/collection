@@ -1,83 +1,166 @@
 {
-    "id":"18425245",
-    "tms:id":"123004",
-    "accession_number":"1959-182-6",
-    "title":"Print, \"The Drawbridge, plate VII from the series Carceri d'Invenzione\", 1745\u2013printed later",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18425245\/",
-    "department_id":"35347493",
-    "period_id":"35417395",
-    "media_id":"35392573",
-    "type_id":"35236873",
-    "date":"1745\u2013printed later",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1959",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Etching on white laid paper",
-    "markings":"upper left, Calcografia number 355.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Calcografia  Nazionale",
-    "dimensions":"55.7 x 41.3 cm (21 15\/16 x 16 1\/4 in.)",
-    "creditline":"Gift of Gertrude W. Lewis",
-    "description":"Vertical rectangle. Wooden bridges connect piers and arcades in the distance. Spiral staircases on piers connect several bridges.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18425245",
+    "tms:id": "123004",
+    "accession_number": "1959-182-6",
+    "title": "Print, The Drawbridge, plate VII from the series Carceri d'Invenzione, 1745 (printed later)",
+    "title_raw": "The Drawbridge, plate VII from the series Carceri d'Invenzione",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18425245\/",
+    "department_id": "35347493",
+    "period_id": "35417395",
+    "media_id": "35392573",
+    "type_id": "35236873",
+    "date": "1745 (printed later)",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1959",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Etching on white laid paper",
+    "markings": "upper left, Calcografia number 355.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Calcografia Nazionale, Rome; Mrs. Gertrude W. Lewis; 1959: acquired by Museum",
+    "dimensions": "55.7 x 41.3 cm (21 15\/16 x 16 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "55.70",
+            "centimeters"
+        ],
+        "width": [
+            "41.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Gertrude W. Lewis",
+    "description": "Vertical rectangle. Wooden bridges connect piers and arcades in the distance. Spiral staircases on piers connect several bridges.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24855_ba04ed4b7c4deae3_b.jpg",
-                "width":780,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90431_f03d4323c40ee949_b.jpg",
+                "width": 755,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90431"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24855_ba04ed4b7c4deae3_n.jpg",
-                "width":244,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90431_f03d4323c40ee949_z.jpg",
+                "width": 472,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90431"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24855_ba04ed4b7c4deae3_z.jpg",
-                "width":488,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90431_f03d4323c40ee949_n.jpg",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90431"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90431_f03d4323c40ee949_d.gif",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90431"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90431_f03d4323c40ee949_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90431"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24855_ba04ed4b7c4deae3_b.jpg",
+                "width": 780,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "24855"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24855_ba04ed4b7c4deae3_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "24855"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24855_ba04ed4b7c4deae3_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "24855"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24855_ba04ed4b7c4deae3_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "24855"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24855_ba04ed4b7c4deae3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "24855"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042057",
-            "role_id":"35236565",
-            "person_name":"Giovanni Battista Piranesi",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042057\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18061305",
+            "role_id": "35351535",
+            "person_name": "Mrs. Gertrude W. Lewis",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061305\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18042057",
+            "role_id": "35236565",
+            "person_name": "Giovanni Battista Piranesi",
+            "person_date": "Italian, 1720\u20131778",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042057\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"The Drawbridge, plate VII from the series Carceri d'Invenzione\", 1745\u2013printed later.\n1745\u2013printed later. Etching on white laid paper. Gift of Gertrude W. Lewis. 1959-182-6."
+    "tombstone": {
+        "epitaph": "Print, The Drawbridge, plate VII from the series Carceri d'Invenzione, 1745 (printed later). Etching on white laid paper. \nGift of Gertrude W. Lewis. 1959-182-6"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#403f3a",
-            "closest_css3":"#2f4f4f"
+            "color": "#64655c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#5f5c54",
-            "closest_css3":"#696969"
+            "color": "#85857c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#939186",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#c8c5bb",
-            "closest_css3":"#c0c0c0"
+            "color": "#c9c8be",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

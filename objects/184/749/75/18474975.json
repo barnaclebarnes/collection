@@ -1,80 +1,168 @@
 {
-    "id":"18474975",
-    "tms:id":"148250",
-    "accession_number":"1971-50-555",
-    "title":"Poncho, 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474975\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402849",
-    "type_id":"35290645",
-    "date":"20th century",
-    "year_start":"1901",
-    "year_end":"1971",
-    "year_acquired":"1971",
-    "decade":"1900",
-    "woe:country":"23424762",
-    "medium":"Medium: wool\nTechnique: complementary warp",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":"Small poncho, primarily in red, black and white, with patterned stripes showing small animals, flowers, birds and geometric shapes.",
-    "justification":null,
-    "type":{
-        "id":"35290645",
-        "name":"Poncho"
+    "id": "18474975",
+    "tms:id": "148250",
+    "accession_number": "1971-50-555",
+    "title": "Poncho (Bolivia), early- to mid-20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474975\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402849",
+    "type_id": "35290645",
+    "date": "early- to mid-20th century",
+    "year_start": 1901,
+    "year_end": 1971,
+    "year_acquired": "1971",
+    "decade": "1900",
+    "woe:country_id": "23424762",
+    "medium": "Medium: wool\nTechnique: plain weave with complementary warp patterning",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 84.9 \u00d7 94.7 cm (33 7\/16 \u00d7 37 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "84.90",
+            "centimeters"
+        ],
+        "width": [
+            "94.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Marian Hague",
+    "description": "Small poncho, primarily in red, black and white, with patterned stripes showing small animals, flowers, birds and geometric shapes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424762",
+    "type": "Poncho",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36376_3cc39219ece67d94_b.jpg",
-                "width":1024,
-                "height":905,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94287_e201cc85eb54bb83_b.jpg",
+                "width": 1024,
+                "height": 899,
+                "is_primary": "1",
+                "image_id": "94287"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36376_3cc39219ece67d94_n.jpg",
-                "width":320,
-                "height":283,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94287_e201cc85eb54bb83_z.jpg",
+                "width": 640,
+                "height": 562,
+                "is_primary": "1",
+                "image_id": "94287"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36376_3cc39219ece67d94_z.jpg",
-                "width":640,
-                "height":566,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94287_e201cc85eb54bb83_n.jpg",
+                "width": 320,
+                "height": 281,
+                "is_primary": "1",
+                "image_id": "94287"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94287_e201cc85eb54bb83_d.gif",
+                "width": 320,
+                "height": 281,
+                "is_primary": "1",
+                "image_id": "94287"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94287_e201cc85eb54bb83_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94287"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36376_3cc39219ece67d94_b.jpg",
+                "width": 1024,
+                "height": 905,
+                "is_primary": "0",
+                "image_id": "36376"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36376_3cc39219ece67d94_z.jpg",
+                "width": 640,
+                "height": 566,
+                "is_primary": "0",
+                "image_id": "36376"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36376_3cc39219ece67d94_n.jpg",
+                "width": 320,
+                "height": 283,
+                "is_primary": "0",
+                "image_id": "36376"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36376_3cc39219ece67d94_d.gif",
+                "width": 320,
+                "height": 283,
+                "is_primary": "0",
+                "image_id": "36376"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36376_3cc39219ece67d94_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36376"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Poncho, 20th century.\n20th century. Medium: wool\nTechnique: complementary warp. Bequest of Marian Hague. 1971-50-555."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#6d241f",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#212622",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#3e2719",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#0e2617",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#b49c9a",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Poncho (Bolivia), early- to mid-20th century. Medium: wool\nTechnique: plain weave with complementary warp patterning. \nBequest of Marian Hague. 1971-50-555"
+    },
+    "colors": [
+        {
+            "color": "#6b272a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#2f3736",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#3a2928",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#897865",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b8ab8e",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Bolivia",
+    "is_loan_object": 0
 }

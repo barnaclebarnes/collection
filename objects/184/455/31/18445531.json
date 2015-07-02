@@ -1,42 +1,115 @@
 {
-    "id":"18445531",
-    "tms:id":"133262",
-    "accession_number":"1962-56-180",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445531\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: appliqu\u00e9",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18445531",
+    "tms:id": "133262",
+    "accession_number": "1962-56-180",
+    "title": "Border",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445531\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "69194681",
+    "type_id": "35237285",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, metallic thread, metal sequins, glass beads\nTechnique: appliqu\u00e9 on velvet",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 10 \u00d7 33 cm (3 15\/16 in. \u00d7 13 in.)",
+    "dimensions_raw": null,
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Border of brown silk velvet heavily appliqu\u00e9d with symbols associated with Napoleon's campaign in Egypt such as cartouches and composite bird creatures and other animals.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66344_a9666fd41365a148_b.jpg",
+                "width": 1024,
+                "height": 359,
+                "is_primary": "1",
+                "image_id": "66344"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66344_a9666fd41365a148_z.jpg",
+                "width": 640,
+                "height": 224,
+                "is_primary": "1",
+                "image_id": "66344"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66344_a9666fd41365a148_n.jpg",
+                "width": 320,
+                "height": 112,
+                "is_primary": "1",
+                "image_id": "66344"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66344_a9666fd41365a148_d.gif",
+                "width": 320,
+                "height": 112,
+                "is_primary": "1",
+                "image_id": "66344"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66344_a9666fd41365a148_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66344"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: appliqu\u00e9. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-180."
+    "tombstone": {
+        "epitaph": "Border. Medium: silk, metallic thread, metal sequins, glass beads\nTechnique: appliqu\u00e9 on velvet. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-180"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#29261c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#524024",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#7a6d48",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a29a7f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "is_loan_object": 0
 }

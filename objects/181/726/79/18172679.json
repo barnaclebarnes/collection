@@ -1,103 +1,189 @@
 {
-    "id":"18172679",
-    "tms:id":"18606",
-    "accession_number":"1911-28-68",
-    "title":"Drawing, \"Design for Sofa and Mirror, Portrait Room, Royal Palace, Warsaw, Poland\", ca. 1766",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18172679\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35461479",
-    "type_id":"35237093",
-    "date":"ca. 1766",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1911",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Pen and black ink, brush and gray wash, rose watercolor on cream laid paper",
-    "markings":"Watermark: lily over JH & Z (Heawood 1860)",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Hippolyte Destailleur (sold, Paris, May 19, l898, no. 103 for 185 francs; (ref. H. Mireur, \"Dictionnaire des Ventes d'Art,\" Paris, l911, Vol. IV, p. 148); L\u00e9on Decloux (bought after l906).",
-    "dimensions":"40.4 x 30.8 cm (15 7\/8 x 12 1\/8 in.), irregular",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":"A sofa with two end seats separated by gaines from the central section; a double-headed spread eagle, top center, from which festoons hang toward the bottom of the mirror frame, topped by a canopy with feathers; above, curtains are held up by putti crouching at the corners; a circular medallion under the canopy contains the monogram SIR, referring to King Stanislas Augustus II of Poland (l732-1798).",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18172679",
+    "tms:id": "18606",
+    "accession_number": "1911-28-68",
+    "title": "Drawing, Design for Sofa and Mirror, Portrait Room, Royal Palace; Warsaw, Poland, ca. 1766",
+    "title_raw": "Design for Sofa and Mirror, Portrait Room, Royal Palace; Warsaw, Poland",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18172679\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "35461479",
+    "type_id": "35237093",
+    "date": "ca. 1766",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1911",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Pen and black ink, brush and gray wash, rose watercolor on cream laid paper",
+    "markings": "Watermark: lily over JH & Z (Heawood 1860)",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Hippolyte Destailleur (sold, Paris, May 19, l898, no. 103 for 185 francs; (ref. H. Mireur, \"Dictionnaire des Ventes d'Art,\" Paris, l911, Vol. IV, p. 148); L\u00e9on Decloux (bought after l906).",
+    "dimensions": "40.4 x 30.8 cm (15 7\/8 x 12 1\/8 in.), irregular",
+    "dimensions_raw": {
+        "height": [
+            "40.40",
+            "centimeters"
+        ],
+        "width": [
+            "30.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "A sofa with two end seats separated by gaines from the central section; a double-headed spread eagle, top center, from which festoons hang toward the bottom of the mirror frame, topped by a canopy with feathers; above, curtains are held up by putti crouching at the corners; a circular medallion under the canopy contains the monogram SIR, referring to King Stanislas Augustus II of Poland (l732-1798).",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47954_2e49125cec11b608_b.jpg",
-                "width":792,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47954_01da2b09c07c5896_b.jpg",
+                "width": 788,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "47954"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47954_2e49125cec11b608_n.jpg",
-                "width":248,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47954_01da2b09c07c5896_z.jpg",
+                "width": 492,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "47954"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47954_2e49125cec11b608_z.jpg",
-                "width":495,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47954_01da2b09c07c5896_n.jpg",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47954"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47954_01da2b09c07c5896_d.gif",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "47954"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47954_01da2b09c07c5896_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47954"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18042689",
-            "role_id":"35236663",
-            "person_name":"Victor Louis",
-            "role_name":"Architect",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042689\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18047633",
-            "role_id":"35236667",
-            "person_name":"Stanislas Augustus II, King of Poland",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047633\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "person_id": "18054439",
+            "role_id": "35352245",
+            "person_name": "Richard P. Wunder",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054439\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18042553",
-            "role_id":"35236565",
-            "person_name":"Jean Louis Prieur",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042553\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18047443",
+            "role_id": "35352245",
+            "person_name": "Megan L. Smith",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047443\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18047439",
+            "role_id": "35352245",
+            "person_name": "Rudolph Berliner",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047439\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18042689",
+            "role_id": "35236663",
+            "person_name": "Victor Louis",
+            "person_date": "French, 1731 - 1802",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042689\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+        },
+        {
+            "person_id": "18047633",
+            "role_id": "35236667",
+            "person_name": "Stanislas Augustus II, King of Poland",
+            "person_date": "1732\u20131798",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047633\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18042553",
+            "role_id": "35236565",
+            "person_name": "Jean Louis Prieur, French",
+            "person_date": "1732 - 1795",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for Sofa and Mirror, Portrait Room, Royal Palace, Warsaw, Poland\", ca. 1766.\nca. 1766. Pen and black ink, brush and gray wash, rose watercolor on cream laid paper. Purchased for the Museum by the Advisory Council. 1911-28-68."
+    "tombstone": {
+        "epitaph": "Drawing, Design for Sofa and Mirror, Portrait Room, Royal Palace; Warsaw, Poland, ca. 1766. Pen and black ink, brush and gray wash, rose watercolor on cream laid paper. \nPurchased for the Museum by the Advisory Council. 1911-28-68"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bcaf96",
-            "closest_css3":"#d2b48c"
+            "color": "#857f69",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#8a806c",
-            "closest_css3":"#808080"
+            "color": "#a6a086",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#6c6254",
-            "closest_css3":"#696969"
+            "color": "#555143",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

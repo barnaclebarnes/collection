@@ -1,87 +1,173 @@
 {
-    "id":"18633061",
-    "tms:id":"191373",
-    "accession_number":"1989-41-24",
-    "title":"Plate, \"RSFSR\", 1920 or later",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18633061\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35418527",
-    "type_id":"35236833",
-    "date":"1920 or later",
-    "year_start":"1920",
-    "year_end":"1920",
-    "year_acquired":"1989",
-    "decade":"1920",
-    "woe:country":null,
-    "medium":"porcelain, enamel",
-    "markings":"Marks: No marks; possible traces of a mark scraped off",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"The Henry and Ludmilla Shapiro Collection",
-    "dimensions":"Diameter: 18.2 cm (7 3\/16 in.)",
-    "creditline":"The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
-    "description":"Circular; the letters \"RSFSR\" in Russian, stylized and intertwined; thin red rim around border",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18633061",
+    "tms:id": "191373",
+    "accession_number": "1989-41-24",
+    "title": "RSFSR Plate, 1920 or later",
+    "title_raw": "RSFSR",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18633061\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35418527",
+    "type_id": "35236833",
+    "date": "1920 or later",
+    "year_start": 1920,
+    "year_end": 1920,
+    "year_acquired": "1989",
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "porcelain, enamel",
+    "markings": "Marks: No marks; possible traces of a mark scraped off",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "The Henry and Ludmilla Shapiro Collection",
+    "dimensions": "Diameter: 18.2 cm (7 3\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "18.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
+    "description": "Circular; the letters \"RSFSR\" in Russian, stylized and intertwined; thin red rim around border",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11479_4710077908622571_b.jpg",
-                "width":1024,
-                "height":918,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108195_5a7f5c34c8760e87_b.jpg",
+                "width": 1024,
+                "height": 726,
+                "is_primary": "1",
+                "image_id": "108195"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11479_4710077908622571_n.jpg",
-                "width":320,
-                "height":287,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108195_5a7f5c34c8760e87_z.jpg",
+                "width": 640,
+                "height": 454,
+                "is_primary": "1",
+                "image_id": "108195"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11479_4710077908622571_z.jpg",
-                "width":640,
-                "height":573,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108195_5a7f5c34c8760e87_n.jpg",
+                "width": 320,
+                "height": 227,
+                "is_primary": "1",
+                "image_id": "108195"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108195_5a7f5c34c8760e87_d.gif",
+                "width": 320,
+                "height": 227,
+                "is_primary": "1",
+                "image_id": "108195"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108195_5a7f5c34c8760e87_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108195"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11479_4710077908622571_b.jpg",
+                "width": 1024,
+                "height": 918,
+                "is_primary": "0",
+                "image_id": "11479"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11479_4710077908622571_z.jpg",
+                "width": 640,
+                "height": 573,
+                "is_primary": "0",
+                "image_id": "11479"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11479_4710077908622571_n.jpg",
+                "width": 320,
+                "height": 287,
+                "is_primary": "0",
+                "image_id": "11479"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11479_4710077908622571_d.gif",
+                "width": 320,
+                "height": 287,
+                "is_primary": "0",
+                "image_id": "11479"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11479_4710077908622571_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11479"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045219",
-            "role_id":"35236655",
-            "person_name":"Pyotr Vladimirovich Vyechegzhanin",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045219\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18047827",
+            "role_id": "35352245",
+            "person_name": "Deborah S. Shinn",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045219",
+            "role_id": "35236655",
+            "person_name": "Pyotr Vladimirovich Vyechegzhanin",
+            "person_date": "1904",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045219\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Plate, \"RSFSR\", 1920 or later.\n1920 or later. porcelain, enamel. The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-24."
+    "tombstone": {
+        "epitaph": "RSFSR Plate, 1920 or later. porcelain, enamel. \nThe Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-24"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#fffee5",
-            "closest_css3":"#ffffe0"
+            "color": "#b0aba0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#f8e0c7",
-            "closest_css3":"#ffe4c4"
+            "color": "#8d8a7a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#91a2a5",
-            "closest_css3":"#a9a9a9"
+            "color": "#646059",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#433937",
-            "closest_css3":"#2f4f4f"
+            "color": "#bb9285",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#361410",
-            "closest_css3":"#000000"
+            "color": "#a36d61",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

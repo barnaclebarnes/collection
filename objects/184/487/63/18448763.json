@@ -1,42 +1,123 @@
 {
-    "id":"18448763",
-    "tms:id":"134897",
-    "accession_number":"1963-39-749",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448763\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1963",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18448763",
+    "tms:id": "134897",
+    "accession_number": "1963-39-749",
+    "title": "Drawing (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448763\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51686147",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1963",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Color pencil, graphite, brush and white gouache on yellow paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "27.8 x 21.6 cm (10 15\/16 x 8 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.80",
+            "centimeters"
+        ],
+        "width": [
+            "21.60",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Abstract colorful objects; at right, a female figure.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66674_aef566a2341a6685_b.jpg",
+                "width": 792,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "66674"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66674_aef566a2341a6685_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "66674"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66674_aef566a2341a6685_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66674"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66674_aef566a2341a6685_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66674"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66674_aef566a2341a6685_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66674"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nGift of Mrs. E. McKnight Kauffer. 1963-39-749."
+    "tombstone": {
+        "epitaph": "Drawing (USA). Color pencil, graphite, brush and white gouache on yellow paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-749"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ada97b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#847a5c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

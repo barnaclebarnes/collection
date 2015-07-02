@@ -1,49 +1,141 @@
 {
-    "id":"18490885",
-    "tms:id":"156321",
-    "accession_number":"1976-46-40",
-    "title":"Sidewall, 1900\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18490885\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35375911",
-    "type_id":"35256475",
-    "date":"1900\u201325",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Block-printed, machine made paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"U.S.A. reproduction",
-    "provenance":null,
-    "dimensions":"67 x 47 cm (26 3\/8 x 18 1\/2 in.)",
-    "creditline":"Gift of Thomas Strahan Company",
-    "description":"Bouquets of flowers and vines set against rococo revival panels. Printed in greens, pinks, lavenders, browns, beiges, blues and yellow on a beige background.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18490885",
+    "tms:id": "156321",
+    "accession_number": "1976-46-40",
+    "title": "Sidewall (USA), 1900\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18490885\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35375911",
+    "type_id": "35256475",
+    "date": "1900\u201325",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Block-printed, machine made paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "U.S.A. reproduction",
+    "provenance": null,
+    "dimensions": "67 x 47 cm (26 3\/8 x 18 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "67.00",
+            "centimeters"
+        ],
+        "width": [
+            "47.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Thomas Strahan Company",
+    "description": "Bouquets of flowers and vines set against rococo revival panels. Printed in greens, pinks, lavenders, browns, beiges, blues and yellow on a beige background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "person_id":"18046371",
-            "role_id":"35351535",
-            "person_name":"Thomas Strahan & Co., Manufactory",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046371\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92985_4fcce48b8c02559b_b.jpg",
+                "width": 717,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92985"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92985_4fcce48b8c02559b_z.jpg",
+                "width": 448,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92985"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92985_4fcce48b8c02559b_n.jpg",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92985"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92985_4fcce48b8c02559b_d.gif",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92985"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92985_4fcce48b8c02559b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92985"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1900\u201325.\n1900\u201325. Block-printed, machine made paper. Gift of Thomas Strahan Company. 1976-46-40."
+    "participants": [
+        {
+            "person_id": "18046371",
+            "role_id": "35351535",
+            "person_name": "Thomas Strahan & Co., Manufactory",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1900\u201325. Block-printed, machine made paper. \nGift of Thomas Strahan Company. 1976-46-40"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#e3e1cd",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#b4b99b",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#829075",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#9a9163",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#9d8468",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

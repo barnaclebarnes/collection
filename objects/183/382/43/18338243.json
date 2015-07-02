@@ -1,49 +1,172 @@
 {
-    "id":"18338243",
-    "tms:id":"52925",
-    "accession_number":"1932-1-77",
-    "title":"Upholstery Sample, 1899",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18338243\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35405929",
-    "type_id":"35287445",
-    "date":"1899",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1932",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: linen: gold warp, silk: green weft, silk: white weft (?)\nTechnique: plain compound satin, twill?",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 114.5 x 69.5 cm (45 1\/16 x 27 3\/8 in.)",
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":"Sample of a figured silk twill with cotton backing. White twill ground with figure in gold silk and green silk. Vertical repeat of large-scale laurel wreaths. Designed for French embassies.",
-    "justification":null,
-    "type":{
-        "id":"35287445",
-        "name":"Upholstery sample"
+    "id": "18338243",
+    "tms:id": "52925",
+    "accession_number": "1932-1-77",
+    "title": "Upholstery Sample (France), 1899",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18338243\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35405929",
+    "type_id": "35287445",
+    "date": "1899",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1932",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: linen: gold warp, silk: green weft, silk: white weft (?)\nTechnique: plain compound satin, twill?",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 114.5 x 69.5 cm (45 1\/16 x 27 3\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "114.50",
+            "centimeters"
+        ],
+        "weft": [
+            "69.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": "Sample of a figured silk twill with cotton backing. White twill ground with figure in gold silk and green silk. Vertical repeat of large-scale laurel wreaths. Designed for French embassies.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Upholstery sample",
+    "images": [
         {
-            "person_id":"18045911",
-            "role_id":"35236655",
-            "person_name":"Adrien Karbowsky",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045911\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111905_b08a7c018fff2442_b.jpg",
+                "width": 735,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111905"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111905_b08a7c018fff2442_z.jpg",
+                "width": 459,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111905"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111905_b08a7c018fff2442_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111905"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111905_b08a7c018fff2442_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111905"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111905_b08a7c018fff2442_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111905"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69629_0ac9debc112538e6_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "69629"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69629_0ac9debc112538e6_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "69629"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69629_0ac9debc112538e6_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "69629"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69629_0ac9debc112538e6_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "69629"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69629_0ac9debc112538e6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "69629"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Upholstery Sample, 1899.\n1899. Medium: linen: gold warp, silk: green weft, silk: white weft (?)\nTechnique: plain compound satin, twill?. Museum purchase from Au Panier Fleuri Fund. 1932-1-77."
+    "participants": [
+        {
+            "person_id": "18045911",
+            "role_id": "35236655",
+            "person_name": "Adrien Karbowsky",
+            "person_date": "1855 - 1945",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045911\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18057965",
+            "role_id": "35352249",
+            "person_name": "Isabelle Goldschmidt",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057965\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Upholstery Sample (France), 1899. Medium: linen: gold warp, silk: green weft, silk: white weft (?)\nTechnique: plain compound satin, twill?. \nMuseum purchase from Au Panier Fleuri Fund. 1932-1-77"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#9e8e6b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#595e3b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#c6b15f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#797650",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

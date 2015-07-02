@@ -1,49 +1,113 @@
 {
-    "id":"18618209",
-    "tms:id":"177638",
-    "accession_number":"1981-29-64",
-    "title":"Poster, \"Swimming 80\", 1980",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18618209\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":"1980",
-    "year_start":"1980",
-    "year_end":"1980",
-    "year_acquired":"1981",
-    "decade":"1980",
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 65.5 x 48 cm (25 13\/16 x 18 7\/8 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18618209",
+    "tms:id": "177638",
+    "accession_number": "1981-29-64",
+    "title": "Poster, Swimming 80, 1980",
+    "title_raw": "Swimming 80",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18618209\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1981",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Imprinted in red ink, lower right: BRIGHAM YOUNG UNIVERSITY",
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "Overall: 65.5 x 48 cm (25 13\/16 x 18 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "65.50",
+            "centimeters"
+        ],
+        "width": [
+            "48.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Poster featuring horizontal \u201cpool lanes\u201d with abstract figures; text in red on the right.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042421",
-            "role_id":"35236667",
-            "person_name":"Brigham Young University",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82680_afc5c604a89bf0d2_b.jpg",
+                "width": 752,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82680"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82680_afc5c604a89bf0d2_z.jpg",
+                "width": 470,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82680"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82680_afc5c604a89bf0d2_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82680"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82680_afc5c604a89bf0d2_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82680"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82680_afc5c604a89bf0d2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82680"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"Swimming 80\", 1980.\n1980. Overall: 65.5 x 48 cm (25 13\/16 x 18 7\/8 in.). Gift of Various Donors. 1981-29-64."
+    "participants": [
+        {
+            "person_id": "18042421",
+            "role_id": "35236667",
+            "person_name": "Brigham Young University",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Swimming 80, 1980. Lithograph on paper. \nGift of Various Donors. 1981-29-64"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#afb6c1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#70585d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

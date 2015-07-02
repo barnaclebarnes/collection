@@ -1,87 +1,188 @@
 {
-    "id":"18617021",
-    "tms:id":"177040",
-    "accession_number":"1981-28-426",
-    "title":"Sampler, 1880",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617021\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35432277",
-    "type_id":"35256439",
-    "date":"1880",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424900",
-    "medium":"Medium: wool, silk, and cotton embroidery on cotton foundation\nTechnique: embroidered in cross, satin, double running, and aztec stitch (withdrawn element work) on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":"De mano de Ysabel Mancilla Tlaxcala a\u00f1o de 1880",
-    "provenance":null,
-    "dimensions":"H x W: 78.7 x 80.6 cm (31 in. x 31 3\/4 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Bands of geometric and floral pattern, confronted birds, and two scenes, in coarse and fine stitching.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18617021",
+    "tms:id": "177040",
+    "accession_number": "1981-28-426",
+    "title": "Sampler (Mexico), 1880",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617021\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432277",
+    "type_id": "35256439",
+    "date": "1880",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424900",
+    "medium": "Medium: wool, silk, and cotton embroidery on cotton foundation\nTechnique: embroidered in cross, satin, double running, and aztec stitch (withdrawn element work) on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": "De mano de Ysabel Mancilla Tlaxcala a\u00f1o de 1880",
+    "provenance": null,
+    "dimensions": "H x W: 78.7 x 80.6 cm (31 in. x 31 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "78.74",
+            "centimeters"
+        ],
+        "width": [
+            "80.65",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Bands of geometric and floral pattern, confronted birds, and two scenes, in coarse and fine stitching.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424900",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28631_174dd93dc7831d70_b.jpg",
-                "width":1017,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28631_174dd93dc7831d70_b.jpg",
+                "width": 1017,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "28631"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28631_174dd93dc7831d70_n.jpg",
-                "width":318,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28631_174dd93dc7831d70_z.jpg",
+                "width": 636,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "28631"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28631_174dd93dc7831d70_z.jpg",
-                "width":636,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28631_174dd93dc7831d70_n.jpg",
+                "width": 318,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "28631"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28631_174dd93dc7831d70_d.gif",
+                "width": 318,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "28631"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28631_174dd93dc7831d70_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "28631"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112899_4d3853c012fe138d_b.jpg",
+                "width": 1021,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "112899"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112899_4d3853c012fe138d_z.jpg",
+                "width": 638,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "112899"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112899_4d3853c012fe138d_n.jpg",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112899"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112899_4d3853c012fe138d_d.gif",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112899"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112899_4d3853c012fe138d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "112899"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050953",
-            "role_id":"35236583",
-            "person_name":"Ysabel Mancilla",
-            "role_name":"Embroiderer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050953\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+            "person_id": "18055143",
+            "role_id": "35352245",
+            "person_name": "Susan J. Brown",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055143\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18050953",
+            "role_id": "35236583",
+            "person_name": "Ysabel Mancilla",
+            "person_date": "",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050953\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sampler, 1880.\n1880. Medium: wool, silk, and cotton embroidery on cotton foundation\nTechnique: embroidered in cross, satin, double running, and aztec stitch (withdrawn element work) on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-426."
+    "tombstone": {
+        "epitaph": "Sampler (Mexico), 1880. Medium: wool, silk, and cotton embroidery on cotton foundation\nTechnique: embroidered in cross, satin, double running, and aztec stitch (withdrawn element work) on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-426"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a1b5b5",
-            "closest_css3":"#a9a9a9"
+            "color": "#bdc8c6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#ab9f8b",
-            "closest_css3":"#bc8f8f"
+            "color": "#6f6663",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#4c7483",
-            "closest_css3":"#708090"
+            "color": "#76959d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
         },
         {
-            "color":"#1a293a",
-            "closest_css3":"#2f4f4f"
+            "color": "#642b2b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#6d6461",
-            "closest_css3":"#696969"
+            "color": "#c4b9a1",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         }
-    ]
+    ],
+    "woe:country_name": "Mexico",
+    "is_loan_object": 0
 }

@@ -1,42 +1,131 @@
 {
-    "id":"18474859",
-    "tms:id":"148192",
-    "accession_number":"1971-50-500",
-    "title":"Fragment, 13th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474859\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35374675",
-    "type_id":"35254623",
-    "date":"13th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424919",
-    "medium":"Medium: wool, cotton",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18474859",
+    "tms:id": "148192",
+    "accession_number": "1971-50-500",
+    "title": "Fragment (Peru), 13th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474859\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35374675",
+    "type_id": "35254623",
+    "date": "13th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424919",
+    "medium": "Medium: wool, cotton",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 11.4 x 15.6 cm (4 1\/2 x 6 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "11.43",
+            "centimeters"
+        ],
+        "width": [
+            "15.56",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424919",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66188_82668bf3cbc9019c_b.jpg",
+                "width": 1024,
+                "height": 491,
+                "is_primary": "1",
+                "image_id": "66188"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66188_82668bf3cbc9019c_z.jpg",
+                "width": 640,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "66188"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66188_82668bf3cbc9019c_n.jpg",
+                "width": 320,
+                "height": 153,
+                "is_primary": "1",
+                "image_id": "66188"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66188_82668bf3cbc9019c_d.gif",
+                "width": 320,
+                "height": 153,
+                "is_primary": "1",
+                "image_id": "66188"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66188_82668bf3cbc9019c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66188"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 13th century.\n13th century. Medium: wool, cotton. Bequest of Marian Hague. 1971-50-500."
+    "tombstone": {
+        "epitaph": "Fragment (Peru), 13th century. Medium: wool, cotton. \nBequest of Marian Hague. 1971-50-500"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#492d20",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#674e2f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#343329",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#e3dfc9",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#87724a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Peru",
+    "is_loan_object": 0
 }

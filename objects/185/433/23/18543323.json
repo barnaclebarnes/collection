@@ -1,79 +1,133 @@
 {
-    "id":"18543323",
-    "tms:id":"64979",
-    "accession_number":"1938-88-4356",
-    "title":"Drawing, \"Wall painting\", ca. 1820",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18543323\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35456243",
-    "type_id":"35237093",
-    "date":"ca. 1820",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and brown ink, brush and watercolor on white laid paper, squared in graphite and lined",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Inscribed in pen and ink by R. Liverani at lower left: \"Gandolfi\"",
-    "provenance":"Pancastelli - Mr. and Mrs. Edward Brandegee",
-    "dimensions":"16.3 x 25 cm (6 7\/16 x 9 13\/16 in.)\nMat:  40.6 x 55.9 cm (16 x 22 in.)",
-    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
-    "description":"Description: Horizontal format.  A dancing girl holding a garland together with two putti.  Squared.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18543323",
+    "tms:id": "64979",
+    "accession_number": "1938-88-4356",
+    "title": "Drawing, Wall painting, ca. 1820",
+    "title_raw": "Wall painting",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18543323\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51865627",
+    "type_id": "35237093",
+    "date": "ca. 1820",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and brown ink, brush and watercolor on white laid paper, squared in graphite and lined, laid down",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in pen and ink by R. Liverani, lower left: Gandolfi",
+    "provenance": "Giovanni Piancastelli; 1938: acquired by Museum (from Mrs. Edward Brandegee)",
+    "dimensions": "16.3 x 25 cm (6 7\/16 x 9 13\/16 in.)\nMat:  40.6 x 55.9 cm (16 x 22 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.60",
+            "centimeters"
+        ],
+        "width": [
+            "55.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description": "Horizontal format.  A dancing girl holding a garland together with two putti.  Squared.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46854_e372f12ae360011b_b.jpg",
-                "width":1024,
-                "height":731,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46854_588ffbc7b4024553_b.jpg",
+                "width": 1024,
+                "height": 677,
+                "is_primary": "1",
+                "image_id": "46854"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46854_e372f12ae360011b_n.jpg",
-                "width":320,
-                "height":228,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46854_588ffbc7b4024553_z.jpg",
+                "width": 640,
+                "height": 423,
+                "is_primary": "1",
+                "image_id": "46854"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46854_e372f12ae360011b_z.jpg",
-                "width":640,
-                "height":457,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46854_588ffbc7b4024553_n.jpg",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "46854"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46854_588ffbc7b4024553_d.gif",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "46854"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46854_588ffbc7b4024553_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46854"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041951",
-            "role_id":"35236565",
-            "person_name":"Mauro Gandolfi",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041951\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18049797",
+            "role_id": "35352249",
+            "person_name": "Mrs. Edward D. Brandegee",
+            "person_date": "American, 1871\u20131956",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049797\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18047437",
+            "role_id": "35352245",
+            "person_name": "Elaine Evans Dee",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047437\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041951",
+            "role_id": "35236565",
+            "person_name": "Mauro Gandolfi",
+            "person_date": "Italian, 1764\u20131834",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041951\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Wall painting\", ca. 1820.\nca. 1820. Pen and brown ink, brush and watercolor on white laid paper, squared in graphite and lined. Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-4356."
+    "tombstone": {
+        "epitaph": "Drawing, Wall painting, ca. 1820. Pen and brown ink, brush and watercolor on white laid paper, squared in graphite and lined, laid down. \nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-4356"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b9af97",
-            "closest_css3":"#a9a9a9"
+            "color": "#948f75",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#af8c5d",
-            "closest_css3":"#cd853f"
-        },
-        {
-            "color":"#7e6a4e",
-            "closest_css3":"#696969"
+            "color": "#7b6d48",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

@@ -1,42 +1,107 @@
 {
-    "id":"18621297",
-    "tms:id":"185467",
-    "accession_number":"1986-61-199",
-    "title":"Candlestick, ca. 1800\u201320",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621297\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237609",
-    "date":"ca. 1800\u201320",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424803",
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Delomosne and Son, Ltd., London; 1966 Phelps Warren NY",
-    "dimensions":"H x W: 15.8 x 6.9 cm (6 1\/4 x 2 11\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Ovoid molded ribbed shapft with flat knops above and below, foot spreads insquare molded section to thick square base; straight-sided nozzle with drippan top; ground pontil bottom.",
-    "justification":null,
-    "type":{
-        "id":"35237609",
-        "name":"candlestick"
+    "id": "18621297",
+    "tms:id": "185467",
+    "accession_number": "1986-61-199",
+    "title": "Candlestick (Ireland), ca. 1800\u201320",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621297\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237609",
+    "date": "ca. 1800\u201320",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424803",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Delomosne and Son, Ltd., London; 1966 Phelps Warren NY",
+    "dimensions": "H x W: 15.8 x 6.9 cm (6 1\/4 x 2 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "15.80",
+            "centimeters"
+        ],
+        "width": [
+            "6.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Ovoid molded ribbed shapft with flat knops above and below, foot spreads insquare molded section to thick square base; straight-sided nozzle with drippan top; ground pontil bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424803",
+    "type": "candlestick",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113149_e29e9619b0add995_b.jpg",
+                "width": 630,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113149"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113149_e29e9619b0add995_z.jpg",
+                "width": 393,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113149"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113149_e29e9619b0add995_n.jpg",
+                "width": 197,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113149"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113149_e29e9619b0add995_d.gif",
+                "width": 197,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113149"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113149_e29e9619b0add995_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113149"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Candlestick, ca. 1800\u201320.\nca. 1800\u201320. glass. Bequest of Walter Phelps Warren. 1986-61-199."
+    "tombstone": {
+        "epitaph": "Candlestick (Ireland), ca. 1800\u201320. glass. \nBequest of Walter Phelps Warren. 1986-61-199"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a1a3a2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Ireland",
+    "is_loan_object": 0
 }

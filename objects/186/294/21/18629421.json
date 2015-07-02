@@ -1,42 +1,111 @@
 {
-    "id":"18629421",
-    "tms:id":"189551",
-    "accession_number":"1988-62-1250",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18629421\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1988",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"20.8 x 7.6 cm (8 3\/16 x 3 in. )",
-    "creditline":"Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18629421",
+    "tms:id": "189551",
+    "accession_number": "1988-62-1250",
+    "title": "Drawing",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18629421\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1988",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "20.8 x 7.6 cm (8 3\/16 x 3 in. )",
+    "dimensions_raw": {
+        "height": [
+            "20.80",
+            "centimeters"
+        ],
+        "width": [
+            "7.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118813_c2a5c73f50dd651c_b.jpg",
+                "width": 254,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118813"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118813_c2a5c73f50dd651c_z.jpg",
+                "width": 159,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118813"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118813_c2a5c73f50dd651c_n.jpg",
+                "width": 79,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118813"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118813_c2a5c73f50dd651c_d.gif",
+                "width": 79,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118813"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118813_c2a5c73f50dd651c_sq.jpg",
+                "width": 254,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118813"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18538455",
+            "role_id": "35352249",
+            "person_name": "Wolfgang Ruf",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538455\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing. 20.8 x 7.6 cm (8 3\/16 x 3 in. ). \nMuseum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds. 1988-62-1250"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\n20.8 x 7.6 cm (8 3\/16 x 3 in. ). Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds. 1988-62-1250."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

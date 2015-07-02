@@ -1,72 +1,160 @@
 {
-    "id":"18350007",
-    "tms:id":"58616",
-    "accession_number":"1938-57-450-c",
-    "title":"Plate, \"\"Tomba de Virgilio\" (Virgil's Tomb)\", ca. 1800\u201320",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18350007\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35392471",
-    "type_id":"35236833",
-    "date":"ca. 1800\u201320",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Glazed porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 2.5 x 24 cm (1 x 9 7\/16 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18350007",
+    "tms:id": "58616",
+    "accession_number": "1938-57-450-c",
+    "title": "Tomba de Virgilio (Virgil's Tomb) Plate, ca. 1800\u201320",
+    "title_raw": "Tomba de Virgilio (Virgil's Tomb)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18350007\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35392471",
+    "type_id": "35236833",
+    "date": "ca. 1800\u201320",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Glazed porcelain",
+    "markings": "On base: \"Tomba de Virgilio\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Erskine Hewitt; 1938: bequested to Museum",
+    "dimensions": "H x diam.: 2.5 x 24 cm (1 x 9 7\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "24.00",
+            "centimeters"
+        ],
+        "height": [
+            "2.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": "Plate with blue and gold border. At center of well, depiction of two figures in Roman ruins landscape with sea in background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/20517_b996bdf544a59d43_b.jpg",
-                "width":1021,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111141_b24c81b4b3a229de_b.jpg",
+                "width": 1024,
+                "height": 649,
+                "is_primary": "1",
+                "image_id": "111141"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/20517_b996bdf544a59d43_n.jpg",
-                "width":319,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111141_b24c81b4b3a229de_z.jpg",
+                "width": 640,
+                "height": 406,
+                "is_primary": "1",
+                "image_id": "111141"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/20517_b996bdf544a59d43_z.jpg",
-                "width":638,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111141_b24c81b4b3a229de_n.jpg",
+                "width": 320,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "111141"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111141_b24c81b4b3a229de_d.gif",
+                "width": 320,
+                "height": 203,
+                "is_primary": "1",
+                "image_id": "111141"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111141_b24c81b4b3a229de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111141"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20517_b996bdf544a59d43_b.jpg",
+                "width": 1021,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "20517"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20517_b996bdf544a59d43_z.jpg",
+                "width": 638,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "20517"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20517_b996bdf544a59d43_n.jpg",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "20517"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20517_b996bdf544a59d43_d.gif",
+                "width": 319,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "20517"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/20517_b996bdf544a59d43_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "20517"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Plate, \"\"Tomba de Virgilio\" (Virgil's Tomb)\", ca. 1800\u201320.\nca. 1800\u201320. Glazed porcelain. Bequest of Erskine Hewitt. 1938-57-450-c."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#272e53",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18058569",
+            "role_id": "35236657",
+            "person_name": "Doccia Porcelain Manufactory",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058569\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#a59579",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#756145",
-            "closest_css3":"#696969"
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Tomba de Virgilio (Virgil's Tomb) Plate, ca. 1800\u201320. Glazed porcelain. \nBequest of Erskine Hewitt. 1938-57-450-c"
+    },
+    "colors": [
+        {
+            "color": "#9a9585",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#48495b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

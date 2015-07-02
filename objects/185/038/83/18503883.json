@@ -1,83 +1,180 @@
 {
-    "id":"18503883",
-    "tms:id":"162845",
-    "accession_number":"1980-14-69",
-    "title":"Matchsafe, \"Asian Female with Parasol\", ca. 1895",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18503883\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431943",
-    "type_id":"35287419",
-    "date":"ca. 1895",
-    "year_start":null,
-    "year_end":"1905",
-    "year_acquired":"1980",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Metal alloy",
-    "markings":"SILVEROIN stamped on front and reverse bezel.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"6.2 x 4.5 x 1 cm (2 7\/16 x 1 3\/4 x 3\/8 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"Oblong with curved sides, top and bottom, featuring raised decoration of woman in long, asian-style kimono, she holds parasol in left hand and reaches for planted, long-stemmed flower with right, background of suspended lanterns, plum blossoms and birds in flight. Lid hinged on side. Striker on bottom.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18503883",
+    "tms:id": "162845",
+    "accession_number": "1980-14-69",
+    "title": "Asian Female with Parasol Matchsafe, ca. 1895",
+    "title_raw": "Asian Female with Parasol",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18503883\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431943",
+    "type_id": "35287419",
+    "date": "ca. 1895",
+    "year_start": null,
+    "year_end": 1905,
+    "year_acquired": "1980",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Metal alloy",
+    "markings": "SILVEROIN stamped on front and reverse bezel.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "6.2 x 4.5 x 1 cm (2 7\/16 x 1 3\/4 x 3\/8 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.00",
+            "centimeters"
+        ],
+        "height": [
+            "6.20",
+            "centimeters"
+        ],
+        "width": [
+            "4.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "Oblong with curved sides, top and bottom, featuring raised decoration of woman in long, asian-style kimono, she holds parasol in left hand and reaches for planted, long-stemmed flower with right, background of suspended lanterns, plum blossoms and birds in flight. Lid hinged on side. Striker on bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9032_b69b90b70d2fed29_b.jpg",
-                "width":752,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101859_0ff614bf1ade4545_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "101859"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9032_b69b90b70d2fed29_n.jpg",
-                "width":235,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101859_0ff614bf1ade4545_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "101859"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9032_b69b90b70d2fed29_z.jpg",
-                "width":470,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101859_0ff614bf1ade4545_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "101859"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101859_0ff614bf1ade4545_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "101859"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101859_0ff614bf1ade4545_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "101859"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9032_b69b90b70d2fed29_b.jpg",
+                "width": 752,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9032"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9032_b69b90b70d2fed29_z.jpg",
+                "width": 470,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9032"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9032_b69b90b70d2fed29_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9032"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9032_b69b90b70d2fed29_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9032"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9032_b69b90b70d2fed29_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9032"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18536211",
-            "role_id":"35236685",
-            "person_name":"Bristol Manufacturing Company",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18536211\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18536211",
+            "role_id": "35236685",
+            "person_name": "Bristol Manufacturing Company",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536211\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Asian Female with Parasol\", ca. 1895.\nca. 1895. Metal alloy. Gift of Stephen W. Brener and Carol B. Brener. 1980-14-69."
+    "tombstone": {
+        "epitaph": "Asian Female with Parasol Matchsafe, ca. 1895. Metal alloy. \nGift of Stephen W. Brener and Carol B. Brener. 1980-14-69"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#938d7e",
-            "closest_css3":"#808080"
+            "color": "#91877c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#726d61",
-            "closest_css3":"#696969"
+            "color": "#6c6359",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#43413c",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#e2decc",
-            "closest_css3":"#dcdcdc"
+            "color": "#4f453f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

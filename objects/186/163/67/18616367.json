@@ -1,80 +1,178 @@
 {
-    "id":"18616367",
-    "tms:id":"176713",
-    "accession_number":"1981-28-131",
-    "title":"Embroidered Picture, 1930s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616367\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35432161",
-    "type_id":"35259407",
-    "date":"1930s",
-    "year_start":"1930",
-    "year_end":"1939",
-    "year_acquired":"1981",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Medium: wool, synthetic\nTechnique: embroidered in stem, running, and satin stitches on twill foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 49.5 x 41.3 cm (19 1\/2 x 16 1\/4 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Picture of Washington Square Park with the arch in the background and figures in the foreground.",
-    "justification":null,
-    "type":{
-        "id":"35259407",
-        "name":"Embroidered picture"
+    "id": "18616367",
+    "tms:id": "176713",
+    "accession_number": "1981-28-131",
+    "title": "Embroidered Picture (USA), 1930s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616367\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432161",
+    "type_id": "35259407",
+    "date": "1930s",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1981",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Medium: wool, synthetic\nTechnique: embroidered in stem, running, and satin stitches on twill foundation\nLabel: wool embroidered with synthetic yarns in stem, running and satin stitches",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Donor purchased from Ginsburg and Levy through Feragil Galleries in 1938 for $50.",
+    "dimensions": "H x W: 49.5 x 41.3 cm (19 1\/2 x 16 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "49.50",
+            "centimeters"
+        ],
+        "width": [
+            "41.28",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Picture of Washington Square Park with the arch in the center with townhouses behind, trees, and figures in the foreground walking sitting on benches, reading the paper, petting a dog etc.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Embroidered picture",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30150_88a47f5c19481c17_b.jpg",
-                "width":864,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94129_b90d066fa6839058_b.jpg",
+                "width": 903,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94129"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30150_88a47f5c19481c17_n.jpg",
-                "width":270,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94129_b90d066fa6839058_z.jpg",
+                "width": 564,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94129"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30150_88a47f5c19481c17_z.jpg",
-                "width":540,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94129_b90d066fa6839058_n.jpg",
+                "width": 282,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94129"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94129_b90d066fa6839058_d.gif",
+                "width": 282,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94129"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94129_b90d066fa6839058_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94129"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30150_88a47f5c19481c17_b.jpg",
+                "width": 864,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "30150"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30150_88a47f5c19481c17_z.jpg",
+                "width": 540,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "30150"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30150_88a47f5c19481c17_n.jpg",
+                "width": 270,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "30150"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30150_88a47f5c19481c17_d.gif",
+                "width": 270,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "30150"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30150_88a47f5c19481c17_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "30150"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Embroidered Picture, 1930s.\n1930s. Medium: wool, synthetic\nTechnique: embroidered in stem, running, and satin stitches on twill foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-131."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#aba8b3",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#667076",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#c5dae2",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#828b90",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#8d7f76",
-            "closest_css3":"#808080"
+            "person_id": "18050725",
+            "role_id": "35236583",
+            "person_name": "Marcia Stebbins",
+            "person_date": "American",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050725\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Embroidered Picture (USA), 1930s. Medium: wool, synthetic\nTechnique: embroidered in stem, running, and satin stitches on twill foundation\nLabel: wool embroidered with synthetic yarns in stem, running and satin stitches. \nBequest of Gertrude M. Oppenheimer. 1981-28-131"
+    },
+    "colors": [
+        {
+            "color": "#aa9d7c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#c9c1a3",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#907d58",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#726d56",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#30261e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

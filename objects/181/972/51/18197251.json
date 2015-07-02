@@ -1,87 +1,169 @@
 {
-    "id":"18197251",
-    "tms:id":"22931",
-    "accession_number":"1917-4-346",
-    "title":"Drawing, \"Landscape (possibly Hudson Valley)\", 1860\u201370",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18197251\/",
-    "department_id":"35347493",
-    "period_id":"35417175",
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":"1860\u201370",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1917",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Louis P. Church",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18197251",
+    "tms:id": "22931",
+    "accession_number": "1917-4-346",
+    "title": "Drawing, Landscape (possibly Hudson Valley), 1860\u201370",
+    "title_raw": "Landscape (possibly Hudson Valley)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18197251\/",
+    "department_id": "35347493",
+    "period_id": "35417175",
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1860\u201370",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1917",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Louis P. Church",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1794_85574cabec4fe367_b.jpg",
-                "width":1024,
-                "height":768,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1794_85574cabec4fe367_b.jpg",
+                "width": 1024,
+                "height": 768,
+                "is_primary": "1",
+                "image_id": "1794"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1794_85574cabec4fe367_n.jpg",
-                "width":320,
-                "height":240,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1794_85574cabec4fe367_z.jpg",
+                "width": 640,
+                "height": 480,
+                "is_primary": "1",
+                "image_id": "1794"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1794_85574cabec4fe367_z.jpg",
-                "width":640,
-                "height":480,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1794_85574cabec4fe367_n.jpg",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "1794"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1794_85574cabec4fe367_d.gif",
+                "width": 320,
+                "height": 240,
+                "is_primary": "1",
+                "image_id": "1794"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1794_85574cabec4fe367_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "1794"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117030_50111b43d91224e8_b.jpg",
+                "width": 1024,
+                "height": 770,
+                "is_primary": "0",
+                "image_id": "117030"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117030_50111b43d91224e8_z.jpg",
+                "width": 640,
+                "height": 481,
+                "is_primary": "0",
+                "image_id": "117030"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117030_50111b43d91224e8_n.jpg",
+                "width": 320,
+                "height": 241,
+                "is_primary": "0",
+                "image_id": "117030"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117030_50111b43d91224e8_d.gif",
+                "width": 320,
+                "height": 241,
+                "is_primary": "0",
+                "image_id": "117030"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117030_50111b43d91224e8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "117030"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041941",
-            "role_id":"35236565",
-            "person_name":"Frederic Edwin Church",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18051625",
+            "role_id": "35351535",
+            "person_name": "Louis P. Church",
+            "person_date": "American, 1870\u20131943",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Landscape (possibly Hudson Valley)\", 1860\u201370.\n1860\u201370. Gift of Louis P. Church. 1917-4-346."
+    "tombstone": {
+        "epitaph": "Drawing, Landscape (possibly Hudson Valley), 1860\u201370. \nGift of Louis P. Church. 1917-4-346"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#8e726a",
-            "closest_css3":"#808080"
+            "color": "#958279",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#b99387",
-            "closest_css3":"#bc8f8f"
+            "color": "#876855",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#2b241f",
-            "closest_css3":"#000000"
+            "color": "#bc9e94",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#eabba4",
-            "closest_css3":"#deb887"
+            "color": "#2f2720",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#2c3630",
-            "closest_css3":"#2f4f4f"
+            "color": "#eab8a0",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

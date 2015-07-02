@@ -1,80 +1,178 @@
 {
-    "id":"18616417",
-    "tms:id":"176738",
-    "accession_number":"1981-28-154",
-    "title":"Sampler, 1796",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616417\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410831",
-    "type_id":"35256439",
-    "date":"1796",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, satin, stem, roumanian, and half cross stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 44.5 x 50.8 cm (17 1\/2 x 20 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Within a curving border of carnations and tulips two texts, flowers, parents' names and initials.  At bottom large house on lawn with sheep.  This looks like an English prototype of a later Pennsylvania work.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616417",
+    "tms:id": "176738",
+    "accession_number": "1981-28-154",
+    "title": "Sampler (England), 1796",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616417\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410831",
+    "type_id": "35256439",
+    "date": "1796",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, satin, stem, roumanian, and half cross stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 44.5 x 50.8 cm (17 1\/2 x 20 in.)",
+    "dimensions_raw": {
+        "height": [
+            "44.45",
+            "centimeters"
+        ],
+        "width": [
+            "50.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Within a curving border of carnations and tulips two texts, flowers, parents' names and initials.  At bottom large house on lawn with sheep.  This looks like an English prototype of a later Pennsylvania work.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36715_a8b6465c2e2d492d_b.jpg",
-                "width":1024,
-                "height":842,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67488_a7b1147e2ebd31c6_b.jpg",
+                "width": 1024,
+                "height": 864,
+                "is_primary": "1",
+                "image_id": "67488"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36715_a8b6465c2e2d492d_n.jpg",
-                "width":320,
-                "height":263,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67488_a7b1147e2ebd31c6_z.jpg",
+                "width": 640,
+                "height": 540,
+                "is_primary": "1",
+                "image_id": "67488"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36715_a8b6465c2e2d492d_z.jpg",
-                "width":640,
-                "height":526,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67488_a7b1147e2ebd31c6_n.jpg",
+                "width": 320,
+                "height": 270,
+                "is_primary": "1",
+                "image_id": "67488"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67488_a7b1147e2ebd31c6_d.gif",
+                "width": 320,
+                "height": 270,
+                "is_primary": "1",
+                "image_id": "67488"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67488_a7b1147e2ebd31c6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67488"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36715_a8b6465c2e2d492d_b.jpg",
+                "width": 1024,
+                "height": 842,
+                "is_primary": "0",
+                "image_id": "36715"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36715_a8b6465c2e2d492d_z.jpg",
+                "width": 640,
+                "height": 526,
+                "is_primary": "0",
+                "image_id": "36715"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36715_a8b6465c2e2d492d_n.jpg",
+                "width": 320,
+                "height": 263,
+                "is_primary": "0",
+                "image_id": "36715"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36715_a8b6465c2e2d492d_d.gif",
+                "width": 320,
+                "height": 263,
+                "is_primary": "0",
+                "image_id": "36715"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36715_a8b6465c2e2d492d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36715"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1796.\n1796. Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, satin, stem, roumanian, and half cross stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-154."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#707568",
-            "closest_css3":"#696969"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#a8adb8",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#78879d",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#4a5d4b",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#556575",
-            "closest_css3":"#696969"
+            "person_id": "18050773",
+            "role_id": "35236583",
+            "person_name": "Increase Giberson",
+            "person_date": "English",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050773\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (England), 1796. Medium: silk embroidery on linen foundation\nTechnique: embroidered in cross, satin, stem, roumanian, and half cross stitches on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-154"
+    },
+    "colors": [
+        {
+            "color": "#d0c68f",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#ac9c65",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#534c2b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#85723f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#e8e5ca",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

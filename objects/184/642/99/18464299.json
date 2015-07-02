@@ -1,49 +1,121 @@
 {
-    "id":"18464299",
-    "tms:id":"142755",
-    "accession_number":"1968-135-87-b",
-    "title":"Carpet",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464299\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35289007",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Harvey Smith",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35289007",
-        "name":"Carpet"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18464299",
+    "tms:id": "142755",
+    "accession_number": "1968-135-87-b",
+    "title": "Carpet Fragment, 1850\u20131900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18464299\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "68790709",
+    "type_id": "35289847",
+    "date": "1850\u20131900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: cotton, bast fiber, wool\nTechnique: printed supplementary warp-cut pile",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 202 \u00d7 66 cm (6 ft. 7 1\/2 in. \u00d7 26 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Harvey Smith",
+    "description": "Repeat of sprays of flowers within geometric brackets in bright and dark colors, mainly reds, black, browns, yellow-tans, and light blue on a vine pattern background in dark orange on ivory.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Carpet fragment",
+    "images": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111995_93d99815b40de1c6_b.jpg",
+                "width": 540,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111995"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111995_93d99815b40de1c6_z.jpg",
+                "width": 337,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111995"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111995_93d99815b40de1c6_n.jpg",
+                "width": 169,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111995"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111995_93d99815b40de1c6_d.gif",
+                "width": 169,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111995"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111995_93d99815b40de1c6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111995"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Carpet.\nGift of Harvey Smith. 1968-135-87-b."
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Carpet Fragment, 1850\u20131900. Medium: cotton, bast fiber, wool\nTechnique: printed supplementary warp-cut pile. \nGift of Harvey Smith. 1968-135-87-b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#7f6b4c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5b4224",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3e1f1c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6b2523",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#2d241d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "is_loan_object": 0
 }

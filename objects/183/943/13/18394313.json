@@ -1,80 +1,164 @@
 {
-    "id":"18394313",
-    "tms:id":"107313",
-    "accession_number":"1953-106-63",
-    "title":"Miser's Purse, early 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394313\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394499",
-    "type_id":"35269513",
-    "date":"early 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk, metal\nTechnique: crocheted",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"L: 18 cm (7 1\/16 in.)",
-    "creditline":"Gift of Mrs. Albert Blum",
-    "description":"Crocheted mauve silk ornamented with cut steel beads in geometric pattern. Two round steel rings control the side opening. Small steel drops at each end.",
-    "justification":null,
-    "type":{
-        "id":"35269513",
-        "name":"Miser's purse"
+    "id": "18394313",
+    "tms:id": "107313",
+    "accession_number": "1953-106-63",
+    "title": "Miser's Purse (France), early 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18394313\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394499",
+    "type_id": "35269513",
+    "date": "early 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk, metal\nTechnique: crocheted",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 18.4 \u00d7 3.8 cm (7 1\/4 \u00d7 1 1\/2 in.)",
+    "dimensions_raw": {
+        "length": [
+            "18.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Albert Blum",
+    "description": "Crocheted mauve silk ornamented with cut steel beads in geometric pattern. Two round steel rings control the side opening. Small steel drops at each end.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Miser's purse",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29867_13e9e5370e76a3ad_b.jpg",
-                "width":1024,
-                "height":482,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103663_676295022563c57a_b.jpg",
+                "width": 1024,
+                "height": 686,
+                "is_primary": "1",
+                "image_id": "103663"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29867_13e9e5370e76a3ad_n.jpg",
-                "width":320,
-                "height":151,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103663_676295022563c57a_z.jpg",
+                "width": 640,
+                "height": 428,
+                "is_primary": "1",
+                "image_id": "103663"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29867_13e9e5370e76a3ad_z.jpg",
-                "width":640,
-                "height":301,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103663_676295022563c57a_n.jpg",
+                "width": 320,
+                "height": 214,
+                "is_primary": "1",
+                "image_id": "103663"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103663_676295022563c57a_d.gif",
+                "width": 320,
+                "height": 214,
+                "is_primary": "1",
+                "image_id": "103663"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103663_676295022563c57a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103663"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29867_13e9e5370e76a3ad_b.jpg",
+                "width": 1024,
+                "height": 482,
+                "is_primary": "0",
+                "image_id": "29867"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29867_13e9e5370e76a3ad_z.jpg",
+                "width": 640,
+                "height": 301,
+                "is_primary": "0",
+                "image_id": "29867"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29867_13e9e5370e76a3ad_n.jpg",
+                "width": 320,
+                "height": 151,
+                "is_primary": "0",
+                "image_id": "29867"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29867_13e9e5370e76a3ad_d.gif",
+                "width": 320,
+                "height": 151,
+                "is_primary": "0",
+                "image_id": "29867"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29867_13e9e5370e76a3ad_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29867"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Miser's Purse, early 19th century.\nearly 19th century. Medium: silk, metal\nTechnique: crocheted. Gift of Mrs. Albert Blum. 1953-106-63."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#e8daba",
-            "closest_css3":"#f5deb3"
-        },
-        {
-            "color":"#816e5a",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#c09e92",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#512e1d",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#8f614f",
-            "closest_css3":"#a0522d"
+            "person_id": "18061351",
+            "role_id": "35351535",
+            "person_name": "Mrs. Albert Blum",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Miser's Purse (France), early 19th century. Medium: silk, metal\nTechnique: crocheted. \nGift of Mrs. Albert Blum. 1953-106-63"
+    },
+    "colors": [
+        {
+            "color": "#4b3d39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#765a55",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#93736d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b4918a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#98928c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

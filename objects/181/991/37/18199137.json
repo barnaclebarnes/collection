@@ -1,87 +1,225 @@
 {
-    "id":"18199137",
-    "tms:id":"23216",
-    "accession_number":"1917-4-527",
-    "title":"Drawing, \"View of Delphi (?). Greece\", April 1869",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18199137\/",
-    "department_id":"35347493",
-    "period_id":"35417175",
-    "media_id":"35415079",
-    "type_id":"35237093",
-    "date":"April 1869",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1917",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Oil on heavy wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Height 33 x Width 51 cm (13 x 20 1\/8 in.)\nMat: 22 x 22 in.\nMat:  55.9 x 71.1 cm (22 x 28 in.)",
-    "creditline":"Gift of Louis P. Church",
-    "description":"View down a valley, a large boulder at right in foreground, a ruined columnar temple on a plateau at left middle distance; high snow-covered mountain in background.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18199137",
+    "tms:id": "23216",
+    "accession_number": "1917-4-527",
+    "title": "Drawing, Landscape in Greece, April 1869",
+    "title_raw": "Landscape in Greece",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18199137\/",
+    "department_id": "35347493",
+    "period_id": "35417175",
+    "media_id": "35415079",
+    "type_id": "35237093",
+    "date": "April 1869",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1917",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Oil on heavy wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "33 x  51 cm (13 x 20 1\/8 in.)\nMat: 22 x 22 in.\nMat:  55.9 x 71.1 cm (22 x 28 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.00",
+            "centimeters"
+        ],
+        "width": [
+            "71.10",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Louis P. Church",
+    "description": "View down a valley, a large boulder at right in foreground, a ruined columnar temple on a plateau at left middle distance; high snow-covered mountain in background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1876_e36b1c7e02cef071_b.jpg",
-                "width":1024,
-                "height":663,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97609_34f2b01323f3050f_b.jpg",
+                "width": 1024,
+                "height": 674,
+                "is_primary": "1",
+                "image_id": "97609"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1876_e36b1c7e02cef071_n.jpg",
-                "width":320,
-                "height":207,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97609_34f2b01323f3050f_z.jpg",
+                "width": 640,
+                "height": 421,
+                "is_primary": "1",
+                "image_id": "97609"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1876_e36b1c7e02cef071_z.jpg",
-                "width":640,
-                "height":414,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97609_34f2b01323f3050f_n.jpg",
+                "width": 320,
+                "height": 211,
+                "is_primary": "1",
+                "image_id": "97609"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97609_34f2b01323f3050f_d.gif",
+                "width": 320,
+                "height": 211,
+                "is_primary": "1",
+                "image_id": "97609"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97609_34f2b01323f3050f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "97609"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95403_98eeea7006bb981c_b.jpg",
+                "width": 1024,
+                "height": 674,
+                "is_primary": "0",
+                "image_id": "95403"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95403_98eeea7006bb981c_z.jpg",
+                "width": 640,
+                "height": 421,
+                "is_primary": "0",
+                "image_id": "95403"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95403_98eeea7006bb981c_n.jpg",
+                "width": 320,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "95403"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95403_98eeea7006bb981c_d.gif",
+                "width": 320,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "95403"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95403_98eeea7006bb981c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95403"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1876_e36b1c7e02cef071_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "1876"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1876_e36b1c7e02cef071_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "1876"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1876_e36b1c7e02cef071_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "1876"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1876_e36b1c7e02cef071_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "1876"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1876_e36b1c7e02cef071_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "1876"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041941",
-            "role_id":"35236565",
-            "person_name":"Frederic Edwin Church",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18052379",
+            "role_id": "35352245",
+            "person_name": "Calvin S.  Hathaway",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18051625",
+            "role_id": "35351535",
+            "person_name": "Louis P. Church",
+            "person_date": "American, 1870\u20131943",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"View of Delphi (?). Greece\", April 1869.\nApril 1869. Oil on heavy wove paper. Gift of Louis P. Church. 1917-4-527."
+    "tombstone": {
+        "epitaph": "Drawing, Landscape in Greece, April 1869. Oil on heavy wove paper. \nGift of Louis P. Church. 1917-4-527"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#6a503c",
-            "closest_css3":"#556b2f"
+            "color": "#c3b393",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#937957",
-            "closest_css3":"#808080"
+            "color": "#866d4b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#2e2624",
-            "closest_css3":"#2f4f4f"
+            "color": "#655a43",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#b4a985",
-            "closest_css3":"#bc8f8f"
+            "color": "#99844e",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#765e30",
-            "closest_css3":"#556b2f"
+            "color": "#4a4137",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

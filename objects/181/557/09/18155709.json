@@ -1,76 +1,145 @@
 {
-    "id":"18155709",
-    "tms:id":"15666",
-    "accession_number":"1907-5-35",
-    "title":"Frieze, ca. 1860",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18155709\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35259269",
-    "date":"ca. 1860",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1907",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"78 x 12 cm (30 11\/16 x 4 3\/4 in.)",
-    "creditline":"Gift of Cowtan and Sons, Ltd.",
-    "description":"Grisaille palmette motif, surrounded by heart-shape.",
-    "justification":null,
-    "type":{
-        "id":"35259269",
-        "name":"Frieze"
+    "id": "18155709",
+    "tms:id": "15666",
+    "accession_number": "1907-5-35",
+    "title": "Frieze (England), ca. 1860",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18155709\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35259269",
+    "date": "ca. 1860",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1907",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "78 x 12 cm (30 11\/16 x 4 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "78.00",
+            "centimeters"
+        ],
+        "width": [
+            "12.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Cowtan and Sons, Ltd.",
+    "description": "Grisaille palmette motif, surrounded by heart-shape.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Frieze",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43488_08a8d4f8edf1003e_b.jpg",
-                "width":185,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43488_c16497fd4cf89f69_b.jpg",
+                "width": 154,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "43488"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43488_08a8d4f8edf1003e_n.jpg",
-                "width":58,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43488_c16497fd4cf89f69_z.jpg",
+                "width": 96,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "43488"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43488_08a8d4f8edf1003e_z.jpg",
-                "width":116,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43488_c16497fd4cf89f69_n.jpg",
+                "width": 48,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43488"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43488_c16497fd4cf89f69_d.gif",
+                "width": 48,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43488"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43488_c16497fd4cf89f69_sq.jpg",
+                "width": 154,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43488"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Frieze, ca. 1860.\nca. 1860. Block-printed. Gift of Cowtan and Sons, Ltd.. 1907-5-35."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c6b998",
-            "closest_css3":"#d2b48c"
+            "person_id": "18052379",
+            "role_id": "35352245",
+            "person_name": "Calvin S.  Hathaway",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#9e947c",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18053335",
+            "role_id": "35351535",
+            "person_name": "Cowtan and Sons, London",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#706858",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#474037",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18047537",
+            "role_id": "35352245",
+            "person_name": "dj",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047537\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Frieze (England), ca. 1860. Block-printed. \nGift of Cowtan and Sons, Ltd.. 1907-5-35"
+    },
+    "colors": [
+        {
+            "color": "#7b755f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#595748",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#38352d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d5d0af",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

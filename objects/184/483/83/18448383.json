@@ -1,42 +1,129 @@
 {
-    "id":"18448383",
-    "tms:id":"134707",
-    "accession_number":"1963-39-587",
-    "title":"Print",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448383\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35236873",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1963",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18448383",
+    "tms:id": "134707",
+    "accession_number": "1963-39-587",
+    "title": "Print (USA), 1930s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448383\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51686095",
+    "type_id": "35236873",
+    "date": "1930s",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1963",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on thin off-white board",
+    "markings": null,
+    "signed": "Signed in black ink, center left: EMcKK",
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "25.6 x 17.9 cm (10 1\/16 x 7 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.60",
+            "centimeters"
+        ],
+        "width": [
+            "17.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Poster depicts a silhouette of a dummy-like figure with circles for joins steering a ship\u2019s wheel. Text in black: LUBRICATION BY \/ SHELL \/ FOR YOUR MOTOR BOAT; SHELL LUBRICATING OILS ARE \/ APPROVED BY THE MANUFACTURERS OR CONCESSIONARIES OF THE FOLLOWING [in a box, lists of manufacturers\u2019 names]; BE UP-TO-DATE \/ SHELLUBRICATE.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66635_7ad83a7743cf1a41_b.jpg",
+                "width": 747,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "66635"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66635_7ad83a7743cf1a41_z.jpg",
+                "width": 467,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "66635"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66635_7ad83a7743cf1a41_n.jpg",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66635"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66635_7ad83a7743cf1a41_d.gif",
+                "width": 233,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66635"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66635_7ad83a7743cf1a41_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66635"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Print.\nGift of Mrs. E. McKnight Kauffer. 1963-39-587."
+    "tombstone": {
+        "epitaph": "Print (USA), 1930s. Lithograph on thin off-white board. \nGift of Mrs. E. McKnight Kauffer. 1963-39-587"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#c5c3b5",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#59564c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#8e8b7f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,42 +1,122 @@
 {
-    "id":"18390105",
-    "tms:id":"105197",
-    "accession_number":"1952-105-24-d",
-    "title":"Swatch",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18390105\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35375909",
-    "type_id":"35287849",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1952",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Technique: roller printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mr. and Mrs. G. Glen Gould",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35287849",
-        "name":"Swatch"
-    },
-    "images":[
-
+    "id": "18390105",
+    "tms:id": "105197",
+    "accession_number": "1952-105-24-d",
+    "title": "Swatch (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18390105\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35375909",
+    "type_id": "35287849",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1952",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Technique: roller printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. G. Glen Gould",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Swatch",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86429_acb40b62138df805_b.jpg",
+                "width": 1024,
+                "height": 693,
+                "is_primary": "1",
+                "image_id": "86429"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86429_acb40b62138df805_z.jpg",
+                "width": 640,
+                "height": 433,
+                "is_primary": "1",
+                "image_id": "86429"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86429_acb40b62138df805_n.jpg",
+                "width": 320,
+                "height": 217,
+                "is_primary": "1",
+                "image_id": "86429"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86429_acb40b62138df805_d.gif",
+                "width": 320,
+                "height": 217,
+                "is_primary": "1",
+                "image_id": "86429"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86429_acb40b62138df805_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "86429"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18059469",
+            "role_id": "35351535",
+            "person_name": "Mr. and Mrs. G. Glen Gould",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Swatch.\nTechnique: roller printed. Gift of Mr. and Mrs. G. Glen Gould. 1952-105-24-d."
+    "tombstone": {
+        "epitaph": "Swatch (England). Technique: roller printed. \nGift of Mr. and Mrs. G. Glen Gould. 1952-105-24-d"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#767385",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#2e365e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#1e0e11",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#8b6a6d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#50392d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

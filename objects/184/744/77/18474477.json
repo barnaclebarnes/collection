@@ -1,64 +1,98 @@
 {
-    "id":"18474477",
-    "tms:id":"147999",
-    "accession_number":"1971-50-329",
-    "title":"Cap Streamer, 1690s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474477\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35284867",
-    "date":"1690s",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: linen\nTechnique: mid to late 17th c needle lace, commonly called Rosaline",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35284867",
-        "name":"Cap streamer"
-    },
-    "images":[
+    "id": "18474477",
+    "tms:id": "147999",
+    "accession_number": "1971-50-329",
+    "title": "Cap Streamer (France), 1690s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474477\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35284867",
+    "date": "1690s",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: linen\nTechnique: mid to late 17th c needle lace, commonly called Rosaline",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Cap streamer",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29353_284808a3569e04f2_b.jpg",
-                "width":242,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29353_284808a3569e04f2_b.jpg",
+                "width": 242,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "29353"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29353_284808a3569e04f2_n.jpg",
-                "width":75,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29353_284808a3569e04f2_z.jpg",
+                "width": 151,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "29353"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29353_284808a3569e04f2_z.jpg",
-                "width":151,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29353_284808a3569e04f2_n.jpg",
+                "width": 75,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "29353"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29353_284808a3569e04f2_d.gif",
+                "width": 75,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "29353"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29353_284808a3569e04f2_sq.jpg",
+                "width": 242,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "29353"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Cap Streamer, 1690s.\n1690s. Medium: linen\nTechnique: mid to late 17th c needle lace, commonly called Rosaline. Bequest of Marian Hague. 1971-50-329."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#a3988f",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Cap Streamer (France), 1690s. Medium: linen\nTechnique: mid to late 17th c needle lace, commonly called Rosaline. \nBequest of Marian Hague. 1971-50-329"
+    },
+    "colors": [
+        {
+            "color": "#a89d94",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

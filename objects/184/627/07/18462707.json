@@ -1,87 +1,165 @@
 {
-    "id":"18462707",
-    "tms:id":"141959",
-    "accession_number":"1968-111-232",
-    "title":"Border, 1900\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18462707\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414639",
-    "type_id":"35237285",
-    "date":"1900\u201325",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Block-printed on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"53.5 x 13 cm (21 1\/16 x 5 1\/8 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"Two green ribbons tied in four-loop bow knot. Narrow gray bands along edges. Printed in green and gray on white ground.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18462707",
+    "tms:id": "141959",
+    "accession_number": "1968-111-232",
+    "title": "Border, 1900\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18462707\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414639",
+    "type_id": "35237285",
+    "date": "1900\u201325",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Block-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "53.5 x 13 cm (21 1\/16 x 5 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "53.50",
+            "centimeters"
+        ],
+        "width": [
+            "13.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Two green ribbons tied in four-loop bow knot. Narrow gray bands along edges. Printed in green and gray on white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7548_5d9a993834cae50c_b.jpg",
-                "width":1024,
-                "height":276,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82147_79939163e763c1bd_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82147"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7548_5d9a993834cae50c_n.jpg",
-                "width":320,
-                "height":86,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82147_79939163e763c1bd_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82147"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7548_5d9a993834cae50c_z.jpg",
-                "width":640,
-                "height":172,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82147_79939163e763c1bd_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82147"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82147_79939163e763c1bd_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82147"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82147_79939163e763c1bd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82147"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7548_5d9a993834cae50c_b.jpg",
+                "width": 1024,
+                "height": 276,
+                "is_primary": "0",
+                "image_id": "7548"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7548_5d9a993834cae50c_z.jpg",
+                "width": 640,
+                "height": 172,
+                "is_primary": "0",
+                "image_id": "7548"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7548_5d9a993834cae50c_n.jpg",
+                "width": 320,
+                "height": 86,
+                "is_primary": "0",
+                "image_id": "7548"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7548_5d9a993834cae50c_d.gif",
+                "width": 320,
+                "height": 86,
+                "is_primary": "0",
+                "image_id": "7548"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7548_5d9a993834cae50c_sq.jpg",
+                "width": 300,
+                "height": 276,
+                "is_primary": "0",
+                "image_id": "7548"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048007",
+            "role_id": "35352245",
+            "person_name": "Catherine Lynn Frangiamore",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Border, 1900\u201325.\n1900\u201325. Block-printed on paper. Gift of Harvey Smith. 1968-111-232."
+    "tombstone": {
+        "epitaph": "Border, 1900\u201325. Block-printed on paper. \nGift of Harvey Smith. 1968-111-232"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a8b590",
-            "closest_css3":"#8fbc8f"
+            "color": "#d6d4c5",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#bfc1cb",
-            "closest_css3":"#c0c0c0"
+            "color": "#a5b78a",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
         },
         {
-            "color":"#7f885e",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#cfcebd",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#b9abc4",
-            "closest_css3":"#c0c0c0"
+            "color": "#647a53",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

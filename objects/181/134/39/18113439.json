@@ -1,72 +1,150 @@
 {
-    "id":"18113439",
-    "tms:id":"8629",
-    "accession_number":"1901-39-2050",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18113439\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18113439",
+    "tms:id": "8629",
+    "accession_number": "1901-39-2050",
+    "title": "Drawing, Caricatures, ca. 1725\u201375",
+    "title_raw": "Caricatures",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18113439\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68264263",
+    "type_id": "35237093",
+    "date": "ca. 1725\u201375",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Graphite, pen, brush and sepia ink on laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in pen and ink: Di Carlo Marchionni",
+    "provenance": "Giovanni Piancastelli; 1901: acquired by Museum",
+    "dimensions": "28.5 x 20.7 cm (11 1\/4 x 8 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.50",
+            "centimeters"
+        ],
+        "width": [
+            "20.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "A man, standing, with a large nose, hat and sword; six other sketches with heads as caricatures.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/402_2361e4474b793a2d_b.jpg",
-                "width":752,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91647_b5787d3b61937366_b.jpg",
+                "width": 731,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "91647"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/402_2361e4474b793a2d_n.jpg",
-                "width":235,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91647_b5787d3b61937366_z.jpg",
+                "width": 457,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "91647"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/402_2361e4474b793a2d_z.jpg",
-                "width":470,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91647_b5787d3b61937366_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91647"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91647_b5787d3b61937366_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91647"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91647_b5787d3b61937366_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91647"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/402_2361e4474b793a2d_b.jpg",
+                "width": 752,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "402"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/402_2361e4474b793a2d_z.jpg",
+                "width": 470,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "402"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/402_2361e4474b793a2d_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "402"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/402_2361e4474b793a2d_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "402"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/402_2361e4474b793a2d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "402"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of various donors. 1901-39-2050."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c3a3b5",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#9b7687",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#734b5c",
-            "closest_css3":"#696969"
+            "person_id": "18042631",
+            "role_id": "35236565",
+            "person_name": "Carlo Marchionni",
+            "person_date": "Italian, 1702\u20131786; active 1728\u20131778",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042631\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Caricatures, ca. 1725\u201375. Graphite, pen, brush and sepia ink on laid paper. \nMuseum purchase through gift of various donors. 1901-39-2050"
+    },
+    "colors": [
+        {
+            "color": "#948b76",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#635b4b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

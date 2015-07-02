@@ -1,57 +1,127 @@
 {
-    "id":"18649127",
-    "tms:id":"199473",
-    "accession_number":"1994-66-15",
-    "title":"Glass, \"Candor\", ca. 1929",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649127\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35249055",
-    "date":"ca. 1929",
-    "year_start":"1924",
-    "year_end":"1934",
-    "year_acquired":"1994",
-    "decade":"1920",
-    "woe:country":"23424909",
-    "medium":"Glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"19.4 x 7.2  diameter cm (7 5\/8 x 2 13\/16 in.)",
-    "creditline":"Gift of Justin G. Schiller",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249055",
-        "name":"glass"
+    "id": "18649127",
+    "tms:id": "199473",
+    "accession_number": "1994-66-15",
+    "title": "Candor Glass, ca. 1929",
+    "title_raw": "Candor",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18649127\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35249055",
+    "date": "ca. 1929",
+    "year_start": 1924,
+    "year_end": 1934,
+    "year_acquired": "1994",
+    "decade": "1920",
+    "woe:country_id": "23424909",
+    "medium": "Glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "19.4 x 7.2  diameter cm (7 5\/8 x 2 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "19.40",
+            "centimeters"
+        ],
+        "width": [
+            "7.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Justin G. Schiller",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "glass",
+    "images": [
         {
-            "person_id":"18048943",
-            "role_id":"35352245",
-            "person_name":"C.P.",
-            "role_name":"Cataloguer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048943\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
-        },
-        {
-            "person_id":"18043749",
-            "role_id":"35236655",
-            "person_name":"Andries Dirk Copier",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043749\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113260_4f3d9518974890c8_b.jpg",
+                "width": 952,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113260"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113260_4f3d9518974890c8_z.jpg",
+                "width": 595,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113260"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113260_4f3d9518974890c8_n.jpg",
+                "width": 298,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113260"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113260_4f3d9518974890c8_d.gif",
+                "width": 298,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113260"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113260_4f3d9518974890c8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113260"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Glass, \"Candor\", ca. 1929.\nca. 1929. Glass. Gift of Justin G. Schiller. 1994-66-15."
+    "participants": [
+        {
+            "person_id": "18048943",
+            "role_id": "35352245",
+            "person_name": "C.P.",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048943\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18048391",
+            "role_id": "35236657",
+            "person_name": "Leerdam Glasfabriek",
+            "person_date": "Dutch, founded 1875",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048391\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18043749",
+            "role_id": "35236655",
+            "person_name": "Andries Dirk Copier",
+            "person_date": "Dutch, 1901 \u2013 1991",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043749\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Candor Glass, ca. 1929. Glass. \nGift of Justin G. Schiller. 1994-66-15"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

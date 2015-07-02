@@ -1,42 +1,101 @@
 {
-    "id":"18476829",
-    "tms:id":"149193",
-    "accession_number":"1972-5-1",
-    "title":"Bowl",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476829\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237197",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 16 x 19.7 cm (6 5\/16 x 7 3\/4 in.)",
-    "creditline":"Bequest of Julian Clarence Levi",
-    "description":"footed bowl in blue glass painted decoration of maidens on horseback",
-    "justification":null,
-    "type":{
-        "id":"35237197",
-        "name":"Bowl"
+    "id": "18476829",
+    "tms:id": "149193",
+    "accession_number": "1972-5-1",
+    "title": "Bowl",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476829\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237197",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 16 x 19.7 cm (6 5\/16 x 7 3\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "19.70",
+            "centimeters"
+        ],
+        "height": [
+            "16.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Julian Clarence Levi",
+    "description": "footed bowl in blue glass painted decoration of maidens on horseback",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119179_7fc73149ce29bb09_b.jpg",
+                "width": 1024,
+                "height": 1017,
+                "is_primary": "1",
+                "image_id": "119179"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119179_7fc73149ce29bb09_z.jpg",
+                "width": 640,
+                "height": 635,
+                "is_primary": "1",
+                "image_id": "119179"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119179_7fc73149ce29bb09_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "119179"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119179_7fc73149ce29bb09_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "119179"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119179_7fc73149ce29bb09_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "119179"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056787",
+            "role_id": "35351537",
+            "person_name": "Julian Clarence Levi",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056787\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Bowl. glass. \nBequest of Julian Clarence Levi. 1972-5-1"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Bowl.\nglass. Bequest of Julian Clarence Levi. 1972-5-1."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

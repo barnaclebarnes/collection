@@ -1,87 +1,168 @@
 {
-    "id":"18444175",
-    "tms:id":"132570",
-    "accession_number":"1962-27-13",
-    "title":"Panel",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18444175\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35365403",
-    "type_id":"35237229",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424919",
-    "medium":"Medium: cotton and wool\nTechnique: warp-faced plain weave with discontinuous supplementary wefts; interlacing on weft-face plain weave on group warps; branching of grouped warps; sides intact; ends with warp selvage.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Anonymous Donor in memory of Alexander M. Bing",
-    "description":"Panel with tapestry borders made of narrow heavy cotton in a zigzag and checkered pattern of red, dark green, yellow and two shades of brown. Cords at two corners.",
-    "justification":null,
-    "type":{
-        "id":"35237229",
-        "name":"Panel"
+    "id": "18444175",
+    "tms:id": "132570",
+    "accession_number": "1962-27-13",
+    "title": "Panel (Peru), 1200 (crossed out and marked 'Wari Coast')",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18444175\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35365403",
+    "type_id": "35237229",
+    "date": "1200 (crossed out and marked 'Wari Coast')",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424919",
+    "medium": "Medium: cotton and wool\nTechnique: warp-faced plain weave with discontinuous supplementary wefts; interlacing on weft-face plain weave on group warps; branching of grouped warps; sides intact; ends with warp selvage.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 67 x 28 cm (26 3\/8 x 11 in.)",
+    "dimensions_raw": {
+        "height": [
+            "67.00",
+            "centimeters"
+        ],
+        "width": [
+            "28.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Anonymous Donor in memory of Alexander M. Bing",
+    "description": "Panel with tapestry borders made of narrow heavy cotton in a zigzag and checkered pattern of red, dark green, yellow and two shades of brown. Cords at two corners.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424919",
+    "type": "Panel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23209_fe393c1b23afb5bd_b.jpg",
-                "width":1024,
-                "height":485,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66107_712abac31f6c3364_b.jpg",
+                "width": 545,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "66107"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23209_fe393c1b23afb5bd_n.jpg",
-                "width":320,
-                "height":151,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66107_712abac31f6c3364_z.jpg",
+                "width": 340,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "66107"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23209_fe393c1b23afb5bd_z.jpg",
-                "width":640,
-                "height":303,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66107_712abac31f6c3364_n.jpg",
+                "width": 170,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66107"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66107_712abac31f6c3364_d.gif",
+                "width": 170,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66107"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66107_712abac31f6c3364_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66107"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23209_fe393c1b23afb5bd_b.jpg",
+                "width": 1024,
+                "height": 485,
+                "is_primary": "0",
+                "image_id": "23209"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23209_fe393c1b23afb5bd_z.jpg",
+                "width": 640,
+                "height": 303,
+                "is_primary": "0",
+                "image_id": "23209"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23209_fe393c1b23afb5bd_n.jpg",
+                "width": 320,
+                "height": 151,
+                "is_primary": "0",
+                "image_id": "23209"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23209_fe393c1b23afb5bd_d.gif",
+                "width": 320,
+                "height": 151,
+                "is_primary": "0",
+                "image_id": "23209"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23209_fe393c1b23afb5bd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "23209"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049335",
-            "role_id":"35351535",
-            "person_name":"Anonymous",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049335",
+            "role_id": "35351535",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Panel.\nMedium: cotton and wool\nTechnique: warp-faced plain weave with discontinuous supplementary wefts; interlacing on weft-face plain weave on group warps; branching of grouped warps; sides intact; ends with warp selvage.. Gift of Anonymous Donor in memory of Alexander M. Bing. 1962-27-13."
+    "tombstone": {
+        "epitaph": "Panel (Peru), 1200 (crossed out and marked 'Wari Coast'). Medium: cotton and wool\nTechnique: warp-faced plain weave with discontinuous supplementary wefts; interlacing on weft-face plain weave on group warps; branching of grouped warps; sides intact; ends with warp selvage.. \nGift of Anonymous Donor in memory of Alexander M. Bing. 1962-27-13"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cab38c",
-            "closest_css3":"#d2b48c"
+            "color": "#98875a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#8c6131",
-            "closest_css3":"#a0522d"
+            "color": "#b9ab84",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#6a1d18",
-            "closest_css3":"#800000"
+            "color": "#552f1d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#272117",
-            "closest_css3":"#000000"
+            "color": "#cecbbd",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#794423",
-            "closest_css3":"#8b4513"
+            "color": "#79633d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "Peru",
+    "is_loan_object": 0
 }

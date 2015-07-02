@@ -1,42 +1,140 @@
 {
-    "id":"18394413",
-    "tms:id":"107363",
-    "accession_number":"1953-110-12",
-    "title":"Trimming",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394413\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254635",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of the Misses Hernstadt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254635",
-        "name":"Trimming"
-    },
-    "images":[
-
+    "id": "18394413",
+    "tms:id": "107363",
+    "accession_number": "1953-110-12",
+    "title": "Trimming",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18394413\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254635",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of the Misses Hernstadt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Trimming",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72888_8ab13a5baf6d5cee_b.jpg",
+                "width": 249,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "72888"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72888_8ab13a5baf6d5cee_z.jpg",
+                "width": 156,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "72888"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72888_8ab13a5baf6d5cee_n.jpg",
+                "width": 78,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "72888"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72888_8ab13a5baf6d5cee_d.gif",
+                "width": 78,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "72888"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72888_8ab13a5baf6d5cee_sq.jpg",
+                "width": 249,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "72888"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72889_74703070f029fa9b_b.jpg",
+                "width": 510,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "72889"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72889_74703070f029fa9b_z.jpg",
+                "width": 318,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "72889"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72889_74703070f029fa9b_n.jpg",
+                "width": 159,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "72889"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72889_74703070f029fa9b_d.gif",
+                "width": 159,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "72889"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72889_74703070f029fa9b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "72889"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18054137",
+            "role_id": "35351535",
+            "person_name": "Misses Hernstadt",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054137\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Trimming.\nGift of the Misses Hernstadt. 1953-110-12."
+    "tombstone": {
+        "epitaph": "Trimming. \nGift of the Misses Hernstadt. 1953-110-12"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#5e5652",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#352b31",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

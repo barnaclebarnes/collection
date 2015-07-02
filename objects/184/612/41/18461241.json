@@ -1,49 +1,169 @@
 {
-    "id":"18461241",
-    "tms:id":"141225",
-    "accession_number":"1968-110-101",
-    "title":"Textile, 1910\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18461241\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1910\u201330",
-    "year_start":"1910",
-    "year_end":"1930",
-    "year_acquired":"1968",
-    "decade":"1910",
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. Germaine Little",
-    "description":"Vertical stripes of exotic plant forms and birds in bkack brown and blues.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18461241",
+    "tms:id": "141225",
+    "accession_number": "1968-110-101",
+    "title": "Textile (England), 1910\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18461241\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1910\u201330",
+    "year_start": 1910,
+    "year_end": 1930,
+    "year_acquired": "1968",
+    "decade": "1910",
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. Germaine Little",
+    "description": "Vertical stripes of exotic plant forms and birds in bkack brown and blues.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18046365",
-            "role_id":"35236681",
-            "person_name":"Arthur Sanderson & Sons, Ltd.",
-            "role_name":"Company",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046365\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106285_44cf84134b7e1840_b.jpg",
+                "width": 1024,
+                "height": 699,
+                "is_primary": "1",
+                "image_id": "106285"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106285_44cf84134b7e1840_z.jpg",
+                "width": 640,
+                "height": 437,
+                "is_primary": "1",
+                "image_id": "106285"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106285_44cf84134b7e1840_n.jpg",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "106285"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106285_44cf84134b7e1840_d.gif",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "106285"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106285_44cf84134b7e1840_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106285"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75164_c806af90cb03fa12_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "75164"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75164_c806af90cb03fa12_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "75164"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75164_c806af90cb03fa12_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "75164"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75164_c806af90cb03fa12_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "75164"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75164_c806af90cb03fa12_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "75164"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1910\u201330.\n1910\u201330. Medium: cotton\nTechnique: screen printed on plain weave. Gift of Mrs. Germaine Little. 1968-110-101."
+    "participants": [
+        {
+            "person_id": "18046365",
+            "role_id": "35236681",
+            "person_name": "Arthur Sanderson & Sons, Ltd.",
+            "person_date": "London, founded 1860",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), 1910\u201330. Medium: cotton\nTechnique: screen printed on plain weave. \nGift of Mrs. Germaine Little. 1968-110-101"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#423e36",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#546164",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#756347",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#927f57",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#d1c8ab",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

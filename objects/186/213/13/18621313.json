@@ -1,42 +1,106 @@
 {
-    "id":"18621313",
-    "tms:id":"185475",
-    "accession_number":"1986-61-205-a,b",
-    "title":"Caster And Cover",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621313\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35293269",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired Estate by WPW.",
-    "dimensions":"H x diam.: 12.5 x 5.8 cm (4 15\/16 x 2 5\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Inverted pyriform glass body cut with triple swags filled in with fine vertical flutes above that, tapering flutes interrupted by 2 prismatic rings. Pierced silverplated ogee cap with reeded trim. Circular silver plated foot.",
-    "justification":null,
-    "type":{
-        "id":"35293269",
-        "name":"Caster and cover"
+    "id": "18621313",
+    "tms:id": "185475",
+    "accession_number": "1986-61-205-a,b",
+    "title": "Caster And Cover",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621313\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35293269",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Acquired Estate by WPW.",
+    "dimensions": "H x diam.: 12.5 x 5.8 cm (4 15\/16 x 2 5\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "5.80",
+            "centimeters"
+        ],
+        "height": [
+            "12.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Inverted pyriform glass body cut with triple swags filled in with fine vertical flutes above that, tapering flutes interrupted by 2 prismatic rings. Pierced silverplated ogee cap with reeded trim. Circular silver plated foot.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Caster and cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113044_19e12e42a0531db7_b.jpg",
+                "width": 732,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113044"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113044_19e12e42a0531db7_z.jpg",
+                "width": 457,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113044"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113044_19e12e42a0531db7_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113044"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113044_19e12e42a0531db7_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113044"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113044_19e12e42a0531db7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113044"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Caster And Cover.\nglass. Bequest of Walter Phelps Warren. 1986-61-205-a,b."
+    "tombstone": {
+        "epitaph": "Caster And Cover. glass. \nBequest of Walter Phelps Warren. 1986-61-205-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#403c35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

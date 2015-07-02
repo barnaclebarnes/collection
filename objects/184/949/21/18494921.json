@@ -1,72 +1,176 @@
 {
-    "id":"18494921",
-    "tms:id":"158351",
-    "accession_number":"1978-146-267",
-    "title":"Matchsafe, \"Daniel Boone\", ca. 1890",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18494921\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431513",
-    "type_id":"35287419",
-    "date":"ca. 1890",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Patinated brass",
-    "markings":"No marks",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"7.2 x 4.1 x 1.1 cm (2 13\/16 x 1 5\/8 x 7\/16 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"In the shape of Daniel Boone's head in profile, with racoon hat, and banner draped across shoulder inscribed : \"[unidentified monogram], 29th NATL ENCPT, LOUISVILLE\" and below \"DANIEL BOONE\", some red patination on surface, identical on reverse. Hat serves as lid, hinged on side. Striker on bottom.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18494921",
+    "tms:id": "158351",
+    "accession_number": "1978-146-267",
+    "title": "Daniel Boone Matchsafe, ca. 1890",
+    "title_raw": "Daniel Boone",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18494921\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431513",
+    "type_id": "35287419",
+    "date": "ca. 1890",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Patinated brass",
+    "markings": "No marks",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "7.2 x 4.1 x 1.1 cm (2 13\/16 x 1 5\/8 x 7\/16 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.10",
+            "centimeters"
+        ],
+        "height": [
+            "7.20",
+            "centimeters"
+        ],
+        "width": [
+            "4.10",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "In the shape of Daniel Boone's head in profile, with racoon hat, and banner draped across shoulder inscribed : \"[unidentified monogram], 29th NATL ENCPT, LOUISVILLE\" and below \"DANIEL BOONE\", some red patination on surface, identical on reverse. Hat serves as lid, hinged on side. Striker on bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8588_77b5289657c9ceee_b.jpg",
-                "width":751,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98464_23f072da190d6d38_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "98464"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8588_77b5289657c9ceee_n.jpg",
-                "width":235,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98464_23f072da190d6d38_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "98464"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8588_77b5289657c9ceee_z.jpg",
-                "width":469,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98464_23f072da190d6d38_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "98464"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98464_23f072da190d6d38_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "98464"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98464_23f072da190d6d38_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "98464"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8588_77b5289657c9ceee_b.jpg",
+                "width": 751,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8588"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8588_77b5289657c9ceee_z.jpg",
+                "width": 469,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8588"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8588_77b5289657c9ceee_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8588"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8588_77b5289657c9ceee_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8588"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8588_77b5289657c9ceee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8588"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Daniel Boone\", ca. 1890.\nca. 1890. Patinated brass. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-267."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#6a5845",
-            "closest_css3":"#556b2f"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#49423e",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#907d69",
-            "closest_css3":"#808080"
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Daniel Boone Matchsafe, ca. 1890. Patinated brass. \nGift of Stephen W. Brener and Carol B. Brener. 1978-146-267"
+    },
+    "colors": [
+        {
+            "color": "#694a34",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#463c3a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#766556",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a09896",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

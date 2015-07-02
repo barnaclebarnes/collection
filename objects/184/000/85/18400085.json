@@ -1,80 +1,158 @@
 {
-    "id":"18400085",
-    "tms:id":"110217",
-    "accession_number":"1954-156-1",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18400085\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"121769",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1954",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: resist printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18400085",
+    "tms:id": "110217",
+    "accession_number": "1954-156-1",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18400085\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "121769",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1954",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: resist printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18255_ee519512c33ae6d6_b.jpg",
-                "width":639,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79952_0c196661acd962d1_b.jpg",
+                "width": 1024,
+                "height": 1019,
+                "is_primary": "1",
+                "image_id": "79952"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18255_ee519512c33ae6d6_n.jpg",
-                "width":200,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79952_0c196661acd962d1_z.jpg",
+                "width": 640,
+                "height": 637,
+                "is_primary": "1",
+                "image_id": "79952"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18255_ee519512c33ae6d6_z.jpg",
-                "width":399,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79952_0c196661acd962d1_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "79952"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79952_0c196661acd962d1_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "79952"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79952_0c196661acd962d1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "79952"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18255_ee519512c33ae6d6_b.jpg",
+                "width": 639,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "18255"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18255_ee519512c33ae6d6_z.jpg",
+                "width": 399,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "18255"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18255_ee519512c33ae6d6_n.jpg",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18255"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18255_ee519512c33ae6d6_d.gif",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18255"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18255_ee519512c33ae6d6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18255"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: resist printed. Museum purchase from Au Panier Fleuri Fund. 1954-156-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c17655",
-            "closest_css3":"#cd853f"
-        },
-        {
-            "color":"#e5d1d4",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#9c9195",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#b08f79",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#67423f",
-            "closest_css3":"#556b2f"
+            "person_id": "18538869",
+            "role_id": "35352249",
+            "person_name": "Henach G. Gelernt",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538869\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile. Technique: resist printed. \nMuseum purchase from Au Panier Fleuri Fund. 1954-156-1"
+    },
+    "colors": [
+        {
+            "color": "#3f403b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7b7455",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9d956d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#5f5e4d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#c0bcaa",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,72 +1,162 @@
 {
-    "id":"18112895",
-    "tms:id":"8547",
-    "accession_number":"1901-39-1978",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18112895\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18112895",
+    "tms:id": "8547",
+    "accession_number": "1901-39-1978",
+    "title": "Drawing, A genre scene, 1725\u201350",
+    "title_raw": "A genre scene",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18112895\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35462931",
+    "type_id": "35237093",
+    "date": "1725\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and black ink on laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Giovanni Piancastelli; 1901: acquired by Museum",
+    "dimensions": "17.9 x 14.5 cm (7 1\/16 x 5 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "17.90",
+            "centimeters"
+        ],
+        "width": [
+            "14.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Inside of a room; near the door sits an old man, to whom another offers a plate of food. At left, a picture hangs on the wall above what is a chimney piece or a table. Upon it is a dog and two pitchers. On verso: a part of a plan and written vertically, in ink: \u201csempre p..mi\u201d and \u201cAncona\u201d four times, and \u201cRoma\u201d twice.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/397_cac9796ad330faa1_b.jpg",
-                "width":1024,
-                "height":817,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91646_36504260993b71df_b.jpg",
+                "width": 1024,
+                "height": 821,
+                "is_primary": "1",
+                "image_id": "91646"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/397_cac9796ad330faa1_n.jpg",
-                "width":320,
-                "height":255,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91646_36504260993b71df_z.jpg",
+                "width": 640,
+                "height": 513,
+                "is_primary": "1",
+                "image_id": "91646"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/397_cac9796ad330faa1_z.jpg",
-                "width":640,
-                "height":511,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91646_36504260993b71df_n.jpg",
+                "width": 320,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "91646"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91646_36504260993b71df_d.gif",
+                "width": 320,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "91646"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91646_36504260993b71df_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91646"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/397_cac9796ad330faa1_b.jpg",
+                "width": 1024,
+                "height": 817,
+                "is_primary": "0",
+                "image_id": "397"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/397_cac9796ad330faa1_z.jpg",
+                "width": 640,
+                "height": 511,
+                "is_primary": "0",
+                "image_id": "397"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/397_cac9796ad330faa1_n.jpg",
+                "width": 320,
+                "height": 255,
+                "is_primary": "0",
+                "image_id": "397"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/397_cac9796ad330faa1_d.gif",
+                "width": 320,
+                "height": 255,
+                "is_primary": "0",
+                "image_id": "397"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/397_cac9796ad330faa1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "397"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of various donors. 1901-39-1978."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bd9b9d",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#896f6d",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#655458",
-            "closest_css3":"#696969"
+            "person_id": "18042631",
+            "role_id": "35236565",
+            "person_name": "Carlo Marchionni",
+            "person_date": "Italian, 1702\u20131786; active 1728\u20131778",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042631\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, A genre scene, 1725\u201350. Pen and black ink on laid paper. \nMuseum purchase through gift of various donors. 1901-39-1978"
+    },
+    "colors": [
+        {
+            "color": "#baa07b",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7a6249",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#4e3f35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9d7d5a",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

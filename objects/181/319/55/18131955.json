@@ -1,49 +1,374 @@
 {
-    "id":"18131955",
-    "tms:id":"11841",
-    "accession_number":"1902-1-634",
-    "title":"Fragment, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18131955\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371963",
-    "type_id":"35254623",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, linen\nTechnique: woven (brocatelle)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Antonio Viv\u00e8s y Escudero",
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Strapwork with checkerboard shield shapes and foliage in red, yellow and white.\nBoth selvages present.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18131955",
+    "tms:id": "11841",
+    "accession_number": "1902-1-634",
+    "title": "Fragment, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18131955\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371963",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, linen\nTechnique: woven (brocatelle)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Antonio Viv\u00e8s y Escudero",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Strapwork with checkerboard shield shapes and foliage in red, yellow and white. Both selvages present.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89454_a0367b96918c3ef5_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89454"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89454_a0367b96918c3ef5_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89454"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89454_a0367b96918c3ef5_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89454"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89454_a0367b96918c3ef5_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89454"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89454_a0367b96918c3ef5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89454"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68227_3e9f02a6f192909a_b.jpg",
+                "width": 1024,
+                "height": 698,
+                "is_primary": "0",
+                "image_id": "68227"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68227_3e9f02a6f192909a_z.jpg",
+                "width": 640,
+                "height": 436,
+                "is_primary": "0",
+                "image_id": "68227"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68227_3e9f02a6f192909a_n.jpg",
+                "width": 320,
+                "height": 218,
+                "is_primary": "0",
+                "image_id": "68227"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68227_3e9f02a6f192909a_d.gif",
+                "width": 320,
+                "height": 218,
+                "is_primary": "0",
+                "image_id": "68227"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68227_3e9f02a6f192909a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68227"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68228_97d3d8b93a18a308_b.jpg",
+                "width": 1024,
+                "height": 689,
+                "is_primary": "0",
+                "image_id": "68228"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68228_97d3d8b93a18a308_z.jpg",
+                "width": 640,
+                "height": 431,
+                "is_primary": "0",
+                "image_id": "68228"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68228_97d3d8b93a18a308_n.jpg",
+                "width": 320,
+                "height": 215,
+                "is_primary": "0",
+                "image_id": "68228"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68228_97d3d8b93a18a308_d.gif",
+                "width": 320,
+                "height": 215,
+                "is_primary": "0",
+                "image_id": "68228"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68228_97d3d8b93a18a308_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68228"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68229_08bbf301f62bf05b_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "68229"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68229_08bbf301f62bf05b_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "68229"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68229_08bbf301f62bf05b_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "68229"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68229_08bbf301f62bf05b_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "68229"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68229_08bbf301f62bf05b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68229"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68233_39abb37c44df9e92_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68233"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68233_39abb37c44df9e92_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68233"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68233_39abb37c44df9e92_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68233"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68233_39abb37c44df9e92_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68233"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68233_39abb37c44df9e92_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68233"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68230_b03b0c1865ff3d2e_b.jpg",
+                "width": 1024,
+                "height": 686,
+                "is_primary": "0",
+                "image_id": "68230"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68230_b03b0c1865ff3d2e_z.jpg",
+                "width": 640,
+                "height": 428,
+                "is_primary": "0",
+                "image_id": "68230"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68230_b03b0c1865ff3d2e_n.jpg",
+                "width": 320,
+                "height": 214,
+                "is_primary": "0",
+                "image_id": "68230"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68230_b03b0c1865ff3d2e_d.gif",
+                "width": 320,
+                "height": 214,
+                "is_primary": "0",
+                "image_id": "68230"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68230_b03b0c1865ff3d2e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68230"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68232_9d736f8b0ecbd5c2_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68232"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68232_9d736f8b0ecbd5c2_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68232"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68232_9d736f8b0ecbd5c2_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68232"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68232_9d736f8b0ecbd5c2_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68232"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68232_9d736f8b0ecbd5c2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68232"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68231_8ca31d42b270eb23_b.jpg",
+                "width": 1024,
+                "height": 681,
+                "is_primary": "0",
+                "image_id": "68231"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68231_8ca31d42b270eb23_z.jpg",
+                "width": 640,
+                "height": 426,
+                "is_primary": "0",
+                "image_id": "68231"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68231_8ca31d42b270eb23_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "68231"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68231_8ca31d42b270eb23_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "68231"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68231_8ca31d42b270eb23_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68231"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 17th century.\n17th century. Medium: silk, linen\nTechnique: woven (brocatelle). Gift of John Pierpont Morgan. 1902-1-634."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 17th century. Medium: silk, linen\nTechnique: woven (brocatelle). \nGift of John Pierpont Morgan. 1902-1-634"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#887b5e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#705f45",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#533d2f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a8a07f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "is_loan_object": 0
 }

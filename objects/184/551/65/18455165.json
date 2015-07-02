@@ -1,87 +1,139 @@
 {
-    "id":"18455165",
-    "tms:id":"138137",
-    "accession_number":"1967-20-38",
-    "title":"Textile, ca. 1870",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18455165\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":"ca. 1870",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1967",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: compound weave of satin and twill",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 120 x 54.4 cm (47 1\/4 x 21 7\/16 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18455165",
+    "tms:id": "138137",
+    "accession_number": "1967-20-38",
+    "title": "Textile (France), ca. 1870",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18455165\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "ca. 1870",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1967",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: compound weave of satin and twill",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 120 x 54.4 cm (47 1\/4 x 21 7\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "120.00",
+            "centimeters"
+        ],
+        "weft": [
+            "54.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18481_ce568d4ccd2b609d_b.jpg",
-                "width":498,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120077_f591d0691c0e8a32_b.jpg",
+                "width": 586,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "120077"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18481_ce568d4ccd2b609d_n.jpg",
-                "width":156,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120077_f591d0691c0e8a32_z.jpg",
+                "width": 366,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "120077"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18481_ce568d4ccd2b609d_z.jpg",
-                "width":311,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120077_f591d0691c0e8a32_n.jpg",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120077"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120077_f591d0691c0e8a32_d.gif",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120077"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120077_f591d0691c0e8a32_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120077"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18481_ce568d4ccd2b609d_b.jpg",
+                "width": 498,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "18481"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18481_ce568d4ccd2b609d_z.jpg",
+                "width": 311,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "18481"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18481_ce568d4ccd2b609d_n.jpg",
+                "width": 156,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18481"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18481_ce568d4ccd2b609d_d.gif",
+                "width": 156,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18481"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18481_ce568d4ccd2b609d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18481"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1870.\nca. 1870. Medium: silk\nTechnique: compound weave of satin and twill. Gift of Harvey Smith. 1967-20-38."
+    "tombstone": {
+        "epitaph": "Textile (France), ca. 1870. Medium: silk\nTechnique: compound weave of satin and twill. \nGift of Harvey Smith. 1967-20-38"
     },
-    "colors":[
-        {
-            "color":"#643232",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#b85958",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#c38e84",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#923f3f",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#82a7ab",
-            "closest_css3":"#8fbc8f"
-        }
-    ]
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

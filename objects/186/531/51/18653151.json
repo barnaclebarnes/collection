@@ -1,87 +1,178 @@
 {
-    "id":"18653151",
-    "tms:id":"201534",
-    "accession_number":"1996-18-114",
-    "title":"Plate, 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18653151\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35236833",
-    "date":"1920\u201340",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1996",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Glazed earthenware",
-    "markings":"On bottom of plate in black, a triangle containing a horizontal line with a rising perpendicular arrow all sumounting \"DEC. 56(?)\".",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"height 2.4, diameter 19.8 centimeters",
-    "creditline":"Gift of Victor Wiener",
-    "description":"Circular concave plate with raised bottom rim.  Speckled brown background with orange edge bordered on the interior by a line with sprouting abstract orange oval blossoms.  Centered design of a three-lobed bloom of brown, orange, and white (from left to right), outlined in orange with an orange stem.",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18653151",
+    "tms:id": "201534",
+    "accession_number": "1996-18-114",
+    "title": "Plate (Germany), 1920\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18653151\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35236833",
+    "date": "1920\u201340",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1996",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Glazed earthenware",
+    "markings": "On bottom of plate in black, a triangle containing a horizontal line with a rising perpendicular arrow all sumounting \"DEC. 56(?)\".",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "height 2.4, diameter 19.8 centimeters",
+    "dimensions_raw": {
+        "diameter": [
+            "19.80",
+            "centimeters"
+        ],
+        "height": [
+            "2.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Victor Wiener",
+    "description": "Circular concave plate with raised bottom rim.  Speckled brown background with orange edge bordered on the interior by a line with sprouting abstract orange oval blossoms.  Centered design of a three-lobed bloom of brown, orange, and white (from left to right), outlined in orange with an orange stem.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12975_24c664ea498127a6_b.jpg",
-                "width":1024,
-                "height":996,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110028_5ba62a69bfe2c246_b.jpg",
+                "width": 1024,
+                "height": 772,
+                "is_primary": "1",
+                "image_id": "110028"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12975_24c664ea498127a6_n.jpg",
-                "width":320,
-                "height":311,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110028_5ba62a69bfe2c246_z.jpg",
+                "width": 640,
+                "height": 483,
+                "is_primary": "1",
+                "image_id": "110028"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12975_24c664ea498127a6_z.jpg",
-                "width":640,
-                "height":623,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110028_5ba62a69bfe2c246_n.jpg",
+                "width": 320,
+                "height": 241,
+                "is_primary": "1",
+                "image_id": "110028"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110028_5ba62a69bfe2c246_d.gif",
+                "width": 320,
+                "height": 241,
+                "is_primary": "1",
+                "image_id": "110028"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110028_5ba62a69bfe2c246_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110028"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12975_24c664ea498127a6_b.jpg",
+                "width": 1024,
+                "height": 996,
+                "is_primary": "0",
+                "image_id": "12975"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12975_24c664ea498127a6_z.jpg",
+                "width": 640,
+                "height": 623,
+                "is_primary": "0",
+                "image_id": "12975"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12975_24c664ea498127a6_n.jpg",
+                "width": 320,
+                "height": 311,
+                "is_primary": "0",
+                "image_id": "12975"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12975_24c664ea498127a6_d.gif",
+                "width": 320,
+                "height": 311,
+                "is_primary": "0",
+                "image_id": "12975"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12975_24c664ea498127a6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12975"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049127",
-            "role_id":"35236657",
-            "person_name":"Carstens-Uffrecht",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049127\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041855",
+            "role_id": "35351535",
+            "person_name": "Victor Wiener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049127",
+            "role_id": "35236657",
+            "person_name": "Carstens-Uffrecht",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049127\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Plate, 1920\u201340.\n1920\u201340. Glazed earthenware. Gift of Victor Wiener. 1996-18-114."
+    "tombstone": {
+        "epitaph": "Plate (Germany), 1920\u201340. Glazed earthenware. \nGift of Victor Wiener. 1996-18-114"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a9c0dc",
-            "closest_css3":"#b0c4de"
+            "color": "#ceac7e",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#b5895f",
-            "closest_css3":"#cd853f"
+            "color": "#db7b46",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#d0edfd",
-            "closest_css3":"#e6e6fa"
+            "color": "#a79884",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#cec0b0",
-            "closest_css3":"#c0c0c0"
+            "color": "#94694c",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#a4360c",
-            "closest_css3":"#8b4513"
+            "color": "#b28663",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

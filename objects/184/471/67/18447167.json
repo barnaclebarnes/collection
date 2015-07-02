@@ -1,42 +1,141 @@
 {
-    "id":"18447167",
-    "tms:id":"134099",
-    "accession_number":"1963-39-1199",
-    "title":"Book Jacket",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18447167\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35249107",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1963",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249107",
-        "name":"book jacket"
+    "id": "18447167",
+    "tms:id": "134099",
+    "accession_number": "1963-39-1199",
+    "title": "Book Jacket, The Limits of Art, Edited by Huntington Cairns, ca. 1948",
+    "title_raw": "The Limits of Art, Edited by Huntington Cairns",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18447167\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35399021",
+    "type_id": "35249107",
+    "date": "ca. 1948",
+    "year_start": 1943,
+    "year_end": 1953,
+    "year_acquired": "1963",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Offset lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "23.4 x 54.5 cm (9 3\/16 x 21 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.40",
+            "centimeters"
+        ],
+        "width": [
+            "54.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "On a mustard yellow ground, black silhouette of chalice, on it is a green leaf, above this: an anthology. Upper margin, in black and white text: THE LIMITS OF ART; lower margin: poetry . prose . criticism EDITED BY \/ HUNTINGTON CAIRNS \/ BOLLINGEN SERIES XII. On spine: THE \/ LIMITS OF \/ ART \/ CAIRNS \/ BOLLINGEN SERIES \/ PANTHEON.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "book jacket",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66733_51c2c12f63248b55_b.jpg",
+                "width": 1024,
+                "height": 487,
+                "is_primary": "1",
+                "image_id": "66733"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66733_51c2c12f63248b55_z.jpg",
+                "width": 640,
+                "height": 304,
+                "is_primary": "1",
+                "image_id": "66733"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66733_51c2c12f63248b55_n.jpg",
+                "width": 320,
+                "height": 152,
+                "is_primary": "1",
+                "image_id": "66733"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66733_51c2c12f63248b55_d.gif",
+                "width": 320,
+                "height": 152,
+                "is_primary": "1",
+                "image_id": "66733"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66733_51c2c12f63248b55_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66733"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Book Jacket.\nGift of Mrs. E. McKnight Kauffer. 1963-39-1199."
+    "tombstone": {
+        "epitaph": "Book Jacket, The Limits of Art, Edited by Huntington Cairns, ca. 1948. Offset lithograph on paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-1199"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#cdaa42",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#c8c6b5",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#2c2725",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9e8d5e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#4b402c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

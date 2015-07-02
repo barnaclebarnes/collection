@@ -1,80 +1,139 @@
 {
-    "id":"18177907",
-    "tms:id":"19471",
-    "accession_number":"1913-13-3",
-    "title":"Textile, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18177907\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394323",
-    "type_id":"35251739",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1913",
-    "decade":null,
-    "woe:country":"23424848",
-    "medium":"Medium: silk, metallic thread\nTechnique: satin weave with supplementary weft",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 111.1 x 51.9 cm (43 3\/4 x 20 7\/16 in.)",
-    "creditline":"Gift of Leverton Harris",
-    "description":"Dark purple satin ground with closely-spaced serpentines of slender branches with large conventionalized flowers, fruit, and foliage brocaded in gold metallic thread.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18177907",
+    "tms:id": "19471",
+    "accession_number": "1913-13-3",
+    "title": "Textile (India), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18177907\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394323",
+    "type_id": "35251739",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1913",
+    "decade": null,
+    "woe:country_id": "23424848",
+    "medium": "Medium: silk, metallic thread\nTechnique: satin weave with supplementary weft",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 111.1 x 51.9 cm (43 3\/4 x 20 7\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "111.10",
+            "centimeters"
+        ],
+        "weft": [
+            "51.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Leverton Harris",
+    "description": "Dark purple satin ground with closely-spaced serpentines of slender branches with large conventionalized flowers, fruit, and foliage brocaded in gold metallic thread.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424848",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35390_20cf82132c8a1855_b.jpg",
-                "width":695,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115360_026b65a392391437_b.jpg",
+                "width": 510,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "115360"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35390_20cf82132c8a1855_n.jpg",
-                "width":217,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115360_026b65a392391437_z.jpg",
+                "width": 318,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115360"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35390_20cf82132c8a1855_z.jpg",
-                "width":434,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115360_026b65a392391437_n.jpg",
+                "width": 159,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115360"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115360_026b65a392391437_d.gif",
+                "width": 159,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115360"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115360_026b65a392391437_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115360"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35390_20cf82132c8a1855_b.jpg",
+                "width": 695,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "35390"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35390_20cf82132c8a1855_z.jpg",
+                "width": 434,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "35390"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35390_20cf82132c8a1855_n.jpg",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35390"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35390_20cf82132c8a1855_d.gif",
+                "width": 217,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35390"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35390_20cf82132c8a1855_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35390"
             }
         }
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18051357",
+            "role_id": "35351535",
+            "person_name": "Leverton Harris",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (India), 19th century. Medium: silk, metallic thread\nTechnique: satin weave with supplementary weft. \nGift of Leverton Harris. 1913-13-3"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Textile, 19th century.\n19th century. Medium: silk, metallic thread\nTechnique: satin weave with supplementary weft. Gift of Leverton Harris. 1913-13-3."
-    },
-    "colors":[
-        {
-            "color":"#494251",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#86827e",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#262a32",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#3d4645",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#b09b9d",
-            "closest_css3":"#a9a9a9"
-        }
-    ]
+    "woe:country_name": "India",
+    "is_loan_object": 0
 }

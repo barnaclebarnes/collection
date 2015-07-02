@@ -1,87 +1,252 @@
 {
-    "id":"18197091",
-    "tms:id":"22905",
-    "accession_number":"1917-4-331",
-    "title":"Drawing, \"The temple of Neptune and the so-called Basilica in Paestum, Italy\", 1868",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18197091\/",
-    "department_id":"35347493",
-    "period_id":"35417175",
-    "media_id":"35414977",
-    "type_id":"35237093",
-    "date":"1868",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1917",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Brush and oil, graphite on paperboard.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Gift of Louis P. Church",
-    "dimensions":"11.5 x 22.6 cm (4 1\/2 x 8 7\/8 in.)",
-    "creditline":"Gift of Louis P. Church",
-    "description":"The Temple of Neptune and the Basilica at Paestum, Italy, shown from the Northeast under a cloudy sky.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18197091",
+    "tms:id": "22905",
+    "accession_number": "1917-4-331",
+    "title": "Drawing, Paestum, Temple of Neptune, 1868",
+    "title_raw": "Paestum, Temple of Neptune",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18197091\/",
+    "department_id": "35347493",
+    "period_id": "35417175",
+    "media_id": "35414977",
+    "type_id": "35237093",
+    "date": "1868",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1917",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Brush and oil, graphite on paperboard.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Gift of Louis P. Church",
+    "dimensions": "11.5 x 22.6 cm (4 1\/2 x 8 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "11.50",
+            "centimeters"
+        ],
+        "width": [
+            "22.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Louis P. Church",
+    "description": "The Temple of Neptune and the Basilica at Paestum, Italy, shown from the Northeast under a cloudy sky.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1782_561f3305e8fc35b9_b.jpg",
-                "width":1024,
-                "height":518,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97115_70bc65bf89981698_b.jpg",
+                "width": 1024,
+                "height": 522,
+                "is_primary": "1",
+                "image_id": "97115"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1782_561f3305e8fc35b9_n.jpg",
-                "width":320,
-                "height":162,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97115_70bc65bf89981698_z.jpg",
+                "width": 640,
+                "height": 326,
+                "is_primary": "1",
+                "image_id": "97115"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1782_561f3305e8fc35b9_z.jpg",
-                "width":640,
-                "height":324,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97115_70bc65bf89981698_n.jpg",
+                "width": 320,
+                "height": 163,
+                "is_primary": "1",
+                "image_id": "97115"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97115_70bc65bf89981698_d.gif",
+                "width": 320,
+                "height": 163,
+                "is_primary": "1",
+                "image_id": "97115"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97115_70bc65bf89981698_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "97115"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116752_fe4f4f92ed45bb46_b.jpg",
+                "width": 1024,
+                "height": 556,
+                "is_primary": "0",
+                "image_id": "116752"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116752_fe4f4f92ed45bb46_z.jpg",
+                "width": 640,
+                "height": 347,
+                "is_primary": "0",
+                "image_id": "116752"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116752_fe4f4f92ed45bb46_n.jpg",
+                "width": 320,
+                "height": 174,
+                "is_primary": "0",
+                "image_id": "116752"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116752_fe4f4f92ed45bb46_d.gif",
+                "width": 320,
+                "height": 174,
+                "is_primary": "0",
+                "image_id": "116752"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116752_fe4f4f92ed45bb46_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "116752"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95399_538194bed27b32cd_b.jpg",
+                "width": 1024,
+                "height": 522,
+                "is_primary": "0",
+                "image_id": "95399"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95399_538194bed27b32cd_z.jpg",
+                "width": 640,
+                "height": 326,
+                "is_primary": "0",
+                "image_id": "95399"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95399_538194bed27b32cd_n.jpg",
+                "width": 320,
+                "height": 163,
+                "is_primary": "0",
+                "image_id": "95399"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95399_538194bed27b32cd_d.gif",
+                "width": 320,
+                "height": 163,
+                "is_primary": "0",
+                "image_id": "95399"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95399_538194bed27b32cd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95399"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1782_561f3305e8fc35b9_b.jpg",
+                "width": 1024,
+                "height": 518,
+                "is_primary": "0",
+                "image_id": "1782"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1782_561f3305e8fc35b9_z.jpg",
+                "width": 640,
+                "height": 324,
+                "is_primary": "0",
+                "image_id": "1782"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1782_561f3305e8fc35b9_n.jpg",
+                "width": 320,
+                "height": 162,
+                "is_primary": "0",
+                "image_id": "1782"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1782_561f3305e8fc35b9_d.gif",
+                "width": 320,
+                "height": 162,
+                "is_primary": "0",
+                "image_id": "1782"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1782_561f3305e8fc35b9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "1782"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041941",
-            "role_id":"35236565",
-            "person_name":"Frederic Edwin Church",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18051625",
+            "role_id": "35351535",
+            "person_name": "Louis P. Church",
+            "person_date": "American, 1870\u20131943",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"The temple of Neptune and the so-called Basilica in Paestum, Italy\", 1868.\n1868. Brush and oil, graphite on paperboard.. Gift of Louis P. Church. 1917-4-331."
+    "tombstone": {
+        "epitaph": "Drawing, Paestum, Temple of Neptune, 1868. Brush and oil, graphite on paperboard.. \nGift of Louis P. Church. 1917-4-331"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#aea2a0",
-            "closest_css3":"#a9a9a9"
+            "color": "#b9aa87",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#78644d",
-            "closest_css3":"#696969"
+            "color": "#8b7659",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#4f4b44",
-            "closest_css3":"#2f4f4f"
+            "color": "#765a3e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#322d32",
-            "closest_css3":"#2f4f4f"
+            "color": "#4f4033",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#877970",
-            "closest_css3":"#808080"
+            "color": "#726c37",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

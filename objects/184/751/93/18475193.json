@@ -1,57 +1,141 @@
 {
-    "id":"18475193",
-    "tms:id":"148359",
-    "accession_number":"1971-58-11",
-    "title":"Sidewall, 1890\u20131920",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18475193\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1890\u20131920",
-    "year_start":null,
-    "year_end":"1920",
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"54 x 49.5 cm (21 1\/4 x 19 1\/2 in.)",
-    "creditline":"Gift of Philadelphia Museum of Art",
-    "description":"Top portion of trellis panel: on light blue ground, pink wild roses and foliage on white trellis.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18475193",
+    "tms:id": "148359",
+    "accession_number": "1971-58-11",
+    "title": "Sidewall (USA), 1890\u20131920",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18475193\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1890\u20131920",
+    "year_start": null,
+    "year_end": 1920,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "54 x 49.5 cm (21 1\/4 x 19 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "54.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Philadelphia Museum of Art",
+    "description": "Top portion of trellis panel: on light blue ground, pink wild roses and foliage on white trellis.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "person_id":"18047493",
-            "role_id":"35351535",
-            "person_name":"Philadelphia Museum of Art",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047493\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
-        },
-        {
-            "person_id":"18046415",
-            "role_id":"35236685",
-            "person_name":"M.H. Birge & Sons Co.",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046415\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65265_3e12ddd03ac8bec4_b.jpg",
+                "width": 945,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "65265"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65265_3e12ddd03ac8bec4_z.jpg",
+                "width": 590,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "65265"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65265_3e12ddd03ac8bec4_n.jpg",
+                "width": 295,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65265"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65265_3e12ddd03ac8bec4_d.gif",
+                "width": 295,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65265"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65265_3e12ddd03ac8bec4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65265"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1890\u20131920.\n1890\u20131920. Machine-printed. Gift of Philadelphia Museum of Art. 1971-58-11."
+    "participants": [
+        {
+            "person_id": "18047493",
+            "role_id": "35351535",
+            "person_name": "Philadelphia Museum of Art",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047493\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046415",
+            "role_id": "35236685",
+            "person_name": "M.H. Birge & Sons Co.",
+            "person_date": "1834",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046415\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1890\u20131920. Machine-printed. \nGift of Philadelphia Museum of Art. 1971-58-11"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b0bcc8",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#69754a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#98a36b",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#d3dab3",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#c0a398",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

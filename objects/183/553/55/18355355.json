@@ -1,87 +1,159 @@
 {
-    "id":"18355355",
-    "tms:id":"61096",
-    "accession_number":"1938-82-64",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18355355\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"122779",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Technique: warp-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Anonymous bequest in memory of Albert and Rebecca Elsberg",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18355355",
+    "tms:id": "61096",
+    "accession_number": "1938-82-64",
+    "title": "Textile (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18355355\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "122779",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Technique: warp printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Anonymous bequest in memory of Albert and Rebecca Elsberg",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3715_e4bf2705e020f883_b.jpg",
-                "width":1024,
-                "height":656,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110244_8488ebdf6b8ea412_b.jpg",
+                "width": 1024,
+                "height": 538,
+                "is_primary": "1",
+                "image_id": "110244"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3715_e4bf2705e020f883_n.jpg",
-                "width":320,
-                "height":205,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110244_8488ebdf6b8ea412_z.jpg",
+                "width": 640,
+                "height": 336,
+                "is_primary": "1",
+                "image_id": "110244"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3715_e4bf2705e020f883_z.jpg",
-                "width":640,
-                "height":410,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110244_8488ebdf6b8ea412_n.jpg",
+                "width": 320,
+                "height": 168,
+                "is_primary": "1",
+                "image_id": "110244"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110244_8488ebdf6b8ea412_d.gif",
+                "width": 320,
+                "height": 168,
+                "is_primary": "1",
+                "image_id": "110244"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110244_8488ebdf6b8ea412_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110244"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3715_e4bf2705e020f883_b.jpg",
+                "width": 1024,
+                "height": 656,
+                "is_primary": "0",
+                "image_id": "3715"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3715_e4bf2705e020f883_z.jpg",
+                "width": 640,
+                "height": 410,
+                "is_primary": "0",
+                "image_id": "3715"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3715_e4bf2705e020f883_n.jpg",
+                "width": 320,
+                "height": 205,
+                "is_primary": "0",
+                "image_id": "3715"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3715_e4bf2705e020f883_d.gif",
+                "width": 320,
+                "height": 205,
+                "is_primary": "0",
+                "image_id": "3715"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3715_e4bf2705e020f883_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3715"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049335",
-            "role_id":"35351537",
-            "person_name":"Anonymous",
-            "role_name":"Bequestor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+            "person_id": "18049335",
+            "role_id": "35351537",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: warp-printed. Anonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-64."
+    "tombstone": {
+        "epitaph": "Textile (France). Technique: warp printed. \nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-64"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a09db1",
-            "closest_css3":"#a9a9a9"
+            "color": "#e1e1cf",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#d2c7da",
-            "closest_css3":"#d8bfd8"
+            "color": "#dab089",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
         },
         {
-            "color":"#797886",
-            "closest_css3":"#808080"
+            "color": "#dda4af",
+            "closest_crayola": "#ef98aa",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#9d7c9b",
-            "closest_css3":"#bc8f8f"
+            "color": "#eddfa7",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
         },
         {
-            "color":"#8f5e5b",
-            "closest_css3":"#696969"
+            "color": "#959574",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

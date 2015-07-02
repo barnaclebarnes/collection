@@ -1,49 +1,122 @@
 {
-    "id":"18359321",
-    "tms:id":"63090",
-    "accession_number":"1938-88-2671",
-    "title":"Drawing, \"Panel of Ornament with Grotesque Heads\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18359321\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35375379",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and light brown ink, light gray-brown wash on laid paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Inscribed in pen and brown ink on verso: sforeta(?) scudi 3",
-    "provenance":"Giovanni Piancastelli; Mr. and Mrs. Edward D. Brandegee",
-    "dimensions":"28.6 x 41.1 cm (11 1\/4 x 16 3\/16 in.)\nMat:  40.6 x 55.9 cm (16 x 22 in.)",
-    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
-    "description":"Motifs of grotesque decoration include foliate-botto genius",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18359321",
+    "tms:id": "63090",
+    "accession_number": "1938-88-2671",
+    "title": "Drawing, Panel of Ornament with Grotesque Heads",
+    "title_raw": "Panel of Ornament with Grotesque Heads",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18359321\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "35375379",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and light brown ink, light gray-brown wash on laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in pen and brown ink on verso: sforeta(?) scudi 3",
+    "provenance": "Giovanni Piancastelli; Mr. and Mrs. Edward D. Brandegee",
+    "dimensions": "28.6 x 41.1 cm (11 1\/4 x 16 3\/16 in.)\nMat:  40.6 x 55.9 cm (16 x 22 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.60",
+            "centimeters"
+        ],
+        "width": [
+            "41.10",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description": "Motifs of grotesque decoration include foliate-botto genius",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18042405",
-            "role_id":"35236655",
-            "person_name":"Felice Giani",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042405\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121453_28a2b58c96cc61eb_b.jpg",
+                "width": 1024,
+                "height": 727,
+                "is_primary": "1",
+                "image_id": "121453"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121453_28a2b58c96cc61eb_z.jpg",
+                "width": 640,
+                "height": 454,
+                "is_primary": "1",
+                "image_id": "121453"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121453_28a2b58c96cc61eb_n.jpg",
+                "width": 320,
+                "height": 227,
+                "is_primary": "1",
+                "image_id": "121453"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121453_28a2b58c96cc61eb_d.gif",
+                "width": 320,
+                "height": 227,
+                "is_primary": "1",
+                "image_id": "121453"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121453_28a2b58c96cc61eb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "121453"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Panel of Ornament with Grotesque Heads\".\nPen and light brown ink, light gray-brown wash on laid paper. Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-2671."
+    "participants": [
+        {
+            "person_id": "18049797",
+            "role_id": "35352249",
+            "person_name": "Mrs. Edward D. Brandegee",
+            "person_date": "American, 1871\u20131956",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049797\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18047901",
+            "role_id": "35352245",
+            "person_name": "Allison Cross",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047901\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18042405",
+            "role_id": "35236655",
+            "person_name": "Felice Giani",
+            "person_date": "Italian, 1758\u20131823",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042405\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Panel of Ornament with Grotesque Heads. Pen and light brown ink, light gray-brown wash on laid paper. \nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-2671"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

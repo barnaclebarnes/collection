@@ -1,87 +1,159 @@
 {
-    "id":"18130611",
-    "tms:id":"11448",
-    "accession_number":"1902-1-29",
-    "title":"Medallion, 6th\u20137th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18130611\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35366907",
-    "type_id":"35249475",
-    "date":"6th\u20137th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":"23424802",
-    "medium":"Medium: Warp; S-spun two ply Z-twist linen. Wefts; S-spun linen, S-spun wools.\nTechnique: slit tapestry with supplementary wrapping.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249475",
-        "name":"medallion"
-    },
-    "images":[
+    "id": "18130611",
+    "tms:id": "11448",
+    "accession_number": "1902-1-29",
+    "title": "Medallion (Egypt), 6th\u20137th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18130611\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35366907",
+    "type_id": "35249475",
+    "date": "6th\u20137th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": "23424802",
+    "medium": "Medium: Warp; S-spun two ply Z-twist linen. Wefts; S-spun linen, S-spun wools.\nTechnique: slit tapestry with supplementary wrapping.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424802",
+    "type": "medallion",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17330_7af6599363593271_b.jpg",
-                "width":1024,
-                "height":928,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99148_c02449d2a3763871_b.jpg",
+                "width": 1024,
+                "height": 969,
+                "is_primary": "1",
+                "image_id": "99148"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17330_7af6599363593271_n.jpg",
-                "width":320,
-                "height":290,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99148_c02449d2a3763871_z.jpg",
+                "width": 640,
+                "height": 605,
+                "is_primary": "1",
+                "image_id": "99148"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17330_7af6599363593271_z.jpg",
-                "width":640,
-                "height":580,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99148_c02449d2a3763871_n.jpg",
+                "width": 320,
+                "height": 303,
+                "is_primary": "1",
+                "image_id": "99148"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99148_c02449d2a3763871_d.gif",
+                "width": 320,
+                "height": 303,
+                "is_primary": "1",
+                "image_id": "99148"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99148_c02449d2a3763871_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99148"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17330_7af6599363593271_b.jpg",
+                "width": 1024,
+                "height": 928,
+                "is_primary": "0",
+                "image_id": "17330"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17330_7af6599363593271_z.jpg",
+                "width": 640,
+                "height": 580,
+                "is_primary": "0",
+                "image_id": "17330"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17330_7af6599363593271_n.jpg",
+                "width": 320,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "17330"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17330_7af6599363593271_d.gif",
+                "width": 320,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "17330"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17330_7af6599363593271_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17330"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Medallion, 6th\u20137th century.\n6th\u20137th century. Medium: Warp; S-spun two ply Z-twist linen. Wefts; S-spun linen, S-spun wools.\nTechnique: slit tapestry with supplementary wrapping.. Gift of John Pierpont Morgan. 1902-1-29."
+    "tombstone": {
+        "epitaph": "Medallion (Egypt), 6th\u20137th century. Medium: Warp; S-spun two ply Z-twist linen. Wefts; S-spun linen, S-spun wools.\nTechnique: slit tapestry with supplementary wrapping.. \nGift of John Pierpont Morgan. 1902-1-29"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cebea5",
-            "closest_css3":"#d2b48c"
+            "color": "#8e673b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#671813",
-            "closest_css3":"#800000"
+            "color": "#ddcba8",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
         },
         {
-            "color":"#9f6a38",
-            "closest_css3":"#a0522d"
+            "color": "#5b2821",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#7a511d",
-            "closest_css3":"#8b4513"
+            "color": "#c3955d",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#b58959",
-            "closest_css3":"#cd853f"
+            "color": "#5c3d27",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "Egypt",
+    "is_loan_object": 0
 }

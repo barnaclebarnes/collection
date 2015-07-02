@@ -1,64 +1,170 @@
 {
-    "id":"18495933",
-    "tms:id":"158857",
-    "accession_number":"1978-146-722",
-    "title":"Matchsafe, \"Female Golfer\", ca. 1895",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18495933\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389463",
-    "type_id":"35287419",
-    "date":"ca. 1895",
-    "year_start":null,
-    "year_end":"1905",
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Silver",
-    "markings":"STERLING stamped on bezel.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"7 x 4.2 x 1.1 cm (2 3\/4 x 1 5\/8 x 7\/16 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"Oblong, with curves and counter-curves around perimeter, featuring raised decoration of female golfer in hat and long dress at tee, on grass course, with building and hills in background, c and s-scroll edges and flower at top center of lid. Lid hinged at side. Striker at bottom.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18495933",
+    "tms:id": "158857",
+    "accession_number": "1978-146-722",
+    "title": "Female Golfer Matchsafe, ca. 1895",
+    "title_raw": "Female Golfer",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18495933\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35287419",
+    "date": "ca. 1895",
+    "year_start": null,
+    "year_end": 1905,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Silver",
+    "markings": "STERLING stamped on bezel.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "7 x 4.2 x 1.1 cm (2 3\/4 x 1 5\/8 x 7\/16 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.10",
+            "centimeters"
+        ],
+        "height": [
+            "7.00",
+            "centimeters"
+        ],
+        "width": [
+            "4.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "Oblong, with curves and counter-curves around perimeter, featuring raised decoration of female golfer in hat and long dress at tee, on grass course, with building and hills in background, c and s-scroll edges and flower at top center of lid. Lid hinged at side. Striker at bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8230_b280335c33bb1194_b.jpg",
-                "width":746,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104206_45f1ad4da359bd1d_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "104206"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8230_b280335c33bb1194_n.jpg",
-                "width":233,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104206_45f1ad4da359bd1d_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "104206"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8230_b280335c33bb1194_z.jpg",
-                "width":466,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104206_45f1ad4da359bd1d_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "104206"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104206_45f1ad4da359bd1d_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "104206"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104206_45f1ad4da359bd1d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104206"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8230_b280335c33bb1194_b.jpg",
+                "width": 746,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8230"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8230_b280335c33bb1194_z.jpg",
+                "width": 466,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8230"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8230_b280335c33bb1194_n.jpg",
+                "width": 233,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8230"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8230_b280335c33bb1194_d.gif",
+                "width": 233,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8230"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8230_b280335c33bb1194_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8230"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Female Golfer\", ca. 1895.\nca. 1895. Silver. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-722."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#ffffff",
-            "closest_css3":"#ffffff"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Female Golfer Matchsafe, ca. 1895. Silver. \nGift of Stephen W. Brener and Carol B. Brener. 1978-146-722"
+    },
+    "colors": [
+        {
+            "color": "#706966",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#4b423e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#8e8681",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

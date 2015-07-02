@@ -1,103 +1,161 @@
 {
-    "id":"18399977",
-    "tms:id":"110163",
-    "accession_number":"1954-147-4",
-    "title":"Scenic Panel, \"The War of Independence\", 1852\u201353",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18399977\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35406975",
-    "type_id":"35287555",
-    "date":"1852\u201353",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1954",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed, canvas mount",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"177.5 x 90.5 cm (69 7\/8 x 35 5\/8 in.)",
-    "creditline":"Gift of A.L. Diament and Company",
-    "description":"The background of \"Scenic America\" is used for scenes of the American Revolution. At the left, background, is seen the natural bridge, Virginia; in foreground, British troups are retreating, firing as they do so. Strip 25 and 26 from a set of 32.",
-    "justification":null,
-    "type":{
-        "id":"35287555",
-        "name":"Scenic panel"
+    "id": "18399977",
+    "tms:id": "110163",
+    "accession_number": "1954-147-4",
+    "title": "Scenic Panel, The War of Independence, 1852\u201353",
+    "title_raw": "The War of Independence",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18399977\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35406975",
+    "type_id": "35287555",
+    "date": "1852\u201353",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1954",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed, canvas mount",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "177.5 x 90.5 cm (69 7\/8 x 35 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "177.50",
+            "centimeters"
+        ],
+        "width": [
+            "90.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of A.L. Diament and Company",
+    "description": "The background of \"Scenic America\" is used for scenes of the American Revolution. At the left, background, is seen the natural bridge, Virginia; in foreground, British troups are retreating, firing as they do so. Strip 25 and 26 from a set of 32.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Scenic panel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5416_e6d883e07c0023c1_b.jpg",
-                "width":694,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5416_e6d883e07c0023c1_b.jpg",
+                "width": 694,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "5416"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5416_e6d883e07c0023c1_n.jpg",
-                "width":217,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5416_e6d883e07c0023c1_z.jpg",
+                "width": 434,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "5416"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5416_e6d883e07c0023c1_z.jpg",
-                "width":434,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5416_e6d883e07c0023c1_n.jpg",
+                "width": 217,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "5416"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5416_e6d883e07c0023c1_d.gif",
+                "width": 217,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "5416"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5416_e6d883e07c0023c1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "5416"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046503",
-            "role_id":"35351535",
-            "person_name":"Diament & Co., A.L.",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046503\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046503",
+            "role_id": "35351535",
+            "person_name": "Diament & Co., A.L.",
+            "person_date": "1885",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046503\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046447",
-            "role_id":"35236565",
-            "person_name":"Jean-Julien Deltil",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046447\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18047829",
+            "role_id": "35352245",
+            "person_name": "Horace L. Hotchkiss, Jr.",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047829\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18043983",
-            "role_id":"35236657",
-            "person_name":"Zuber & Cie",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043983\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18046447",
+            "role_id": "35236565",
+            "person_name": "Jean-Julien Deltil",
+            "person_date": "1791 \u2013 1863",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046447\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18043983",
+            "role_id": "35236657",
+            "person_name": "Zuber & Cie",
+            "person_date": "Rixheim, France, founded 1790",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043983\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Scenic Panel, \"The War of Independence\", 1852\u201353.\n1852\u201353. Block-printed, canvas mount. Gift of A.L. Diament and Company. 1954-147-4."
+    "tombstone": {
+        "epitaph": "Scenic Panel, The War of Independence, 1852\u201353. Block-printed, canvas mount. \nGift of A.L. Diament and Company. 1954-147-4"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#484c49",
-            "closest_css3":"#2f4f4f"
+            "color": "#5b615d",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#70777c",
-            "closest_css3":"#808080"
+            "color": "#2d3237",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#d8f1f2",
-            "closest_css3":"#e6e6fa"
+            "color": "#808a83",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#7d9799",
-            "closest_css3":"#778899"
+            "color": "#3e302f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#2b0d11",
-            "closest_css3":"#000000"
+            "color": "#bfd5db",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#add8e6",
+            "closest_css4": "#add8e6"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

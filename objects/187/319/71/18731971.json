@@ -1,79 +1,164 @@
 {
-    "id":"18731971",
-    "tms:id":"242086",
-    "accession_number":"2009-18-51",
-    "title":"Cordial Glass, \"No. 176\", ca. 1880",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731971\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51588545",
-    "type_id":"35291071",
-    "date":"ca. 1880",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"2009",
-    "decade":null,
-    "woe:country":"23424750",
-    "medium":"Mouth-blown crystal, hand-cut and polished",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 11.3 x 5.1 cm (4 7\/16 x 2 in.)",
-    "creditline":"Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
-    "description":"Mouth-blown crystal, hand-cut and polished",
-    "justification":null,
-    "type":{
-        "id":"35291071",
-        "name":"Cordial glass"
+    "id": "18731971",
+    "tms:id": "242086",
+    "accession_number": "2009-18-51",
+    "title": "No. 176 Cordial Glass, ca. 1880",
+    "title_raw": "No. 176",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18731971\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51588539",
+    "type_id": "35291071",
+    "date": "ca. 1880",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2009",
+    "decade": null,
+    "woe:country_id": "23424750",
+    "medium": "Mouth-blown crystal, hand-cut and polished",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 11.3 x 5.1 cm (4 7\/16 x 2 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "5.10",
+            "centimeters"
+        ],
+        "height": [
+            "11.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
+    "description": "Mouth-blown crystal, hand-cut and polished",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Cordial glass",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30706_60da318f4c824188_b.jpg",
-                "width":528,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30706_60da318f4c824188_b.jpg",
+                "width": 528,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "30706"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30706_60da318f4c824188_n.jpg",
-                "width":165,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30706_60da318f4c824188_z.jpg",
+                "width": 330,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "30706"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/30706_60da318f4c824188_z.jpg",
-                "width":330,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30706_60da318f4c824188_n.jpg",
+                "width": 165,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "30706"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30706_60da318f4c824188_d.gif",
+                "width": 165,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "30706"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/30706_60da318f4c824188_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "30706"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120778_fcebc17d5593b76f_b.jpg",
+                "width": 698,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120778"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120778_fcebc17d5593b76f_z.jpg",
+                "width": 436,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120778"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120778_fcebc17d5593b76f_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120778"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120778_fcebc17d5593b76f_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120778"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120778_fcebc17d5593b76f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120778"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18061841",
-            "role_id":"35236657",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18061841",
+            "role_id": "35236657",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18061841",
-            "role_id":"51571131",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Lender",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+            "person_id": "18062617",
+            "role_id": "35236655",
+            "person_name": "Ludwig Lobmeyr",
+            "person_date": "Austrian, 1829 - 1917",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062617\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061841",
+            "role_id": "51571131",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Cordial Glass, \"No. 176\", ca. 1880.\nca. 1880. Mouth-blown crystal, hand-cut and polished. Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-51."
+    "tombstone": {
+        "epitaph": "No. 176 Cordial Glass, ca. 1880. Mouth-blown crystal, hand-cut and polished. \nMuseum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-51"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b9b9b5",
-            "closest_css3":"#c0c0c0"
+            "color": "#000000",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         }
-    ]
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

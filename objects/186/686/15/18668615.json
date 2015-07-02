@@ -1,76 +1,166 @@
 {
-    "id":"18668615",
-    "tms:id":"209717",
-    "accession_number":"1995-50-244",
-    "title":"Textile, 1775\u201385",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18668615\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1775\u201385",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: block printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 59 cm (23 1\/4 in.)\nWeft: 88 cm (34 5\/8 in.) Edges cut.\nHeight of full repeat: 24 cm (9 1\/2 in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Polychrome of small motifs \u2013 animals, birds, butterflies, people and flowers \u2013 on a picotage ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18668615",
+    "tms:id": "209717",
+    "accession_number": "1995-50-244",
+    "title": "Textile (France), 1775\u201385",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18668615\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1775\u201385",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: block printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 59 x 88 cm (23 1\/4 x 34 5\/8 in.)\nRepeat H: 24 cm (9 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "24.00",
+            "centimeters"
+        ],
+        "warp": [
+            "59.00",
+            "centimeters"
+        ],
+        "weft": [
+            "88.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Polychrome of small motifs \u2013 animals, birds, butterflies, people and flowers \u2013 on a picotage ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29027_27171d358fa3d398_b.jpg",
-                "width":1024,
-                "height":682,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107430_2e0593598f54b303_b.jpg",
+                "width": 1024,
+                "height": 725,
+                "is_primary": "1",
+                "image_id": "107430"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29027_27171d358fa3d398_n.jpg",
-                "width":320,
-                "height":213,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107430_2e0593598f54b303_z.jpg",
+                "width": 640,
+                "height": 453,
+                "is_primary": "1",
+                "image_id": "107430"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29027_27171d358fa3d398_z.jpg",
-                "width":640,
-                "height":426,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107430_2e0593598f54b303_n.jpg",
+                "width": 320,
+                "height": 227,
+                "is_primary": "1",
+                "image_id": "107430"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107430_2e0593598f54b303_d.gif",
+                "width": 320,
+                "height": 227,
+                "is_primary": "1",
+                "image_id": "107430"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107430_2e0593598f54b303_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107430"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29027_27171d358fa3d398_b.jpg",
+                "width": 1024,
+                "height": 682,
+                "is_primary": "0",
+                "image_id": "29027"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29027_27171d358fa3d398_z.jpg",
+                "width": 640,
+                "height": 426,
+                "is_primary": "0",
+                "image_id": "29027"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29027_27171d358fa3d398_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "29027"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29027_27171d358fa3d398_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "29027"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29027_27171d358fa3d398_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29027"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1775\u201385.\n1775\u201385. Medium: cotton\nTechnique: block printed on plain weave. Bequest of Elinor Merrell. 1995-50-244."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c5a08e",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#9e674d",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#c77f78",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#9f3e42",
-            "closest_css3":"#a0522d"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), 1775\u201385. Medium: cotton\nTechnique: block printed on plain weave. \nBequest of Elinor Merrell. 1995-50-244"
+    },
+    "colors": [
+        {
+            "color": "#968168",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a57a70",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#955657",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#7c6650",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

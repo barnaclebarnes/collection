@@ -1,42 +1,115 @@
 {
-    "id":"18474439",
-    "tms:id":"147980",
-    "accession_number":"1971-50-311",
-    "title":"Border",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474439\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"130341",
-    "type_id":"35237285",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: \nTechnique: grid of laid cords with needle lace, reticella style; edge of punto in aria",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
-    },
-    "images":[
-
+    "id": "18474439",
+    "tms:id": "147980",
+    "accession_number": "1971-50-311",
+    "title": "Border",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474439\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "130341",
+    "type_id": "35237285",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: \nTechnique: grid of laid cords with needle lace, reticella style; edge of punto in aria",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75936_deb5d32d117dddd5_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "1",
+                "image_id": "75936"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75936_deb5d32d117dddd5_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "1",
+                "image_id": "75936"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75936_deb5d32d117dddd5_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "75936"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75936_deb5d32d117dddd5_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "75936"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75936_deb5d32d117dddd5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75936"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Border.\nMedium: \nTechnique: grid of laid cords with needle lace, reticella style; edge of punto in aria. Bequest of Marian Hague. 1971-50-311."
+    "tombstone": {
+        "epitaph": "Border. Medium: \nTechnique: grid of laid cords with needle lace, reticella style; edge of punto in aria. \nBequest of Marian Hague. 1971-50-311"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#333135",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#28181c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#756e71",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#575053",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

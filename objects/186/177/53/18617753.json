@@ -1,49 +1,119 @@
 {
-    "id":"18617753",
-    "tms:id":"177409",
-    "accession_number":"1981-29-321",
-    "title":"Poster, \"The Spark of Success\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617753\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 57.8 x 33.5 cm (22 3\/4 x 13 3\/16 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617753",
+    "tms:id": "177409",
+    "accession_number": "1981-29-321",
+    "title": "Poster, The Spark of Success, 1978\u201388",
+    "title_raw": "The Spark of Success",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617753\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1978\u201388",
+    "year_start": 1978,
+    "year_end": 1988,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "57.8 x 33.5 cm (22 3\/4 x 13 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "57.80",
+            "centimeters"
+        ],
+        "width": [
+            "33.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Image of a metal spark plug with a spark at the bottom. Red text on left describing how to apply to TGI Friday\u2019s. Lower section featuring a red and silver checkered floor.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18056981",
-            "role_id":"35236655",
-            "person_name":"Woody Ritle",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056981\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88921_280f2ff2aad8426b_b.jpg",
+                "width": 596,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "88921"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88921_280f2ff2aad8426b_z.jpg",
+                "width": 372,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "88921"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88921_280f2ff2aad8426b_n.jpg",
+                "width": 186,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88921"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88921_280f2ff2aad8426b_d.gif",
+                "width": 186,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88921"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88921_280f2ff2aad8426b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88921"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"The Spark of Success\".\nOverall: 57.8 x 33.5 cm (22 3\/4 x 13 3\/16 in.). Gift of Various Donors. 1981-29-321."
+    "participants": [
+        {
+            "person_id": "18042325",
+            "role_id": "35236655",
+            "person_name": "Woody Pirtle",
+            "person_date": "b. 1945",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, The Spark of Success, 1978\u201388. Lithograph on paper. \nGift of Various Donors. 1981-29-321"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#7c3c26",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#c5af4a",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#897c6d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

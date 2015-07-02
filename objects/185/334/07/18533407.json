@@ -1,80 +1,175 @@
 {
-    "id":"18533407",
-    "tms:id":"178777",
-    "accession_number":"1982-23-1189",
-    "title":"Matchsafe, \"Scallop Shell\", late 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18533407\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389405",
-    "type_id":"35287419",
-    "date":"late 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1982",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Brass",
-    "markings":"No marks",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"4.8 x 5.3 x 1.6 cm (1 7\/8 x 2 1\/16 x 5\/8 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"In the shape of a scallop shell, narrower end flips open, hinged on back. Link attached to side. Striker incised in back.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18533407",
+    "tms:id": "178777",
+    "accession_number": "1982-23-1189",
+    "title": "Scallop Shell Matchsafe, late 19th century",
+    "title_raw": "Scallop Shell",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18533407\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389405",
+    "type_id": "35287419",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Brass",
+    "markings": "No marks",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "4.8 x 5.3 x 1.6 cm (1 7\/8 x 2 1\/16 x 5\/8 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.60",
+            "centimeters"
+        ],
+        "height": [
+            "4.80",
+            "centimeters"
+        ],
+        "width": [
+            "5.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "In the shape of a scallop shell, narrower end flips open, hinged on back. Link attached to side. Striker incised in back.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9718_ba1b44bd75ff57ce_b.jpg",
-                "width":1024,
-                "height":928,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96341_a6b4a2e455ca22ba_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "96341"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9718_ba1b44bd75ff57ce_n.jpg",
-                "width":320,
-                "height":290,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96341_a6b4a2e455ca22ba_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "96341"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9718_ba1b44bd75ff57ce_z.jpg",
-                "width":640,
-                "height":580,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96341_a6b4a2e455ca22ba_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "96341"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96341_a6b4a2e455ca22ba_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "96341"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96341_a6b4a2e455ca22ba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "96341"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9718_ba1b44bd75ff57ce_b.jpg",
+                "width": 1024,
+                "height": 928,
+                "is_primary": "0",
+                "image_id": "9718"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9718_ba1b44bd75ff57ce_z.jpg",
+                "width": 640,
+                "height": 580,
+                "is_primary": "0",
+                "image_id": "9718"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9718_ba1b44bd75ff57ce_n.jpg",
+                "width": 320,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "9718"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9718_ba1b44bd75ff57ce_d.gif",
+                "width": 320,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "9718"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9718_ba1b44bd75ff57ce_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9718"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Scallop Shell\", late 19th century.\nlate 19th century. Brass. Gift of Stephen W. Brener and Carol B. Brener. 1982-23-1189."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#6b6356",
-            "closest_css3":"#696969"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#917e5c",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#3b302f",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#baa786",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#ebd0a7",
-            "closest_css3":"#f5deb3"
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Scallop Shell Matchsafe, late 19th century. Brass. \nGift of Stephen W. Brener and Carol B. Brener. 1982-23-1189"
+    },
+    "colors": [
+        {
+            "color": "#8e734b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#674f31",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#cdb085",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#f3e3af",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        }
+    ],
+    "is_loan_object": 0
 }

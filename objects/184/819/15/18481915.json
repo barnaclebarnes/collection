@@ -1,87 +1,188 @@
 {
-    "id":"18481915",
-    "tms:id":"151814",
-    "accession_number":"1973-51-95",
-    "title":"Textile, 1775\u20131785",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481915\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1775\u20131785",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1973",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: block-printed, with yellow and blue applied by brush, on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Martin scrapbook",
-    "dimensions":"H x W (two pieces stitched together): 66 x 57.2 cm (26 in. x 22 1\/2 in.)\nRepeat H (half-drop): 43.2 cm (17 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"Gnarled branch with strange, exotic fruits, leaves, flowers and birds in multiple colors on a white ground. The background is covered with 'rice grains' in red picotage.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18481915",
+    "tms:id": "151814",
+    "accession_number": "1973-51-95",
+    "title": "Textile (France), 1775\u201385",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18481915\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1775\u201385",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1973",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: block-printed, with yellow and blue applied by brush, on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Martin scrapbook",
+    "dimensions": "H x W (two pieces stitched together): 66 x 57.2 cm (26 in. x 22 1\/2 in.)\nRepeat H (half-drop): 43.2 cm (17 in.)",
+    "dimensions_raw": {
+        "height": [
+            "66.04",
+            "centimeters"
+        ],
+        "width": [
+            "57.15",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Josephine Howell",
+    "description": "Gnarled branch with strange, exotic fruits, leaves, flowers and birds in multiple colors on a white ground. The background is covered with 'rice grains' in red picotage.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7529_1181054878bdcb1e_b.jpg",
-                "width":876,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106122_a9b9bfa139a27564_b.jpg",
+                "width": 1024,
+                "height": 1020,
+                "is_primary": "1",
+                "image_id": "106122"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7529_1181054878bdcb1e_n.jpg",
-                "width":274,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106122_a9b9bfa139a27564_z.jpg",
+                "width": 640,
+                "height": 638,
+                "is_primary": "1",
+                "image_id": "106122"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7529_1181054878bdcb1e_z.jpg",
-                "width":547,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106122_a9b9bfa139a27564_n.jpg",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "106122"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106122_a9b9bfa139a27564_d.gif",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "106122"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106122_a9b9bfa139a27564_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106122"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7529_1181054878bdcb1e_b.jpg",
+                "width": 876,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "7529"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7529_1181054878bdcb1e_z.jpg",
+                "width": 547,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "7529"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7529_1181054878bdcb1e_n.jpg",
+                "width": 274,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7529"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7529_1181054878bdcb1e_d.gif",
+                "width": 274,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7529"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7529_1181054878bdcb1e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7529"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045597",
-            "role_id":"35236681",
-            "person_name":"Mainville & Fils",
-            "role_name":"Company",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045597\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18045597",
+            "role_id": "35236681",
+            "person_name": "Mainville & Fils",
+            "person_date": "",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045597\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1775\u20131785.\n1775\u20131785. Medium: cotton\nTechnique: block-printed, with yellow and blue applied by brush, on plain weave foundation. Gift of Josephine Howell. 1973-51-95."
+    "tombstone": {
+        "epitaph": "Textile (France), 1775\u201385. Medium: cotton\nTechnique: block-printed, with yellow and blue applied by brush, on plain weave foundation. \nGift of Josephine Howell. 1973-51-95"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cccdab",
-            "closest_css3":"#c0c0c0"
+            "color": "#e5e5cf",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#f5fada",
-            "closest_css3":"#f5f5dc"
+            "color": "#bcaa9c",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#b5997a",
-            "closest_css3":"#bc8f8f"
+            "color": "#73635e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#e8cdb4",
-            "closest_css3":"#f5deb3"
+            "color": "#ad8a80",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#9b5f4a",
-            "closest_css3":"#a0522d"
+            "color": "#8f8378",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

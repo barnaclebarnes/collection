@@ -1,49 +1,161 @@
 {
-    "id":"18498845",
-    "tms:id":"160324",
-    "accession_number":"1979-9-8-b",
-    "title":"Textile (wallcovering, White House), 1952",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18498845\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35293307",
-    "date":"1952",
-    "year_start":"1952",
-    "year_end":"1952",
-    "year_acquired":"1979",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Medium: silk\nTechnique: lampas.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 186 x 131 cm (6 ft. 1 1\/4 in. x 51 9\/16 in.)",
-    "creditline":"Gift of Mrs. R. Curt Hasenclever",
-    "description":"Baskets of flowers in acanthus swags and pointed rosettes in gold on blue. A companion design to 1979-9-8A.",
-    "justification":null,
-    "type":{
-        "id":"35293307",
-        "name":"Textile (wallcovering, White House)"
+    "id": "18498845",
+    "tms:id": "160324",
+    "accession_number": "1979-9-8-b",
+    "title": "Textile (wallcovering, White House) (USA), 1952",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18498845\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35293307",
+    "date": "1952",
+    "year_start": 1952,
+    "year_end": 1952,
+    "year_acquired": "1979",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk\nTechnique: lampas.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 186 x 131 cm (6 ft. 1 1\/4 in. x 51 9\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "186.00",
+            "centimeters"
+        ],
+        "weft": [
+            "131.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mrs. R. Curt Hasenclever",
+    "description": "Baskets of flowers in acanthus swags and pointed rosettes in gold on blue. A companion design to 1979-9-8A.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Textile (wallcovering, White House)",
+    "images": [
         {
-            "person_id":"18046337",
-            "role_id":"35236681",
-            "person_name":"F. Schumacher & Co.",
-            "role_name":"Company",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046337\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77094_02d24a3bbc4adc2a_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "77094"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77094_02d24a3bbc4adc2a_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "77094"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77094_02d24a3bbc4adc2a_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "77094"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77094_02d24a3bbc4adc2a_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "77094"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77094_02d24a3bbc4adc2a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77094"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile (wallcovering, White House), 1952.\n1952. Medium: silk\nTechnique: lampas.. Gift of Mrs. R. Curt Hasenclever. 1979-9-8-b."
+    "participants": [
+        {
+            "person_id": "18046337",
+            "role_id": "35236681",
+            "person_name": "F. Schumacher & Co.",
+            "person_date": "New York, New York, USA, founded 1889",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046337\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18055565",
+            "role_id": "35351535",
+            "person_name": "Mrs. R. Curt Hasenclever",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (wallcovering, White House) (USA), 1952. Medium: silk\nTechnique: lampas.. \nGift of Mrs. R. Curt Hasenclever. 1979-9-8-b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#1e233b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6e729f",
+            "closest_crayola": "#7366bd",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#51557a",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#bfab9e",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#c0ab73",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

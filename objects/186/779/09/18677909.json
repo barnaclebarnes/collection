@@ -1,57 +1,178 @@
 {
-    "id":"18677909",
-    "tms:id":"214420",
-    "accession_number":"1969-165-112",
-    "title":"Sample, \"Triangles\", 1953",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18677909\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35429763",
-    "type_id":"35268079",
-    "date":"1953",
-    "year_start":"1953",
-    "year_end":"1953",
-    "year_acquired":"1969",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Medium: linen (woven in Belgium)\nTechnique: printed on plain weave",
-    "markings":"Paper label atached to lower right corner, HERMAN MILLER FABRICS.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"30 x 30.5 cm (11 13\/16 x 12 in. )",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Rows of triangles printed in blue, green and orange on white. Serged on 2 sides, cut on 2 sides.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18677909",
+    "tms:id": "214420",
+    "accession_number": "1969-165-112",
+    "title": "Sample, Triangles, 1953",
+    "title_raw": "Triangles",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18677909\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35429763",
+    "type_id": "35268079",
+    "date": "1953",
+    "year_start": 1953,
+    "year_end": 1953,
+    "year_acquired": "1969",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Medium: linen (woven in Belgium)\nTechnique: printed on plain weave",
+    "markings": "Paper label atached to lower right corner, HERMAN MILLER FABRICS.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "30 x 30.5 cm (11 13\/16 x 12 in. )",
+    "dimensions_raw": {
+        "height": [
+            "30.00",
+            "centimeters"
+        ],
+        "width": [
+            "30.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Rows of triangles printed in blue, green and orange on white. Serged on 2 sides, cut on 2 sides.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67454_1aaa81ba986d3cc2_b.jpg",
+                "width": 1011,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "67454"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67454_1aaa81ba986d3cc2_z.jpg",
+                "width": 632,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "67454"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67454_1aaa81ba986d3cc2_n.jpg",
+                "width": 316,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67454"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67454_1aaa81ba986d3cc2_d.gif",
+                "width": 316,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67454"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67454_1aaa81ba986d3cc2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67454"
+            }
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75599_d15795926003e41d_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "75599"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75599_d15795926003e41d_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "75599"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75599_d15795926003e41d_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "75599"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75599_d15795926003e41d_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "75599"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75599_d15795926003e41d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "75599"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Triangles\", 1953.\n1953. Medium: linen (woven in Belgium)\nTechnique: printed on plain weave. Gift of Alexander H. Girard. 1969-165-112."
+    "participants": [
+        {
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample, Triangles, 1953. Medium: linen (woven in Belgium)\nTechnique: printed on plain weave. \nGift of Alexander H. Girard. 1969-165-112"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b96c24",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#356e2a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3b5882",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#50923f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        },
+        {
+            "color": "#b8ad8e",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

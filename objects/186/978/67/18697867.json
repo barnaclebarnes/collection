@@ -1,95 +1,141 @@
 {
-    "id":"18697867",
-    "tms:id":"224537",
-    "accession_number":"1930-11-1-d",
-    "title":"Sidewall, 1925\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18697867\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367333",
-    "type_id":"35256475",
-    "date":"1925\u201330",
-    "year_start":"1925",
-    "year_end":"1930",
-    "year_acquired":"1930",
-    "decade":"1920",
-    "woe:country":"23424819",
-    "medium":"Machine-printed on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"61 x 46.5 cm (24 x 18 5\/16 in.)",
-    "creditline":"Gift of Frankl Galleries",
-    "description":"Against a black ground, stylized figures in riding costumes, horse, and dog alternate with large plant forms with spear-shaped leaves. Printed in white and blue. Half-drop repeat.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18697867",
+    "tms:id": "224537",
+    "accession_number": "1930-11-1-d",
+    "title": "Sidewall, Amazone, 1925\u201330",
+    "title_raw": "Amazone",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18697867\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35256475",
+    "date": "1925\u201330",
+    "year_start": 1925,
+    "year_end": 1930,
+    "year_acquired": "1930",
+    "decade": "1920",
+    "woe:country_id": "23424819",
+    "medium": "Machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "61 x 46.5 cm (24 x 18 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "61.00",
+            "centimeters"
+        ],
+        "width": [
+            "46.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Frankl Galleries",
+    "description": "Against a black ground, stylized figures in riding costumes, horse, and dog alternate with large plant forms with spear-shaped leaves. Printed in white and blue. Half-drop repeat.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21652_8d743bd195ff5a86_b.jpg",
-                "width":1024,
-                "height":920,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21652_8d743bd195ff5a86_b.jpg",
+                "width": 1024,
+                "height": 920,
+                "is_primary": "1",
+                "image_id": "21652"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21652_8d743bd195ff5a86_n.jpg",
-                "width":320,
-                "height":287,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21652_8d743bd195ff5a86_z.jpg",
+                "width": 640,
+                "height": 575,
+                "is_primary": "1",
+                "image_id": "21652"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21652_8d743bd195ff5a86_z.jpg",
-                "width":640,
-                "height":575,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21652_8d743bd195ff5a86_n.jpg",
+                "width": 320,
+                "height": 287,
+                "is_primary": "1",
+                "image_id": "21652"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21652_8d743bd195ff5a86_d.gif",
+                "width": 320,
+                "height": 287,
+                "is_primary": "1",
+                "image_id": "21652"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21652_8d743bd195ff5a86_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "21652"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046513",
-            "role_id":"35236657",
-            "person_name":"Andre Groult",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046513\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18046513",
+            "role_id": "35236657",
+            "person_name": "Andr\u00e9 Groult",
+            "person_date": "French, 1884\u20131967",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046513\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18537969",
-            "role_id":"35351535",
-            "person_name":"Frankl Galleries",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537969\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18537969",
+            "role_id": "35351535",
+            "person_name": "Frankl Galleries",
+            "person_date": "New York, New York, USA, founded 1915",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537969\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1925\u201330.\n1925\u201330. Machine-printed on paper. Gift of Frankl Galleries. 1930-11-1-d."
+    "tombstone": {
+        "epitaph": "Sidewall, Amazone, 1925\u201330. Machine-printed on paper. \nGift of Frankl Galleries. 1930-11-1-d"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#242a32",
-            "closest_css3":"#2f4f4f"
+            "color": "#262e33",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#717a80",
-            "closest_css3":"#808080"
+            "color": "#7d878a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#98a8a7",
-            "closest_css3":"#a9a9a9"
+            "color": "#99a9a8",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#60616b",
-            "closest_css3":"#696969"
+            "color": "#606a70",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#253532",
-            "closest_css3":"#2f4f4f"
+            "color": "#1b1a26",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

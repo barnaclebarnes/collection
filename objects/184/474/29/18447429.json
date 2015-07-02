@@ -1,79 +1,141 @@
 {
-    "id":"18447429",
-    "tms:id":"134230",
-    "accession_number":"1963-39-198",
-    "title":"Drawing, 1932",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18447429\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"51551299",
-    "type_id":"35237093",
-    "date":"1932",
-    "year_start":"1932",
-    "year_end":"1932",
-    "year_acquired":"1963",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Brush and gouache, chalk on black paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Inscribed in white chalk, upper left: S[...?] cherie \/ not moorish enough.",
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"H x W: 37 x 28.7 cm (14 9\/16 x 11 5\/16 in.), irregular",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"A woman with short gray hair, head turned to her right, left arm raised, wears a gold floor-length gown with a salmon-colored belt and yellow dotted armbands on her sleeves, and gold looped earring.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18447429",
+    "tms:id": "134230",
+    "accession_number": "1963-39-198",
+    "title": "Drawing (USA), 1932",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18447429\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51551299",
+    "type_id": "35237093",
+    "date": "1932",
+    "year_start": 1932,
+    "year_end": 1932,
+    "year_acquired": "1963",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Brush and gouache, chalk on black paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in white chalk, upper left: S[...?] cherie \/ not moorish enough.",
+    "provenance": "Mrs. E. McKnight Kauffer",
+    "dimensions": "H x W: 37 x 28.7 cm (14 9\/16 x 11 5\/16 in.), irregular",
+    "dimensions_raw": {
+        "height": [
+            "37.00",
+            "centimeters"
+        ],
+        "width": [
+            "28.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "A woman with short gray hair, head turned to her right, left arm raised, wears a gold floor-length gown with a salmon-colored belt and yellow dotted armbands on her sleeves, and gold looped earring.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/51080_29ed7f176c9a40b3_b.jpg",
-                "width":791,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51080_69953c493271c3a2_b.jpg",
+                "width": 812,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "51080"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/51080_29ed7f176c9a40b3_n.jpg",
-                "width":247,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51080_69953c493271c3a2_z.jpg",
+                "width": 508,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "51080"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/51080_29ed7f176c9a40b3_z.jpg",
-                "width":495,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51080_69953c493271c3a2_n.jpg",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51080"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51080_69953c493271c3a2_d.gif",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51080"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51080_69953c493271c3a2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "51080"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, 1932.\n1932. Brush and gouache, chalk on black paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-198."
+    "tombstone": {
+        "epitaph": "Drawing (USA), 1932. Brush and gouache, chalk on black paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-198"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#8b6e41",
-            "closest_css3":"#a0522d"
+            "color": "#ecebd6",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
         },
         {
-            "color":"#5a4a33",
-            "closest_css3":"#556b2f"
+            "color": "#3e3c35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#dcd3a8",
-            "closest_css3":"#eee8aa"
+            "color": "#73653a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#54482d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#adab79",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

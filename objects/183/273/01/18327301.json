@@ -1,42 +1,123 @@
 {
-    "id":"18327301",
-    "tms:id":"48072",
-    "accession_number":"1931-66-160",
-    "title":"Frame",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18327301\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35367265",
-    "type_id":"35256061",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"bronze (gilt), gold",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 47.5 x 32 x 5.5 cm (18 11\/16 x 12 5\/8 x 2 3\/16 in.)",
-    "creditline":"Gift of Sarah Cooper Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35256061",
-        "name":"Frame"
+    "id": "18327301",
+    "tms:id": "48072",
+    "accession_number": "1931-66-160",
+    "title": "Frame (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18327301\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35367265",
+    "type_id": "35256061",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "bronze (gilt), gold",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 47.5 x 32 x 5.5 cm (18 11\/16 x 12 5\/8 x 2 3\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "5.50",
+            "centimeters"
+        ],
+        "height": [
+            "47.50",
+            "centimeters"
+        ],
+        "width": [
+            "32.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Sarah Cooper Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Frame",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106160_e3133a8103bd0ab7_b.jpg",
+                "width": 983,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "106160"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106160_e3133a8103bd0ab7_z.jpg",
+                "width": 614,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "106160"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106160_e3133a8103bd0ab7_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106160"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106160_e3133a8103bd0ab7_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106160"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106160_e3133a8103bd0ab7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106160"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Frame.\nbronze (gilt), gold. Gift of Sarah Cooper Hewitt. 1931-66-160."
+    "tombstone": {
+        "epitaph": "Frame (France). bronze (gilt), gold. \nGift of Sarah Cooper Hewitt. 1931-66-160"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#564b39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#948258",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#76694e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

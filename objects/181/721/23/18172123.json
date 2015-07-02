@@ -1,79 +1,129 @@
 {
-    "id":"18172123",
-    "tms:id":"18513",
-    "accession_number":"1911-28-458",
-    "title":"Drawing, \"Section of a Parliament Building or Academy\", 1800\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18172123\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35418009",
-    "type_id":"35237093",
-    "date":"1800\u201325",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1911",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Pen and black ink, brush and gray and pink wash, black chalk on paper",
-    "markings":"Watermark: J KO(OL) 4 COM (pagny)",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"From the Collection of L\u00e9on Decloux",
-    "dimensions":"20 x 54.4 cm (7 7\/8 x 21 7\/16 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":"Section a horizontal building.  The vaulted assembly room is at the right. The vaulted ceiling is decorated with figures and festoons.   At the left, are the ground floor with the entrance hall and the stairway as well as the upper gallery.  In the hall and upper gallery, statues on pedestals are placed against the walls.  In front of the building, at left, is a seated statue.  The portico and the balcony are at the rear facade.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18172123",
+    "tms:id": "18513",
+    "accession_number": "1911-28-458",
+    "title": "Drawing, Section of a Parliament Building or Academy, 1800\u20131825",
+    "title_raw": "Section of a Parliament Building or Academy",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18172123\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "35418009",
+    "type_id": "35237093",
+    "date": "1800\u20131825",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1911",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Pen and black ink, brush and gray and pink wash, black chalk on paper",
+    "markings": "Watermark: J KO(OL) 4 COM (pagny)",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "From the Collection of L\u00e9on Decloux",
+    "dimensions": "20 x 54.4 cm (7 7\/8 x 21 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "20.00",
+            "centimeters"
+        ],
+        "width": [
+            "54.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "Section a horizontal building.  The vaulted assembly room is at the right. The vaulted ceiling is decorated with figures and festoons.   At the left, are the ground floor with the entrance hall and the stairway as well as the upper gallery.  In the hall and upper gallery, statues on pedestals are placed against the walls.  In front of the building, at left, is a seated statue.  The portico and the balcony are at the rear facade.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48989_239901e14cb8433d_b.jpg",
-                "width":636,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48989_9c159fd340c29bf8_b.jpg",
+                "width": 615,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "48989"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48989_239901e14cb8433d_n.jpg",
-                "width":199,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48989_9c159fd340c29bf8_z.jpg",
+                "width": 384,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "48989"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48989_239901e14cb8433d_z.jpg",
-                "width":398,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48989_9c159fd340c29bf8_n.jpg",
+                "width": 192,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "48989"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48989_9c159fd340c29bf8_d.gif",
+                "width": 192,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "48989"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48989_9c159fd340c29bf8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "48989"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Section of a Parliament Building or Academy\", 1800\u201325.\n1800\u201325. Pen and black ink, brush and gray and pink wash, black chalk on paper. Purchased for the Museum by the Advisory Council. 1911-28-458."
+    "tombstone": {
+        "epitaph": "Drawing, Section of a Parliament Building or Academy, 1800\u20131825. Pen and black ink, brush and gray and pink wash, black chalk on paper. \nPurchased for the Museum by the Advisory Council. 1911-28-458"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#aaa17a",
-            "closest_css3":"#bdb76b"
+            "color": "#adb67f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#c7c380",
-            "closest_css3":"#d2b48c"
+            "color": "#8d8c68",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#787258",
-            "closest_css3":"#696969"
+            "color": "#747256",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

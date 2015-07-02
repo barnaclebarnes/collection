@@ -1,42 +1,122 @@
 {
-    "id":"18475083",
-    "tms:id":"148304",
-    "accession_number":"1971-50-95",
-    "title":"Band, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18475083\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35372035",
-    "type_id":"35254631",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Medium: silk on linen\nTechnique: back and chain stitches on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Purchased in Paris from Camerino.",
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":"Band fragment showing Cupid, birds and flowers in red silk on linen.",
-    "justification":null,
-    "type":{
-        "id":"35254631",
-        "name":"Band"
-    },
-    "images":[
-
+    "id": "18475083",
+    "tms:id": "148304",
+    "accession_number": "1971-50-95",
+    "title": "Band (Italy), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18475083\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35372035",
+    "type_id": "35254631",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Medium: silk on linen\nTechnique: back and chain stitches on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Purchased in Paris from Camerino.",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": "Band fragment showing Cupid, birds and flowers in red silk on linen.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Band",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76081_8b070b4965fefbca_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "76081"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76081_8b070b4965fefbca_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "76081"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76081_8b070b4965fefbca_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76081"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76081_8b070b4965fefbca_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76081"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76081_8b070b4965fefbca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76081"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Band, 17th century.\n17th century. Medium: silk on linen\nTechnique: back and chain stitches on plain weave. Bequest of Marian Hague. 1971-50-95."
+    "tombstone": {
+        "epitaph": "Band (Italy), 17th century. Medium: silk on linen\nTechnique: back and chain stitches on plain weave. \nBequest of Marian Hague. 1971-50-95"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#e2e6ce",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#7c8784",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#606b6a",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#88413f",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#b1b49c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

@@ -1,49 +1,256 @@
 {
-    "id":"18649735",
-    "tms:id":"199779",
-    "accession_number":"1994-94-1",
-    "title":"Fragment, 1858",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649735\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35254623",
-    "date":"1858",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1994",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved roller on plain weave.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 59 cm [23\"] Cut top and bottom. Total weft: 69 cm [27.5\"] There is a narrow piece [.5 cm wide] of the same fabric seamed to the left side. Cut all 4 weft edges.",
-    "creditline":"Gift of Ariel Holdsworth",
-    "description":"Flowers on trellises separating groups of people dancing and children playing. Brown and red with a tan background on undyed fabric.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18649735",
+    "tms:id": "199779",
+    "accession_number": "1994-94-1",
+    "title": "Fragment (France), 1858",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18649735\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35254623",
+    "date": "1858",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1994",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved roller on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 59 \u00d7 69 cm (23 1\/4 \u00d7 27 3\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "59.00",
+            "centimeters"
+        ],
+        "weft": [
+            "69.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Ariel Holdsworth",
+    "description": "Flowers on trellises separating groups of people dancing and children playing. Brown and red with a tan background on undyed fabric.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18536713",
-            "role_id":"35236673",
-            "person_name":"Lamy Godard",
-            "role_name":"Printer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18536713\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105788_c40ca2239982a011_b.jpg",
+                "width": 1024,
+                "height": 843,
+                "is_primary": "1",
+                "image_id": "105788"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105788_c40ca2239982a011_z.jpg",
+                "width": 640,
+                "height": 527,
+                "is_primary": "1",
+                "image_id": "105788"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105788_c40ca2239982a011_n.jpg",
+                "width": 320,
+                "height": 263,
+                "is_primary": "1",
+                "image_id": "105788"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105788_c40ca2239982a011_d.gif",
+                "width": 320,
+                "height": 263,
+                "is_primary": "1",
+                "image_id": "105788"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105788_c40ca2239982a011_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105788"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79096_720a868a90d2de7e_b.jpg",
+                "width": 1024,
+                "height": 709,
+                "is_primary": "0",
+                "image_id": "79096"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79096_720a868a90d2de7e_z.jpg",
+                "width": 640,
+                "height": 443,
+                "is_primary": "0",
+                "image_id": "79096"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79096_720a868a90d2de7e_n.jpg",
+                "width": 320,
+                "height": 222,
+                "is_primary": "0",
+                "image_id": "79096"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79096_720a868a90d2de7e_d.gif",
+                "width": 320,
+                "height": 222,
+                "is_primary": "0",
+                "image_id": "79096"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79096_720a868a90d2de7e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79096"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79098_a3f5ef2121b1876b_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "79098"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79098_a3f5ef2121b1876b_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "79098"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79098_a3f5ef2121b1876b_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79098"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79098_a3f5ef2121b1876b_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79098"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79098_a3f5ef2121b1876b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79098"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79097_eeef27182755895c_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "79097"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79097_eeef27182755895c_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "79097"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79097_eeef27182755895c_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79097"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79097_eeef27182755895c_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79097"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79097_eeef27182755895c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79097"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 1858.\n1858. Medium: cotton\nTechnique: printed by engraved roller on plain weave.. Gift of Ariel Holdsworth. 1994-94-1."
+    "participants": [
+        {
+            "person_id": "18041591",
+            "role_id": "35351535",
+            "person_name": "Ms. Ariel Holdsworth",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041591\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18536713",
+            "role_id": "35236673",
+            "person_name": "Lamy Godard",
+            "person_date": "",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536713\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
+        },
+        {
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), 1858. Medium: cotton\nTechnique: printed by engraved roller on plain weave. \nGift of Ariel Holdsworth. 1994-94-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8c7455",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#735847",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#ac957d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#8c4f49",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

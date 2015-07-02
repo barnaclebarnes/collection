@@ -1,42 +1,129 @@
 {
-    "id":"18402895",
-    "tms:id":"111631",
-    "accession_number":"1955-144-1",
-    "title":"Floor Tile, 14th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18402895\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35407127",
-    "type_id":"35290609",
-    "date":"14th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Red earthenware, inlaid with pipe clay",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 2.9 x 13.6 x 12.4 cm (1 1\/8 x 5 3\/8 x 4 7\/8 in.)",
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":"Square tile of red clay, stamped and inlaid with pipe clay in shape of double-headed.  Right edge missing. Four circular pits on back.",
-    "justification":null,
-    "type":{
-        "id":"35290609",
-        "name":"Floor tile"
+    "id": "18402895",
+    "tms:id": "111631",
+    "accession_number": "1955-144-1",
+    "title": "Floor Tile (England), 14th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18402895\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35407127",
+    "type_id": "35290609",
+    "date": "14th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Red earthenware, inlaid with pipe clay",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 2.9 x 13.6 x 12.4 cm (1 1\/8 x 5 3\/8 x 4 7\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "12.40",
+            "centimeters"
+        ],
+        "height": [
+            "2.90",
+            "centimeters"
+        ],
+        "width": [
+            "13.60",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": "Square tile of red clay, stamped and inlaid with pipe clay in shape of double-headed.  Right edge missing. Four circular pits on back.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Floor tile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101141_b60a4cb88e75bd90_b.jpg",
+                "width": 1024,
+                "height": 1017,
+                "is_primary": "1",
+                "image_id": "101141"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101141_b60a4cb88e75bd90_z.jpg",
+                "width": 640,
+                "height": 636,
+                "is_primary": "1",
+                "image_id": "101141"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101141_b60a4cb88e75bd90_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "101141"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101141_b60a4cb88e75bd90_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "101141"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101141_b60a4cb88e75bd90_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "101141"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18538307",
+            "role_id": "35352249",
+            "person_name": "Roger Warner",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538307\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Floor Tile, 14th century.\n14th century. Red earthenware, inlaid with pipe clay. Museum purchase from Au Panier Fleuri Fund. 1955-144-1."
+    "tombstone": {
+        "epitaph": "Floor Tile (England), 14th century. Red earthenware, inlaid with pipe clay. \nMuseum purchase from Au Panier Fleuri Fund. 1955-144-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#98958e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#808d9a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#677489",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#4b5773",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

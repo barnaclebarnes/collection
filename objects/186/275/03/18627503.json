@@ -1,65 +1,122 @@
 {
-    "id":"18627503",
-    "tms:id":"188588",
-    "accession_number":"1988-101-972",
-    "title":"Drawing, \"Bar Stool:  Metal, U-shaped\", ca. 1930s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18627503\/",
-    "department_id":"35347493",
-    "period_id":"35435409",
-    "media_id":"35380765",
-    "type_id":"35237093",
-    "date":"ca. 1930s",
-    "year_start":"1925",
-    "year_end":"1945",
-    "year_acquired":"1988",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Graphite, red color pencil\nSupport: tracing paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Inscribed dimensions Inscribed in red color pencil at lower right: P",
-    "provenance":null,
-    "dimensions":"36.4 x 38.9 cm (14 5\/16 x 15 5\/16 in.)",
-    "creditline":"Gift of Donald Deskey",
-    "description":"Scale: 1\" = 1'",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18627503",
+    "tms:id": "188588",
+    "accession_number": "1988-101-972",
+    "title": "Drawing, Bar Stool:  Metal, U-shaped, ca. 1930s",
+    "title_raw": "Bar Stool:  Metal, U-shaped",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18627503\/",
+    "department_id": "35347493",
+    "period_id": "35435409",
+    "media_id": "35380765",
+    "type_id": "35237093",
+    "date": "ca. 1930s",
+    "year_start": 1925,
+    "year_end": 1945,
+    "year_acquired": "1988",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Graphite, red color pencil\nSupport: tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed dimensions Inscribed in red color pencil at lower right: P",
+    "provenance": null,
+    "dimensions": "36.4 x 38.9 cm (14 5\/16 x 15 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "36.40",
+            "centimeters"
+        ],
+        "width": [
+            "38.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Donald Deskey",
+    "description": "Scale: 1\" = 1'",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18041973",
-            "role_id":"35351535",
-            "person_name":"Donald Deskey",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041973\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
-        },
-        {
-            "person_id":"18048097",
-            "role_id":"35352245",
-            "person_name":"LBP",
-            "role_name":"Cataloguer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048097\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
-        },
-        {
-            "person_id":"18041973",
-            "role_id":"35236703",
-            "person_name":"Donald Deskey",
-            "role_name":"Office of",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041973\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120464_530c0fdc1c0baa48_b.jpg",
+                "width": 1024,
+                "height": 929,
+                "is_primary": "1",
+                "image_id": "120464"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120464_530c0fdc1c0baa48_z.jpg",
+                "width": 640,
+                "height": 581,
+                "is_primary": "1",
+                "image_id": "120464"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120464_530c0fdc1c0baa48_n.jpg",
+                "width": 320,
+                "height": 290,
+                "is_primary": "1",
+                "image_id": "120464"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120464_530c0fdc1c0baa48_d.gif",
+                "width": 320,
+                "height": 290,
+                "is_primary": "1",
+                "image_id": "120464"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120464_530c0fdc1c0baa48_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120464"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Bar Stool:  Metal, U-shaped\", ca. 1930s.\nca. 1930s. Graphite, red color pencil\nSupport: tracing paper. Gift of Donald Deskey. 1988-101-972."
+    "participants": [
+        {
+            "person_id": "18041973",
+            "role_id": "35351535",
+            "person_name": "Donald Deskey",
+            "person_date": "American, 1894\u20131989",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041973\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048097",
+            "role_id": "35352245",
+            "person_name": "LBP",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048097\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041973",
+            "role_id": "35236703",
+            "person_name": "Donald Deskey",
+            "person_date": "American, 1894\u20131989",
+            "role_name": "Office of",
+            "role_display_name": "Office of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041973\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Bar Stool:  Metal, U-shaped, ca. 1930s. Graphite, red color pencil\nSupport: tracing paper. \nGift of Donald Deskey. 1988-101-972"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

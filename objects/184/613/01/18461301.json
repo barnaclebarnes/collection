@@ -1,49 +1,131 @@
 {
-    "id":"18461301",
-    "tms:id":"141255",
-    "accession_number":"1968-110-129",
-    "title":"Textile, 1930s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18461301\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1930s",
-    "year_start":"1930",
-    "year_end":"1939",
-    "year_acquired":"1968",
-    "decade":"1930",
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: plain weave.  Block print.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"from Ericson and Weiss Collection",
-    "dimensions":"Warp x Weft: 112 x 137 cm (44 1\/8 x 53 15\/16 in.)",
-    "creditline":"Gift of Mrs. Germaine Little",
-    "description":"Cornucopia of fruit in massed acanthus leaves.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18461301",
+    "tms:id": "141255",
+    "accession_number": "1968-110-129",
+    "title": "Textile (England), 1930s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18461301\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1930s",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1968",
+    "decade": "1930",
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: plain weave.  Block print.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "from Ericson and Weiss Collection",
+    "dimensions": "Warp x Weft: 112 x 137 cm (44 1\/8 x 53 15\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "112.00",
+            "centimeters"
+        ],
+        "weft": [
+            "137.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mrs. Germaine Little",
+    "description": "Cornucopia of fruit in massed acanthus leaves.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18052169",
-            "role_id":"35236675",
-            "person_name":"Morton Sundour Company, Inc.",
-            "role_name":"For",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18052169\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75192_7c94a94def002c8b_b.jpg",
+                "width": 1024,
+                "height": 791,
+                "is_primary": "1",
+                "image_id": "75192"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75192_7c94a94def002c8b_z.jpg",
+                "width": 640,
+                "height": 494,
+                "is_primary": "1",
+                "image_id": "75192"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75192_7c94a94def002c8b_n.jpg",
+                "width": 320,
+                "height": 247,
+                "is_primary": "1",
+                "image_id": "75192"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75192_7c94a94def002c8b_d.gif",
+                "width": 320,
+                "height": 247,
+                "is_primary": "1",
+                "image_id": "75192"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75192_7c94a94def002c8b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75192"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1930s.\n1930s. Medium: cotton\nTechnique: plain weave.  Block print.. Gift of Mrs. Germaine Little. 1968-110-129."
+    "participants": [
+        {
+            "person_id": "18052169",
+            "role_id": "35236675",
+            "person_name": "Morton Sundour Company, Inc.",
+            "person_date": "founded 1906",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052169\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), 1930s. Medium: cotton\nTechnique: plain weave.  Block print.. \nGift of Mrs. Germaine Little. 1968-110-129"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ccb3a9",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#35372f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7d6b47",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#958666",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#ca8788",
+            "closest_crayola": "#d98695",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,49 +1,166 @@
 {
-    "id":"18669959",
-    "tms:id":"210396",
-    "accession_number":"1995-50-263",
-    "title":"Textile, ca. 1820",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18669959\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35384201",
-    "type_id":"35251739",
-    "date":"ca. 1820",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Printed by engraved roller",
-    "markings":"Between the feet of an archer, 'Richards sculp.'",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 83cm (32 1\/2in.). Weft: (selvage on left) 84.5cm (33 1\/4in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Four scenes of events in the life of Joan of Arc.  In the largest scene, Joan carries a banner that reads, 'Ihesus, Maria'.  There is a shield on the battlement that says in EnglisH 'God save the King  Harry'.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18669959",
+    "tms:id": "210396",
+    "accession_number": "1995-50-263",
+    "title": "Textile, A la Pucelle d'Orleans, ca. 1820",
+    "title_raw": "A la Pucelle d'Orleans",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18669959\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35384201",
+    "type_id": "35251739",
+    "date": "ca. 1820",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Technique: printed by engraved roller",
+    "markings": "Between the feet of an archer, 'Richards sculp.'",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 83 x 84.5 cm (32 11\/16 x 33 1\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "83.00",
+            "centimeters"
+        ],
+        "weft": [
+            "84.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Four scenes of events in the life of Joan of Arc.  In the largest scene, Joan carries a banner that reads, 'Ihesus, Maria'.  There is a shield on the battlement that says in English \"God save the King Harry.\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18050987",
-            "role_id":"35236743",
-            "person_name":"Richards",
-            "role_name":"Engraver",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050987\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236743\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107096_7faaf73c063a38ba_b.jpg",
+                "width": 1024,
+                "height": 988,
+                "is_primary": "1",
+                "image_id": "107096"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107096_7faaf73c063a38ba_z.jpg",
+                "width": 640,
+                "height": 618,
+                "is_primary": "1",
+                "image_id": "107096"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107096_7faaf73c063a38ba_n.jpg",
+                "width": 320,
+                "height": 309,
+                "is_primary": "1",
+                "image_id": "107096"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107096_7faaf73c063a38ba_d.gif",
+                "width": 320,
+                "height": 309,
+                "is_primary": "1",
+                "image_id": "107096"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107096_7faaf73c063a38ba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107096"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79274_8bd2f0c4516fb106_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "79274"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79274_8bd2f0c4516fb106_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "79274"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79274_8bd2f0c4516fb106_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79274"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79274_8bd2f0c4516fb106_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79274"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79274_8bd2f0c4516fb106_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79274"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1820.\nca. 1820. Printed by engraved roller. Bequest of Elinor Merrell. 1995-50-263."
+    "participants": [
+        {
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18050987",
+            "role_id": "35236743",
+            "person_name": "Richards",
+            "person_date": "",
+            "role_name": "Engraver",
+            "role_display_name": "Engraved by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050987\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236743\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile, A la Pucelle d'Orleans, ca. 1820. Technique: printed by engraved roller. \nBequest of Elinor Merrell. 1995-50-263"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a29688",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7d7171",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c6c1a4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

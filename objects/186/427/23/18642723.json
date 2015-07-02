@@ -1,42 +1,129 @@
 {
-    "id":"18642723",
-    "tms:id":"196226",
-    "accession_number":"1993-108-379",
-    "title":"Drawing, \"Ashtray with sea motif\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18642723\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35422413",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1993",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Watercolor, chalk",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Alfons Bach",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18642723",
+    "tms:id": "196226",
+    "accession_number": "1993-108-379",
+    "title": "Drawing, Ashtray with sea motif, 20th century",
+    "title_raw": "Ashtray with sea motif",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18642723\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51551299",
+    "type_id": "35237093",
+    "date": "20th century",
+    "year_start": 1920,
+    "year_end": 1999,
+    "year_acquired": "1993",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Brush and gouache, chalk on black paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Alfons Bach; 1993: acquired by Museum",
+    "dimensions": "30.3 x 44.2 cm (11 15\/16 x 17 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.30",
+            "centimeters"
+        ],
+        "width": [
+            "44.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Alfons Bach",
+    "description": "Blue-purple ashtray with three curved indentions on rim; ashtray is framed by white spray-like ornament and a blue-purple swordfish at one end.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64734_653456f4b37cb190_b.jpg",
+                "width": 1024,
+                "height": 687,
+                "is_primary": "1",
+                "image_id": "64734"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64734_653456f4b37cb190_z.jpg",
+                "width": 640,
+                "height": 429,
+                "is_primary": "1",
+                "image_id": "64734"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64734_653456f4b37cb190_n.jpg",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "64734"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64734_653456f4b37cb190_d.gif",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "64734"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64734_653456f4b37cb190_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64734"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18053553",
+            "role_id": "35351535",
+            "person_name": "Alfons Bach",
+            "person_date": "German, 1904\u20131999",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053553",
+            "role_id": "35236655",
+            "person_name": "Alfons Bach",
+            "person_date": "German, 1904\u20131999",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Ashtray with sea motif\".\nWatercolor, chalk. Gift of Alfons Bach. 1993-108-379."
+    "tombstone": {
+        "epitaph": "Drawing, Ashtray with sea motif, 20th century. Brush and gouache, chalk on black paper. \nGift of Alfons Bach. 1993-108-379"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#41455d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6e758a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#9699a5",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

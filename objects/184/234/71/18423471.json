@@ -1,87 +1,178 @@
 {
-    "id":"18423471",
-    "tms:id":"122107",
-    "accession_number":"1958-73-5",
-    "title":"Textile, mid-20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18423471\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"mid-20th century",
-    "year_start":"1940",
-    "year_end":"1958",
-    "year_acquired":"1958",
-    "decade":"1940",
-    "woe:country":"23424829",
-    "medium":"Medium: cotton\nTechnique: roller printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 118.1 x 64.8 cm (46 1\/2 x 25 1\/2 in.)",
-    "creditline":"Gift of Paula Habig",
-    "description":"Yellow ground printed with a dark red craquelure pattern and a design of oversized postage stamps from various countries.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18423471",
+    "tms:id": "122107",
+    "accession_number": "1958-73-5",
+    "title": "Textile (Germany for foreign market), mid-20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18423471\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "mid-20th century",
+    "year_start": 1940,
+    "year_end": 1958,
+    "year_acquired": "1958",
+    "decade": "1940",
+    "woe:country_id": "23424829",
+    "medium": "Medium: cotton\nTechnique: roller printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 118.1 x 64.8 cm (46 1\/2 x 25 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "118.11",
+            "centimeters"
+        ],
+        "width": [
+            "64.77",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Paula Habig",
+    "description": "Printed cotton with design of scattered postage stamps from various countries, each with a shadow. In dark green, light green yellow, orange, and dark red on a bright yellow ground with heavy crackle effect in dark red.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43049_8dc2a6993085cb05_b.jpg",
-                "width":582,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43049_8dc2a6993085cb05_b.jpg",
+                "width": 582,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "43049"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43049_8dc2a6993085cb05_n.jpg",
-                "width":182,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43049_8dc2a6993085cb05_z.jpg",
+                "width": 364,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "43049"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43049_8dc2a6993085cb05_z.jpg",
-                "width":364,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43049_8dc2a6993085cb05_n.jpg",
+                "width": 182,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43049"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43049_8dc2a6993085cb05_d.gif",
+                "width": 182,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43049"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43049_8dc2a6993085cb05_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43049"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73824_6a32f75f7ffd65e2_b.jpg",
+                "width": 1024,
+                "height": 618,
+                "is_primary": "0",
+                "image_id": "73824"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73824_6a32f75f7ffd65e2_z.jpg",
+                "width": 640,
+                "height": 387,
+                "is_primary": "0",
+                "image_id": "73824"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73824_6a32f75f7ffd65e2_n.jpg",
+                "width": 320,
+                "height": 193,
+                "is_primary": "0",
+                "image_id": "73824"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73824_6a32f75f7ffd65e2_d.gif",
+                "width": 320,
+                "height": 193,
+                "is_primary": "0",
+                "image_id": "73824"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73824_6a32f75f7ffd65e2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "73824"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046059",
-            "role_id":"35236681",
-            "person_name":"Habig",
-            "role_name":"Company",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046059\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+            "person_id": "18046059",
+            "role_id": "35236681",
+            "person_name": "Heinrich Habig Aktiengesellschaft Stoffdruckerei",
+            "person_date": "1809",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046059\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18059557",
+            "role_id": "35351535",
+            "person_name": "Paula Habig",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059557\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, mid-20th century.\nmid-20th century. Medium: cotton\nTechnique: roller printed. Gift of Paula Habig. 1958-73-5."
+    "tombstone": {
+        "epitaph": "Textile (Germany for foreign market), mid-20th century. Medium: cotton\nTechnique: roller printed on plain weave. \nGift of Paula Habig. 1958-73-5"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#f1cc47",
-            "closest_css3":"#f4a460"
+            "color": "#edc946",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
         },
         {
-            "color":"#5f2c28",
-            "closest_css3":"#8b4513"
+            "color": "#d19c37",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#bf8734",
-            "closest_css3":"#cd853f"
+            "color": "#6c3029",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#a86d35",
-            "closest_css3":"#a0522d"
+            "color": "#b27835",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#8f4e2b",
-            "closest_css3":"#a0522d"
+            "color": "#7b513f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

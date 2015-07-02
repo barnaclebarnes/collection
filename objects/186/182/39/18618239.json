@@ -1,49 +1,131 @@
 {
-    "id":"18618239",
-    "tms:id":"177653",
-    "accession_number":"1981-29-78",
-    "title":"Poster, \"Don't Be Hammered\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18618239\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"26 1\/8 x 19 5\/16 in. (66.4 x 49 cm)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18618239",
+    "tms:id": "177653",
+    "accession_number": "1981-29-78",
+    "title": "Poster, Don't Be Hammered",
+    "title_raw": "Don't Be Hammered",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18618239\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "66.4 x 49 cm (26 1\/8 x 19 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "66.40",
+            "centimeters"
+        ],
+        "width": [
+            "49.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Poster features a baking soda image with text about paying tuition on time.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042421",
-            "role_id":"35236667",
-            "person_name":"Brigham Young University",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82681_a70af5a03866e3d4_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82681"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82681_a70af5a03866e3d4_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82681"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82681_a70af5a03866e3d4_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82681"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82681_a70af5a03866e3d4_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82681"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82681_a70af5a03866e3d4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82681"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"Don't Be Hammered\".\n26 1\/8 x 19 5\/16 in. (66.4 x 49 cm). Gift of Various Donors. 1981-29-78."
+    "participants": [
+        {
+            "person_id": "18042421",
+            "role_id": "35236667",
+            "person_name": "Brigham Young University",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Don't Be Hammered. Lithograph on paper. \nGift of Various Donors. 1981-29-78"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#e0d049",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        },
+        {
+            "color": "#a94927",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#2b2f49",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a7835b",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#eae3a7",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

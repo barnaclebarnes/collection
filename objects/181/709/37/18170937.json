@@ -1,87 +1,141 @@
 {
-    "id":"18170937",
-    "tms:id":"18266",
-    "accession_number":"1911-28-267",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18170937\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1911",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18170937",
+    "tms:id": "18266",
+    "accession_number": "1911-28-267",
+    "title": "Drawing, Six Trophies composed of Military Attributes, 1780",
+    "title_raw": "Six Trophies composed of Military Attributes",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18170937\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51865493",
+    "type_id": "35237093",
+    "date": "1780",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1911",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Graphite, pen and ink, brush and gouache on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "L\u00e9on Decloux; 1911: acquired by Museum",
+    "dimensions": "26.9 x 20.3 cm (10 9\/16 in. x 8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "26.90",
+            "centimeters"
+        ],
+        "width": [
+            "20.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "Two columns of six military trophies. Upper left: drums and crossed banners, fasces and pickaxe; upper right: soldier\u2019s upper body armor, axe, and sword; center left: cannon, spiked staff; center right: cannon balls, arrow, basket with scythe; lower left: basket, musket, banners, helmet; lower right: drum, shield, and banners.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/51171_4d11913c63bbe381_b.jpg",
-                "width":781,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51171_b1e25277a536b77b_b.jpg",
+                "width": 771,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "51171"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/51171_4d11913c63bbe381_n.jpg",
-                "width":244,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51171_b1e25277a536b77b_z.jpg",
+                "width": 482,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "51171"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/51171_4d11913c63bbe381_z.jpg",
-                "width":488,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51171_b1e25277a536b77b_n.jpg",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51171"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51171_b1e25277a536b77b_d.gif",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "51171"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/51171_b1e25277a536b77b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "51171"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18043089",
+            "role_id": "35236655",
+            "person_name": "Pierre Ranson",
+            "person_date": "1736 \u2013 1786",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043089\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nPurchased for the Museum by the Advisory Council. 1911-28-267."
+    "tombstone": {
+        "epitaph": "Drawing, Six Trophies composed of Military Attributes, 1780. Graphite, pen and ink, brush and gouache on paper. \nPurchased for the Museum by the Advisory Council. 1911-28-267"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#96a49d",
-            "closest_css3":"#a9a9a9"
+            "color": "#49443a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#d5bc93",
-            "closest_css3":"#d2b48c"
+            "color": "#62645c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#4a4641",
-            "closest_css3":"#2f4f4f"
+            "color": "#a9ada2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#a28f6e",
-            "closest_css3":"#808080"
+            "color": "#83867c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#84715c",
-            "closest_css3":"#696969"
+            "color": "#a29170",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

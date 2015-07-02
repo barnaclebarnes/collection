@@ -1,91 +1,143 @@
 {
-    "id":"18634859",
-    "tms:id":"192276",
-    "accession_number":"1990-61-2",
-    "title":"Vase, \"Savoy\", ca. 1936\u201337",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18634859\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35398399",
-    "type_id":"35237225",
-    "date":"ca. 1936\u201337",
-    "year_start":"1926",
-    "year_end":"1947",
-    "year_acquired":"1990",
-    "decade":"1920",
-    "woe:country":"23424812",
-    "medium":"Mold-blown glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Late 1930s: given to Harmon Goldstone's mother by Aino Aalto; Harmon Goldstone; 1990: acquired by the Museum",
-    "dimensions":"H x W x D: 15 x 28.3 x 24.2 cm (5 7\/8 x 11 1\/8 x 9 1\/2 in.)",
-    "creditline":"Gift of Harmon Goldstone",
-    "description":"Tall, irregularly-shaped clear glass vase with flat bottom; thickness of wall varies throughout.",
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18634859",
+    "tms:id": "192276",
+    "accession_number": "1990-61-2",
+    "title": "Savoy Vase, ca. 1936",
+    "title_raw": "Savoy",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18634859\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35398399",
+    "type_id": "35237225",
+    "date": "ca. 1936",
+    "year_start": 1926,
+    "year_end": 1946,
+    "year_acquired": "1990",
+    "decade": "1920",
+    "woe:country_id": "23424812",
+    "medium": "Mold-blown glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Late 1930s: given to Harmon Goldstone's mother by Aino Aalto; Harmon Goldstone; 1990: acquired by the Museum",
+    "dimensions": "H x W x D: 15 x 28.3 x 24.2 cm (5 7\/8 x 11 1\/8 x 9 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "24.20",
+            "centimeters"
+        ],
+        "height": [
+            "15.00",
+            "centimeters"
+        ],
+        "width": [
+            "28.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harmon Goldstone",
+    "description": "Tall, irregularly-shaped clear glass vase with flat bottom; thickness of wall varies throughout.",
+    "justification": null,
+    "gallery_text": "The thick-walled, richly textured body of this glass vessel, formed in a wooden mold, demonstrates Aalto\u2019s interest in organic form and reflects the morphologies of his Finnish homeland\u2019s forests and lakes. The undulating shape is an intentional departure from classical rigidity and a complement to Aalto\u2019s laminated bentwood furniture.",
+    "label_text": "The thick-walled, richly textured body of this glass vessel, formed in a wooden mold, demonstrates Aalto\u2019s interest in organic form and reflects the morphologies of his Finnish homeland\u2019s forests and lakes. The undulating shape is an intentional departure from classical rigidity and a complement to Aalto\u2019s laminated bentwood furniture.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424812",
+    "type": "Vase",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15504_1791842751ab0793_b.jpg",
-                "width":969,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15504_1791842751ab0793_b.jpg",
+                "width": 969,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "15504"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15504_1791842751ab0793_n.jpg",
-                "width":303,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15504_1791842751ab0793_z.jpg",
+                "width": 605,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "15504"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15504_1791842751ab0793_z.jpg",
-                "width":605,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15504_1791842751ab0793_n.jpg",
+                "width": 303,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "15504"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15504_1791842751ab0793_d.gif",
+                "width": 303,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "15504"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15504_1791842751ab0793_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "15504"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18053139",
-            "role_id":"35236655",
-            "person_name":"Alvar Aalto",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18053139\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18053139",
+            "role_id": "35236655",
+            "person_name": "Alvar Aalto",
+            "person_date": "Finnish, 1898\u20131976",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053139\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "person_id":"18053635",
-            "role_id":"35236657",
-            "person_name":"Karhula Glass Works",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18053635\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18537071",
+            "role_id": "35351535",
+            "person_name": "Harmon H. Goldstone",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537071\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053635",
+            "role_id": "35236657",
+            "person_name": "Karhula Glass Works",
+            "person_date": "Karhula, Finland, founded 1917",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053635\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Vase, \"Savoy\", ca. 1936\u201337.\nca. 1936\u201337. Mold-blown glass. Gift of Harmon Goldstone. 1990-61-2."
+    "tombstone": {
+        "epitaph": "Savoy Vase, ca. 1936. Mold-blown glass. \nGift of Harmon Goldstone. 1990-61-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a9a3b7",
-            "closest_css3":"#a9a9a9"
+            "color": "#a9a3b7",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#868296",
-            "closest_css3":"#778899"
+            "color": "#747185",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#69667a",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#434452",
-            "closest_css3":"#2f4f4f"
+            "color": "#444553",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "Finland",
+    "is_loan_object": 0
 }

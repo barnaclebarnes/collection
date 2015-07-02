@@ -1,87 +1,196 @@
 {
-    "id":"18666483",
-    "tms:id":"208621",
-    "accession_number":"1995-50-95",
-    "title":"Textile, ca. 1790",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18666483\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1790",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 210 cm (82 3\/4 in.). Weft: 135 cm (53 1\/2 in.). 2 pieces sewn together.",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Series of scenes of the gods and goddesses inspired by Guidi Reni's (1575-1642) design in the Palais Pallavicini in Rome and the sculpture at the Basin of Apollo.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18666483",
+    "tms:id": "208621",
+    "accession_number": "1995-50-95",
+    "title": "Textile, Le char de l'aurore (The Chariot of Dawn), ca. 1790",
+    "title_raw": "Le char de l'aurore (The Chariot of Dawn)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18666483\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 210 x 135 cm (6 ft. 10 11\/16 in. x 53 1\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "210.00",
+            "centimeters"
+        ],
+        "weft": [
+            "135.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Series of scenes of the gods and goddesses inspired by Guidi Reni's (1575-1642) design in the Palais Pallavicini in Rome and the sculpture at the Basin of Apollo.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12248_4d1eede338b83527_b.jpg",
-                "width":1024,
-                "height":673,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107920_f7270e6ca2582d36_b.jpg",
+                "width": 1024,
+                "height": 796,
+                "is_primary": "1",
+                "image_id": "107920"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12248_4d1eede338b83527_n.jpg",
-                "width":320,
-                "height":210,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107920_f7270e6ca2582d36_z.jpg",
+                "width": 640,
+                "height": 498,
+                "is_primary": "1",
+                "image_id": "107920"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12248_4d1eede338b83527_z.jpg",
-                "width":640,
-                "height":421,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107920_f7270e6ca2582d36_n.jpg",
+                "width": 320,
+                "height": 249,
+                "is_primary": "1",
+                "image_id": "107920"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107920_f7270e6ca2582d36_d.gif",
+                "width": 320,
+                "height": 249,
+                "is_primary": "1",
+                "image_id": "107920"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107920_f7270e6ca2582d36_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107920"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79418_c139bbc6114bfbf0_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "79418"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79418_c139bbc6114bfbf0_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "79418"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79418_c139bbc6114bfbf0_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79418"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79418_c139bbc6114bfbf0_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79418"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79418_c139bbc6114bfbf0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79418"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12248_4d1eede338b83527_b.jpg",
+                "width": 1024,
+                "height": 673,
+                "is_primary": "0",
+                "image_id": "12248"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12248_4d1eede338b83527_z.jpg",
+                "width": 640,
+                "height": 421,
+                "is_primary": "0",
+                "image_id": "12248"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12248_4d1eede338b83527_n.jpg",
+                "width": 320,
+                "height": 210,
+                "is_primary": "0",
+                "image_id": "12248"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12248_4d1eede338b83527_d.gif",
+                "width": 320,
+                "height": 210,
+                "is_primary": "0",
+                "image_id": "12248"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12248_4d1eede338b83527_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12248"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046249",
-            "role_id":"35236685",
-            "person_name":"J.P.Meiller et Cie.",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046249\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18046249",
+            "role_id": "35236685",
+            "person_name": "J.P.Meiller et Cie.",
+            "person_date": "1792 \u2013 1826",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046249\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1790.\nca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Bequest of Elinor Merrell. 1995-50-95."
+    "tombstone": {
+        "epitaph": "Textile, Le char de l'aurore (The Chariot of Dawn), ca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nBequest of Elinor Merrell. 1995-50-95"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#e9bb9a",
-            "closest_css3":"#deb887"
+            "color": "#944e53",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#fcf1ce",
-            "closest_css3":"#ffebcd"
-        },
-        {
-            "color":"#9c8c90",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#c1977e",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#b17c71",
-            "closest_css3":"#bc8f8f"
+            "color": "#a07f72",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

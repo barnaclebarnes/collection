@@ -1,42 +1,117 @@
 {
-    "id":"18318659",
-    "tms:id":"44569",
-    "accession_number":"1931-41-2",
-    "title":"Tumbler, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18318659\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237437",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 8.4 x 7.3 cm (3 5\/16 x 2 7\/8 in.)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":"Cylindrical, with fluted base and band of facetted diamonds. Decoration includes monogram, trophies, plants, flying cherub, altar and dog. Underside with eight-rayed rosette.",
-    "justification":null,
-    "type":{
-        "id":"35237437",
-        "name":"tumbler"
+    "id": "18318659",
+    "tms:id": "44569",
+    "accession_number": "1931-41-2",
+    "title": "Tumbler (France), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18318659\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237437",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 8.4 x 7.3 cm (3 5\/16 x 2 7\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "7.30",
+            "centimeters"
+        ],
+        "height": [
+            "8.40",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Cylindrical, with fluted base and band of facetted diamonds. Decoration includes monogram, trophies, plants, flying cherub, altar and dog. Underside with eight-rayed rosette.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "tumbler",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113377_92850c7d9f8070f3_b.jpg",
+                "width": 1024,
+                "height": 967,
+                "is_primary": "1",
+                "image_id": "113377"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113377_92850c7d9f8070f3_z.jpg",
+                "width": 640,
+                "height": 604,
+                "is_primary": "1",
+                "image_id": "113377"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113377_92850c7d9f8070f3_n.jpg",
+                "width": 320,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "113377"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113377_92850c7d9f8070f3_d.gif",
+                "width": 320,
+                "height": 302,
+                "is_primary": "1",
+                "image_id": "113377"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113377_92850c7d9f8070f3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113377"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Tumbler, 19th century.\n19th century. Glass. Gift of Eleanor and Sarah Hewitt. 1931-41-2."
+    "tombstone": {
+        "epitaph": "Tumbler (France), 19th century. Glass. \nGift of Eleanor and Sarah Hewitt. 1931-41-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

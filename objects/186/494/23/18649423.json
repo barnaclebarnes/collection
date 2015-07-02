@@ -1,160 +1,346 @@
 {
-    "id":"18649423",
-    "tms:id":"199621",
-    "accession_number":"1994-80-14",
-    "title":"Textile, \"Le Jardin des Plantes\", 1802\u201318",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649423\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1802\u201318",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1994",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"At one end; \"FAVRE-PETITPIERRE & COMPe A NANTES BON TEINT\" within box; \"F.R.\" in red within box; and \"CL\" in grey.",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 80 x 86 cm (31 1\/2 x 33 7\/8 in.)",
-    "creditline":"Gift of Cora Ginsburg",
-    "description":"Design in red on white ground of a zoological park with fenced enclosures containing animals. People strolling. Chef de piece present at upper edge.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18649423",
+    "tms:id": "199621",
+    "accession_number": "1994-80-14",
+    "title": "Textile, Le Jardin des Plantes, 1802\u201318",
+    "title_raw": "Le Jardin des Plantes",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18649423\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1802\u201318",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1994",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "At one end; \"FAVRE-PETITPIERRE & COMPe A NANTES BON TEINT\" within box; \"F.R.\" in red within box; and \"CL\" in grey.",
+    "provenance": null,
+    "dimensions": "Warp x Weft: 80 x 86 cm (31 1\/2 x 33 7\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "80.00",
+            "centimeters"
+        ],
+        "weft": [
+            "86.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Cora Ginsburg",
+    "description": "Design in red on white ground of a zoological park with fenced enclosures containing animals. People strolling. Chef de piece present at upper edge.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12095_6dd89df574a61e65_b.jpg",
-                "width":1024,
-                "height":958,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109340_1de80fccb5712c84_b.jpg",
+                "width": 1024,
+                "height": 950,
+                "is_primary": "1",
+                "image_id": "109340"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12095_6dd89df574a61e65_n.jpg",
-                "width":320,
-                "height":300,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109340_1de80fccb5712c84_z.jpg",
+                "width": 640,
+                "height": 594,
+                "is_primary": "1",
+                "image_id": "109340"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12095_6dd89df574a61e65_z.jpg",
-                "width":640,
-                "height":599,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109340_1de80fccb5712c84_n.jpg",
+                "width": 320,
+                "height": 297,
+                "is_primary": "1",
+                "image_id": "109340"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109340_1de80fccb5712c84_d.gif",
+                "width": 320,
+                "height": 297,
+                "is_primary": "1",
+                "image_id": "109340"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109340_1de80fccb5712c84_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109340"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12096_53850d98fc83ec11_b.jpg",
-                "width":887,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12095_6dd89df574a61e65_b.jpg",
+                "width": 1024,
+                "height": 958,
+                "is_primary": "0",
+                "image_id": "12095"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12096_53850d98fc83ec11_n.jpg",
-                "width":277,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12095_6dd89df574a61e65_z.jpg",
+                "width": 640,
+                "height": 599,
+                "is_primary": "0",
+                "image_id": "12095"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12096_53850d98fc83ec11_z.jpg",
-                "width":554,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12095_6dd89df574a61e65_n.jpg",
+                "width": 320,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12095"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12095_6dd89df574a61e65_d.gif",
+                "width": 320,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12095"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12095_6dd89df574a61e65_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12095"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12099_622e3274a0e9f34e_b.jpg",
-                "width":894,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12096_53850d98fc83ec11_b.jpg",
+                "width": 887,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12096"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12099_622e3274a0e9f34e_n.jpg",
-                "width":279,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12096_53850d98fc83ec11_z.jpg",
+                "width": 554,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12096"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12099_622e3274a0e9f34e_z.jpg",
-                "width":559,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12096_53850d98fc83ec11_n.jpg",
+                "width": 277,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12096"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12096_53850d98fc83ec11_d.gif",
+                "width": 277,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12096"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12096_53850d98fc83ec11_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12096"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12098_ba3712cf75d1b9d5_b.jpg",
-                "width":898,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12099_622e3274a0e9f34e_b.jpg",
+                "width": 894,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12099"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12098_ba3712cf75d1b9d5_n.jpg",
-                "width":281,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12099_622e3274a0e9f34e_z.jpg",
+                "width": 559,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12099"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12098_ba3712cf75d1b9d5_z.jpg",
-                "width":561,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12099_622e3274a0e9f34e_n.jpg",
+                "width": 279,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12099"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12099_622e3274a0e9f34e_d.gif",
+                "width": 279,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12099"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12099_622e3274a0e9f34e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12099"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12097_2e5e8f86b454e34c_b.jpg",
-                "width":862,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12098_ba3712cf75d1b9d5_b.jpg",
+                "width": 898,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12098"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12097_2e5e8f86b454e34c_n.jpg",
-                "width":269,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12098_ba3712cf75d1b9d5_z.jpg",
+                "width": 561,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12098"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12097_2e5e8f86b454e34c_z.jpg",
-                "width":539,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12098_ba3712cf75d1b9d5_n.jpg",
+                "width": 281,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12098"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12098_ba3712cf75d1b9d5_d.gif",
+                "width": 281,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12098"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12098_ba3712cf75d1b9d5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12098"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12097_2e5e8f86b454e34c_b.jpg",
+                "width": 862,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12097"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12097_2e5e8f86b454e34c_z.jpg",
+                "width": 539,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12097"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12097_2e5e8f86b454e34c_n.jpg",
+                "width": 269,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12097"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12097_2e5e8f86b454e34c_d.gif",
+                "width": 269,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12097"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12097_2e5e8f86b454e34c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12097"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, \"Le Jardin des Plantes\", 1802\u201318.\n1802\u201318. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Gift of Cora Ginsburg. 1994-80-14."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c2a78f",
-            "closest_css3":"#d2b48c"
+            "person_id": "18041197",
+            "role_id": "35351535",
+            "person_name": "Cora Ginsburg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041197\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#820407",
-            "closest_css3":"#800000"
+            "person_id": "18045593",
+            "role_id": "35236685",
+            "person_name": "Favre Petitpierre",
+            "person_date": "French, 1802 \u2013 1818",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045593\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         },
         {
-            "color":"#aa554b",
-            "closest_css3":"#a0522d"
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#bb7466",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#e0d2bc",
-            "closest_css3":"#f5deb3"
+            "person_id": "18048967",
+            "role_id": "35236657",
+            "person_name": "Petitpierre & Compe. Nantes",
+            "person_date": "French, founded 1770",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048967\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Le Jardin des Plantes, 1802\u201318. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nGift of Cora Ginsburg. 1994-80-14"
+    },
+    "colors": [
+        {
+            "color": "#e1dec1",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#8e474b",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#ad857b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#baa391",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#a96365",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,80 +1,176 @@
 {
-    "id":"18502203",
-    "tms:id":"162005",
-    "accession_number":"1980-14-1226",
-    "title":"Matchsafe, \"\"Bell's Waterproof Wax Vestas\"\", 1900\u201310",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18502203\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431913",
-    "type_id":"35287419",
-    "date":"1900\u201310",
-    "year_start":null,
-    "year_end":"1910",
-    "year_acquired":"1980",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Plated tin, printed",
-    "markings":"No marks",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"4 x 7.2 x 2 cm (1 9\/16 x 2 13\/16 x 13\/16 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"Rectangular, rounded corners, silver colored tin, the lid printed \"BELL'S WATERPROOF WAX VESTAS\" in alternating colors of blue, green and silver. Lid hinged on back. Striker on bottom.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18502203",
+    "tms:id": "162005",
+    "accession_number": "1980-14-1226",
+    "title": "\"Bell's Waterproof Wax Vestas\" Matchsafe, 1900\u201310",
+    "title_raw": "\"Bell's Waterproof Wax Vestas\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18502203\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431913",
+    "type_id": "35287419",
+    "date": "1900\u201310",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1980",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Plated tin, printed",
+    "markings": "No marks",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "4 x 7.2 x 2 cm (1 9\/16 x 2 13\/16 x 13\/16 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "2.00",
+            "centimeters"
+        ],
+        "height": [
+            "4.00",
+            "centimeters"
+        ],
+        "width": [
+            "7.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "Rectangular, rounded corners, silver colored tin, the lid printed \"BELL'S WATERPROOF WAX VESTAS\" in alternating colors of blue, green and silver. Lid hinged on back. Striker on bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9494_12c05127fe0f5819_b.jpg",
-                "width":1024,
-                "height":726,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98042_80994a1509d7a964_b.jpg",
+                "width": 1024,
+                "height": 819,
+                "is_primary": "1",
+                "image_id": "98042"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9494_12c05127fe0f5819_n.jpg",
-                "width":320,
-                "height":227,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98042_80994a1509d7a964_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "98042"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9494_12c05127fe0f5819_z.jpg",
-                "width":640,
-                "height":454,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98042_80994a1509d7a964_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "98042"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98042_80994a1509d7a964_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "98042"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98042_80994a1509d7a964_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "98042"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9494_12c05127fe0f5819_b.jpg",
+                "width": 1024,
+                "height": 726,
+                "is_primary": "0",
+                "image_id": "9494"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9494_12c05127fe0f5819_z.jpg",
+                "width": 640,
+                "height": 454,
+                "is_primary": "0",
+                "image_id": "9494"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9494_12c05127fe0f5819_n.jpg",
+                "width": 320,
+                "height": 227,
+                "is_primary": "0",
+                "image_id": "9494"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9494_12c05127fe0f5819_d.gif",
+                "width": 320,
+                "height": 227,
+                "is_primary": "0",
+                "image_id": "9494"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9494_12c05127fe0f5819_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9494"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"\"Bell's Waterproof Wax Vestas\"\", 1900\u201310.\n1900\u201310. Plated tin, printed. Gift of Stephen W. Brener and Carol B. Brener. 1980-14-1226."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#11365f",
-            "closest_css3":"#191970"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#a0c369",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#081934",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#3d453c",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#2e2a23",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "\"Bell's Waterproof Wax Vestas\" Matchsafe, 1900\u201310. Plated tin, printed. \nGift of Stephen W. Brener and Carol B. Brener. 1980-14-1226"
+    },
+    "colors": [
+        {
+            "color": "#898277",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#1f2950",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#849473",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#aca79a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,87 +1,196 @@
 {
-    "id":"18493085",
-    "tms:id":"157431",
-    "accession_number":"1977-54-1",
-    "title":"Textile, \"Print Nouveau\", 1960",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18493085\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"137161",
-    "type_id":"35251739",
-    "date":"1960",
-    "year_start":"1960",
-    "year_end":"1960",
-    "year_acquired":"1977",
-    "decade":"1960",
-    "woe:country":"23424977",
-    "medium":"Medium: \nTechnique: screen printed on 1\/2 twill",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Printed in selvedge: \"Print Nouveau\" An exclusive hand-print by Larsen Design Corp. \u00a9 1960 by Jack Lenor Larsen Inc.",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 101.3 x 125.4 cm (39 7\/8 x 49 3\/8 in.)\nRepeat H x W: 91.4 x 120.7 cm (36 x 47 1\/2 in.)",
-    "creditline":"Gift of Susanna Ebendorf",
-    "description":"Straight repeat of overall floral pattern with leaves in green, rust, rose, orange and red. All shapes are heavily outlined in black, as in leaded glass.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18493085",
+    "tms:id": "157431",
+    "accession_number": "1977-54-1",
+    "title": "Textile, Print Nouveau, 1960",
+    "title_raw": "Print Nouveau",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18493085\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "137161",
+    "type_id": "35251739",
+    "date": "1960",
+    "year_start": 1960,
+    "year_end": 1960,
+    "year_acquired": "1977",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "Medium: \nTechnique: screen printed on 1\/2 twill",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in selvedge: \"Print Nouveau\" An exclusive hand-print by Larsen Design Corp. \u00a9 1960 by Jack Lenor Larsen Inc.",
+    "provenance": null,
+    "dimensions": "Warp x Weft: 101.3 x 125.4 cm (39 7\/8 x 49 3\/8 in.)\nRepeat H x W: 91.4 x 120.7 cm (36 x 47 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "91.44",
+            "centimeters"
+        ],
+        "warp": [
+            "101.28",
+            "centimeters"
+        ],
+        "weft": [
+            "125.41",
+            "centimeters"
+        ],
+        "width": [
+            "120.65",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Susanna Ebendorf",
+    "description": "Straight repeat of overall floral pattern with leaves in green, rust, rose, orange and red. All shapes are heavily outlined in black, as in leaded glass.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46551_28cb222051b27d8b_b.jpg",
-                "width":1024,
-                "height":835,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46551_76aab7efdee9cd44_b.jpg",
+                "width": 1024,
+                "height": 846,
+                "is_primary": "1",
+                "image_id": "46551"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46551_28cb222051b27d8b_n.jpg",
-                "width":320,
-                "height":261,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46551_76aab7efdee9cd44_z.jpg",
+                "width": 640,
+                "height": 529,
+                "is_primary": "1",
+                "image_id": "46551"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46551_28cb222051b27d8b_z.jpg",
-                "width":640,
-                "height":522,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46551_76aab7efdee9cd44_n.jpg",
+                "width": 320,
+                "height": 264,
+                "is_primary": "1",
+                "image_id": "46551"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46551_76aab7efdee9cd44_d.gif",
+                "width": 320,
+                "height": 264,
+                "is_primary": "1",
+                "image_id": "46551"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46551_76aab7efdee9cd44_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46551"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76956_65ef11b57097396d_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "76956"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76956_65ef11b57097396d_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "76956"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76956_65ef11b57097396d_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "76956"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76956_65ef11b57097396d_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "76956"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76956_65ef11b57097396d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "76956"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045547",
-            "role_id":"35236655",
-            "person_name":"Larsen Design Studio",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045547\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18045519",
+            "role_id": "35236671",
+            "person_name": "Jack Lenor Larsen Incorporated",
+            "person_date": "",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045519\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18045547",
+            "role_id": "35236655",
+            "person_name": "Larsen Design Studio",
+            "person_date": "est. 1958",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045547\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68736527",
+            "role_id": "35351535",
+            "person_name": "Susanna Ebendorf",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736527\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Print Nouveau\", 1960.\n1960. Medium: \nTechnique: screen printed on 1\/2 twill. Gift of Susanna Ebendorf. 1977-54-1."
+    "tombstone": {
+        "epitaph": "Textile, Print Nouveau, 1960. Medium: \nTechnique: screen printed on 1\/2 twill. \nGift of Susanna Ebendorf. 1977-54-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#70231a",
-            "closest_css3":"#8b4513"
+            "color": "#512715",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
         },
         {
-            "color":"#42201b",
-            "closest_css3":"#2f4f4f"
+            "color": "#2b1a12",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         },
         {
-            "color":"#574d30",
-            "closest_css3":"#556b2f"
+            "color": "#3e3c24",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#4f3928",
-            "closest_css3":"#556b2f"
+            "color": "#e1dac3",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#ebddc8",
-            "closest_css3":"#ffe4c4"
+            "color": "#9b806f",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

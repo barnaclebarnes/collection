@@ -1,80 +1,131 @@
 {
-    "id":"18445015",
-    "tms:id":"132999",
-    "accession_number":"1962-51-19",
-    "title":"Tassel, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445015\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35374723",
-    "type_id":"35255087",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Medium: linen, metallic thread\nTechnique: braided and knotted",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 20 x 15 cm (7 7\/8 x 5 7\/8 in.)",
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Pear-shaped linen tassel, braided and knotted. Double loops attached to pear-shaped center unit to which are attached elaborate knottings in shapes of double-headed eagles, floral elements terminating in three dancing figures attached to one another.",
-    "justification":null,
-    "type":{
-        "id":"35255087",
-        "name":"Tassel"
+    "id": "18445015",
+    "tms:id": "132999",
+    "accession_number": "1962-51-19",
+    "title": "Tassel (Italy), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445015\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35374723",
+    "type_id": "35255087",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Medium: linen, metallic thread\nTechnique: braided and knotted",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 20 x 15 cm (7 7\/8 x 5 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "20.00",
+            "centimeters"
+        ],
+        "width": [
+            "15.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Pear-shaped linen tassel, braided and knotted. Double loops attached to pear-shaped center unit to which are attached elaborate knottings in shapes of double-headed eagles, floral elements terminating in three dancing figures attached to one another.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Tassel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44745_439655d26f6cc439_b.jpg",
-                "width":496,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44745_152fc8054e90680d_b.jpg",
+                "width": 450,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "44745"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44745_439655d26f6cc439_n.jpg",
-                "width":155,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44745_152fc8054e90680d_z.jpg",
+                "width": 281,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "44745"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44745_439655d26f6cc439_z.jpg",
-                "width":310,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44745_152fc8054e90680d_n.jpg",
+                "width": 141,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "44745"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44745_152fc8054e90680d_d.gif",
+                "width": 141,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "44745"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44745_152fc8054e90680d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "44745"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Tassel, 17th century.\n17th century. Medium: linen, metallic thread\nTechnique: braided and knotted. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-51-19."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#8b7a61",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#dcd0ba",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#ac9a7f",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#6a5b45",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#493f2f",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Tassel (Italy), 17th century. Medium: linen, metallic thread\nTechnique: braided and knotted. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-51-19"
+    },
+    "colors": [
+        {
+            "color": "#645b45",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#9c947b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#ccc6a6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#7f765c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2a271b",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

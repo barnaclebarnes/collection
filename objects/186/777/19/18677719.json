@@ -1,95 +1,171 @@
 {
-    "id":"18677719",
-    "tms:id":"214325",
-    "accession_number":"1969-165-24",
-    "title":"Textile, \"Gears\", mid-20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18677719\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35251739",
-    "date":"mid-20th century",
-    "year_start":"1940",
-    "year_end":"1960",
-    "year_acquired":"1969",
-    "decade":"1940",
-    "woe:country":null,
-    "medium":"Medium: linen\nTechnique: screen printed on plain weave",
-    "markings":"Paper label removed and placed in research file.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 62 x 121.5 cm (24 7\/16 x 47 13\/16 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Abstract design printed in dark orange on white. Repeat is 17 1\/2\" (44.5). Both selvedges are present, both ends cut. No number.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18677719",
+    "tms:id": "214325",
+    "accession_number": "1969-165-24",
+    "title": "Textile, Gears, mid-20th century",
+    "title_raw": "Gears",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18677719\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35251739",
+    "date": "mid-20th century",
+    "year_start": 1940,
+    "year_end": 1960,
+    "year_acquired": "1969",
+    "decade": "1940",
+    "woe:country_id": null,
+    "medium": "Medium: linen\nTechnique: screen printed on plain weave",
+    "markings": "Paper label removed and placed in research file.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 62 x 121.5 cm (24 7\/16 x 47 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "62.00",
+            "centimeters"
+        ],
+        "width": [
+            "121.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Abstract design printed in dark orange on white. Repeat is 17 1\/2\" (44.5). Both selvedges are present, both ends cut. No number.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7213_507c270b08298c42_b.jpg",
-                "width":1024,
-                "height":544,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90359_a6d00a5e479ad731_b.jpg",
+                "width": 1024,
+                "height": 588,
+                "is_primary": "1",
+                "image_id": "90359"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7213_507c270b08298c42_n.jpg",
-                "width":320,
-                "height":170,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90359_a6d00a5e479ad731_z.jpg",
+                "width": 640,
+                "height": 367,
+                "is_primary": "1",
+                "image_id": "90359"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7213_507c270b08298c42_z.jpg",
-                "width":640,
-                "height":340,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90359_a6d00a5e479ad731_n.jpg",
+                "width": 320,
+                "height": 184,
+                "is_primary": "1",
+                "image_id": "90359"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90359_a6d00a5e479ad731_d.gif",
+                "width": 320,
+                "height": 184,
+                "is_primary": "1",
+                "image_id": "90359"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90359_a6d00a5e479ad731_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90359"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7213_507c270b08298c42_b.jpg",
+                "width": 1024,
+                "height": 544,
+                "is_primary": "0",
+                "image_id": "7213"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7213_507c270b08298c42_z.jpg",
+                "width": 640,
+                "height": 340,
+                "is_primary": "0",
+                "image_id": "7213"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7213_507c270b08298c42_n.jpg",
+                "width": 320,
+                "height": 170,
+                "is_primary": "0",
+                "image_id": "7213"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7213_507c270b08298c42_d.gif",
+                "width": 320,
+                "height": 170,
+                "is_primary": "0",
+                "image_id": "7213"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7213_507c270b08298c42_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7213"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Gears\", mid-20th century.\nmid-20th century. Medium: linen\nTechnique: screen printed on plain weave. Gift of Alexander H. Girard. 1969-165-24."
+    "tombstone": {
+        "epitaph": "Textile, Gears, mid-20th century. Medium: linen\nTechnique: screen printed on plain weave. \nGift of Alexander H. Girard. 1969-165-24"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#9d271d",
-            "closest_css3":"#a52a2a"
+            "color": "#90471f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#ccb8c4",
-            "closest_css3":"#c0c0c0"
+            "color": "#dcd5b5",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
         },
         {
-            "color":"#8f8299",
-            "closest_css3":"#778899"
+            "color": "#b3865e",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#72687a",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#ad5457",
-            "closest_css3":"#cd5c5c"
+            "color": "#a5683e",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

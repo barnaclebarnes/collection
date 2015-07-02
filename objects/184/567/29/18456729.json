@@ -1,49 +1,122 @@
 {
-    "id":"18456729",
-    "tms:id":"138923",
-    "accession_number":"1967-45-10-a,b",
-    "title":"Statue",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18456729\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35421495",
-    "type_id":"35259591",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1967",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Gilt bronze, stone",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 15.9 x 16 x 10 cm (6 1\/4 x 6 5\/16 x 3 15\/16 in.)",
-    "creditline":"Gift of Anonymous Donor",
-    "description":"Head, stag",
-    "justification":null,
-    "type":{
-        "id":"35259591",
-        "name":"Statue"
+    "id": "18456729",
+    "tms:id": "138923",
+    "accession_number": "1967-45-10-a,b",
+    "title": "Statue",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18456729\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35421495",
+    "type_id": "35259591",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1967",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Gilt bronze, stone",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 15.9 x 16 x 10 cm (6 1\/4 x 6 5\/16 x 3 15\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "10.00",
+            "centimeters"
+        ],
+        "height": [
+            "15.90",
+            "centimeters"
+        ],
+        "width": [
+            "16.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Anonymous Donor",
+    "description": "Head, stag",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Statue",
+    "images": [
         {
-            "person_id":"18049335",
-            "role_id":"35351535",
-            "person_name":"Anonymous",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104746_ce7f57e5dbd16dc5_b.jpg",
+                "width": 938,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "104746"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104746_ce7f57e5dbd16dc5_z.jpg",
+                "width": 586,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "104746"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104746_ce7f57e5dbd16dc5_n.jpg",
+                "width": 293,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104746"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104746_ce7f57e5dbd16dc5_d.gif",
+                "width": 293,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104746"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104746_ce7f57e5dbd16dc5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104746"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Statue.\nGilt bronze, stone. Gift of Anonymous Donor. 1967-45-10-a,b."
+    "participants": [
+        {
+            "person_id": "18049335",
+            "role_id": "35351535",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Statue. Gilt bronze, stone. \nGift of Anonymous Donor. 1967-45-10-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#554125",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#796744",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#978e79",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

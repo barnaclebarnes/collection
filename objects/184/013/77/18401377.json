@@ -1,95 +1,445 @@
 {
-    "id":"18401377",
-    "tms:id":"110867",
-    "accession_number":"1954-63-1-1\/100",
-    "title":"Sample Book, \"The Architect's Book of One Hundred Wallpapers\", 1954\u201355",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18401377\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367333",
-    "type_id":"35247403",
-    "date":"1954\u201355",
-    "year_start":"1954",
-    "year_end":"1955",
-    "year_acquired":"1954",
-    "decade":"1950",
-    "woe:country":"23424975",
-    "medium":"Machine-printed on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 25.5 x 40.5 cm (10 1\/16 x 15 15\/16 in.)",
-    "creditline":"Gift of Eric A. Entwisle",
-    "description":"Forty-nine different wallpaper designs which, with their color alternates, amount to one hundred samples. The wallpapers are printed by machine, embossed and in some cases, hand printed (probably silk screen). The contents are grouped as follows: Patterned Papers, Spot Papers, Textures, Water Resisting Papers.",
-    "justification":null,
-    "type":{
-        "id":"35247403",
-        "name":"sample book"
+    "id": "18401377",
+    "tms:id": "110867",
+    "accession_number": "1954-63-1-1\/100",
+    "title": "Sample Book, The Architect's Book of One Hundred Wallpapers, 1954\u201355",
+    "title_raw": "The Architect's Book of One Hundred Wallpapers",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18401377\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35247403",
+    "date": "1954\u201355",
+    "year_start": 1954,
+    "year_end": 1955,
+    "year_acquired": "1954",
+    "decade": "1950",
+    "woe:country_id": "23424975",
+    "medium": "Machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Eric A. Entwisle; 1954: acquired by Museum",
+    "dimensions": "H x W: 25.5 x 40.5 cm (10 1\/16 x 15 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "25.50",
+            "centimeters"
+        ],
+        "width": [
+            "40.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eric A. Entwisle",
+    "description": "Forty-nine different wallpaper designs which, with their color alternates, amount to one hundred samples. The wallpapers are printed by machine, embossed and in some cases, hand printed (probably silk screen). The contents are grouped as follows: Patterned Papers, Spot Papers, Textures, Water Resisting Papers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "sample book",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5017_a2d5ec24042d3baa_b.jpg",
-                "width":791,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90143_38c573bcc47dd57d_b.jpg",
+                "width": 812,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90143"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5017_a2d5ec24042d3baa_n.jpg",
-                "width":247,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90143_38c573bcc47dd57d_z.jpg",
+                "width": 507,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90143"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5017_a2d5ec24042d3baa_z.jpg",
-                "width":495,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90143_38c573bcc47dd57d_n.jpg",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90143"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90143_38c573bcc47dd57d_d.gif",
+                "width": 254,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90143"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90143_38c573bcc47dd57d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90143"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90146_26d8f26a81e47c5c_b.jpg",
+                "width": 739,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90146"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90146_26d8f26a81e47c5c_z.jpg",
+                "width": 462,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90146"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90146_26d8f26a81e47c5c_n.jpg",
+                "width": 231,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90146"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90146_26d8f26a81e47c5c_d.gif",
+                "width": 231,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90146"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90146_26d8f26a81e47c5c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90146"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90141_06d5b7b70925a77e_b.jpg",
+                "width": 789,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90141"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90141_06d5b7b70925a77e_z.jpg",
+                "width": 493,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90141"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90141_06d5b7b70925a77e_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90141"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90141_06d5b7b70925a77e_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90141"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90141_06d5b7b70925a77e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90141"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90144_b367fbd7ce0bb9c1_b.jpg",
+                "width": 822,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90144"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90144_b367fbd7ce0bb9c1_z.jpg",
+                "width": 514,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90144"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90144_b367fbd7ce0bb9c1_n.jpg",
+                "width": 257,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90144"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90144_b367fbd7ce0bb9c1_d.gif",
+                "width": 257,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90144"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90144_b367fbd7ce0bb9c1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90144"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90140_d4e70c9876c1b36d_b.jpg",
+                "width": 769,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90140"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90140_d4e70c9876c1b36d_z.jpg",
+                "width": 480,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90140"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90140_d4e70c9876c1b36d_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90140"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90140_d4e70c9876c1b36d_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90140"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90140_d4e70c9876c1b36d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90140"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90147_7c43c72954e35d0c_b.jpg",
+                "width": 733,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90147"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90147_7c43c72954e35d0c_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90147"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90147_7c43c72954e35d0c_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90147"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90147_7c43c72954e35d0c_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90147"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90147_7c43c72954e35d0c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90147"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90145_00db423f4ebb5a55_b.jpg",
+                "width": 845,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90145"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90145_00db423f4ebb5a55_z.jpg",
+                "width": 528,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90145"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90145_00db423f4ebb5a55_n.jpg",
+                "width": 264,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90145"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90145_00db423f4ebb5a55_d.gif",
+                "width": 264,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90145"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90145_00db423f4ebb5a55_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90145"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90142_77dc88d6a7d4733f_b.jpg",
+                "width": 802,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90142"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90142_77dc88d6a7d4733f_z.jpg",
+                "width": 501,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90142"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90142_77dc88d6a7d4733f_n.jpg",
+                "width": 251,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90142"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90142_77dc88d6a7d4733f_d.gif",
+                "width": 251,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90142"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90142_77dc88d6a7d4733f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90142"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5017_a2d5ec24042d3baa_b.jpg",
+                "width": 791,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "5017"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5017_a2d5ec24042d3baa_z.jpg",
+                "width": 495,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "5017"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5017_a2d5ec24042d3baa_n.jpg",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "5017"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5017_a2d5ec24042d3baa_d.gif",
+                "width": 247,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "5017"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5017_a2d5ec24042d3baa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "5017"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045935",
-            "role_id":"35236655",
-            "person_name":"Lucienne Day",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045935\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18056413",
+            "role_id": "35351535",
+            "person_name": "Eric A. Entwisle",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056413\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18048063",
-            "role_id":"35236657",
-            "person_name":"The Wall Paper Manufacturers Limited",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048063\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047829",
+            "role_id": "35352245",
+            "person_name": "Horace L. Hotchkiss, Jr.",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047829\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045935",
+            "role_id": "35236655",
+            "person_name": "Lucienne Day",
+            "person_date": "English, 1917\u20132010",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045935\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18048063",
+            "role_id": "35236685",
+            "person_name": "The Wall Paper Manufacturers Limited",
+            "person_date": "United Kingdom",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048063\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample Book, \"The Architect's Book of One Hundred Wallpapers\", 1954\u201355.\n1954\u201355. Machine-printed on paper. Gift of Eric A. Entwisle. 1954-63-1-1\/100."
+    "tombstone": {
+        "epitaph": "Sample Book, The Architect's Book of One Hundred Wallpapers, 1954\u201355. Machine-printed on paper. \nGift of Eric A. Entwisle. 1954-63-1-1\/100"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d2cec7",
-            "closest_css3":"#d3d3d3"
+            "color": "#c1bdb2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#bf5641",
-            "closest_css3":"#cd5c5c"
+            "color": "#c09c73",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#afa2a7",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#972517",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#c88f84",
-            "closest_css3":"#bc8f8f"
+            "color": "#99744e",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

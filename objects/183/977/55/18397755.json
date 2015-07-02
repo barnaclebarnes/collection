@@ -1,42 +1,129 @@
 {
-    "id":"18397755",
-    "tms:id":"109043",
-    "accession_number":"1953-26-2",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18397755\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of the Estate of Christian Francis Rosborg",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18397755",
+    "tms:id": "109043",
+    "accession_number": "1953-26-2",
+    "title": "Drawing, Design for a small library: front elevation, section, plan, ca. 1905",
+    "title_raw": "Design for a small library: front elevation, section, plan",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18397755\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51688835",
+    "type_id": "35237093",
+    "date": "ca. 1905",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Pen and ink, brush and watercolor, gray wash on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in black ink, lower left: C. F. Rosborg \/ Pupil \/ of \/ Haydel and Shephard, Archts. \/ Inc. 156 Fifth Ave. N. Y.",
+    "provenance": "Christian Francis Rosborg: 1953: acquired by Museum",
+    "dimensions": "78.6 x 59.2 cm (30 15\/16 x 23 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "78.60",
+            "centimeters"
+        ],
+        "width": [
+            "59.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of the Estate of Christian Francis Rosborg",
+    "description": "Front elevation, above, of a small building in the classical style, standing on a podium. Center, a section through a side elevation, showing the vestibule, delivery room, and Stack room. Plan, below, and detail of order (Corinthian), left.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61635_9774a3555911c840_b.jpg",
+                "width": 771,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "61635"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61635_9774a3555911c840_z.jpg",
+                "width": 482,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "61635"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61635_9774a3555911c840_n.jpg",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61635"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61635_9774a3555911c840_d.gif",
+                "width": 241,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61635"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61635_9774a3555911c840_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "61635"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042173",
+            "role_id": "35236663",
+            "person_name": "Christian Francis Rosborg",
+            "person_date": "1881 \u2013 1953",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042173\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+        },
+        {
+            "person_id": "18056861",
+            "role_id": "35351535",
+            "person_name": "Estate of Christian Francis Rosborg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056861\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nGift of the Estate of Christian Francis Rosborg. 1953-26-2."
+    "tombstone": {
+        "epitaph": "Drawing, Design for a small library: front elevation, section, plan, ca. 1905. Pen and ink, brush and watercolor, gray wash on paper. \nGift of the Estate of Christian Francis Rosborg. 1953-26-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#afa57b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#8a815f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#56513e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,49 +1,141 @@
 {
-    "id":"18617881",
-    "tms:id":"177474",
-    "accession_number":"1981-29-38",
-    "title":"Poster, \"The Brooklyn Children's Museum\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617881\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 63.5 x 48.2 cm (25 x 19 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617881",
+    "tms:id": "177474",
+    "accession_number": "1981-29-38",
+    "title": "Poster, The Brooklyn Children's Museum, 1977",
+    "title_raw": "The Brooklyn Children's Museum",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617881\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1977",
+    "year_start": 1977,
+    "year_end": 1977,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Imprinted in black ink, lower left: Seymour Chwast; lower right: The Brooklyn Children\u2019s Museum is a Department of The Brooklyn Institute of Arts and Sciences",
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "63.5 x 48.2 cm (25 x 19 in.)",
+    "dimensions_raw": {
+        "height": [
+            "63.50",
+            "centimeters"
+        ],
+        "width": [
+            "48.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Poster featuring green walking toy with flowers coming out of head on white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042087",
-            "role_id":"35236655",
-            "person_name":"Seymour Chwast",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042087\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82678_b4649e05def95903_b.jpg",
+                "width": 776,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82678"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82678_b4649e05def95903_z.jpg",
+                "width": 485,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82678"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82678_b4649e05def95903_n.jpg",
+                "width": 243,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82678"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82678_b4649e05def95903_d.gif",
+                "width": 243,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82678"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82678_b4649e05def95903_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82678"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"The Brooklyn Children's Museum\".\nOverall: 63.5 x 48.2 cm (25 x 19 in.). Gift of Various Donors. 1981-29-38."
+    "participants": [
+        {
+            "person_id": "18042087",
+            "role_id": "35236655",
+            "person_name": "Seymour Chwast",
+            "person_date": "American, b. 1931",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042087\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "68777705",
+            "role_id": "35236667",
+            "person_name": "The Brooklyn Institute of Arts and Sciences",
+            "person_date": "Brooklyn, New York, USA",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68777705\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, The Brooklyn Children's Museum, 1977. Lithograph on paper. \nGift of Various Donors. 1981-29-38"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#378b36",
+            "closest_crayola": "#17806d",
+            "closest_css3": "#228b22",
+            "closest_css4": "#228b22"
+        },
+        {
+            "color": "#e1d741",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#c25b1f",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#2f3425",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#385a32",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

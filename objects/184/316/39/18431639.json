@@ -1,49 +1,154 @@
 {
-    "id":"18431639",
-    "tms:id":"126237",
-    "accession_number":"1960-163-74-a,b",
-    "title":"Scenic - Panel, \"Valencia\", 1930\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18431639\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35376083",
-    "type_id":"35287557",
-    "date":"1930\u201340",
-    "year_start":"1930",
-    "year_end":"1940",
-    "year_acquired":"1960",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"chromolithograph",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"208 x 49.5 cm (81 7\/8 x 19 1\/2 in.)",
-    "creditline":"Gift of Wallpaper Council, Inc.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35287557",
-        "name":"Scenic - panel"
+    "id": "18431639",
+    "tms:id": "126237",
+    "accession_number": "1960-163-74-a,b",
+    "title": "Scenic - Panel, Valencia, 1930\u201340",
+    "title_raw": "Valencia",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18431639\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35376083",
+    "type_id": "35287557",
+    "date": "1930\u201340",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1960",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "chromolithograph",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "208 x 49.5 cm (81 7\/8 x 19 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "208.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Wallpaper Council, Inc.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Scenic - panel",
+    "images": [
         {
-            "person_id":"18046573",
-            "role_id":"35236671",
-            "person_name":"The Schmitz-Horning Co.",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046573\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95168_0152a5a91e23b477_b.jpg",
+                "width": 255,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "95168"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95168_0152a5a91e23b477_z.jpg",
+                "width": 159,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "95168"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95168_0152a5a91e23b477_n.jpg",
+                "width": 80,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95168"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95168_0152a5a91e23b477_d.gif",
+                "width": 80,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95168"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95168_0152a5a91e23b477_sq.jpg",
+                "width": 255,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "95168"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95996_c8a18f4a99f3fd05_b.jpg",
+                "width": 256,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95996"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95996_c8a18f4a99f3fd05_z.jpg",
+                "width": 160,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95996"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95996_c8a18f4a99f3fd05_n.jpg",
+                "width": 80,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95996"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95996_c8a18f4a99f3fd05_d.gif",
+                "width": 80,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95996"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95996_c8a18f4a99f3fd05_sq.jpg",
+                "width": 256,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95996"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Scenic - Panel, \"Valencia\", 1930\u201340.\n1930\u201340. chromolithograph. Gift of Wallpaper Council, Inc.. 1960-163-74-a,b."
+    "participants": [
+        {
+            "person_id": "18058445",
+            "role_id": "35351535",
+            "person_name": "Wallpaper Council, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046573",
+            "role_id": "35236671",
+            "person_name": "The Schmitz-Horning Co.",
+            "person_date": "1905",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046573\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Scenic - Panel, Valencia, 1930\u201340. chromolithograph. \nGift of Wallpaper Council, Inc.. 1960-163-74-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#c0af7e",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

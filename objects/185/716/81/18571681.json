@@ -1,42 +1,115 @@
 {
-    "id":"18571681",
-    "tms:id":"79542",
-    "accession_number":"1944-44-14",
-    "title":"Border, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18571681\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"120495",
-    "type_id":"35237285",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1944",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium:\nTechnique: bobbin lace, late valencienne ground",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mary T. Cockcroft",
-    "description":"Design of separate leaf motifs with dots above a border of flower motifs arranged to form scallops.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
-    },
-    "images":[
-
+    "id": "18571681",
+    "tms:id": "79542",
+    "accession_number": "1944-44-14",
+    "title": "Border, 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18571681\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "120495",
+    "type_id": "35237285",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1944",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium:\nTechnique: bobbin lace, late valencienne ground",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mary T. Cockcroft",
+    "description": "Design of separate leaf motifs with dots above a border of flower motifs arranged to form scallops.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70899_94212e55db2c6d65_b.jpg",
+                "width": 1024,
+                "height": 411,
+                "is_primary": "1",
+                "image_id": "70899"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70899_94212e55db2c6d65_z.jpg",
+                "width": 640,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "70899"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70899_94212e55db2c6d65_n.jpg",
+                "width": 320,
+                "height": 128,
+                "is_primary": "1",
+                "image_id": "70899"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70899_94212e55db2c6d65_d.gif",
+                "width": 320,
+                "height": 128,
+                "is_primary": "1",
+                "image_id": "70899"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70899_94212e55db2c6d65_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "70899"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052527",
+            "role_id": "35351535",
+            "person_name": "Mary T. Cockcroft",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052527\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Border, 19th century.\n19th century. Medium:\nTechnique: bobbin lace, late valencienne ground. Gift of Mary T. Cockcroft. 1944-44-14."
+    "tombstone": {
+        "epitaph": "Border, 19th century. Medium:\nTechnique: bobbin lace, late valencienne ground. \nGift of Mary T. Cockcroft. 1944-44-14"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#242e2e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#2e1e17",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#4e5553",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6d7574",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

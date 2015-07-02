@@ -1,42 +1,143 @@
 {
-    "id":"18461269",
-    "tms:id":"141239",
-    "accession_number":"1968-110-114",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18461269\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367167",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":"printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. Germaine Little",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18461269",
+    "tms:id": "141239",
+    "accession_number": "1968-110-114",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18461269\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367167",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. Germaine Little",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110629_88883b6abd285730_b.jpg",
+                "width": 773,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110629"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110629_88883b6abd285730_z.jpg",
+                "width": 483,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110629"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110629_88883b6abd285730_n.jpg",
+                "width": 242,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110629"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110629_88883b6abd285730_d.gif",
+                "width": 242,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110629"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110629_88883b6abd285730_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110629"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75177_37f44d9955333a9c_b.jpg",
+                "width": 720,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "75177"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75177_37f44d9955333a9c_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "75177"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75177_37f44d9955333a9c_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "75177"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75177_37f44d9955333a9c_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "75177"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75177_37f44d9955333a9c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "75177"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nprinted. Gift of Mrs. Germaine Little. 1968-110-114."
+    "tombstone": {
+        "epitaph": "Textile. printed. \nGift of Mrs. Germaine Little. 1968-110-114"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ae9960",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#524b3c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#887b55",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#6e6857",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,87 +1,133 @@
 {
-    "id":"18384731",
-    "tms:id":"102499",
-    "accession_number":"1950-5-11",
-    "title":"Print, \"Peter and John Healing the Cripple at the Gate of the Temple\", 1659",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18384731\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35428055",
-    "type_id":"35236873",
-    "date":"1659",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1950",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Etching on laid paper",
-    "markings":null,
-    "signed":"Signed and dated in plate, lower left: Rembrandt f. 1659",
-    "inscribed":null,
-    "provenance":"Leo Wallerstein",
-    "dimensions":"13.9 x 20.5 cm (5 1\/2 x 8 1\/16 in.)",
-    "creditline":"Gift of Leo Wallerstein",
-    "description":"An archway in the foreground; SS. Peter and John stand above the figure of the crippled man, left foreground. Groups of figures to the left and right in the background.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18384731",
+    "tms:id": "102499",
+    "accession_number": "1950-5-11",
+    "title": "Print, Peter and John Healing the Cripple at the Gate of the Temple, 1659",
+    "title_raw": "Peter and John Healing the Cripple at the Gate of the Temple",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18384731\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35428055",
+    "type_id": "35236873",
+    "date": "1659",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1950",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Etching on laid paper",
+    "markings": null,
+    "signed": "Signed and dated in plate, lower left: Rembrandt f. 1659",
+    "inscribed": null,
+    "provenance": "Leo Wallerstein",
+    "dimensions": "13.9 x 20.5 cm (5 1\/2 x 8 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "13.90",
+            "centimeters"
+        ],
+        "width": [
+            "20.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Leo Wallerstein",
+    "description": "An archway in the foreground; SS. Peter and John stand above the figure of the crippled man, left foreground. Groups of figures to the left and right in the background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45998_456e0bf6e1437452_b.jpg",
-                "width":1024,
-                "height":852,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45998_8e3b3f93cc03beee_b.jpg",
+                "width": 1024,
+                "height": 851,
+                "is_primary": "1",
+                "image_id": "45998"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45998_456e0bf6e1437452_n.jpg",
-                "width":320,
-                "height":266,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45998_8e3b3f93cc03beee_z.jpg",
+                "width": 640,
+                "height": 532,
+                "is_primary": "1",
+                "image_id": "45998"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45998_456e0bf6e1437452_z.jpg",
-                "width":640,
-                "height":532,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45998_8e3b3f93cc03beee_n.jpg",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "45998"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45998_8e3b3f93cc03beee_d.gif",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "45998"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45998_8e3b3f93cc03beee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45998"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043087",
-            "role_id":"35236565",
-            "person_name":"Rembrandt Harmensz van Rijn",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043087\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18043087",
+            "role_id": "35236565",
+            "person_name": "Rembrandt Harmensz van Rijn",
+            "person_date": "Dutch, 1606\u20131669",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043087\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18052753",
+            "role_id": "35351535",
+            "person_name": "Leo Wallerstein",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052753\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"Peter and John Healing the Cripple at the Gate of the Temple\", 1659.\n1659. Etching on laid paper. Gift of Leo Wallerstein. 1950-5-11."
+    "tombstone": {
+        "epitaph": "Print, Peter and John Healing the Cripple at the Gate of the Temple, 1659. Etching on laid paper. \nGift of Leo Wallerstein. 1950-5-11"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#dfd9c7",
-            "closest_css3":"#d3d3d3"
+            "color": "#928d7c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#b9b09d",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#55514a",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#797163",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#968d7c",
-            "closest_css3":"#808080"
+            "color": "#615e52",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

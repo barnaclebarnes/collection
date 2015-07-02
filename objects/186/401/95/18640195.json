@@ -1,42 +1,117 @@
 {
-    "id":"18640195",
-    "tms:id":"194962",
-    "accession_number":"1992-5-35",
-    "title":"Pitcher",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18640195\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35237237",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1992",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"Porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"14.8 x 19 x 8.2 cm (5 13\/16 x 7 1\/2 x 3 1\/4 in.)",
-    "creditline":"Gift of Wendy Vanderbilt Lehman",
-    "description":"Export helmut shaped pitcher.",
-    "justification":null,
-    "type":{
-        "id":"35237237",
-        "name":"Pitcher"
+    "id": "18640195",
+    "tms:id": "194962",
+    "accession_number": "1992-5-35",
+    "title": "Pitcher (China)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18640195\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237237",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1992",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "Porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "14.8 x 19 x 8.2 cm (5 13\/16 x 7 1\/2 x 3 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "8.20",
+            "centimeters"
+        ],
+        "height": [
+            "14.80",
+            "centimeters"
+        ],
+        "width": [
+            "19.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Wendy Vanderbilt Lehman",
+    "description": "Export helmut shaped pitcher.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "Pitcher",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109481_cd1afa18321fbb34_b.jpg",
+                "width": 1024,
+                "height": 859,
+                "is_primary": "1",
+                "image_id": "109481"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109481_cd1afa18321fbb34_z.jpg",
+                "width": 640,
+                "height": 537,
+                "is_primary": "1",
+                "image_id": "109481"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109481_cd1afa18321fbb34_n.jpg",
+                "width": 320,
+                "height": 268,
+                "is_primary": "1",
+                "image_id": "109481"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109481_cd1afa18321fbb34_d.gif",
+                "width": 320,
+                "height": 268,
+                "is_primary": "1",
+                "image_id": "109481"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109481_cd1afa18321fbb34_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109481"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18041027",
+            "role_id": "35351535",
+            "person_name": "Mrs. Wendy Vanderbilt Lehman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041027\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Pitcher.\nPorcelain. Gift of Wendy Vanderbilt Lehman. 1992-5-35."
+    "tombstone": {
+        "epitaph": "Pitcher (China). Porcelain. \nGift of Wendy Vanderbilt Lehman. 1992-5-35"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#9e8f77",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#8a6e60",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

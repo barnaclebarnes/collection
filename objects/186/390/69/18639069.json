@@ -1,87 +1,163 @@
 {
-    "id":"18639069",
-    "tms:id":"194396",
-    "accession_number":"1992-139-79",
-    "title":"Sidewall, 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18639069\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1920\u201340",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1992",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook",
-    "description":"Medallion stripe design. A medallion containing a stylized floral motif on a broken stripe, alternates with an unbroken stripe. There is a small, all-over diagonal motif in the background. Printed on brown oatmeal paper.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
-    },
-    "images":[
+    "id": "18639069",
+    "tms:id": "194396",
+    "accession_number": "1992-139-79",
+    "title": "Sidewall (USA), 1920\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18639069\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1920\u201340",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1992",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook",
+    "description": "Medallion stripe design. A medallion containing a stylized floral motif on a broken stripe, alternates with an unbroken stripe. There is a small, all-over diagonal motif in the background. Printed on brown oatmeal paper.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11949_4eb9d45f72152105_b.jpg",
-                "width":715,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60409_579fdddac9e206d8_b.jpg",
+                "width": 623,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "60409"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11949_4eb9d45f72152105_n.jpg",
-                "width":224,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60409_579fdddac9e206d8_z.jpg",
+                "width": 389,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "60409"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11949_4eb9d45f72152105_z.jpg",
-                "width":447,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60409_579fdddac9e206d8_n.jpg",
+                "width": 195,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "60409"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60409_579fdddac9e206d8_d.gif",
+                "width": 195,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "60409"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60409_579fdddac9e206d8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "60409"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11949_4eb9d45f72152105_b.jpg",
+                "width": 715,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11949"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11949_4eb9d45f72152105_z.jpg",
+                "width": 447,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11949"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11949_4eb9d45f72152105_n.jpg",
+                "width": 224,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11949"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11949_4eb9d45f72152105_d.gif",
+                "width": 224,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11949"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11949_4eb9d45f72152105_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11949"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043897",
-            "role_id":"35236657",
-            "person_name":"Robert Graves Co.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043897\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18043897",
+            "role_id": "35236657",
+            "person_name": "Robert Graves Co.",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043897\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1920\u201340.\n1920\u201340. Machine-printed. Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook. 1992-139-79."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1920\u201340. Machine-printed. \nGift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook. 1992-139-79"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a08b74",
-            "closest_css3":"#808080"
+            "color": "#86794d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#87674b",
-            "closest_css3":"#696969"
+            "color": "#9e966c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#503d2a",
-            "closest_css3":"#556b2f"
+            "color": "#453b27",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#dbc6ad",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#bf9b8c",
-            "closest_css3":"#bc8f8f"
+            "color": "#bbb59d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

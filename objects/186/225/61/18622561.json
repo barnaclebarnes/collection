@@ -1,42 +1,131 @@
 {
-    "id":"18622561",
-    "tms:id":"186117",
-    "accession_number":"1987-46-72",
-    "title":"Sample",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622561\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"140925",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Technique: printed by black and red roller on red plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 3.7 x 3.8 cm (1 7\/16 x 1 1\/2 in.)",
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":"Black arches on red creating a vine-like shape.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18622561",
+    "tms:id": "186117",
+    "accession_number": "1987-46-72",
+    "title": "Sample (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18622561\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "140925",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1987",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Technique: printed by black and red roller on red plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 3.7 x 3.8 cm (1 7\/16 x 1 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "3.70",
+            "centimeters"
+        ],
+        "width": [
+            "3.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": "Black arches on red creating a vine-like shape.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78104_dfb35abd3fd7240b_b.jpg",
+                "width": 1024,
+                "height": 1006,
+                "is_primary": "1",
+                "image_id": "78104"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78104_dfb35abd3fd7240b_z.jpg",
+                "width": 640,
+                "height": 629,
+                "is_primary": "1",
+                "image_id": "78104"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78104_dfb35abd3fd7240b_n.jpg",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "78104"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78104_dfb35abd3fd7240b_d.gif",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "78104"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78104_dfb35abd3fd7240b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "78104"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sample.\nTechnique: printed by black and red roller on red plain weave. Museum purchase from Au Panier Fleuri Fund. 1987-46-72."
+    "tombstone": {
+        "epitaph": "Sample (England). Technique: printed by black and red roller on red plain weave. \nMuseum purchase from Au Panier Fleuri Fund. 1987-46-72"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d7322c",
+            "closest_crayola": "#ff2b2b",
+            "closest_css3": "#dc143c",
+            "closest_css4": "#dc143c"
+        },
+        {
+            "color": "#7f170f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#2a1517",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#562e26",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#e16261",
+            "closest_crayola": "#cc6666",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,87 +1,151 @@
 {
-    "id":"18449189",
-    "tms:id":"135110",
-    "accession_number":"1963-39-938",
-    "title":"Drawing, \"Mexican Landscape\", 1945\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18449189\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"51496707",
-    "type_id":"35237093",
-    "date":"1945\u201350",
-    "year_start":"1945",
-    "year_end":"1950",
-    "year_acquired":"1963",
-    "decade":"1940",
-    "woe:country":"23424977",
-    "medium":"Brush and watercolor on cold laid paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"30.4 x 40.5 cm (11 15\/16 x 15 15\/16 in.)",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"In the foreground, rooftops of a town, with a sign in white on black: ROYAL HOTEL. Barren yellow hills in the background.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18449189",
+    "tms:id": "135110",
+    "accession_number": "1963-39-938",
+    "title": "Drawing, Mexican Landscape, 1945\u201350",
+    "title_raw": "Mexican Landscape",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18449189\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51496707",
+    "type_id": "35237093",
+    "date": "1945\u201350",
+    "year_start": 1945,
+    "year_end": 1950,
+    "year_acquired": "1963",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Brush and watercolor on cold laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "30.4 x 40.5 cm (11 15\/16 x 15 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.40",
+            "centimeters"
+        ],
+        "width": [
+            "40.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "In the foreground, rooftops of a town, with a sign in white on black: ROYAL HOTEL. Barren yellow hills in the background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55121_abecf53420f86140_b.jpg",
-                "width":1024,
-                "height":779,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55121_57b92fc74fab75ee_b.jpg",
+                "width": 1024,
+                "height": 765,
+                "is_primary": "1",
+                "image_id": "55121"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55121_abecf53420f86140_n.jpg",
-                "width":320,
-                "height":243,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55121_57b92fc74fab75ee_z.jpg",
+                "width": 640,
+                "height": 478,
+                "is_primary": "1",
+                "image_id": "55121"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55121_abecf53420f86140_z.jpg",
-                "width":640,
-                "height":487,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55121_57b92fc74fab75ee_n.jpg",
+                "width": 320,
+                "height": 239,
+                "is_primary": "1",
+                "image_id": "55121"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55121_57b92fc74fab75ee_d.gif",
+                "width": 320,
+                "height": 239,
+                "is_primary": "1",
+                "image_id": "55121"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55121_57b92fc74fab75ee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "55121"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Mexican Landscape\", 1945\u201350.\n1945\u201350. Brush and watercolor on cold laid paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-938."
+    "tombstone": {
+        "epitaph": "Drawing, Mexican Landscape, 1945\u201350. Brush and watercolor on cold laid paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-938"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d7d4c8",
-            "closest_css3":"#d3d3d3"
+            "color": "#e5ec7c",
+            "closest_crayola": "#f0e891",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
         },
         {
-            "color":"#eada56",
-            "closest_css3":"#f0e68c"
+            "color": "#cbcabe",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#dccb97",
-            "closest_css3":"#deb887"
+            "color": "#cac38c",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#c0d9e7",
-            "closest_css3":"#b0e0e6"
+            "color": "#c1cfe0",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
         },
         {
-            "color":"#d6a823",
-            "closest_css3":"#daa520"
+            "color": "#ada13f",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

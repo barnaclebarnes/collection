@@ -1,42 +1,159 @@
 {
-    "id":"18474075",
-    "tms:id":"147797",
-    "accession_number":"1971-50-147",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474075\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367389",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424848",
-    "medium":"embroidered",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":"Red, blue and ivory",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18474075",
+    "tms:id": "147797",
+    "accession_number": "1971-50-147",
+    "title": "Textile (India)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474075\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367389",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424848",
+    "medium": "embroidered",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": "Red, blue and ivory",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424848",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75891_8540ef982e3fa4ed_b.jpg",
+                "width": 1024,
+                "height": 753,
+                "is_primary": "1",
+                "image_id": "75891"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75891_8540ef982e3fa4ed_z.jpg",
+                "width": 640,
+                "height": 471,
+                "is_primary": "1",
+                "image_id": "75891"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75891_8540ef982e3fa4ed_n.jpg",
+                "width": 320,
+                "height": 235,
+                "is_primary": "1",
+                "image_id": "75891"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75891_8540ef982e3fa4ed_d.gif",
+                "width": 320,
+                "height": 235,
+                "is_primary": "1",
+                "image_id": "75891"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75891_8540ef982e3fa4ed_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75891"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113293_08d0e311058df7af_b.jpg",
+                "width": 1024,
+                "height": 1014,
+                "is_primary": "0",
+                "image_id": "113293"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113293_08d0e311058df7af_z.jpg",
+                "width": 640,
+                "height": 633,
+                "is_primary": "0",
+                "image_id": "113293"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113293_08d0e311058df7af_n.jpg",
+                "width": 320,
+                "height": 317,
+                "is_primary": "0",
+                "image_id": "113293"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113293_08d0e311058df7af_d.gif",
+                "width": 320,
+                "height": 317,
+                "is_primary": "0",
+                "image_id": "113293"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113293_08d0e311058df7af_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113293"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nembroidered. Bequest of Marian Hague. 1971-50-147."
+    "tombstone": {
+        "epitaph": "Textile (India). embroidered. \nBequest of Marian Hague. 1971-50-147"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d91d24",
+            "closest_crayola": "#ff2b2b",
+            "closest_css3": "#dc143c",
+            "closest_css4": "#dc143c"
+        },
+        {
+            "color": "#1c325d",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#10133e",
+            "closest_crayola": "#000000",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#3c2646",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5d1629",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        }
+    ],
+    "woe:country_name": "India",
+    "is_loan_object": 0
 }

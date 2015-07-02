@@ -1,42 +1,131 @@
 {
-    "id":"18398611",
-    "tms:id":"109479",
-    "accession_number":"1953-70-2-a,b",
-    "title":"Mat",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18398611\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35406923",
-    "type_id":"35270365",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":"23424802",
-    "medium":"fiber mat",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35270365",
-        "name":"Mat"
+    "id": "18398611",
+    "tms:id": "109479",
+    "accession_number": "1953-70-2-a,b",
+    "title": "Mat (Egypt)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18398611\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35406923",
+    "type_id": "35270365",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": "23424802",
+    "medium": "fiber mat",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (a): 47 x 27.9 cm (18 1\/2 in. x 11 in.)\nH x W (b): 15.9 x 15.2 cm (6 1\/4 in. x 6 in.)",
+    "dimensions_raw": {
+        "height": [
+            "46.99",
+            "centimeters"
+        ],
+        "width": [
+            "27.94",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424802",
+    "type": "Mat",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63344_98e903dd16dc6051_b.jpg",
+                "width": 1024,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63344"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63344_98e903dd16dc6051_z.jpg",
+                "width": 640,
+                "height": 400,
+                "is_primary": "1",
+                "image_id": "63344"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63344_98e903dd16dc6051_n.jpg",
+                "width": 320,
+                "height": 200,
+                "is_primary": "1",
+                "image_id": "63344"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63344_98e903dd16dc6051_d.gif",
+                "width": 320,
+                "height": 200,
+                "is_primary": "1",
+                "image_id": "63344"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63344_98e903dd16dc6051_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63344"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18538867",
+            "role_id": "35352249",
+            "person_name": "Frank J. Tano",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538867\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Mat.\nfiber mat. Museum purchase from Au Panier Fleuri Fund. 1953-70-2-a,b."
+    "tombstone": {
+        "epitaph": "Mat (Egypt). fiber mat. \nMuseum purchase from Au Panier Fleuri Fund. 1953-70-2-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#c2ba96",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#402f1e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#634e32",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#806e4a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a29671",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Egypt",
+    "is_loan_object": 0
 }

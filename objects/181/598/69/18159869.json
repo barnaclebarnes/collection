@@ -1,49 +1,110 @@
 {
-    "id":"18159869",
-    "tms:id":"16331",
-    "accession_number":"1908-26-54",
-    "title":"Mount, ca. 1715",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18159869\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35372063",
-    "type_id":"35259245",
-    "date":"ca. 1715",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1908",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Gilt bronze",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":"head",
-    "justification":null,
-    "type":{
-        "id":"35259245",
-        "name":"Mount"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18159869",
+    "tms:id": "16331",
+    "accession_number": "1908-26-54",
+    "title": "Mount (France), ca. 1715",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18159869\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35372063",
+    "type_id": "35259245",
+    "date": "ca. 1715",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1908",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Gilt bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "head",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Mount",
+    "images": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110960_730e9d859437d899_b.jpg",
+                "width": 1024,
+                "height": 540,
+                "is_primary": "1",
+                "image_id": "110960"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110960_730e9d859437d899_z.jpg",
+                "width": 640,
+                "height": 338,
+                "is_primary": "1",
+                "image_id": "110960"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110960_730e9d859437d899_n.jpg",
+                "width": 320,
+                "height": 169,
+                "is_primary": "1",
+                "image_id": "110960"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110960_730e9d859437d899_d.gif",
+                "width": 320,
+                "height": 169,
+                "is_primary": "1",
+                "image_id": "110960"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110960_730e9d859437d899_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110960"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Mount, ca. 1715.\nca. 1715. Gilt bronze. Purchased for the Museum by the Advisory Council. 1908-26-54."
+    "participants": [
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Mount (France), ca. 1715. Gilt bronze. \nPurchased for the Museum by the Advisory Council. 1908-26-54"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#5f5643",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#81765c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2c271e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

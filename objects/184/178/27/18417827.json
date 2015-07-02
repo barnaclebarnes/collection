@@ -1,42 +1,109 @@
 {
-    "id":"18417827",
-    "tms:id":"119144",
-    "accession_number":"1957-180-104-b",
-    "title":"Textile, \"Old Ford\", mid\u2013late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18417827\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"mid\u2013late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1957",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: cotton\nTechnique: copperplate printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of the estate of Mrs. Lathrop Colgate Harper",
-    "description":"Two fragments, printed in brown, showing a part of the design \"Old Ford\" drawn in 1761. This is probably an English version as it differs in quality and detail from the French printing. Shepherd seated on a stone wall playing the flute, shepherdess with a distaff and sheep are shown.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18417827",
+    "tms:id": "119144",
+    "accession_number": "1957-180-104-b",
+    "title": "Textile, Old Ford, mid\u2013late 18th century",
+    "title_raw": "Old Ford",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18417827\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "mid\u2013late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1957",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: cotton\nTechnique: copperplate printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of the estate of Mrs. Lathrop Colgate Harper",
+    "description": "Two fragments, printed in brown, showing a part of the design \"Old Ford\" drawn in 1761. This is probably an English version as it differs in quality and detail from the French printing. Shepherd seated on a stone wall playing the flute, shepherdess with a distaff and sheep are shown.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73550_7394df5822c09551_b.jpg",
+                "width": 1024,
+                "height": 670,
+                "is_primary": "1",
+                "image_id": "73550"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73550_7394df5822c09551_z.jpg",
+                "width": 640,
+                "height": 419,
+                "is_primary": "1",
+                "image_id": "73550"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73550_7394df5822c09551_n.jpg",
+                "width": 320,
+                "height": 209,
+                "is_primary": "1",
+                "image_id": "73550"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73550_7394df5822c09551_d.gif",
+                "width": 320,
+                "height": 209,
+                "is_primary": "1",
+                "image_id": "73550"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73550_7394df5822c09551_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "73550"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049995",
+            "role_id": "35351535",
+            "person_name": "Estate of Mrs. Lathrop Colgate Harper",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049995\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Old Ford\", mid\u2013late 18th century.\nmid\u2013late 18th century. Medium: cotton\nTechnique: copperplate printed. Gift of the estate of Mrs. Lathrop Colgate Harper. 1957-180-104-b."
+    "tombstone": {
+        "epitaph": "Textile, Old Ford, mid\u2013late 18th century. Medium: cotton\nTechnique: copperplate printed. \nGift of the estate of Mrs. Lathrop Colgate Harper. 1957-180-104-b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b29996",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#716660",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8d817b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

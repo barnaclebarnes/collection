@@ -1,65 +1,132 @@
 {
-    "id":"18627199",
-    "tms:id":"188436",
-    "accession_number":"1988-101-834",
-    "title":"Drawing, \"Ashtrays, two\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18627199\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35379921",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1988",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"graphite\nSupport: tracing paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Inscribed dimensions Inscribed in graphite at lower right: No P. wanted\/X Inscribed in graphite at lower left: II",
-    "provenance":null,
-    "dimensions":"34.7 x 37.3 cm (13 11\/16 x 14 11\/16 in.)\nTorn, lower bottom",
-    "creditline":"Gift of Donald Deskey",
-    "description":"Scale: 1 1\/2 \"=1'-0\"",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18627199",
+    "tms:id": "188436",
+    "accession_number": "1988-101-834",
+    "title": "Drawing, Ashtrays, two",
+    "title_raw": "Ashtrays, two",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18627199\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35379921",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1988",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "graphite\nSupport: tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed dimensions Inscribed in graphite at lower right: No P. wanted\/X Inscribed in graphite at lower left: II",
+    "provenance": null,
+    "dimensions": "34.7 x 37.3 cm (13 11\/16 x 14 11\/16 in.)\nTorn, lower bottom",
+    "dimensions_raw": {
+        "height": [
+            "34.70",
+            "centimeters"
+        ],
+        "width": [
+            "37.30",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Donald Deskey",
+    "description": "Scale: 1 1\/2 \"=1'-0\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18041973",
-            "role_id":"35351535",
-            "person_name":"Donald Deskey",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041973\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
-        },
-        {
-            "person_id":"18047487",
-            "role_id":"35352245",
-            "person_name":"KH",
-            "role_name":"Cataloguer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047487\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
-        },
-        {
-            "person_id":"18041973",
-            "role_id":"35236703",
-            "person_name":"Donald Deskey",
-            "role_name":"Office of",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041973\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117516_5b8877560beb8c8f_b.jpg",
+                "width": 1024,
+                "height": 937,
+                "is_primary": "1",
+                "image_id": "117516"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117516_5b8877560beb8c8f_z.jpg",
+                "width": 640,
+                "height": 585,
+                "is_primary": "1",
+                "image_id": "117516"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117516_5b8877560beb8c8f_n.jpg",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "117516"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117516_5b8877560beb8c8f_d.gif",
+                "width": 320,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "117516"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117516_5b8877560beb8c8f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "117516"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Ashtrays, two\".\ngraphite\nSupport: tracing paper. Gift of Donald Deskey. 1988-101-834."
+    "participants": [
+        {
+            "person_id": "18041973",
+            "role_id": "35351535",
+            "person_name": "Donald Deskey",
+            "person_date": "American, 1894\u20131989",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041973\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047487",
+            "role_id": "35352245",
+            "person_name": "KH",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047487\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18048255",
+            "role_id": "35352245",
+            "person_name": "Dr. Gail Davidson",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048255\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041973",
+            "role_id": "35236703",
+            "person_name": "Donald Deskey",
+            "person_date": "American, 1894\u20131989",
+            "role_name": "Office of",
+            "role_display_name": "Office of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041973\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Ashtrays, two. graphite\nSupport: tracing paper. \nGift of Donald Deskey. 1988-101-834"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

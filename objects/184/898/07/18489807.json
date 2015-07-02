@@ -1,72 +1,110 @@
 {
-    "id":"18489807",
-    "tms:id":"155777",
-    "accession_number":"1976-103-176",
-    "title":"Stencil",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489807\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35288579",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Helen Snyder",
-    "dimensions":null,
-    "creditline":"Gift of Helen Snyder",
-    "description":"Alternating vertical columns, one with plant forms and one with diagonal stripes.",
-    "justification":null,
-    "type":{
-        "id":"35288579",
-        "name":"Stencil"
-    },
-    "images":[
+    "id": "18489807",
+    "tms:id": "155777",
+    "accession_number": "1976-103-176",
+    "title": "Katagami, Leaves and Bamboo, late 19th\u2013early 20th century",
+    "title_raw": "Leaves and Bamboo",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18489807\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68264769",
+    "type_id": "51589549",
+    "date": "late 19th\u2013early 20th century",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "Cut mulberry paper treated with persimmon tannin and silk thread",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Helen Snyder",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Helen Snyder",
+    "description": "Alternating vertical columns, one with plant forms and one with diagonal stripes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Katagami",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44894_301bfb348e7be632_b.jpg",
-                "width":1024,
-                "height":738,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44894_10ed8238f885770a_b.jpg",
+                "width": 1024,
+                "height": 749,
+                "is_primary": "1",
+                "image_id": "44894"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44894_301bfb348e7be632_n.jpg",
-                "width":320,
-                "height":231,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44894_10ed8238f885770a_z.jpg",
+                "width": 640,
+                "height": 468,
+                "is_primary": "1",
+                "image_id": "44894"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44894_301bfb348e7be632_z.jpg",
-                "width":640,
-                "height":461,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44894_10ed8238f885770a_n.jpg",
+                "width": 320,
+                "height": 234,
+                "is_primary": "1",
+                "image_id": "44894"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44894_10ed8238f885770a_d.gif",
+                "width": 320,
+                "height": 234,
+                "is_primary": "1",
+                "image_id": "44894"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44894_10ed8238f885770a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "44894"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Stencil.\nGift of Helen Snyder. 1976-103-176."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#5f473b",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#6a645e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#928b87",
-            "closest_css3":"#808080"
+            "person_id": "18061335",
+            "role_id": "35351535",
+            "person_name": "Helen Snyder",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Katagami, Leaves and Bamboo, late 19th\u2013early 20th century. Cut mulberry paper treated with persimmon tannin and silk thread. \nGift of Helen Snyder. 1976-103-176"
+    },
+    "colors": [
+        {
+            "color": "#4c443c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6d6963",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8e8a86",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

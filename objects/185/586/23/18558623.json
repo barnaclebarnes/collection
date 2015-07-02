@@ -1,42 +1,116 @@
 {
-    "id":"18558623",
-    "tms:id":"72512",
-    "accession_number":"1940-120-58",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18558623\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1940",
-    "decade":null,
-    "woe:country":"23424750",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mary Hearn Greims",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18558623",
+    "tms:id": "72512",
+    "accession_number": "1940-120-58",
+    "title": "Drawing, Wallpaper Design, 1830\u201350",
+    "title_raw": "Wallpaper Design",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18558623\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35421791",
+    "type_id": "35237093",
+    "date": "1830\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1940",
+    "decade": null,
+    "woe:country_id": "23424750",
+    "medium": "Brush and gouache, graphite on white paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1940: acquired by Museum",
+    "dimensions": "33.9 x 24.7 cm (13 3\/8 x 9 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.90",
+            "centimeters"
+        ],
+        "width": [
+            "24.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Mary Hearn Greims",
+    "description": "A dado is shown at the bottom, an entablature on top, with a green molding at the bottom. The grey panel is decorated with rows of painted ovoids showing rosettes in frames. Rosettes are in the wedges. The alternative suggestions refer to different colorings.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63523_bda08d61a37b5303_b.jpg",
+                "width": 742,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63523"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63523_bda08d61a37b5303_z.jpg",
+                "width": 463,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63523"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63523_bda08d61a37b5303_n.jpg",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63523"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63523_bda08d61a37b5303_d.gif",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63523"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63523_bda08d61a37b5303_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63523"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mary Hearn Greims. 1940-120-58."
+    "tombstone": {
+        "epitaph": "Drawing, Wallpaper Design, 1830\u201350. Brush and gouache, graphite on white paper. \nMuseum purchase through gift of Mary Hearn Greims. 1940-120-58"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#dad7c3",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#808089",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#434859",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#616577",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

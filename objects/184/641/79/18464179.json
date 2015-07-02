@@ -1,87 +1,204 @@
 {
-    "id":"18464179",
-    "tms:id":"142695",
-    "accession_number":"1968-135-35",
-    "title":"Purse, 1910\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464179\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35421891",
-    "type_id":"35264073",
-    "date":"1910\u201330",
-    "year_start":"1910",
-    "year_end":"1930",
-    "year_acquired":"1968",
-    "decade":"1910",
-    "woe:country":null,
-    "medium":"Medium: glass beads, cotton, metal\nTechnique: knitted in crossed stockinette stitch with beads",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 19.7 x 18.4 cm (7 3\/4 x 7 1\/4 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"Square bag drawn in at top by metal frame with snap clasp. Stylized scarab forms part of a geometric pattern scheme. Lined with red silk.",
-    "justification":null,
-    "type":{
-        "id":"35264073",
-        "name":"Purse"
+    "id": "18464179",
+    "tms:id": "142695",
+    "accession_number": "1968-135-35",
+    "title": "Purse, 1910\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18464179\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35421891",
+    "type_id": "35264073",
+    "date": "1910\u201330",
+    "year_start": 1910,
+    "year_end": 1930,
+    "year_acquired": "1968",
+    "decade": "1910",
+    "woe:country_id": null,
+    "medium": "Medium: glass beads, cotton, metal\nTechnique: knitted in crossed stockinette stitch with beads",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 19.7 x 18.4 cm (7 3\/4 x 7 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "19.69",
+            "centimeters"
+        ],
+        "width": [
+            "18.42",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Square bag drawn in at top by metal frame with snap clasp. Stylized scarab forms part of a geometric pattern scheme. Lined with red silk.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Purse",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7026_b6c1651afed47349_b.jpg",
-                "width":644,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100108_3dfa00b46eede4fe_b.jpg",
+                "width": 609,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "100108"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7026_b6c1651afed47349_n.jpg",
-                "width":201,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100108_3dfa00b46eede4fe_z.jpg",
+                "width": 380,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "100108"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7026_b6c1651afed47349_z.jpg",
-                "width":403,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100108_3dfa00b46eede4fe_n.jpg",
+                "width": 190,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "100108"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100108_3dfa00b46eede4fe_d.gif",
+                "width": 190,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "100108"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100108_3dfa00b46eede4fe_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "100108"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96944_cf768cc2baea3a63_b.jpg",
+                "width": 609,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "96944"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96944_cf768cc2baea3a63_z.jpg",
+                "width": 380,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "96944"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96944_cf768cc2baea3a63_n.jpg",
+                "width": 190,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "96944"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96944_cf768cc2baea3a63_d.gif",
+                "width": 190,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "96944"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/96944_cf768cc2baea3a63_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "96944"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7026_b6c1651afed47349_b.jpg",
+                "width": 644,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "7026"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7026_b6c1651afed47349_z.jpg",
+                "width": 403,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "7026"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7026_b6c1651afed47349_n.jpg",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7026"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7026_b6c1651afed47349_d.gif",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7026"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7026_b6c1651afed47349_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7026"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044421",
-            "role_id":"35351535",
-            "person_name":"Patricia Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18044421",
+            "role_id": "35351535",
+            "person_name": "Patricia Smith",
+            "person_date": "1919 \u2013 1988",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Purse, 1910\u201330.\n1910\u201330. Medium: glass beads, cotton, metal\nTechnique: knitted in crossed stockinette stitch with beads. Gift of Harvey Smith. 1968-135-35."
+    "tombstone": {
+        "epitaph": "Purse, 1910\u201330. Medium: glass beads, cotton, metal\nTechnique: knitted in crossed stockinette stitch with beads. \nGift of Harvey Smith. 1968-135-35"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#898897",
-            "closest_css3":"#778899"
+            "color": "#918782",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#5e5c65",
-            "closest_css3":"#696969"
+            "color": "#a57f34",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#423f43",
-            "closest_css3":"#2f4f4f"
+            "color": "#80502f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#4b8fc5",
-            "closest_css3":"#4682b4"
+            "color": "#4d443e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#7b4331",
-            "closest_css3":"#8b4513"
+            "color": "#d0b65b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

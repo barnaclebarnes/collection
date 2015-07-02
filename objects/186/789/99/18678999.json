@@ -1,95 +1,178 @@
 {
-    "id":"18678999",
-    "tms:id":"214969",
-    "accession_number":"1969-165-735",
-    "title":"Sample, \"Toostripe\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18678999\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35429941",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: cotton (46%), wool (33%), and nylon (21%)\nTechnique: warp-faced twill",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Warp-faced twill in vertical stripes of orange and dark red. Plain weave binding foundation has light brown warp and weft threads. Number 1900.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18678999",
+    "tms:id": "214969",
+    "accession_number": "1969-165-735",
+    "title": "Sample, Toostripe",
+    "title_raw": "Toostripe",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18678999\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35429941",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1969",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton (46%), wool (33%), and nylon (21%)\nTechnique: warp-faced twill",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "30.48",
+            "centimeters"
+        ],
+        "weft": [
+            "30.48",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Warp-faced twill in vertical stripes of orange and dark red. Plain weave binding foundation has light brown warp and weft threads. Number 1900.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17062_c341f599549f6681_b.jpg",
-                "width":1022,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111932_cd6cb3be98439faa_b.jpg",
+                "width": 976,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111932"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17062_c341f599549f6681_n.jpg",
-                "width":320,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111932_cd6cb3be98439faa_z.jpg",
+                "width": 610,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111932"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17062_c341f599549f6681_z.jpg",
-                "width":639,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111932_cd6cb3be98439faa_n.jpg",
+                "width": 305,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111932"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111932_cd6cb3be98439faa_d.gif",
+                "width": 305,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111932"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111932_cd6cb3be98439faa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111932"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17062_c341f599549f6681_b.jpg",
+                "width": 1022,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "17062"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17062_c341f599549f6681_z.jpg",
+                "width": 639,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "17062"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17062_c341f599549f6681_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17062"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17062_c341f599549f6681_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17062"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17062_c341f599549f6681_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17062"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Toostripe\".\nMedium: cotton (46%), wool (33%), and nylon (21%)\nTechnique: warp-faced twill. Gift of Alexander H. Girard. 1969-165-735."
+    "tombstone": {
+        "epitaph": "Sample, Toostripe. Medium: cotton (46%), wool (33%), and nylon (21%)\nTechnique: warp-faced twill. \nGift of Alexander H. Girard. 1969-165-735"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#f4263b",
-            "closest_css3":"#dc143c"
+            "color": "#a43b28",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
         },
         {
-            "color":"#ff4e2d",
-            "closest_css3":"#ff6347"
+            "color": "#99414d",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#665f59",
-            "closest_css3":"#696969"
+            "color": "#771f30",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
         },
         {
-            "color":"#c18b76",
-            "closest_css3":"#bc8f8f"
+            "color": "#f4eecb",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#ffebcd",
+            "closest_css4": "#ffebcd"
         },
         {
-            "color":"#ecc9b2",
-            "closest_css3":"#f5deb3"
+            "color": "#8f8079",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

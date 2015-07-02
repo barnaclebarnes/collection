@@ -1,80 +1,196 @@
 {
-    "id":"18648783",
-    "tms:id":"199301",
-    "accession_number":"1994-33-6",
-    "title":"Textile, 1783\u201389",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18648783\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1783\u201389",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1994",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave (Note that the printing plate was wider than the fabric. The printing goes over the selvedge at the right.)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 165.5 cm [65.25\"] Cut top and bottom. Weft: 51 cm [20\"] Selvedge on right. Cut on left.\nPattern: Height of repeat: 90 cm [35.5\"]",
-    "creditline":"Gift of Martin Kamer",
-    "description":"Repeating pattern of birds perched in a tree; butterflies, rockery, nest with eggs. Red on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18648783",
+    "tms:id": "199301",
+    "accession_number": "1994-33-6",
+    "title": "Textile (France), 1783\u201389",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18648783\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1783\u201389",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1994",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave (Note that the printing plate was wider than the fabric. The printing goes over the selvedge at the right.)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp: 165.5 cm [65.25\"] Cut top and bottom. Weft: 51 cm [20\"] Selvedge on right. Cut on left.\nPattern: Height of repeat: 90 cm [35.5\"]",
+    "dimensions_raw": {
+        "height": [
+            "90.00",
+            "centimeters"
+        ],
+        "warp": [
+            "165.50",
+            "centimeters"
+        ],
+        "weft": [
+            "51.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Martin Kamer",
+    "description": "Repeating pattern of birds perched in a tree; butterflies, rockery, nest with eggs. Red on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12044_1d03bada0aebdcc0_b.jpg",
-                "width":649,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111304_6c15dcab026f4170_b.jpg",
+                "width": 383,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111304"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12044_1d03bada0aebdcc0_n.jpg",
-                "width":203,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111304_6c15dcab026f4170_z.jpg",
+                "width": 239,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111304"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12044_1d03bada0aebdcc0_z.jpg",
-                "width":405,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111304_6c15dcab026f4170_n.jpg",
+                "width": 120,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111304"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111304_6c15dcab026f4170_d.gif",
+                "width": 120,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111304"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111304_6c15dcab026f4170_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111304"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12044_1d03bada0aebdcc0_b.jpg",
+                "width": 649,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12044"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12044_1d03bada0aebdcc0_z.jpg",
+                "width": 405,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12044"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12044_1d03bada0aebdcc0_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12044"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12044_1d03bada0aebdcc0_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12044"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12044_1d03bada0aebdcc0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12044"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1783\u201389.\n1783\u201389. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave (Note that the printing plate was wider than the fabric. The printing goes over the selvedge at the right.). Gift of Martin Kamer. 1994-33-6."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#9c8077",
-            "closest_css3":"#808080"
+            "person_id": "18041685",
+            "role_id": "35351535",
+            "person_name": "Martin Kamer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041685\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#e6d0cb",
-            "closest_css3":"#d3d3d3"
+            "person_id": "18041199",
+            "role_id": "35351535",
+            "person_name": "Mr. Martin Kamer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041199\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#5e4b47",
-            "closest_css3":"#556b2f"
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#846662",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#bf9d95",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18045425",
+            "role_id": "35236681",
+            "person_name": "Oberkampf & Cie.",
+            "person_date": "Jouy-en-Josas, France, 1759 \u2013 1815",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045425\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), 1783\u201389. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave (Note that the printing plate was wider than the fabric. The printing goes over the selvedge at the right.). \nGift of Martin Kamer. 1994-33-6"
+    },
+    "colors": [
+        {
+            "color": "#b28c8a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#9d6769",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#853f47",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#c6aea7",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

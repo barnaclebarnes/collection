@@ -1,42 +1,109 @@
 {
-    "id":"18644845",
-    "tms:id":"197326",
-    "accession_number":"1993-20-8",
-    "title":"Fragment, 1978",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18644845\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35393767",
-    "type_id":"35254623",
-    "date":"1978",
-    "year_start":"1978",
-    "year_end":"1978",
-    "year_acquired":"1993",
-    "decade":"1970",
-    "woe:country":null,
-    "medium":"Silk, velvet",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Frank Stanton in memory of Ruth Stephenson Stanton",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18644845",
+    "tms:id": "197326",
+    "accession_number": "1993-20-8",
+    "title": "Fragment, 1978",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18644845\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35393767",
+    "type_id": "35254623",
+    "date": "1978",
+    "year_start": 1978,
+    "year_end": 1978,
+    "year_acquired": "1993",
+    "decade": "1970",
+    "woe:country_id": null,
+    "medium": "Silk, velvet",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Frank Stanton in memory of Ruth Stephenson Stanton",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111899_74eb5ee60680ae19_b.jpg",
+                "width": 599,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111899"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111899_74eb5ee60680ae19_z.jpg",
+                "width": 374,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111899"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111899_74eb5ee60680ae19_n.jpg",
+                "width": 187,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111899"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111899_74eb5ee60680ae19_d.gif",
+                "width": 187,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111899"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111899_74eb5ee60680ae19_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111899"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18041249",
+            "role_id": "35351535",
+            "person_name": "Dr. Frank Stanton",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041249\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 1978.\n1978. Silk, velvet. Gift of Frank Stanton in memory of Ruth Stephenson Stanton. 1993-20-8."
+    "tombstone": {
+        "epitaph": "Fragment, 1978. Silk, velvet. \nGift of Frank Stanton in memory of Ruth Stephenson Stanton. 1993-20-8"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#5a323d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#341f24",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7a6264",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

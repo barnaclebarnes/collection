@@ -1,80 +1,158 @@
 {
-    "id":"18325575",
-    "tms:id":"47381",
-    "accession_number":"1931-6-3-a\/j",
-    "title":"Set Of Ten Buttons, 1775\u201380",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18325575\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35411225",
-    "type_id":"35285987",
-    "date":"1775\u201380",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Paper, silk, glass, copper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Sarah Cooper Hewitt; 1931: acquired by Museum",
-    "dimensions":"Diam.: 3.8 cm (1 1\/2 in.)",
-    "creditline":"Bequest of Sarah Cooper Hewitt",
-    "description":"The cut paper (decoupage) is over a woven blue silk that creates a more minutely detailed but similar effect to the ivory and foil buttons of the period.  These depict a goatherd couple with love altar and celebrating under trees.",
-    "justification":null,
-    "type":{
-        "id":"35285987",
-        "name":"Set of ten buttons"
+    "id": "18325575",
+    "tms:id": "47381",
+    "accession_number": "1931-6-3-a\/j",
+    "title": "Set Of Ten Buttons (France), 1775\u201380",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18325575\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "68264555",
+    "type_id": "35285987",
+    "date": "1775\u201380",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Cut paper on silk set in copper with glass covers",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Sarah Cooper Hewitt; 1931: acquired by Museum",
+    "dimensions": "Diam.: 3.8 cm (1 1\/2 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "3.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Sarah Cooper Hewitt",
+    "description": "The cut paper (decoupage) is over a woven blue silk that creates a more minutely detailed but similar effect to the ivory and foil buttons of the period.  These depict a goatherd couple with love altar and celebrating under trees.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424819",
+    "type": "Set of ten buttons",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29502_dedeee4d65e0385c_b.jpg",
-                "width":1024,
-                "height":728,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91560_deb61dc84bebb327_b.jpg",
+                "width": 1024,
+                "height": 723,
+                "is_primary": "1",
+                "image_id": "91560"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29502_dedeee4d65e0385c_n.jpg",
-                "width":320,
-                "height":228,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91560_deb61dc84bebb327_z.jpg",
+                "width": 640,
+                "height": 452,
+                "is_primary": "1",
+                "image_id": "91560"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29502_dedeee4d65e0385c_z.jpg",
-                "width":640,
-                "height":455,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91560_deb61dc84bebb327_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "1",
+                "image_id": "91560"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91560_deb61dc84bebb327_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "1",
+                "image_id": "91560"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91560_deb61dc84bebb327_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91560"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29502_dedeee4d65e0385c_b.jpg",
+                "width": 1024,
+                "height": 728,
+                "is_primary": "0",
+                "image_id": "29502"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29502_dedeee4d65e0385c_z.jpg",
+                "width": 640,
+                "height": 455,
+                "is_primary": "0",
+                "image_id": "29502"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29502_dedeee4d65e0385c_n.jpg",
+                "width": 320,
+                "height": 228,
+                "is_primary": "0",
+                "image_id": "29502"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29502_dedeee4d65e0385c_d.gif",
+                "width": 320,
+                "height": 228,
+                "is_primary": "0",
+                "image_id": "29502"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29502_dedeee4d65e0385c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29502"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Set Of Ten Buttons, 1775\u201380.\n1775\u201380. Paper, silk, glass, copper. Bequest of Sarah Cooper Hewitt. 1931-6-3-a\/j."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d0cbb1",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#6f7e88",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#a4a499",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#536067",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#43423b",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18049321",
+            "role_id": "35351537",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Set Of Ten Buttons (France), 1775\u201380. Cut paper on silk set in copper with glass covers. \nBequest of Sarah Cooper Hewitt. 1931-6-3-a\/j"
+    },
+    "colors": [
+        {
+            "color": "#627076",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9c9d95",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#d1cdba",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#3e3d36",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

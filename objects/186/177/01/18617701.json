@@ -1,49 +1,131 @@
 {
-    "id":"18617701",
-    "tms:id":"177383",
-    "accession_number":"1981-29-299",
-    "title":"Poster, \"BYU Philharmonic Orchestra\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617701\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 45.8 x 64 cm (18 1\/16 x 25 3\/16 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617701",
+    "tms:id": "177383",
+    "accession_number": "1981-29-299",
+    "title": "Poster, BYU Philharmonic Orchestra",
+    "title_raw": "BYU Philharmonic Orchestra",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617701\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35407799",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "Overall: 45.8 x 64 cm (18 1\/16 x 25 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "45.80",
+            "centimeters"
+        ],
+        "width": [
+            "64.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "On a black ground, colorful sound waves across poster.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042421",
-            "role_id":"35236667",
-            "person_name":"Brigham Young University",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82692_a59e580558c8a344_b.jpg",
+                "width": 1024,
+                "height": 733,
+                "is_primary": "1",
+                "image_id": "82692"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82692_a59e580558c8a344_z.jpg",
+                "width": 640,
+                "height": 458,
+                "is_primary": "1",
+                "image_id": "82692"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82692_a59e580558c8a344_n.jpg",
+                "width": 320,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "82692"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82692_a59e580558c8a344_d.gif",
+                "width": 320,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "82692"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82692_a59e580558c8a344_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82692"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"BYU Philharmonic Orchestra\".\nOverall: 45.8 x 64 cm (18 1\/16 x 25 3\/16 in.). Gift of Various Donors. 1981-29-299."
+    "participants": [
+        {
+            "person_id": "18042421",
+            "role_id": "35236667",
+            "person_name": "Brigham Young University",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, BYU Philharmonic Orchestra. Lithograph on wove paper. \nGift of Various Donors. 1981-29-299"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#72bd59",
+            "closest_crayola": "#71bc78",
+            "closest_css3": "#9acd32",
+            "closest_css4": "#9acd32"
+        },
+        {
+            "color": "#7b4263",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3e3871",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#e39630",
+            "closest_crayola": "#ffa343",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#73afd3",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#6495ed",
+            "closest_css4": "#6495ed"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

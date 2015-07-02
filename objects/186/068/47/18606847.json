@@ -1,87 +1,188 @@
 {
-    "id":"18606847",
-    "tms:id":"96949",
-    "accession_number":"1947-72-1",
-    "title":"Sidewall, 1945",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18606847\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1945",
-    "year_start":"1945",
-    "year_end":"1945",
-    "year_acquired":"1947",
-    "decade":"1940",
-    "woe:country":"23424975",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"81 x 56 cm (31 7\/8 x 22 1\/16 in.)",
-    "creditline":"Gift of Rose J. Dirksen",
-    "description":"Romantic landscape vignettes in style of Watteau or Boucher. A shepherdess tends her flock seated beneath a tree. Behind, a man peeps through the branches watching her. In the distance is an old fort or castle. Above, a pair of seated lovers regard a bird in a cage which the man holds. Small village in background.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18606847",
+    "tms:id": "96949",
+    "accession_number": "1947-72-1",
+    "title": "Sidewall (England), 1945",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18606847\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1945",
+    "year_start": 1945,
+    "year_end": 1945,
+    "year_acquired": "1947",
+    "decade": "1940",
+    "woe:country_id": "23424975",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "81 x 56 cm (31 7\/8 x 22 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "81.00",
+            "centimeters"
+        ],
+        "width": [
+            "56.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Rose J. Dirksen",
+    "description": "Romantic landscape vignettes in style of Watteau or Boucher. A shepherdess tends her flock seated beneath a tree. Behind, a man peeps through the branches watching her. In the distance is an old fort or castle. Above, a pair of seated lovers regard a bird in a cage which the man holds. Small village in background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4701_642c385ddac4216d_b.jpg",
-                "width":720,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63779_024c06de98872c5d_b.jpg",
+                "width": 716,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63779"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4701_642c385ddac4216d_n.jpg",
-                "width":225,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63779_024c06de98872c5d_z.jpg",
+                "width": 448,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63779"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4701_642c385ddac4216d_z.jpg",
-                "width":450,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63779_024c06de98872c5d_n.jpg",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63779"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63779_024c06de98872c5d_d.gif",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63779"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63779_024c06de98872c5d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63779"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4701_642c385ddac4216d_b.jpg",
+                "width": 720,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "4701"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4701_642c385ddac4216d_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "4701"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4701_642c385ddac4216d_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4701"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4701_642c385ddac4216d_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4701"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4701_642c385ddac4216d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "4701"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046379",
-            "role_id":"35236657",
-            "person_name":"Crown Wallcoverings Ltd.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046379\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047829",
+            "role_id": "35352245",
+            "person_name": "Horace L. Hotchkiss, Jr.",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047829\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046379",
+            "role_id": "35236657",
+            "person_name": "Crown Wallcoverings Ltd.",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "68736361",
+            "role_id": "35351535",
+            "person_name": "Rose J. Dirksen",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736361\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1945.\n1945. Machine-printed. Gift of Rose J. Dirksen. 1947-72-1."
+    "tombstone": {
+        "epitaph": "Sidewall (England), 1945. Machine-printed. \nGift of Rose J. Dirksen. 1947-72-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cac8b1",
-            "closest_css3":"#c0c0c0"
+            "color": "#beba84",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#606957",
-            "closest_css3":"#696969"
+            "color": "#7f8968",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#3b3220",
-            "closest_css3":"#2f4f4f"
+            "color": "#847249",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#979482",
-            "closest_css3":"#808080"
+            "color": "#32291c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#e1f1df",
-            "closest_css3":"#f5f5dc"
+            "color": "#5d6439",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

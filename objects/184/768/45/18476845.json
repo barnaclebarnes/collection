@@ -1,42 +1,128 @@
 {
-    "id":"18476845",
-    "tms:id":"149201",
-    "accession_number":"1972-5-17-a\/c",
-    "title":"Inkwell",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476845\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35259539",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 61 x 24 x 20.5 cm (24 x 9 7\/16 x 8 1\/16 in.)",
-    "creditline":"Bequest of Julian Clarence Levi",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35259539",
-        "name":"Inkwell"
+    "id": "18476845",
+    "tms:id": "149201",
+    "accession_number": "1972-5-17-a\/c",
+    "title": "Inkwell",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476845\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35259539",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 61 x 24 x 20.5 cm (24 x 9 7\/16 x 8 1\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "20.50",
+            "centimeters"
+        ],
+        "height": [
+            "61.00",
+            "centimeters"
+        ],
+        "width": [
+            "24.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Julian Clarence Levi",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Inkwell",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104429_cfbe358cde0af917_b.jpg",
+                "width": 1024,
+                "height": 535,
+                "is_primary": "1",
+                "image_id": "104429"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104429_cfbe358cde0af917_z.jpg",
+                "width": 640,
+                "height": 334,
+                "is_primary": "1",
+                "image_id": "104429"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104429_cfbe358cde0af917_n.jpg",
+                "width": 320,
+                "height": 167,
+                "is_primary": "1",
+                "image_id": "104429"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104429_cfbe358cde0af917_d.gif",
+                "width": 320,
+                "height": 167,
+                "is_primary": "1",
+                "image_id": "104429"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104429_cfbe358cde0af917_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104429"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18056787",
+            "role_id": "35351537",
+            "person_name": "Julian Clarence Levi",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056787\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Inkwell.\nH x W x D: 61 x 24 x 20.5 cm (24 x 9 7\/16 x 8 1\/16 in.). Bequest of Julian Clarence Levi. 1972-5-17-a\/c."
+    "tombstone": {
+        "epitaph": "Inkwell. H x W x D: 61 x 24 x 20.5 cm (24 x 9 7\/16 x 8 1\/16 in.). \nBequest of Julian Clarence Levi. 1972-5-17-a\/c"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#584425",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2d1e0d",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#7e6b46",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9d8c68",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

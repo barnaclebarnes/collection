@@ -1,49 +1,122 @@
 {
-    "id":"18174835",
-    "tms:id":"19005",
-    "accession_number":"1912-12-267",
-    "title":"Drawing, \"House with a Porch\", ca. 1858\u201360",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18174835\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35418405",
-    "type_id":"35237093",
-    "date":"ca. 1858\u201360",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Graphite, brush and blue, red, and brown wash on  brown paper",
-    "markings":"Watermark: \"Damask Linene\" and hand holding a rose",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Sheet: 17.7 x 25.4 cm (6 15\/16 x 10 in.)",
-    "creditline":"Gift of Charles Savage Homer, Jr.",
-    "description":"Horizontal view of a house with a porch, yard and fence, and a tree behind.  Porch is filled with household paraphernalia and the gate has a broken hinge.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18174835",
+    "tms:id": "19005",
+    "accession_number": "1912-12-267",
+    "title": "Drawing, House with a Porch, ca. 1858\u201360",
+    "title_raw": "House with a Porch",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18174835\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35418405",
+    "type_id": "35237093",
+    "date": "ca. 1858\u201360",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Graphite, brush and blue, red, and brown wash on  brown paper",
+    "markings": "Watermark: \"Damask Linene\" and hand holding a rose",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Sheet: 17.7 x 25.4 cm (6 15\/16 x 10 in.)",
+    "dimensions_raw": {
+        "height": [
+            "17.70",
+            "centimeters"
+        ],
+        "width": [
+            "25.40",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Charles Savage Homer, Jr.",
+    "description": "Horizontal view of a house with a porch, yard and fence, and a tree behind.  Porch is filled with household paraphernalia and the gate has a broken hinge.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18041949",
-            "role_id":"35236565",
-            "person_name":"Winslow Homer",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041949\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121369_bd39846ab878c98e_b.jpg",
+                "width": 1024,
+                "height": 728,
+                "is_primary": "0",
+                "image_id": "121369"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121369_bd39846ab878c98e_z.jpg",
+                "width": 640,
+                "height": 455,
+                "is_primary": "0",
+                "image_id": "121369"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121369_bd39846ab878c98e_n.jpg",
+                "width": 320,
+                "height": 228,
+                "is_primary": "0",
+                "image_id": "121369"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121369_bd39846ab878c98e_d.gif",
+                "width": 320,
+                "height": 228,
+                "is_primary": "0",
+                "image_id": "121369"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121369_bd39846ab878c98e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "121369"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"House with a Porch\", ca. 1858\u201360.\nca. 1858\u201360. Graphite, brush and blue, red, and brown wash on  brown paper. Gift of Charles Savage Homer, Jr.. 1912-12-267."
+    "participants": [
+        {
+            "person_id": "18537931",
+            "role_id": "35351535",
+            "person_name": "Charles Savage Homer, Jr.",
+            "person_date": "American, 1834\u20131917",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537931\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047639",
+            "role_id": "35352245",
+            "person_name": "Adrienne Sturbois",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041949",
+            "role_id": "35236565",
+            "person_name": "Winslow Homer",
+            "person_date": "American, 1836\u20131910",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041949\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, House with a Porch, ca. 1858\u201360. Graphite, brush and blue, red, and brown wash on  brown paper. \nGift of Charles Savage Homer, Jr.. 1912-12-267"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,80 +1,187 @@
 {
-    "id":"18654671",
-    "tms:id":"202305",
-    "accession_number":"1997-12-2",
-    "title":"Sidewall, ca. 1955",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18654671\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"ca. 1955",
-    "year_start":"1950",
-    "year_end":"1960",
-    "year_acquired":"1997",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Chris Zeller",
-    "description":"Ivy with pink berries growing up shutters or clapboard, printed on off-white ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
-    },
-    "images":[
+    "id": "18654671",
+    "tms:id": "202305",
+    "accession_number": "1997-12-2",
+    "title": "Sidewall (USA), ca. 1955",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18654671\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "ca. 1955",
+    "year_start": 1950,
+    "year_end": 1960,
+    "year_acquired": "1997",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Chris Zeller",
+    "description": "Ivy with pink berries growing up shutters or clapboard, printed on off-white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13632_3a7fdd1c45bf2c15_b.jpg",
-                "width":486,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104795_a54ba439816338cf_b.jpg",
+                "width": 552,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "104795"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13632_3a7fdd1c45bf2c15_n.jpg",
-                "width":152,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104795_a54ba439816338cf_z.jpg",
+                "width": 345,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "104795"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13632_3a7fdd1c45bf2c15_z.jpg",
-                "width":304,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104795_a54ba439816338cf_n.jpg",
+                "width": 173,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104795"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104795_a54ba439816338cf_d.gif",
+                "width": 173,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104795"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104795_a54ba439816338cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104795"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120766_647f280ccc66fb7e_b.jpg",
+                "width": 525,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120766"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120766_647f280ccc66fb7e_z.jpg",
+                "width": 328,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120766"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120766_647f280ccc66fb7e_n.jpg",
+                "width": 164,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120766"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120766_647f280ccc66fb7e_d.gif",
+                "width": 164,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120766"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120766_647f280ccc66fb7e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120766"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13632_3a7fdd1c45bf2c15_b.jpg",
+                "width": 486,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "13632"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13632_3a7fdd1c45bf2c15_z.jpg",
+                "width": 304,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "13632"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13632_3a7fdd1c45bf2c15_n.jpg",
+                "width": 152,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "13632"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13632_3a7fdd1c45bf2c15_d.gif",
+                "width": 152,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "13632"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13632_3a7fdd1c45bf2c15_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "13632"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, ca. 1955.\nca. 1955. Machine-printed. Gift of Chris Zeller. 1997-12-2."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), ca. 1955. Machine-printed. \nGift of Chris Zeller. 1997-12-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#7fa2ad",
-            "closest_css3":"#778899"
+            "color": "#c8ced4",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#9cc2da",
-            "closest_css3":"#b0c4de"
+            "color": "#ced6c4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#547b7d",
-            "closest_css3":"#696969"
+            "color": "#b3bf92",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#6588a0",
-            "closest_css3":"#778899"
+            "color": "#d3c2b2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#40605d",
-            "closest_css3":"#2f4f4f"
+            "color": "#788373",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

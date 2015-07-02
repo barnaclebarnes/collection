@@ -1,42 +1,131 @@
 {
-    "id":"18617405",
-    "tms:id":"177235",
-    "accession_number":"1981-29-168",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617405\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617405",
+    "tms:id": "177235",
+    "accession_number": "1981-29-168",
+    "title": "Poster, Congressman Dick Vanderveen, ca. 1978",
+    "title_raw": "Congressman Dick Vanderveen",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617405\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68249125",
+    "type_id": "35238163",
+    "date": "ca. 1978",
+    "year_start": 1973,
+    "year_end": 1983,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Screenprint, gloss ink on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "H x W: 95.5 x 63.9 cm (37 5\/8 x 25 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "95.50",
+            "centimeters"
+        ],
+        "width": [
+            "63.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Various Donors",
+    "description": "Poster depicts bands of rainbow colors in varied widths and lengths, in somewhat arc form. Above, in black: Congressman DICK VANDERVEEN.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80020_f69a6c67e0b4008f_b.jpg",
+                "width": 683,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "80020"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80020_f69a6c67e0b4008f_z.jpg",
+                "width": 427,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "80020"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80020_f69a6c67e0b4008f_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80020"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80020_f69a6c67e0b4008f_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80020"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80020_f69a6c67e0b4008f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80020"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042365",
+            "role_id": "35236655",
+            "person_name": "Stephen Frykholm",
+            "person_date": "American, b. 1942",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Poster.\nGift of Various Donors. 1981-29-168."
+    "tombstone": {
+        "epitaph": "Poster, Congressman Dick Vanderveen, ca. 1978. Screenprint, gloss ink on paper. \nGift of Various Donors. 1981-29-168"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8b3a1c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#ddd23c",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#c6822d",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#5b9b3a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        },
+        {
+            "color": "#2b2764",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,71 +1,180 @@
 {
-    "id":"18495871",
-    "tms:id":"158826",
-    "accession_number":"1978-146-695",
-    "title":"Matchsafe, \"Golfer\", 1899\u20131900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18495871\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389463",
-    "type_id":"35287419",
-    "date":"1899\u20131900",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Silver",
-    "markings":"Lion passant, date letter \"Q\" stamped on front lid exterior; JMB, lion passant, Chester town mark, date letter, all stamped on reverse exterior; flower inside oval stamped on bezel.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"4.7 x 3.4 x .9 cm (1 7\/8 x 1 5\/16 x 3\/8 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"Rectangular, curved corners, featuring incised decoration of male swinging golf club, he wears cap, jacket, knickers, diamond-patterned socks and spats. Lid hinged on side, thumb catch at front. Striker in recessed groove on bottom.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18495871",
+    "tms:id": "158826",
+    "accession_number": "1978-146-695",
+    "title": "Golfer Matchsafe, 1899\u20131900",
+    "title_raw": "Golfer",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18495871\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35287419",
+    "date": "1899\u20131900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Silver",
+    "markings": "Lion passant, date letter \"Q\" stamped on front lid exterior; JMB, lion passant, Chester town mark, date letter, all stamped on reverse exterior; flower inside oval stamped on bezel.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "4.7 x 3.4 x .9 cm (1 7\/8 x 1 5\/16 x 3\/8 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "0.90",
+            "centimeters"
+        ],
+        "height": [
+            "4.70",
+            "centimeters"
+        ],
+        "width": [
+            "3.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "Rectangular, curved corners, featuring incised decoration of male swinging golf club, he wears cap, jacket, knickers, diamond-patterned socks and spats. Lid hinged on side, thumb catch at front. Striker in recessed groove on bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8228_2058d6757a5431b8_b.jpg",
-                "width":760,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104073_e56f110ff57cc7c4_b.jpg",
+                "width": 1024,
+                "height": 819,
+                "is_primary": "1",
+                "image_id": "104073"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8228_2058d6757a5431b8_n.jpg",
-                "width":237,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104073_e56f110ff57cc7c4_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "104073"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8228_2058d6757a5431b8_z.jpg",
-                "width":475,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104073_e56f110ff57cc7c4_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "104073"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104073_e56f110ff57cc7c4_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "104073"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104073_e56f110ff57cc7c4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104073"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8228_2058d6757a5431b8_b.jpg",
+                "width": 760,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8228"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8228_2058d6757a5431b8_z.jpg",
+                "width": 475,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8228"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8228_2058d6757a5431b8_n.jpg",
+                "width": 237,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8228"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8228_2058d6757a5431b8_d.gif",
+                "width": 237,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8228"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8228_2058d6757a5431b8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8228"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18054031",
-            "role_id":"35236657",
-            "person_name":"J. Millward Banks",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18054031\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18054031",
+            "role_id": "35236657",
+            "person_name": "J. Millward Banks",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054031\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Golfer\", 1899\u20131900.\n1899\u20131900. Silver. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-695."
+    "tombstone": {
+        "epitaph": "Golfer Matchsafe, 1899\u20131900. Silver. \nGift of Stephen W. Brener and Carol B. Brener. 1978-146-695"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#858782",
-            "closest_css3":"#808080"
+            "color": "#514c4e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#736a68",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a79e98",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,80 +1,182 @@
 {
-    "id":"18758267",
-    "tms:id":"255418",
-    "accession_number":"2010-21-32",
-    "title":"Poster, \"Wissenschaftliches Zeichnen\", ca. 1990",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758267\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"ca. 1990",
-    "year_start":"1990",
-    "year_end":"1990",
-    "year_acquired":"2010",
-    "decade":"1990",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"128 x 90.9 cm (50 3\/8 x 35 13\/16 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":"On orange ground, two identical photographs of zebras, one appearing rotated 90 degrees. In the center , text in black: \"Austellungsstrasse 60, 8031, Zurich \/ D-FR 10-18 hr; M 10-21 uhr; Sa, So- 10-17 uhr Mo geschlossen SO169, Eidg Bettag Geichschlossen\" followed by \"MUSEUM \/ FUR \/ GESTALTUNG \/ ZURICH, then the dates 29.8-14.10.90\",  and slightly to the right, \"WISSSENSCHAFTLICHENS. \/ ZEICHNEN.",
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758267",
+    "tms:id": "255418",
+    "accession_number": "2010-21-32",
+    "title": "Poster, Wissenschaftliches Zeichnen, ca. 1990",
+    "title_raw": "Wissenschaftliches Zeichnen",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758267\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431963",
+    "type_id": "35238163",
+    "date": "ca. 1990",
+    "year_start": 1990,
+    "year_end": 1990,
+    "year_acquired": "2010",
+    "decade": "1990",
+    "woe:country_id": "23424957",
+    "medium": "Offset lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Marc Benda (acquired new and directly from designers, museums, and cultural institutions); 2010: acquired by Museum",
+    "dimensions": "128 x 90.9 cm (50 3\/8 x 35 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "128.00",
+            "centimeters"
+        ],
+        "width": [
+            "90.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "On orange ground, two identical photographs of zebras, one appearing rotated 90 degrees. In the center , text in black: \"Austellungsstrasse 60, 8031, Zurich \/ D-FR 10-18 hr; M 10-21 uhr; Sa, So- 10-17 uhr Mo geschlossen SO169, Eidg Bettag Geichschlossen\" followed by \"MUSEUM \/ FUR \/ GESTALTUNG \/ ZURICH, then the dates 29.8-14.10.90\",  and slightly to the right, \"WISSSENSCHAFTLICHENS. \/ ZEICHNEN.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35163_68d0c4b4fe601cff_b.jpg",
-                "width":733,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65814_e872f8ef726b1284_b.jpg",
+                "width": 727,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "65814"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35163_68d0c4b4fe601cff_n.jpg",
-                "width":229,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65814_e872f8ef726b1284_z.jpg",
+                "width": 454,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "65814"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35163_68d0c4b4fe601cff_z.jpg",
-                "width":458,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65814_e872f8ef726b1284_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65814"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65814_e872f8ef726b1284_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "65814"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65814_e872f8ef726b1284_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65814"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35163_68d0c4b4fe601cff_b.jpg",
+                "width": 733,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "35163"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35163_68d0c4b4fe601cff_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "35163"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35163_68d0c4b4fe601cff_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35163"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35163_68d0c4b4fe601cff_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35163"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35163_68d0c4b4fe601cff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35163"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Poster, \"Wissenschaftliches Zeichnen\", ca. 1990.\nca. 1990. Offset lithograph on wove paper. Gift of Sara and Marc Benda. 2010-21-32."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#f7710d",
-            "closest_css3":"#ff8c00"
+            "person_id": "18063557",
+            "role_id": "35236667",
+            "person_name": "Museum f\u00fcr Gestaltung, Z\u00fcrich",
+            "person_date": "Z\u00fcrich, Switzerland",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063557\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
         },
         {
-            "color":"#343c60",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18063521",
+            "role_id": "35236655",
+            "person_name": "Daniel Volkart",
+            "person_date": "Swiss, b. 1959",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063521\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#aeb9c2",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#616b7e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#838d87",
-            "closest_css3":"#808080"
+            "person_id": "18063519",
+            "role_id": "35236655",
+            "person_name": "Polly Bertram",
+            "person_date": "Swiss, b. 1949",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063519\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Poster, Wissenschaftliches Zeichnen, ca. 1990. Offset lithograph on wove paper. \nGift of Sara and Marc Benda. 2010-21-32"
+    },
+    "colors": [
+        {
+            "color": "#ce842f",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#64646d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#303038",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a47b52",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

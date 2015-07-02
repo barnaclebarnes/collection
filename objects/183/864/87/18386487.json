@@ -1,87 +1,188 @@
 {
-    "id":"18386487",
-    "tms:id":"103377",
-    "accession_number":"1951-103-43",
-    "title":"Textile, \"Hatfield\", 1901\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18386487\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1901\u201325",
-    "year_start":"1901",
-    "year_end":"1925",
-    "year_acquired":"1951",
-    "decade":"1900",
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 26 x 22.5 cm (10 1\/4 x 8 7\/8 in.)",
-    "creditline":"Gift of Robert W. Friedel",
-    "description":"Morris & Company textile in the \"Hatfield\" pattern. Chinoiserie flowers in bright green, blue, pink, yellow, and mauve. Flowers outlined in red and black on a beige ground covered with a meandering dotted line pattern.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18386487",
+    "tms:id": "103377",
+    "accession_number": "1951-103-43",
+    "title": "Textile, Hatfield, 1901\u201325",
+    "title_raw": "Hatfield",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18386487\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1901\u201325",
+    "year_start": 1901,
+    "year_end": 1925,
+    "year_acquired": "1951",
+    "decade": "1900",
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 26 x 22.5 cm (10 1\/4 x 8 7\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "26.00",
+            "centimeters"
+        ],
+        "weft": [
+            "22.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Robert W. Friedel",
+    "description": "Morris & Company textile in the \"Hatfield\" pattern. Chinoiserie flowers in bright green, blue, pink, yellow, and mauve. Flowers outlined in red and black on a beige ground covered with a meandering dotted line pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5287_567cda64cba323bf_b.jpg",
-                "width":1024,
-                "height":887,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109537_973572786f1ced92_b.jpg",
+                "width": 1024,
+                "height": 906,
+                "is_primary": "1",
+                "image_id": "109537"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5287_567cda64cba323bf_n.jpg",
-                "width":320,
-                "height":277,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109537_973572786f1ced92_z.jpg",
+                "width": 640,
+                "height": 566,
+                "is_primary": "1",
+                "image_id": "109537"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5287_567cda64cba323bf_z.jpg",
-                "width":640,
-                "height":554,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109537_973572786f1ced92_n.jpg",
+                "width": 320,
+                "height": 283,
+                "is_primary": "1",
+                "image_id": "109537"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109537_973572786f1ced92_d.gif",
+                "width": 320,
+                "height": 283,
+                "is_primary": "1",
+                "image_id": "109537"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109537_973572786f1ced92_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109537"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5287_567cda64cba323bf_b.jpg",
+                "width": 1024,
+                "height": 887,
+                "is_primary": "0",
+                "image_id": "5287"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5287_567cda64cba323bf_z.jpg",
+                "width": 640,
+                "height": 554,
+                "is_primary": "0",
+                "image_id": "5287"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5287_567cda64cba323bf_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "0",
+                "image_id": "5287"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5287_567cda64cba323bf_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "0",
+                "image_id": "5287"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5287_567cda64cba323bf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "5287"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045653",
-            "role_id":"35236657",
-            "person_name":"Morris & Company, Decorators Ltd.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045653\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18052653",
+            "role_id": "35352245",
+            "person_name": "Jean Elizabeth Mailey",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052653\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045653",
+            "role_id": "35236657",
+            "person_name": "Morris & Company, Decorators Ltd.",
+            "person_date": "1875\u20131941",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045653\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18052481",
+            "role_id": "35351535",
+            "person_name": "Robert W. Friedel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Hatfield\", 1901\u201325.\n1901\u201325. Medium: cotton\nTechnique: printed. Gift of Robert W. Friedel. 1951-103-43."
+    "tombstone": {
+        "epitaph": "Textile, Hatfield, 1901\u201325. Medium: cotton\nTechnique: printed. \nGift of Robert W. Friedel. 1951-103-43"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cfaa88",
-            "closest_css3":"#d2b48c"
+            "color": "#b8ab8b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#ad8968",
-            "closest_css3":"#bc8f8f"
+            "color": "#897666",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#7f5e3d",
-            "closest_css3":"#a0522d"
+            "color": "#636d6f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#c9625c",
-            "closest_css3":"#cd5c5c"
+            "color": "#7b3d3e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#6d7059",
-            "closest_css3":"#696969"
+            "color": "#dad2a9",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

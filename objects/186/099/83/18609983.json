@@ -1,42 +1,141 @@
 {
-    "id":"18609983",
-    "tms:id":"98509",
-    "accession_number":"1948-40-38",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18609983\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Original album associated with this collection still exists.  See 1948-40-1 accessory",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18609983",
+    "tms:id": "98509",
+    "accession_number": "1948-40-38",
+    "title": "Drawing, Wall Decoration, Entrance Hall, North Wall, Royal Pavilion, Brighton, 1802 or earlier",
+    "title_raw": "Wall Decoration, Entrance Hall, North Wall, Royal Pavilion, Brighton",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18609983\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35375847",
+    "type_id": "35237093",
+    "date": "1802 or earlier",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Brush and watercolor, pen and black ink, graphite on white wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1948: acquired by Museum (from Mrs. K. Gregory)",
+    "dimensions": "Mat: 35.6 x 45.7 cm (14 x 18 in.)\n22.3 x 25.3 cm (8 3\/4 x 9 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "45.72",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Elevation of a wall, with doorways flanking a large central painted decoration consisting of a cloudy sky, with foliage indicated in graphite, below, enclosed in a frame and surrounded by painted representation of stonework and a border of lattice work design. Over the doorway, left, a tablet with Chinese characters, and above that a rectangular framed panel with a painted sky.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61554_d2e740f55086faff_b.jpg",
+                "width": 1024,
+                "height": 863,
+                "is_primary": "1",
+                "image_id": "61554"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61554_d2e740f55086faff_z.jpg",
+                "width": 640,
+                "height": 539,
+                "is_primary": "1",
+                "image_id": "61554"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61554_d2e740f55086faff_n.jpg",
+                "width": 320,
+                "height": 270,
+                "is_primary": "1",
+                "image_id": "61554"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61554_d2e740f55086faff_d.gif",
+                "width": 320,
+                "height": 270,
+                "is_primary": "1",
+                "image_id": "61554"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61554_d2e740f55086faff_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "61554"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042069",
+            "role_id": "35236655",
+            "person_name": "Frederick Crace",
+            "person_date": "English, 1779\u20131859",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18539479",
+            "role_id": "35352249",
+            "person_name": "Mrs. K. Gregory",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539479\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-38."
+    "tombstone": {
+        "epitaph": "Drawing, Wall Decoration, Entrance Hall, North Wall, Royal Pavilion, Brighton, 1802 or earlier. Brush and watercolor, pen and black ink, graphite on white wove paper. \nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-38"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#cebb93",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#ecebd5",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#857c67",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#626e94",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#855a3e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

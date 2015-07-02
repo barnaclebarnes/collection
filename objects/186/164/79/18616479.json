@@ -1,80 +1,167 @@
 {
-    "id":"18616479",
-    "tms:id":"176769",
-    "accession_number":"1981-28-182",
-    "title":"Sampler, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616479\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35432189",
-    "type_id":"35256439",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk and mercerized cotton embroidery on cotton foundation\nTechnique: embroidered in cross stitch on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":"D.D. Ano 1917",
-    "provenance":null,
-    "dimensions":"H x W: 58.4 x 57.2 cm (23 x 22 1\/2 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Rural landscape with butterflies, dog, and deer and frame of interlaced motifs.  Date 1917 probably added later.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616479",
+    "tms:id": "176769",
+    "accession_number": "1981-28-182",
+    "title": "Sampler, 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616479\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432189",
+    "type_id": "35256439",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk and mercerized cotton embroidery on cotton foundation\nTechnique: embroidered in cross stitch on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": "D.D. Ano 1917",
+    "provenance": null,
+    "dimensions": "H x W: 58.4 x 57.2 cm (23 x 22 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "58.42",
+            "centimeters"
+        ],
+        "width": [
+            "57.15",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Rural landscape with butterflies, dog, and deer and frame of interlaced motifs.  Date 1917 probably added later.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28993_4e24022629b2eb4b_b.jpg",
-                "width":1024,
-                "height":1016,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94206_f874ffe029cc2c21_b.jpg",
+                "width": 1024,
+                "height": 1010,
+                "is_primary": "1",
+                "image_id": "94206"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28993_4e24022629b2eb4b_n.jpg",
-                "width":320,
-                "height":318,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94206_f874ffe029cc2c21_z.jpg",
+                "width": 640,
+                "height": 631,
+                "is_primary": "1",
+                "image_id": "94206"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28993_4e24022629b2eb4b_z.jpg",
-                "width":640,
-                "height":635,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94206_f874ffe029cc2c21_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "1",
+                "image_id": "94206"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94206_f874ffe029cc2c21_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "1",
+                "image_id": "94206"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94206_f874ffe029cc2c21_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94206"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28993_4e24022629b2eb4b_b.jpg",
+                "width": 1024,
+                "height": 1016,
+                "is_primary": "0",
+                "image_id": "28993"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28993_4e24022629b2eb4b_z.jpg",
+                "width": 640,
+                "height": 635,
+                "is_primary": "0",
+                "image_id": "28993"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28993_4e24022629b2eb4b_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "28993"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28993_4e24022629b2eb4b_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "28993"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28993_4e24022629b2eb4b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28993"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 19th century.\n19th century. Medium: silk and mercerized cotton embroidery on cotton foundation\nTechnique: embroidered in cross stitch on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-182."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c7b9ac",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#c4a374",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#f9ad3f",
-            "closest_css3":"#f4a460"
-        },
-        {
-            "color":"#0c2734",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#7f6345",
-            "closest_css3":"#696969"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler, 19th century. Medium: silk and mercerized cotton embroidery on cotton foundation\nTechnique: embroidered in cross stitch on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-182"
+    },
+    "colors": [
+        {
+            "color": "#9e8e52",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#c8c29f",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#c0b557",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#393a41",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6c6a59",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

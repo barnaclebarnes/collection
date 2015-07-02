@@ -1,80 +1,141 @@
 {
-    "id":"18333823",
-    "tms:id":"50710",
-    "accession_number":"1931-86-25",
-    "title":"Print, \"Engraving:  Versailles, Grotto, Interior.\", 1676",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18333823\/",
-    "department_id":"35347493",
-    "period_id":"35417229",
-    "media_id":"35411549",
-    "type_id":"35236873",
-    "date":"1676",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Black ink on rolled paper.",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Engraved on the plate at lower right:  \"Le Potre Sculps. 1676\"\nInscription at lower left:  \"Veue du fonds de la Grotte le soleil au milieu des nymphes de Thetis; et ses chevaux pensez par des Tritons\"\nLower right:  \"Prospectus cyptae Interioris Versaliarum, ubi sol inter nympas Thetidis, et etus equi cum Tritonibus, statuis marmoreis exhibentur.\"\nNumbered at lower right:  \"7\"",
-    "provenance":null,
-    "dimensions":"14 7\/8\" X 22 7\/16\"  (37.7 X 57 cm)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":"Horizontal rectangle:  The whole is decorated with inlaid shells and the floor is of inlaid pebbles.  There are three niches, each with a group of white marble statuary:  the middle group of Apollo and nymphs and the other two of horses and tritons.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18333823",
+    "tms:id": "50710",
+    "accession_number": "1931-86-25",
+    "title": "Print, Engraving:  Versailles, Grotto, Interior., 1676",
+    "title_raw": "Engraving:  Versailles, Grotto, Interior.",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18333823\/",
+    "department_id": "35347493",
+    "period_id": "35417229",
+    "media_id": "35411549",
+    "type_id": "35236873",
+    "date": "1676",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Black ink on rolled paper.",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Engraved on the plate at lower right:  \"Le Potre Sculps. 1676\"\nInscription at lower left:  \"Veue du fonds de la Grotte le soleil au milieu des nymphes de Thetis; et ses chevaux pensez par des Tritons\"\nLower right:  \"Prospectus cyptae Interioris Versaliarum, ubi sol inter nympas Thetidis, et etus equi cum Tritonibus, statuis marmoreis exhibentur.\"\nNumbered at lower right:  \"7\"",
+    "provenance": null,
+    "dimensions": "14 7\/8\" X 22 7\/16\"  (37.7 X 57 cm)",
+    "dimensions_raw": {
+        "length": [
+            "37.70",
+            "centimeters"
+        ],
+        "width": [
+            "57.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Horizontal rectangle:  The whole is decorated with inlaid shells and the floor is of inlaid pebbles.  There are three niches, each with a group of white marble statuary:  the middle group of Apollo and nymphs and the other two of horses and tritons.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29657_e90d523357697f27_b.jpg",
-                "width":1024,
-                "height":647,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29657_e90d523357697f27_b.jpg",
+                "width": 1024,
+                "height": 647,
+                "is_primary": "1",
+                "image_id": "29657"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29657_e90d523357697f27_n.jpg",
-                "width":320,
-                "height":202,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29657_e90d523357697f27_z.jpg",
+                "width": 640,
+                "height": 405,
+                "is_primary": "1",
+                "image_id": "29657"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29657_e90d523357697f27_z.jpg",
-                "width":640,
-                "height":405,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29657_e90d523357697f27_n.jpg",
+                "width": 320,
+                "height": 202,
+                "is_primary": "1",
+                "image_id": "29657"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29657_e90d523357697f27_d.gif",
+                "width": 320,
+                "height": 202,
+                "is_primary": "1",
+                "image_id": "29657"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29657_e90d523357697f27_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "29657"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Print, \"Engraving:  Versailles, Grotto, Interior.\", 1676.\n1676. Black ink on rolled paper.. Gift of Eleanor and Sarah Hewitt. 1931-86-25."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#2e2e24",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#6a6c63",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#5d5041",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#5e6068",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#43342c",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Print, Engraving:  Versailles, Grotto, Interior., 1676. Black ink on rolled paper.. \nGift of Eleanor and Sarah Hewitt. 1931-86-25"
+    },
+    "colors": [
+        {
+            "color": "#b4b8be",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#4a4c44",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#2a2a26",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5b656a",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#6d5d52",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

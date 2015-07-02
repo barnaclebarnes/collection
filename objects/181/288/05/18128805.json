@@ -1,68 +1,95 @@
 {
-    "id":"18128805",
-    "tms:id":"11007",
-    "accession_number":"1901-39-826",
-    "title":"Drawing, \"Design for a brooch\", 1825\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18128805\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":"1825\u201350",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18128805",
+    "tms:id": "11007",
+    "accession_number": "1901-39-826",
+    "title": "Drawing, Design for a brooch, 1825\u201350",
+    "title_raw": "Design for a brooch",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18128805\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "1825\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of various donors",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/671_8d3e84d80aab4380_b.jpg",
-                "width":1024,
-                "height":659,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/671_8d3e84d80aab4380_b.jpg",
+                "width": 1024,
+                "height": 659,
+                "is_primary": "1",
+                "image_id": "671"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/671_8d3e84d80aab4380_n.jpg",
-                "width":320,
-                "height":206,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/671_8d3e84d80aab4380_z.jpg",
+                "width": 640,
+                "height": 412,
+                "is_primary": "1",
+                "image_id": "671"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/671_8d3e84d80aab4380_z.jpg",
-                "width":640,
-                "height":412,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/671_8d3e84d80aab4380_n.jpg",
+                "width": 320,
+                "height": 206,
+                "is_primary": "1",
+                "image_id": "671"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/671_8d3e84d80aab4380_d.gif",
+                "width": 320,
+                "height": 206,
+                "is_primary": "1",
+                "image_id": "671"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/671_8d3e84d80aab4380_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "671"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for a brooch\", 1825\u201350.\n1825\u201350. Museum purchase through gift of various donors. 1901-39-826."
+    "tombstone": {
+        "epitaph": "Drawing, Design for a brooch, 1825\u201350. \nMuseum purchase through gift of various donors. 1901-39-826"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b78a83",
-            "closest_css3":"#bc8f8f"
+            "color": "#b88b83",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#996e6e",
-            "closest_css3":"#808080"
+            "color": "#99706f",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

@@ -1,80 +1,188 @@
 {
-    "id":"18478357",
-    "tms:id":"149988",
-    "accession_number":"1972-75-44",
-    "title":"Sample, ca. 1947",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18478357\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35421817",
-    "type_id":"35268079",
-    "date":"ca. 1947",
-    "year_start":"1942",
-    "year_end":"1952",
-    "year_acquired":"1972",
-    "decade":"1940",
-    "woe:country":"23424977",
-    "medium":"Medium: synthetic\nTechnique: 1\/3 twill weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"2338 c. 1947 Dorothy Liebes",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 20 x 15 cm (7 7\/8 x 5 7\/8 in.)",
-    "creditline":"Gift of the Estate of Dorothy (Liebes) Morin",
-    "description":"Sample in wide stripes of yellow, turquoise, dark pink and yellow-green with a yellow boucle warp and plied weft yarns.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18478357",
+    "tms:id": "149988",
+    "accession_number": "1972-75-44",
+    "title": "Sample (USA), ca. 1947",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18478357\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35421817",
+    "type_id": "35268079",
+    "date": "ca. 1947",
+    "year_start": 1942,
+    "year_end": 1952,
+    "year_acquired": "1972",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Medium: synthetic\nTechnique: 1\/3 twill woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": "2338 c. 1947 Dorothy Liebes",
+    "provenance": "Estate of Dorothy (Liebes) Morin; 1972: acquired by Museum",
+    "dimensions": "Warp x Weft: 20 x 15 cm (7 7\/8 x 5 7\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "20.00",
+            "centimeters"
+        ],
+        "weft": [
+            "15.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of Dorothy (Liebes) Morin",
+    "description": "Sample in wide stripes of yellow, turquoise, dark pink and yellow-green with a yellow boucle warp and plied weft yarns.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35930_0578ea1a56f65871_b.jpg",
-                "width":713,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81793_afce9cf4ce09e2f1_b.jpg",
+                "width": 907,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81793"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35930_0578ea1a56f65871_n.jpg",
-                "width":223,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81793_afce9cf4ce09e2f1_z.jpg",
+                "width": 567,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81793"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35930_0578ea1a56f65871_z.jpg",
-                "width":445,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81793_afce9cf4ce09e2f1_n.jpg",
+                "width": 283,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81793"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81793_afce9cf4ce09e2f1_d.gif",
+                "width": 283,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81793"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81793_afce9cf4ce09e2f1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81793"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35930_0578ea1a56f65871_b.jpg",
+                "width": 713,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "35930"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35930_0578ea1a56f65871_z.jpg",
+                "width": 445,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "35930"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35930_0578ea1a56f65871_n.jpg",
+                "width": 223,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35930"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35930_0578ea1a56f65871_d.gif",
+                "width": 223,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35930"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35930_0578ea1a56f65871_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35930"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sample, ca. 1947.\nca. 1947. Medium: synthetic\nTechnique: 1\/3 twill weave. Gift of the Estate of Dorothy (Liebes) Morin. 1972-75-44."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c6a835",
-            "closest_css3":"#daa520"
+            "person_id": "18045817",
+            "role_id": "35236745",
+            "person_name": "Dorothy Wright Liebes",
+            "person_date": "American, 1897\u20131972",
+            "role_name": "Weaver",
+            "role_display_name": "Woven by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236745\/"
         },
         {
-            "color":"#871d3f",
-            "closest_css3":"#a52a2a"
+            "person_id": "18045817",
+            "role_id": "35236655",
+            "person_name": "Dorothy Wright Liebes",
+            "person_date": "American, 1897\u20131972",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#3e4654",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#edd972",
-            "closest_css3":"#f0e68c"
-        },
-        {
-            "color":"#9c8a30",
-            "closest_css3":"#b8860b"
+            "person_id": "18054731",
+            "role_id": "35351535",
+            "person_name": "Estate of Dorothy (Liebes) Morin",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054731\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sample (USA), ca. 1947. Medium: synthetic\nTechnique: 1\/3 twill woven. \nGift of the Estate of Dorothy (Liebes) Morin. 1972-75-44"
+    },
+    "colors": [
+        {
+            "color": "#e2e0ce",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#c8c24e",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#8b3e61",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#dada9c",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#6a9a8b",
+            "closest_crayola": "#6dae81",
+            "closest_css3": "#5f9ea0",
+            "closest_css4": "#5f9ea0"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

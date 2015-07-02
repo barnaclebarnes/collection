@@ -1,64 +1,162 @@
 {
-    "id":"18534529",
-    "tms:id":"179339",
-    "accession_number":"1982-23-422",
-    "title":"Matchsafe, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18534529\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35287419",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1982",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 6.6 cm (2 5\/8 in.)",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18534529",
+    "tms:id": "179339",
+    "accession_number": "1982-23-422",
+    "title": "Matchsafe (Japan), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18534529\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35287419",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 6.6 cm (2 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "6.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9622_a01b35b646a449cb_b.jpg",
-                "width":629,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98937_d244786ccdb80d6d_b.jpg",
+                "width": 1024,
+                "height": 819,
+                "is_primary": "1",
+                "image_id": "98937"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9622_a01b35b646a449cb_n.jpg",
-                "width":196,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98937_d244786ccdb80d6d_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "98937"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/9622_a01b35b646a449cb_z.jpg",
-                "width":393,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98937_d244786ccdb80d6d_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "98937"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98937_d244786ccdb80d6d_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "98937"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98937_d244786ccdb80d6d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "98937"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9622_a01b35b646a449cb_b.jpg",
+                "width": 629,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "9622"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9622_a01b35b646a449cb_z.jpg",
+                "width": 393,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "9622"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9622_a01b35b646a449cb_n.jpg",
+                "width": 196,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9622"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9622_a01b35b646a449cb_d.gif",
+                "width": 196,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "9622"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/9622_a01b35b646a449cb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "9622"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, 19th century.\n19th century. Overall: 6.6 cm (2 5\/8 in.). Gift of Stephen W. Brener and Carol B. Brener. 1982-23-422."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#a7a7a7",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Matchsafe (Japan), 19th century. Overall: 6.6 cm (2 5\/8 in.). \nGift of Stephen W. Brener and Carol B. Brener. 1982-23-422"
+    },
+    "colors": [
+        {
+            "color": "#806e49",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5b4f42",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a4916e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

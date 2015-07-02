@@ -1,76 +1,149 @@
 {
-    "id":"18559285",
-    "tms:id":"72845",
-    "accession_number":"1940-71-2",
-    "title":"Textile, ca. 1870",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18559285\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":"ca. 1870",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1940",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: moire; embossing; warp-faced plain weave with supplementary warp patterning on the front in plain weave, or 5-harness satin and free floating on the back.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 106 x 69.5 cm (41 3\/4 x 27 3\/8 in.)",
-    "creditline":"Gift of Mrs. Clarence Webster",
-    "description":"Orange-red ribbed silk moir\u00e9, with design of yellow plumes arranged in two vertical columns.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18559285",
+    "tms:id": "72845",
+    "accession_number": "1940-71-2",
+    "title": "Textile (France), ca. 1870",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18559285\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "ca. 1870",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1940",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: moire; embossing; warp-faced plain weave with supplementary warp patterning on the front in plain weave, or 5-harness satin and free floating on the back.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 106 x 69.5 cm (41 3\/4 x 27 3\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "106.00",
+            "centimeters"
+        ],
+        "weft": [
+            "69.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Clarence Webster",
+    "description": "Orange-red ribbed silk moir\u00e9, with design of yellow plumes arranged in two vertical columns.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4370_9d1cd388b29b6511_b.jpg",
-                "width":634,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119973_f9ca34c43ad8c25e_b.jpg",
+                "width": 732,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "119973"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4370_9d1cd388b29b6511_n.jpg",
-                "width":198,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119973_f9ca34c43ad8c25e_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "119973"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4370_9d1cd388b29b6511_z.jpg",
-                "width":396,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119973_f9ca34c43ad8c25e_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119973"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119973_f9ca34c43ad8c25e_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "119973"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119973_f9ca34c43ad8c25e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "119973"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4370_9d1cd388b29b6511_b.jpg",
+                "width": 634,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "4370"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4370_9d1cd388b29b6511_z.jpg",
+                "width": 396,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "4370"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4370_9d1cd388b29b6511_n.jpg",
+                "width": 198,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4370"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4370_9d1cd388b29b6511_d.gif",
+                "width": 198,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4370"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4370_9d1cd388b29b6511_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "4370"
             }
         }
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18050555",
+            "role_id": "35351535",
+            "person_name": "Mrs. Clarence Webster",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050555\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18052661",
+            "role_id": "35352245",
+            "person_name": "Elizabeth Haynes",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), ca. 1870. Medium: silk\nTechnique: moire; embossing; warp-faced plain weave with supplementary warp patterning on the front in plain weave, or 5-harness satin and free floating on the back.. \nGift of Mrs. Clarence Webster. 1940-71-2"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1870.\nca. 1870. Medium: silk\nTechnique: moire; embossing; warp-faced plain weave with supplementary warp patterning on the front in plain weave, or 5-harness satin and free floating on the back.. Gift of Mrs. Clarence Webster. 1940-71-2."
-    },
-    "colors":[
-        {
-            "color":"#9e2e3a",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#cab4ad",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#9e776e",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#8a544f",
-            "closest_css3":"#a0522d"
-        }
-    ]
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

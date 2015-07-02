@@ -1,87 +1,166 @@
 {
-    "id":"18338265",
-    "tms:id":"52936",
-    "accession_number":"1932-11-13",
-    "title":"Textile, 1927",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18338265\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1927",
-    "year_start":"1927",
-    "year_end":"1927",
-    "year_acquired":"1932",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: roller printed on plain weave.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 84.5 x 184.2 cm (33 1\/4 in. x 6 ft. 1\/2 in.)",
-    "creditline":"Gift of Mrs. Montgomery Hare",
-    "description":"Diapered field with vertical oval medallions, framed by wings, enclosing representations of New York, Paris, St. Louis, San Diego, and Charles A. Lindbergh with a cat. Printed in blue on white ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18338265",
+    "tms:id": "52936",
+    "accession_number": "1932-11-13",
+    "title": "Textile (USA), 1927",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18338265\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1927",
+    "year_start": 1927,
+    "year_end": 1927,
+    "year_acquired": "1932",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: roller printed on plain weave.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 84.5 x 184.2 cm (33 1\/4 in. x 6 ft. 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "84.46",
+            "centimeters"
+        ],
+        "width": [
+            "184.15",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Montgomery Hare",
+    "description": "Diapered field with vertical oval medallions, framed by wings, enclosing representations of New York, Paris, St. Louis, San Diego, and Charles A. Lindbergh with a cat. Printed in blue on white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2718_3e52ee74c7789240_b.jpg",
-                "width":675,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108559_9c800732508f5aab_b.jpg",
+                "width": 648,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108559"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2718_3e52ee74c7789240_n.jpg",
-                "width":211,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108559_9c800732508f5aab_z.jpg",
+                "width": 405,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108559"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2718_3e52ee74c7789240_z.jpg",
-                "width":422,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108559_9c800732508f5aab_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108559"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108559_9c800732508f5aab_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108559"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108559_9c800732508f5aab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108559"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2718_3e52ee74c7789240_b.jpg",
+                "width": 675,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2718"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2718_3e52ee74c7789240_z.jpg",
+                "width": 422,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2718"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2718_3e52ee74c7789240_n.jpg",
+                "width": 211,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2718"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2718_3e52ee74c7789240_d.gif",
+                "width": 211,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2718"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2718_3e52ee74c7789240_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2718"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18065157",
-            "role_id":"35236657",
-            "person_name":"Whitcombe McGeachin & Co.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18065157\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18065157",
+            "role_id": "35236657",
+            "person_name": "Witcombe McGeachin & Co.",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065157\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18052551",
+            "role_id": "35351535",
+            "person_name": "Mrs. Montgomery Hare",
+            "person_date": "American, b. 1873",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052551\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1927.\n1927. Medium: cotton\nTechnique: roller printed on plain weave.. Gift of Mrs. Montgomery Hare. 1932-11-13."
+    "tombstone": {
+        "epitaph": "Textile (USA), 1927. Medium: cotton\nTechnique: roller printed on plain weave.. \nGift of Mrs. Montgomery Hare. 1932-11-13"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c0c9e7",
-            "closest_css3":"#b0c4de"
+            "color": "#ccc7a8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#a0a1c1",
-            "closest_css3":"#a9a9a9"
+            "color": "#8f8f82",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#8d7fa1",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#4e3e61",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#d2eff8",
-            "closest_css3":"#e6e6fa"
+            "color": "#606869",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

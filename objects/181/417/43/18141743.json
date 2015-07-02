@@ -1,83 +1,148 @@
 {
-    "id":"18141743",
-    "tms:id":"13373",
-    "accession_number":"1904-20-20",
-    "title":"Figure",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18141743\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237189",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1904",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Jacob H. Schiff",
-    "description":"snake",
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18141743",
+    "tms:id": "13373",
+    "accession_number": "1904-20-20-a,b",
+    "title": "Applique Furniture Mount (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18141743\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35390047",
+    "type_id": "68724139",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1904",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 3.5 \u00d7 10.5 \u00d7 0.5 cm (1 3\/8 \u00d7 4 1\/8 \u00d7 3\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "0.50",
+            "centimeters"
+        ],
+        "height": [
+            "3.50",
+            "centimeters"
+        ],
+        "width": [
+            "10.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Jacob H. Schiff",
+    "description": "Coiled serpent with barbed tongue",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Applique furniture mount",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39025_ff32d9d557f3ea5c_b.jpg",
-                "width":790,
-                "height":519,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92657_90121c4c22461ec3_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92657"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39025_ff32d9d557f3ea5c_n.jpg",
-                "width":320,
-                "height":210,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92657_90121c4c22461ec3_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92657"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39025_ff32d9d557f3ea5c_z.jpg",
-                "width":640,
-                "height":420,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92657_90121c4c22461ec3_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92657"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92657_90121c4c22461ec3_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92657"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92657_90121c4c22461ec3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92657"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39025_ff32d9d557f3ea5c_b.jpg",
+                "width": 790,
+                "height": 519,
+                "is_primary": "0",
+                "image_id": "39025"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39025_ff32d9d557f3ea5c_z.jpg",
+                "width": 640,
+                "height": 420,
+                "is_primary": "0",
+                "image_id": "39025"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39025_ff32d9d557f3ea5c_n.jpg",
+                "width": 320,
+                "height": 210,
+                "is_primary": "0",
+                "image_id": "39025"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39025_ff32d9d557f3ea5c_d.gif",
+                "width": 320,
+                "height": 210,
+                "is_primary": "0",
+                "image_id": "39025"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39025_ff32d9d557f3ea5c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "39025"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050451",
-            "role_id":"35351535",
-            "person_name":"Jacob H. Schiff",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050451\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18050451",
+            "role_id": "35351535",
+            "person_name": "Jacob H. Schiff",
+            "person_date": "American, b. Germany, 1847\u20131920",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050451\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Figure.\nGift of Jacob H. Schiff. 1904-20-20."
+    "tombstone": {
+        "epitaph": "Applique Furniture Mount (France). Bronze. \nGift of Jacob H. Schiff. 1904-20-20-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#1c271d",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#505752",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#60726e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#88a09f",
-            "closest_css3":"#778899"
+            "color": "#5f5b58",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

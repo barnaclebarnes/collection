@@ -1,42 +1,111 @@
 {
-    "id":"18504491",
-    "tms:id":"163149",
-    "accession_number":"1980-14-963",
-    "title":"Matchsafe",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18504491\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402685",
-    "type_id":"35287419",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1980",
-    "decade":null,
-    "woe:country":null,
-    "medium":"gold",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 9.3 cm (3 11\/16 in.)",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18504491",
+    "tms:id": "163149",
+    "accession_number": "1980-14-963",
+    "title": "Matchsafe",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18504491\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402685",
+    "type_id": "35287419",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1980",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "gold",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 9.3 cm (3 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "9.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Matchsafe",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103978_b726aaebaef3bea0_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "103978"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103978_b726aaebaef3bea0_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "103978"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103978_b726aaebaef3bea0_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "103978"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103978_b726aaebaef3bea0_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "103978"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103978_b726aaebaef3bea0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103978"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe.\ngold. Gift of Stephen W. Brener and Carol B. Brener. 1980-14-963."
+    "tombstone": {
+        "epitaph": "Matchsafe. gold. \nGift of Stephen W. Brener and Carol B. Brener. 1980-14-963"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#807064",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#b29a86",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#65544a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#d1c5bf",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "is_loan_object": 0
 }

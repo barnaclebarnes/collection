@@ -1,42 +1,170 @@
 {
-    "id":"18176841",
-    "tms:id":"19306",
-    "accession_number":"1912-18-17-a,b",
-    "title":"Verriere, 1765",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18176841\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414585",
-    "type_id":"35263461",
-    "date":"1765",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Painted tole",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 11 x 31 x 19.5 cm (4 5\/16 x 12 3\/16 x 7 11\/16 in.)",
-    "creditline":"Gift of Mr. and Mrs. Talbot Jones Taylor",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35263461",
-        "name":"verriere"
+    "id": "18176841",
+    "tms:id": "19306",
+    "accession_number": "1912-18-17-a,b",
+    "title": "Verriere (England), 1765",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18176841\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414585",
+    "type_id": "35263461",
+    "date": "1765",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Painted tole",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 11 x 31 x 19.5 cm (4 5\/16 x 12 3\/16 x 7 11\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "19.50",
+            "centimeters"
+        ],
+        "height": [
+            "11.00",
+            "centimeters"
+        ],
+        "width": [
+            "31.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mr. and Mrs. Talbot Jones Taylor",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "verriere",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103537_efc42612ce2b3107_b.jpg",
+                "width": 1024,
+                "height": 787,
+                "is_primary": "1",
+                "image_id": "103537"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103537_efc42612ce2b3107_z.jpg",
+                "width": 640,
+                "height": 492,
+                "is_primary": "1",
+                "image_id": "103537"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103537_efc42612ce2b3107_n.jpg",
+                "width": 320,
+                "height": 246,
+                "is_primary": "1",
+                "image_id": "103537"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103537_efc42612ce2b3107_d.gif",
+                "width": 320,
+                "height": 246,
+                "is_primary": "1",
+                "image_id": "103537"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103537_efc42612ce2b3107_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103537"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103478_77f0f4b99b933cd6_b.jpg",
+                "width": 1024,
+                "height": 759,
+                "is_primary": "0",
+                "image_id": "103478"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103478_77f0f4b99b933cd6_z.jpg",
+                "width": 640,
+                "height": 474,
+                "is_primary": "0",
+                "image_id": "103478"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103478_77f0f4b99b933cd6_n.jpg",
+                "width": 320,
+                "height": 237,
+                "is_primary": "0",
+                "image_id": "103478"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103478_77f0f4b99b933cd6_d.gif",
+                "width": 320,
+                "height": 237,
+                "is_primary": "0",
+                "image_id": "103478"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103478_77f0f4b99b933cd6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "103478"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18054051",
+            "role_id": "35351535",
+            "person_name": "Mrs. Talbot Jones Taylor",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18051321",
+            "role_id": "35351535",
+            "person_name": "Talbot Jones Taylor",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Verriere, 1765.\n1765. Painted tole. Gift of Mr. and Mrs. Talbot Jones Taylor. 1912-18-17-a,b."
+    "tombstone": {
+        "epitaph": "Verriere (England), 1765. Painted tole. \nGift of Mr. and Mrs. Talbot Jones Taylor. 1912-18-17-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#28170c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#493e30",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#72706a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

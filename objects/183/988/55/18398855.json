@@ -1,42 +1,121 @@
 {
-    "id":"18398855",
-    "tms:id":"109601",
-    "accession_number":"1953-83-1",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18398855\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"119853",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: \nTechnique: counted stitch embroidery",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mabel Haynes",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18398855",
+    "tms:id": "109601",
+    "accession_number": "1953-83-1",
+    "title": "Textile, mid-19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18398855\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35366701",
+    "type_id": "35251739",
+    "date": "mid-19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: wool, linen\nTechnique: counted stitch embroidery",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 45 \u00d7 56 cm (17 11\/16 \u00d7 22 1\/16 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of Mabel Haynes",
+    "description": "Oblong panel of canvas, embroidered solidly in colored wools. Design of shaded blocks, about half inch square, arranged in zigzag or flame stitch pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73077_84fa4bf7e6075163_b.jpg",
+                "width": 757,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "73077"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73077_84fa4bf7e6075163_z.jpg",
+                "width": 473,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "73077"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73077_84fa4bf7e6075163_n.jpg",
+                "width": 237,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "73077"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73077_84fa4bf7e6075163_d.gif",
+                "width": 237,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "73077"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73077_84fa4bf7e6075163_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "73077"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18059681",
+            "role_id": "35351535",
+            "person_name": "Miss Mabel Haynes",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059681\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nMedium: \nTechnique: counted stitch embroidery. Gift of Mabel Haynes. 1953-83-1."
+    "tombstone": {
+        "epitaph": "Textile, mid-19th century. Medium: wool, linen\nTechnique: counted stitch embroidery. \nGift of Mabel Haynes. 1953-83-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#7e5039",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#796e52",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2d201b",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#a38e6f",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#584331",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
 }

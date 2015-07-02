@@ -1,58 +1,135 @@
 {
-    "id":"18758445",
-    "tms:id":"255508",
-    "accession_number":"2010-21-118",
-    "title":"Poster, \"Heinz Spoerli, Brahms ein Ballet\", 1997",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758445\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"1997",
-    "year_start":"1997",
-    "year_end":"1997",
-    "year_acquired":"2010",
-    "decade":"1990",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"128.4 x 90.9 cm (50 9\/16 x 35 13\/16 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758445",
+    "tms:id": "255508",
+    "accession_number": "2010-21-118",
+    "title": "Poster, Heinz Spoerli, Brahms ein Ballet, 1997",
+    "title_raw": "Heinz Spoerli, Brahms ein Ballet",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758445\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431963",
+    "type_id": "35238163",
+    "date": "1997",
+    "year_start": 1997,
+    "year_end": 1997,
+    "year_acquired": "2010",
+    "decade": "1990",
+    "woe:country_id": "23424957",
+    "medium": "Offset lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in white ink, upper right: Buro Kerim Seiler",
+    "provenance": "Sara and Marc Benda (acquired new and directly from designer, B\u00fcro Kerim Seiler); 2010: acquired by Museum",
+    "dimensions": "128.4 x 90.9 cm (50 9\/16 x 35 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "128.40",
+            "centimeters"
+        ],
+        "width": [
+            "90.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "On a red ground, 15 white circles containing a male figure striking different poses. Text in black ink, center right: OPERNHAUS ZURICH; lower: HEINZ SPOERLI \/ BRAHMS EIN \/ BALLETT \/ HANS SCHAVERNOCH HELENA HELBLING \/ AB. 7 SEPTEMBER \u201997.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45568_7dcdaff1533f83dd_b.jpg",
-                "width":731,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45568_030d89ef9c467235_b.jpg",
+                "width": 725,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "45568"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45568_7dcdaff1533f83dd_n.jpg",
-                "width":228,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45568_030d89ef9c467235_z.jpg",
+                "width": 453,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "45568"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45568_7dcdaff1533f83dd_z.jpg",
-                "width":457,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45568_030d89ef9c467235_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45568"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45568_030d89ef9c467235_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45568"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45568_030d89ef9c467235_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45568"
             }
         }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "68738781",
+            "role_id": "35236667",
+            "person_name": "Opernhaus, Z\u00fcrich",
+            "person_date": "Z\u00fcrich, Switzerland",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738781\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "68738783",
+            "role_id": "35236655",
+            "person_name": "B\u00fcro Kerim Seiler",
+            "person_date": "Swiss",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68738783\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Heinz Spoerli, Brahms ein Ballet, 1997. Offset lithograph on wove paper. \nGift of Sara and Marc Benda. 2010-21-118"
+    },
+    "colors": [
+        {
+            "color": "#8c422a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#563024",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#8c7a7a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6b524e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

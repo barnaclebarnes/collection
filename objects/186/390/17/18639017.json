@@ -1,80 +1,153 @@
 {
-    "id":"18639017",
-    "tms:id":"194370",
-    "accession_number":"1992-139-55",
-    "title":"Sidewall, 1900\u201320",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18639017\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1900\u201320",
-    "year_start":null,
-    "year_end":"1920",
-    "year_acquired":"1992",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
-    },
-    "images":[
+    "id": "18639017",
+    "tms:id": "194370",
+    "accession_number": "1992-139-55",
+    "title": "Sidewall (USA), 1900\u20131920",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18639017\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1900\u20131920",
+    "year_start": null,
+    "year_end": 1920,
+    "year_acquired": "1992",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11938_4ab72f183f3782bf_b.jpg",
-                "width":679,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60392_5c3ff69467c1e480_b.jpg",
+                "width": 650,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "60392"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11938_4ab72f183f3782bf_n.jpg",
-                "width":212,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60392_5c3ff69467c1e480_z.jpg",
+                "width": 406,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "60392"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11938_4ab72f183f3782bf_z.jpg",
-                "width":424,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60392_5c3ff69467c1e480_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "60392"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60392_5c3ff69467c1e480_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "60392"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/60392_5c3ff69467c1e480_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "60392"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11938_4ab72f183f3782bf_b.jpg",
+                "width": 679,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11938"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11938_4ab72f183f3782bf_z.jpg",
+                "width": 424,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11938"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11938_4ab72f183f3782bf_n.jpg",
+                "width": 212,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11938"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11938_4ab72f183f3782bf_d.gif",
+                "width": 212,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11938"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11938_4ab72f183f3782bf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11938"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1900\u201320.\n1900\u201320. Machine-printed. Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook. 1992-139-55."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#90a083",
-            "closest_css3":"#8fbc8f"
-        },
-        {
-            "color":"#757d65",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#ccddca",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#404a35",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#ab9d88",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1900\u20131920. Machine-printed. \nGift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook. 1992-139-55"
+    },
+    "colors": [
+        {
+            "color": "#646d3b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#8f935d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b8b383",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#3b4621",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

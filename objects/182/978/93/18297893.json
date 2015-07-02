@@ -1,49 +1,232 @@
 {
-    "id":"18297893",
-    "tms:id":"38892",
-    "accession_number":"1921-6-8",
-    "title":"Handscreen",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18297893\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35267169",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1921",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35267169",
-        "name":"Handscreen"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18297893",
+    "tms:id": "38892",
+    "accession_number": "1921-6-8",
+    "title": "Handscreen",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18297893\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35267169",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1921",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Handscreen",
+    "images": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99583_69723d5e5d8cf99c_b.jpg",
+                "width": 637,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "99583"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99583_69723d5e5d8cf99c_z.jpg",
+                "width": 398,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "99583"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99583_69723d5e5d8cf99c_n.jpg",
+                "width": 199,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "99583"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99583_69723d5e5d8cf99c_d.gif",
+                "width": 199,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "99583"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/99583_69723d5e5d8cf99c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "99583"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97954_1700b76f113377c5_b.jpg",
+                "width": 651,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "97954"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97954_1700b76f113377c5_z.jpg",
+                "width": 407,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "97954"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97954_1700b76f113377c5_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "97954"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97954_1700b76f113377c5_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "97954"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97954_1700b76f113377c5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "97954"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69001_c54afd2579202109_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "69001"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69001_c54afd2579202109_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "69001"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69001_c54afd2579202109_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "69001"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69001_c54afd2579202109_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "69001"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69001_c54afd2579202109_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "69001"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69002_ecdfced97fae011e_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "69002"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69002_ecdfced97fae011e_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "69002"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69002_ecdfced97fae011e_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "69002"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69002_ecdfced97fae011e_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "69002"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69002_ecdfced97fae011e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "69002"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Handscreen.\nPurchased for the Museum by the Advisory Council. 1921-6-8."
+    "participants": [
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Handscreen. \nPurchased for the Museum by the Advisory Council. 1921-6-8"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#987b55",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6a563e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b09f81",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#423a33",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6a6958",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

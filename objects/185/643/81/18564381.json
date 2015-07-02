@@ -1,80 +1,139 @@
 {
-    "id":"18564381",
-    "tms:id":"75391",
-    "accession_number":"1941-69-78",
-    "title":"Sampler, late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564381\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427287",
-    "type_id":"35256439",
-    "date":"late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Medium: silks and metallic embroidery, linen foundation \nTechnique: embroidered",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"Warp x Weft: 26 x 27 cm (10 1\/4 x 10 5\/8 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"Fifteen samples of darning in different patterns; in each corner an initial \"L M E M.\"",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18564381",
+    "tms:id": "75391",
+    "accession_number": "1941-69-78",
+    "title": "Sampler (Netherlands), late 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564381\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427287",
+    "type_id": "35256439",
+    "date": "late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Medium: silks and metallic embroidery, linen foundation \nTechnique: embroidered",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "Warp x Weft: 26 x 27 cm (10 1\/4 x 10 5\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "26.00",
+            "centimeters"
+        ],
+        "weft": [
+            "27.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "Fifteen samples of darning in different patterns; in each corner an initial \"L M E M.\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29069_5afd2fe45dd43820_b.jpg",
-                "width":1024,
-                "height":1004,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118977_c06ba287661947aa_b.jpg",
+                "width": 1024,
+                "height": 986,
+                "is_primary": "1",
+                "image_id": "118977"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29069_5afd2fe45dd43820_n.jpg",
-                "width":320,
-                "height":314,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118977_c06ba287661947aa_z.jpg",
+                "width": 640,
+                "height": 616,
+                "is_primary": "1",
+                "image_id": "118977"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29069_5afd2fe45dd43820_z.jpg",
-                "width":640,
-                "height":628,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118977_c06ba287661947aa_n.jpg",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "118977"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118977_c06ba287661947aa_d.gif",
+                "width": 320,
+                "height": 308,
+                "is_primary": "1",
+                "image_id": "118977"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118977_c06ba287661947aa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118977"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29069_5afd2fe45dd43820_b.jpg",
+                "width": 1024,
+                "height": 1004,
+                "is_primary": "0",
+                "image_id": "29069"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29069_5afd2fe45dd43820_z.jpg",
+                "width": 640,
+                "height": 628,
+                "is_primary": "0",
+                "image_id": "29069"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29069_5afd2fe45dd43820_n.jpg",
+                "width": 320,
+                "height": 314,
+                "is_primary": "0",
+                "image_id": "29069"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29069_5afd2fe45dd43820_d.gif",
+                "width": 320,
+                "height": 314,
+                "is_primary": "0",
+                "image_id": "29069"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29069_5afd2fe45dd43820_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29069"
             }
         }
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Netherlands), late 18th century. Medium: silks and metallic embroidery, linen foundation \nTechnique: embroidered. \nBequest of Mrs. Henry E. Coe. 1941-69-78"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Sampler, late 18th century.\nlate 18th century. Medium: silks and metallic embroidery, linen foundation \nTechnique: embroidered. Bequest of Mrs. Henry E. Coe. 1941-69-78."
-    },
-    "colors":[
-        {
-            "color":"#c4d5d5",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#97988a",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#96866c",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#122213",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#936335",
-            "closest_css3":"#a0522d"
-        }
-    ]
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

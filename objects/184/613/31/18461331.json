@@ -1,49 +1,205 @@
 {
-    "id":"18461331",
-    "tms:id":"141270",
-    "accession_number":"1968-110-142",
-    "title":"Textile, 1920s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18461331\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1920s",
-    "year_start":"1920",
-    "year_end":"1929",
-    "year_acquired":"1968",
-    "decade":"1920",
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: block printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"from the Ericson and Weiss Collection",
-    "dimensions":"H x W: 80 x 80 cm (31 1\/2 x 31 1\/2 in.)\nRepeat H: 38.1 cm (15 in.)",
-    "creditline":"Gift of Mrs. Germaine Little",
-    "description":"Gray leaves, yellow berries and birds on an orange background.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18461331",
+    "tms:id": "141270",
+    "accession_number": "1968-110-142",
+    "title": "Textile (England), 1920s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18461331\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1920s",
+    "year_start": 1920,
+    "year_end": 1929,
+    "year_acquired": "1968",
+    "decade": "1920",
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: block printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "from the Ericson and Weiss Collection",
+    "dimensions": "H x W: 80 x 80 cm (31 1\/2 x 31 1\/2 in.)\nRepeat H: 38.1 cm (15 in.)",
+    "dimensions_raw": {
+        "height": [
+            "80.01",
+            "centimeters"
+        ],
+        "width": [
+            "80.01",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Mrs. Germaine Little",
+    "description": "Gray leaves, yellow berries and birds on an orange background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18046365",
-            "role_id":"35236657",
-            "person_name":"Arthur Sanderson & Sons, Ltd.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046365\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111302_66a7abaf4e98f20d_b.jpg",
+                "width": 981,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111302"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111302_66a7abaf4e98f20d_z.jpg",
+                "width": 613,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111302"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111302_66a7abaf4e98f20d_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111302"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111302_66a7abaf4e98f20d_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111302"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111302_66a7abaf4e98f20d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111302"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75206_7e2cbdfcb0b08153_b.jpg",
+                "width": 761,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "75206"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75206_7e2cbdfcb0b08153_z.jpg",
+                "width": 476,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "75206"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75206_7e2cbdfcb0b08153_n.jpg",
+                "width": 238,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "75206"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75206_7e2cbdfcb0b08153_d.gif",
+                "width": 238,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "75206"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75206_7e2cbdfcb0b08153_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "75206"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75207_26c01e7835ee3b88_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "75207"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75207_26c01e7835ee3b88_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "75207"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75207_26c01e7835ee3b88_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "75207"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75207_26c01e7835ee3b88_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "75207"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75207_26c01e7835ee3b88_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "75207"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1920s.\n1920s. Medium: cotton\nTechnique: block printed on plain weave. Gift of Mrs. Germaine Little. 1968-110-142."
+    "participants": [
+        {
+            "person_id": "18046365",
+            "role_id": "35236657",
+            "person_name": "Arthur Sanderson & Sons, Ltd.",
+            "person_date": "London, founded 1860",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), 1920s. Medium: cotton\nTechnique: block printed on plain weave. \nGift of Mrs. Germaine Little. 1968-110-142"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#635747",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#928875",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6d492d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#bdab7c",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#8f6338",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

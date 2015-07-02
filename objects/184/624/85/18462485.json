@@ -1,87 +1,177 @@
 {
-    "id":"18462485",
-    "tms:id":"141847",
-    "accession_number":"1968-111-134",
-    "title":"Frieze, 1900\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18462485\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35259269",
-    "date":"1900\u201325",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"167 x 56.5 cm (65 3\/4 x 22 1\/4 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"Along top edge, brown shaded lines (over white ground) imitating architectural moldings. From these, hang festoons of pink and blue flowers held by ribbons over gray background flowers.",
-    "justification":null,
-    "type":{
-        "id":"35259269",
-        "name":"Frieze"
+    "id": "18462485",
+    "tms:id": "141847",
+    "accession_number": "1968-111-134",
+    "title": "Frieze, 1900\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18462485\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35259269",
+    "date": "1900\u201325",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "167 x 56.5 cm (65 3\/4 x 22 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "167.00",
+            "centimeters"
+        ],
+        "width": [
+            "56.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Along top edge, brown shaded lines (over white ground) imitating architectural moldings. From these, hang festoons of pink and blue flowers held by ribbons over gray background flowers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Frieze",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6575_70246dc78d14f527_b.jpg",
-                "width":1024,
-                "height":437,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93938_2d2899d061fdfbfd_b.jpg",
+                "width": 1024,
+                "height": 491,
+                "is_primary": "1",
+                "image_id": "93938"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6575_70246dc78d14f527_n.jpg",
-                "width":320,
-                "height":137,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93938_2d2899d061fdfbfd_z.jpg",
+                "width": 640,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "93938"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6575_70246dc78d14f527_z.jpg",
-                "width":640,
-                "height":273,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93938_2d2899d061fdfbfd_n.jpg",
+                "width": 320,
+                "height": 153,
+                "is_primary": "1",
+                "image_id": "93938"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93938_2d2899d061fdfbfd_d.gif",
+                "width": 320,
+                "height": 153,
+                "is_primary": "1",
+                "image_id": "93938"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93938_2d2899d061fdfbfd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93938"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6575_70246dc78d14f527_b.jpg",
+                "width": 1024,
+                "height": 437,
+                "is_primary": "0",
+                "image_id": "6575"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6575_70246dc78d14f527_z.jpg",
+                "width": 640,
+                "height": 273,
+                "is_primary": "0",
+                "image_id": "6575"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6575_70246dc78d14f527_n.jpg",
+                "width": 320,
+                "height": 137,
+                "is_primary": "0",
+                "image_id": "6575"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6575_70246dc78d14f527_d.gif",
+                "width": 320,
+                "height": 137,
+                "is_primary": "0",
+                "image_id": "6575"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6575_70246dc78d14f527_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "6575"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048007",
+            "role_id": "35352245",
+            "person_name": "Catherine Lynn Frangiamore",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Frieze, 1900\u201325.\n1900\u201325. Block-printed. Gift of Harvey Smith. 1968-111-134."
+    "tombstone": {
+        "epitaph": "Frieze, 1900\u201325. Block-printed. \nGift of Harvey Smith. 1968-111-134"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#adb2cd",
-            "closest_css3":"#b0c4de"
+            "color": "#dad8c6",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#7f7d8a",
-            "closest_css3":"#808080"
+            "color": "#b9b09a",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#e0e5f9",
-            "closest_css3":"#e6e6fa"
+            "color": "#6b6859",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#3d2d30",
-            "closest_css3":"#2f4f4f"
+            "color": "#5b4336",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#675d66",
-            "closest_css3":"#696969"
+            "color": "#8a8f79",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

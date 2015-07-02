@@ -1,42 +1,105 @@
 {
-    "id":"18318575",
-    "tms:id":"44532",
-    "accession_number":"1931-40-38",
-    "title":"Jardiniere",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18318575\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402647",
-    "type_id":"35251225",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":null,
-    "medium":"earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"13 x 20 x 11 cm (5 1\/8 x 7 7\/8 x 4 5\/16 in.)",
-    "creditline":"Gift of Eleanor Garnier Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251225",
-        "name":"jardiniere"
+    "id": "18318575",
+    "tms:id": "44532",
+    "accession_number": "1931-40-38",
+    "title": "Jardiniere",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18318575\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35251225",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 13 x 20 x 11 cm (5 1\/8 x 7 7\/8 x 4 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "11.00",
+            "centimeters"
+        ],
+        "height": [
+            "13.00",
+            "centimeters"
+        ],
+        "width": [
+            "20.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eleanor Garnier Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "jardiniere",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115523_3a1a1b539ad5515c_b.jpg",
+                "width": 1024,
+                "height": 783,
+                "is_primary": "1",
+                "image_id": "115523"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115523_3a1a1b539ad5515c_z.jpg",
+                "width": 640,
+                "height": 489,
+                "is_primary": "1",
+                "image_id": "115523"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115523_3a1a1b539ad5515c_n.jpg",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "115523"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115523_3a1a1b539ad5515c_d.gif",
+                "width": 320,
+                "height": 245,
+                "is_primary": "1",
+                "image_id": "115523"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115523_3a1a1b539ad5515c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115523"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Jardiniere. earthenware. \nGift of Eleanor Garnier Hewitt. 1931-40-38"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Jardiniere.\nearthenware. Gift of Eleanor Garnier Hewitt. 1931-40-38."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

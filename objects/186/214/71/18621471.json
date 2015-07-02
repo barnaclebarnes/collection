@@ -1,72 +1,168 @@
 {
-    "id":"18621471",
-    "tms:id":"185559",
-    "accession_number":"1986-61-51",
-    "title":"Marriage Plate, 1754",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621471\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35411369",
-    "type_id":"51587729",
-    "date":"1754",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Tin-glazed earthenware",
-    "markings":"none",
-    "signed":null,
-    "inscribed":"Inscribed inside: \"William and \/ Suanna Plumer \/ Yarmouth \/ 1754\"",
-    "provenance":"1963: Walter Phelps Warren (from A. F. Allbrook (Antiques), London); 1986: bequested to Museum",
-    "dimensions":"H x diam.: 3.2 x 22 cm (1 1\/4 x 8 11\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Circular plate with up-curving rim; back dome shaped, flattened at center; painted in underglaze blue and yellow on white with a heart surmounted by a crown and surrounded by putti and flowers, inscribed inside \"William and \/ Suanna Plumer \/ Yarmouth \/ 1754\"; a stylized floral border with yellow rim.",
-    "justification":null,
-    "type":{
-        "id":"51587729",
-        "name":"Marriage plate"
+    "id": "18621471",
+    "tms:id": "185559",
+    "accession_number": "1986-61-51",
+    "title": "Marriage Plate (Netherlands), 1754",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621471\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35411369",
+    "type_id": "51587729",
+    "date": "1754",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Tin-glazed earthenware",
+    "markings": "none",
+    "signed": null,
+    "inscribed": "Inscribed inside: \"William and \/ Suanna Plumer \/ Yarmouth \/ 1754\"",
+    "provenance": "1963: Walter Phelps Warren (from A. F. Allbrook (Antiques), London); 1986: bequested to Museum",
+    "dimensions": "H x diam.: 3.2 x 22 cm (1 1\/4 x 8 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "22.00",
+            "centimeters"
+        ],
+        "height": [
+            "3.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Circular plate with up-curving rim; back dome shaped, flattened at center; painted in underglaze blue and yellow on white with a heart surmounted by a crown and surrounded by putti and flowers, inscribed inside \"William and \/ Suanna Plumer \/ Yarmouth \/ 1754\"; a stylized floral border with yellow rim.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Marriage plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43865_6b36eccd8b55fbcb_b.jpg",
-                "width":1024,
-                "height":720,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106814_3dbec56fd8c24e31_b.jpg",
+                "width": 1024,
+                "height": 660,
+                "is_primary": "1",
+                "image_id": "106814"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43865_6b36eccd8b55fbcb_n.jpg",
-                "width":320,
-                "height":225,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106814_3dbec56fd8c24e31_z.jpg",
+                "width": 640,
+                "height": 412,
+                "is_primary": "1",
+                "image_id": "106814"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43865_6b36eccd8b55fbcb_z.jpg",
-                "width":640,
-                "height":450,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106814_3dbec56fd8c24e31_n.jpg",
+                "width": 320,
+                "height": 206,
+                "is_primary": "1",
+                "image_id": "106814"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106814_3dbec56fd8c24e31_d.gif",
+                "width": 320,
+                "height": 206,
+                "is_primary": "1",
+                "image_id": "106814"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106814_3dbec56fd8c24e31_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106814"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43865_6b36eccd8b55fbcb_b.jpg",
+                "width": 1024,
+                "height": 720,
+                "is_primary": "0",
+                "image_id": "43865"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43865_6b36eccd8b55fbcb_z.jpg",
+                "width": 640,
+                "height": 450,
+                "is_primary": "0",
+                "image_id": "43865"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43865_6b36eccd8b55fbcb_n.jpg",
+                "width": 320,
+                "height": 225,
+                "is_primary": "0",
+                "image_id": "43865"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43865_6b36eccd8b55fbcb_d.gif",
+                "width": 320,
+                "height": 225,
+                "is_primary": "0",
+                "image_id": "43865"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43865_6b36eccd8b55fbcb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "43865"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Marriage Plate, 1754.\n1754. Tin-glazed earthenware. Bequest of Walter Phelps Warren. 1986-61-51."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#333c66",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#67799b",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#b5a38a",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Marriage Plate (Netherlands), 1754. Tin-glazed earthenware. \nBequest of Walter Phelps Warren. 1986-61-51"
+    },
+    "colors": [
+        {
+            "color": "#8e9197",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#606477",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#404463",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#ada291",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#d2c19d",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

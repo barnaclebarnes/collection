@@ -1,49 +1,160 @@
 {
-    "id":"18500865",
-    "tms:id":"161334",
-    "accession_number":"1979-91-66",
-    "title":"Frieze, 1890\u20131910",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18500865\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35259269",
-    "date":"1890\u20131910",
-    "year_start":null,
-    "year_end":"1910",
-    "year_acquired":"1979",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"154 x 49.5 cm (60 5\/8 x 19 1\/2 in.)",
-    "creditline":"Gift of Victorian Collectibles",
-    "description":"A repeating design of large styized trees with three flower heads, interspersed by smaller complementary trees with a single flower head. Upon a ground with an overlay of an intricate design and stylized fleur-de-lis between complementary borders.",
-    "justification":null,
-    "type":{
-        "id":"35259269",
-        "name":"Frieze"
+    "id": "18500865",
+    "tms:id": "161334",
+    "accession_number": "1979-91-66",
+    "title": "Frieze (USA), 1890\u20131910",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18500865\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35259269",
+    "date": "1890\u20131910",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1979",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "154 x 49.5 cm (60 5\/8 x 19 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "154.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Victorian Collectibles",
+    "description": "A repeating design of large styized trees with three flower heads, interspersed by smaller complementary trees with a single flower head. Upon a ground with an overlay of an intricate design and stylized fleur-de-lis between complementary borders.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Frieze",
+    "images": [
         {
-            "person_id":"18046683",
-            "role_id":"35236657",
-            "person_name":"Hobbs, Benton & Heath",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046683\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95980_cc3f106bf4182423_b.jpg",
+                "width": 1024,
+                "height": 570,
+                "is_primary": "1",
+                "image_id": "95980"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95980_cc3f106bf4182423_z.jpg",
+                "width": 640,
+                "height": 356,
+                "is_primary": "1",
+                "image_id": "95980"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95980_cc3f106bf4182423_n.jpg",
+                "width": 320,
+                "height": 178,
+                "is_primary": "1",
+                "image_id": "95980"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95980_cc3f106bf4182423_d.gif",
+                "width": 320,
+                "height": 178,
+                "is_primary": "1",
+                "image_id": "95980"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95980_cc3f106bf4182423_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "95980"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95025_7dfe1ceef044b5e3_b.jpg",
+                "width": 1024,
+                "height": 570,
+                "is_primary": "0",
+                "image_id": "95025"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95025_7dfe1ceef044b5e3_z.jpg",
+                "width": 640,
+                "height": 356,
+                "is_primary": "0",
+                "image_id": "95025"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95025_7dfe1ceef044b5e3_n.jpg",
+                "width": 320,
+                "height": 178,
+                "is_primary": "0",
+                "image_id": "95025"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95025_7dfe1ceef044b5e3_d.gif",
+                "width": 320,
+                "height": 178,
+                "is_primary": "0",
+                "image_id": "95025"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95025_7dfe1ceef044b5e3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95025"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Frieze, 1890\u20131910.\n1890\u20131910. Machine-printed. Gift of Victorian Collectibles. 1979-91-66."
+    "participants": [
+        {
+            "person_id": "18064161",
+            "role_id": "35351535",
+            "person_name": "Victorian Collectibles",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064161\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046683",
+            "role_id": "35236657",
+            "person_name": "Hobbs, Benton & Heath",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046683\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Frieze (USA), 1890\u20131910. Machine-printed. \nGift of Victorian Collectibles. 1979-91-66"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#918552",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#d1cfae",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

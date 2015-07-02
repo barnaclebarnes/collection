@@ -1,80 +1,168 @@
 {
-    "id":"18383231",
-    "tms:id":"101739",
-    "accession_number":"1949-92-2",
-    "title":"Fragment, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383231\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1949",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"Medium: silk\nTechnique: plain compound weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 30.2 x 7.5 cm (11 7\/8 x 2 15\/16 in.)",
-    "creditline":"Gift of Walter Hochstradter",
-    "description":"Geometrical design in green, tan, yellow and blue.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18383231",
+    "tms:id": "101739",
+    "accession_number": "1949-92-2",
+    "title": "Fragment (China), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18383231\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1949",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "Medium: silk\nTechnique: plain compound weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 30.2 x 7.5 cm (11 7\/8 x 2 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.16",
+            "centimeters"
+        ],
+        "width": [
+            "7.46",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Walter Hochstradter",
+    "description": "Geometrical design in green, tan, yellow and blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_b.jpg",
-                "width":296,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63749_aa9a7b42a6b0d220_b.jpg",
+                "width": 328,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63749"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_n.jpg",
-                "width":92,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63749_aa9a7b42a6b0d220_z.jpg",
+                "width": 205,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63749"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_z.jpg",
-                "width":185,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63749_aa9a7b42a6b0d220_n.jpg",
+                "width": 103,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63749"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63749_aa9a7b42a6b0d220_d.gif",
+                "width": 103,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63749"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63749_aa9a7b42a6b0d220_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63749"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_b.jpg",
+                "width": 296,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "49304"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_z.jpg",
+                "width": 185,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "49304"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_n.jpg",
+                "width": 92,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "49304"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_d.gif",
+                "width": 92,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "49304"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_sq.jpg",
+                "width": 296,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "49304"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk\nTechnique: plain compound weave. Gift of Walter Hochstradter. 1949-92-2."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#efd2ac",
-            "closest_css3":"#f5deb3"
-        },
-        {
-            "color":"#565335",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#786c4c",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#453517",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#34352f",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18059755",
+            "role_id": "35351535",
+            "person_name": "Walter Hochstadter",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059755\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (China), 18th century. Medium: silk\nTechnique: plain compound weave. \nGift of Walter Hochstradter. 1949-92-2"
+    },
+    "colors": [
+        {
+            "color": "#32382a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6f673a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#50553a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#97874a",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#31384b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

@@ -1,87 +1,188 @@
 {
-    "id":"18789719",
-    "tms:id":"271171",
-    "accession_number":"2011-25-4",
-    "title":"Textile, \"Ringles\", 1954",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18789719\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1954",
-    "year_start":"1954",
-    "year_end":"1954",
-    "year_acquired":"2011",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: screen-printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"\"Ringles\" Designed by Carol Summers for Knoll Textiles Inc. (printed in selvedge)",
-    "provenance":null,
-    "dimensions":"H x W: 125.4 x 120.7 cm (49 3\/8 x 47 1\/2 in.)",
-    "creditline":"Gift of Richard and Trudy Schultz",
-    "description":"Design of small tangent circles, some open, some partially filled and some completely filled with color. In shades of blue on a white ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18789719",
+    "tms:id": "271171",
+    "accession_number": "2011-25-4",
+    "title": "Textile, Ringles, 1954",
+    "title_raw": "Ringles",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18789719\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1954",
+    "year_start": 1954,
+    "year_end": 1954,
+    "year_acquired": "2011",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "\"Ringles\" Designed by Carol Summers for Knoll Textiles Inc. (printed in selvedge)",
+    "provenance": "Richard and Trudy Schultz; 2011: acquired by Museum",
+    "dimensions": "H x W: 125.4 x 120.7 cm (49 3\/8 x 47 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "125.41",
+            "centimeters"
+        ],
+        "width": [
+            "120.65",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Richard and Trudy Schultz",
+    "description": "Design of small tangent circles, some open, some partially filled and some completely filled with color. In shades of blue on a white ground.",
+    "justification": "In 1945, Carol Summers graduated from Bard College, where he studied painting under Stefan Hirsch and woodcutting with Louis Schanker. While developing his artistic practice, he submitted some textile patterns to an agent in hopes of supplementing his income. One of these patterns, Ringles, is a dynamic design of small rings and circles in closely related colors that was produced by Knoll in 1954. \nAlthough Ringles was well-received and was included in the Textiles USA exhibition at MoMA in 1956, it was Summers\u2019s only design for Knoll. Summers is better known for his paintings and woodcuts, many of which are in the collections of major American museums.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39484_968440f6df31b145_b.jpg",
-                "width":1024,
-                "height":984,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105771_136070c8f0fb49f7_b.jpg",
+                "width": 1024,
+                "height": 772,
+                "is_primary": "1",
+                "image_id": "105771"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39484_968440f6df31b145_n.jpg",
-                "width":320,
-                "height":307,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105771_136070c8f0fb49f7_z.jpg",
+                "width": 640,
+                "height": 482,
+                "is_primary": "1",
+                "image_id": "105771"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39484_968440f6df31b145_z.jpg",
-                "width":640,
-                "height":615,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105771_136070c8f0fb49f7_n.jpg",
+                "width": 320,
+                "height": 241,
+                "is_primary": "1",
+                "image_id": "105771"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105771_136070c8f0fb49f7_d.gif",
+                "width": 320,
+                "height": 241,
+                "is_primary": "1",
+                "image_id": "105771"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105771_136070c8f0fb49f7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105771"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39484_968440f6df31b145_b.jpg",
+                "width": 1024,
+                "height": 984,
+                "is_primary": "0",
+                "image_id": "39484"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39484_968440f6df31b145_z.jpg",
+                "width": 640,
+                "height": 615,
+                "is_primary": "0",
+                "image_id": "39484"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39484_968440f6df31b145_n.jpg",
+                "width": 320,
+                "height": 307,
+                "is_primary": "0",
+                "image_id": "39484"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39484_968440f6df31b145_d.gif",
+                "width": 320,
+                "height": 307,
+                "is_primary": "0",
+                "image_id": "39484"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39484_968440f6df31b145_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "39484"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050113",
-            "role_id":"35236655",
-            "person_name":"Carol Summers",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050113\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18064557",
+            "role_id": "35351535",
+            "person_name": "Richard and Trudy Schultz",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064557\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041409",
+            "role_id": "35236671",
+            "person_name": "Knoll Textiles",
+            "person_date": "New York, NY",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041409\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18050113",
+            "role_id": "35236655",
+            "person_name": "Carol Summers",
+            "person_date": "American, b. 1925",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050113\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Ringles\", 1954.\n1954. Medium: cotton\nTechnique: screen-printed on plain weave. Gift of Richard and Trudy Schultz. 2011-25-4."
+    "tombstone": {
+        "epitaph": "Textile, Ringles, 1954. Medium: cotton\nTechnique: screen printed on plain weave. \nGift of Richard and Trudy Schultz. 2011-25-4"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#625680",
-            "closest_css3":"#696969"
+            "color": "#67567c",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#998da5",
-            "closest_css3":"#a9a9a9"
+            "color": "#7f738e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#383060",
-            "closest_css3":"#2f4f4f"
+            "color": "#487e88",
+            "closest_crayola": "#319177",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#356f82",
-            "closest_css3":"#2e8b57"
+            "color": "#3e2a5d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#b5b0bf",
-            "closest_css3":"#c0c0c0"
+            "color": "#789ba0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

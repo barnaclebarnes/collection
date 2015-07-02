@@ -1,80 +1,199 @@
 {
-    "id":"18668069",
-    "tms:id":"209438",
-    "accession_number":"1995-50-196",
-    "title":"Textile, ca. 1810",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18668069\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1810",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 62 cm (24 1\/2 in.)\nWeft: 84 cm (33 in.) Both selvedges present.\nHeight of repeat is not present.\nWidth of plate: 82 cm (32 1\/4 in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Four scenes illustrating a story or a romance. In one scene a woman put a laurel wreath on a man's head; in another a man overhears the conversation between two women. In purple on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18668069",
+    "tms:id": "209438",
+    "accession_number": "1995-50-196",
+    "title": "Textile (France), ca. 1810",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18668069\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1810",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp: 62 cm (24 1\/2 in.)\nWeft: 84 cm (33 in.) Both selvedges present.\nHeight of repeat is not present.\nWidth of plate: 82 cm (32 1\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "62.00",
+            "centimeters"
+        ],
+        "weft": [
+            "84.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Four scenes illustrating a story or a romance. In one scene a woman put a laurel wreath on a man's head; in another a man overhears the conversation between two women. In purple on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12874_43991733361784ab_b.jpg",
-                "width":1024,
-                "height":705,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109795_e8ecb8d8890bed4c_b.jpg",
+                "width": 1024,
+                "height": 822,
+                "is_primary": "1",
+                "image_id": "109795"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12874_43991733361784ab_n.jpg",
-                "width":320,
-                "height":220,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109795_e8ecb8d8890bed4c_z.jpg",
+                "width": 640,
+                "height": 513,
+                "is_primary": "1",
+                "image_id": "109795"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12874_43991733361784ab_z.jpg",
-                "width":640,
-                "height":441,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109795_e8ecb8d8890bed4c_n.jpg",
+                "width": 320,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "109795"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109795_e8ecb8d8890bed4c_d.gif",
+                "width": 320,
+                "height": 257,
+                "is_primary": "1",
+                "image_id": "109795"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109795_e8ecb8d8890bed4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109795"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79208_1bedbc0dcd1a9e4c_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "79208"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79208_1bedbc0dcd1a9e4c_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "79208"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79208_1bedbc0dcd1a9e4c_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79208"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79208_1bedbc0dcd1a9e4c_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79208"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79208_1bedbc0dcd1a9e4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79208"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12874_43991733361784ab_b.jpg",
+                "width": 1024,
+                "height": 705,
+                "is_primary": "0",
+                "image_id": "12874"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12874_43991733361784ab_z.jpg",
+                "width": 640,
+                "height": 441,
+                "is_primary": "0",
+                "image_id": "12874"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12874_43991733361784ab_n.jpg",
+                "width": 320,
+                "height": 220,
+                "is_primary": "0",
+                "image_id": "12874"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12874_43991733361784ab_d.gif",
+                "width": 320,
+                "height": 220,
+                "is_primary": "0",
+                "image_id": "12874"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12874_43991733361784ab_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12874"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1810.\nca. 1810. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Bequest of Elinor Merrell. 1995-50-196."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cb9581",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#f7c1a9",
-            "closest_css3":"#ffb6c1"
-        },
-        {
-            "color":"#b48386",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#835257",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#c8afac",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), ca. 1810. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nBequest of Elinor Merrell. 1995-50-196"
+    },
+    "colors": [
+        {
+            "color": "#7b706f",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a29a91",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#5f5057",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#e1dec8",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

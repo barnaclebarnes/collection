@@ -1,95 +1,176 @@
 {
-    "id":"18643511",
-    "tms:id":"196622",
-    "accession_number":"1993-124-4",
-    "title":"Plate, ca. 1880",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643511\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35380393",
-    "type_id":"35236833",
-    "date":"ca. 1880",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1993",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Porcelain, enamel decoration",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through bequest of Dona Guimaraes and from Decorative Arts Association Acquisition Fund",
-    "description":"A white plate with a gold lip depicting a mouse sitting on a tree stump, playing the guitar with a mountain in the background.",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18643511",
+    "tms:id": "196622",
+    "accession_number": "1993-124-4",
+    "title": "Plate (France), ca. 1880",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18643511\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51587759",
+    "type_id": "35236833",
+    "date": "ca. 1880",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1993",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Enameled, gilt and glazed porcelain",
+    "markings": "On base, in red oval stamp: \"CH. PILLVUYT & CIE. \/ PARIS \/ EXP. 1867 \/ MEDAILLE D'OR\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1993: acquired by Museum (from Nicholas Harris)",
+    "dimensions": "H x diam.: 2.5 x 23 cm (1 in. x 9 1\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "23.00",
+            "centimeters"
+        ],
+        "height": [
+            "2.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through bequest of Dona Guimaraes and from Decorative Arts Association Acquisition Fund",
+    "description": "A white plate with a gold lip depicting a mouse sitting on a tree stump, playing the guitar with a mountain in the background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15963_07520a3254b72bf1_b.jpg",
-                "width":1004,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108620_de811fbb84c7486d_b.jpg",
+                "width": 1024,
+                "height": 670,
+                "is_primary": "1",
+                "image_id": "108620"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15963_07520a3254b72bf1_n.jpg",
-                "width":314,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108620_de811fbb84c7486d_z.jpg",
+                "width": 640,
+                "height": 419,
+                "is_primary": "1",
+                "image_id": "108620"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15963_07520a3254b72bf1_z.jpg",
-                "width":628,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108620_de811fbb84c7486d_n.jpg",
+                "width": 320,
+                "height": 209,
+                "is_primary": "1",
+                "image_id": "108620"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108620_de811fbb84c7486d_d.gif",
+                "width": 320,
+                "height": 209,
+                "is_primary": "1",
+                "image_id": "108620"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108620_de811fbb84c7486d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108620"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15963_07520a3254b72bf1_b.jpg",
+                "width": 1004,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "15963"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15963_07520a3254b72bf1_z.jpg",
+                "width": 628,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "15963"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15963_07520a3254b72bf1_n.jpg",
+                "width": 314,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15963"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15963_07520a3254b72bf1_d.gif",
+                "width": 314,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15963"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15963_07520a3254b72bf1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15963"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041459",
-            "role_id":"35352249",
-            "person_name":"Nicholas Harris",
-            "role_name":"Vendor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041459\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
         },
         {
-            "person_id":"18048691",
-            "role_id":"35236657",
-            "person_name":"Pillivuyt & Cie",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048691\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041459",
+            "role_id": "35352249",
+            "person_name": "Nicholas Harris",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18048691",
+            "role_id": "35236657",
+            "person_name": "Pillivuyt & Cie",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048691\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Plate, ca. 1880.\nca. 1880. Porcelain, enamel decoration. Museum purchase through bequest of Dona Guimaraes and from Decorative Arts Association Acquisition Fund. 1993-124-4."
+    "tombstone": {
+        "epitaph": "Plate (France), ca. 1880. Enameled, gilt and glazed porcelain. \nMuseum purchase through bequest of Dona Guimaraes and from Decorative Arts Association Acquisition Fund. 1993-124-4"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#7d7d74",
-            "closest_css3":"#808080"
+            "color": "#c3b69b",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#48493b",
-            "closest_css3":"#2f4f4f"
+            "color": "#b99e66",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#bdac7a",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#706032",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#98895b",
-            "closest_css3":"#808080"
+            "color": "#8c716c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

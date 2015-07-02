@@ -1,42 +1,117 @@
 {
-    "id":"18609961",
-    "tms:id":"98500",
-    "accession_number":"1948-40-31-a",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18609961\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Original album associated with this collection still exists.  See 1948-40-1 accessory",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18609961",
+    "tms:id": "98500",
+    "accession_number": "1948-40-31-a",
+    "title": "Drawing, Standards and Wall Decoration, Banqueting Room, Royal Pavilion, Brighton, 1817",
+    "title_raw": "Standards and Wall Decoration, Banqueting Room, Royal Pavilion, Brighton",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18609961\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35418491",
+    "type_id": "35237093",
+    "date": "1817",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Graphite on white wove paper",
+    "markings": "Cooper Union Museum stamp on verso",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1948: acquired by Museum (from Mrs. K. Gregory)",
+    "dimensions": "Mat: 35.6 x 45.7 cm (14 x 18 in.)\n32.2 x 26.8 cm (12 11\/16 x 10 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "45.72",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Canopy-like decorations of Indian design with wide compartments flanked by two narrow ones, each surmounted by domes. The narrow sections have columns with leafy shafts, the space between filled with geometric flower motifs. Hanging light figures in center.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63095_053a3572ad45bcc7_b.jpg",
+                "width": 846,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63095"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63095_053a3572ad45bcc7_z.jpg",
+                "width": 529,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63095"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63095_053a3572ad45bcc7_n.jpg",
+                "width": 264,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63095"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63095_053a3572ad45bcc7_d.gif",
+                "width": 264,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63095"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63095_053a3572ad45bcc7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63095"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042069",
+            "role_id": "35236655",
+            "person_name": "Frederick Crace",
+            "person_date": "English, 1779\u20131859",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18539479",
+            "role_id": "35352249",
+            "person_name": "Mrs. K. Gregory",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539479\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-31-a."
+    "tombstone": {
+        "epitaph": "Drawing, Standards and Wall Decoration, Banqueting Room, Royal Pavilion, Brighton, 1817. Graphite on white wove paper. \nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-31-a"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b5b29e",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

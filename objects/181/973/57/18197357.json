@@ -1,87 +1,169 @@
 {
-    "id":"18197357",
-    "tms:id":"22949",
-    "accession_number":"1917-4-354-b",
-    "title":"Drawing, \"Mountainous Landscape\", May 1865",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18197357\/",
-    "department_id":"35347493",
-    "period_id":"35417175",
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":"May 1865",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1917",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Louis P. Church",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18197357",
+    "tms:id": "22949",
+    "accession_number": "1917-4-354-b",
+    "title": "Drawing, Mountainous Landscape, May 1865",
+    "title_raw": "Mountainous Landscape",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18197357\/",
+    "department_id": "35347493",
+    "period_id": "35417175",
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "May 1865",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1917",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Louis P. Church",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1803_744b771f96a31c68_b.jpg",
-                "width":1024,
-                "height":646,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1803_744b771f96a31c68_b.jpg",
+                "width": 1024,
+                "height": 646,
+                "is_primary": "1",
+                "image_id": "1803"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1803_744b771f96a31c68_n.jpg",
-                "width":320,
-                "height":202,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1803_744b771f96a31c68_z.jpg",
+                "width": 640,
+                "height": 404,
+                "is_primary": "1",
+                "image_id": "1803"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1803_744b771f96a31c68_z.jpg",
-                "width":640,
-                "height":404,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1803_744b771f96a31c68_n.jpg",
+                "width": 320,
+                "height": 202,
+                "is_primary": "1",
+                "image_id": "1803"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1803_744b771f96a31c68_d.gif",
+                "width": 320,
+                "height": 202,
+                "is_primary": "1",
+                "image_id": "1803"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1803_744b771f96a31c68_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "1803"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116414_9c8d53ee7d961270_b.jpg",
+                "width": 1024,
+                "height": 656,
+                "is_primary": "0",
+                "image_id": "116414"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116414_9c8d53ee7d961270_z.jpg",
+                "width": 640,
+                "height": 410,
+                "is_primary": "0",
+                "image_id": "116414"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116414_9c8d53ee7d961270_n.jpg",
+                "width": 320,
+                "height": 205,
+                "is_primary": "0",
+                "image_id": "116414"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116414_9c8d53ee7d961270_d.gif",
+                "width": 320,
+                "height": 205,
+                "is_primary": "0",
+                "image_id": "116414"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116414_9c8d53ee7d961270_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "116414"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041941",
-            "role_id":"35236565",
-            "person_name":"Frederic Edwin Church",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18041941",
+            "role_id": "35236565",
+            "person_name": "Frederic Edwin Church",
+            "person_date": "American, 1826\u20131900",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18051625",
+            "role_id": "35351535",
+            "person_name": "Louis P. Church",
+            "person_date": "American, 1870\u20131943",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Mountainous Landscape\", May 1865.\nMay 1865. Gift of Louis P. Church. 1917-4-354-b."
+    "tombstone": {
+        "epitaph": "Drawing, Mountainous Landscape, May 1865. \nGift of Louis P. Church. 1917-4-354-b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#938983",
-            "closest_css3":"#808080"
+            "color": "#c8b6a8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#e0c8b4",
-            "closest_css3":"#f5deb3"
+            "color": "#9f9685",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#b4a79a",
-            "closest_css3":"#a9a9a9"
+            "color": "#8f684b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#6f5645",
-            "closest_css3":"#556b2f"
+            "color": "#56443c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#8f6b47",
-            "closest_css3":"#a0522d"
+            "color": "#fde5c0",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#ffe4c4",
+            "closest_css4": "#ffe4c4"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

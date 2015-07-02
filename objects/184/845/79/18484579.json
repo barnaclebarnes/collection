@@ -1,42 +1,131 @@
 {
-    "id":"18484579",
-    "tms:id":"153155",
-    "accession_number":"1974-81-6-a,b",
-    "title":"Sidewall, 1830\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18484579\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35375911",
-    "type_id":"35256475",
-    "date":"1830\u201350",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1974",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed, machine made paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"104 x 27 cm (40 15\/16 x 10 5\/8 in.)",
-    "creditline":"Gift of Delafield, Hope & Linker",
-    "description":"white satin ground",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18484579",
+    "tms:id": "153155",
+    "accession_number": "1974-81-6-a,b",
+    "title": "Sidewall (France), 1830\u201350",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18484579\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35379689",
+    "type_id": "35256475",
+    "date": "1830\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1974",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on machine-made paper, satin ground",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "104 x 27 cm (40 15\/16 x 10 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "104.00",
+            "centimeters"
+        ],
+        "width": [
+            "27.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Delafield, Hope & Linker",
+    "description": "Floral sprigs with draping tendrils printed on white satin ground. Flowers include roses and lilacs among others.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63806_b7a7c8675df80d26_b.jpg",
+                "width": 741,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63806"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63806_b7a7c8675df80d26_z.jpg",
+                "width": 463,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63806"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63806_b7a7c8675df80d26_n.jpg",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63806"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63806_b7a7c8675df80d26_d.gif",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63806"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63806_b7a7c8675df80d26_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63806"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18537139",
+            "role_id": "35351535",
+            "person_name": "Delafield, Hope & Linker",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537139\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1830\u201350.\n1830\u201350. Block-printed, machine made paper. Gift of Delafield, Hope &amp; Linker. 1974-81-6-a,b."
+    "tombstone": {
+        "epitaph": "Sidewall (France), 1830\u201350. Block-printed on machine-made paper, satin ground. \nGift of Delafield, Hope &amp; Linker. 1974-81-6-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#c8c9be",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#73b35f",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#456145",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#aa8280",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#82473b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

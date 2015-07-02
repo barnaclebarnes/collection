@@ -1,42 +1,117 @@
 {
-    "id":"18642727",
-    "tms:id":"196228",
-    "accession_number":"1993-108-380",
-    "title":"Drawing, \"Bookend\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18642727\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35422413",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1993",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Watercolor, chalk",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Alfons Bach",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18642727",
+    "tms:id": "196228",
+    "accession_number": "1993-108-380",
+    "title": "Drawing, Bookend, 20th century",
+    "title_raw": "Bookend",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18642727\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51551299",
+    "type_id": "35237093",
+    "date": "20th century",
+    "year_start": 1920,
+    "year_end": 1999,
+    "year_acquired": "1993",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Brush and gouache, chalk on black paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Alfons Bach; 1993: acquired by Museum",
+    "dimensions": "43.5 x 28.4 cm (17 1\/8 x 11 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "43.50",
+            "centimeters"
+        ],
+        "width": [
+            "28.40",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Alfons Bach",
+    "description": "Bookend decorated with three vertical square floral carvings on a semicircular scalloped base.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64735_829ce163acb9dc9e_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64735"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64735_829ce163acb9dc9e_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64735"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64735_829ce163acb9dc9e_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64735"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64735_829ce163acb9dc9e_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64735"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64735_829ce163acb9dc9e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64735"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18053553",
+            "role_id": "35351535",
+            "person_name": "Alfons Bach",
+            "person_date": "German, 1904\u20131999",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053553",
+            "role_id": "35236655",
+            "person_name": "Alfons Bach",
+            "person_date": "German, 1904\u20131999",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Bookend\".\nWatercolor, chalk. Gift of Alfons Bach. 1993-108-380."
+    "tombstone": {
+        "epitaph": "Drawing, Bookend, 20th century. Brush and gouache, chalk on black paper. \nGift of Alfons Bach. 1993-108-380"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#292929",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

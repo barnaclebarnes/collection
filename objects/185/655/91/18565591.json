@@ -1,83 +1,172 @@
 {
-    "id":"18565591",
-    "tms:id":"76087",
-    "accession_number":"1942-36-32",
-    "title":"Print, \"Design for the Bottom of a Bowl showing De Hoopman va Narheit (Le Capitaine des Follie, The King of Fools)\", ca. 1578",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18565591\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35394413",
-    "type_id":"35236873",
-    "date":"ca. 1578",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1942",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Engraving on white laid paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"12.5 x 10.5 cm (4 15\/16 x 4 1\/8 in.)",
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"A bust of the Duke of Alba and the head of a fool in the center. Grotesque representations on black ground outside. Inscriptions in French and Low German.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18565591",
+    "tms:id": "76087",
+    "accession_number": "1942-36-32",
+    "title": "Print, Design for the Bottom of a Bowl showing De Hoopman va Narheit (Le Capitaine des Follie, The King of Fools), ca. 1578",
+    "title_raw": "Design for the Bottom of a Bowl showing De Hoopman va Narheit (Le Capitaine des Follie, The King of Fools)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18565591\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35394413",
+    "type_id": "35236873",
+    "date": "ca. 1578",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1942",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Engraving on white laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1942: acquired by Museum (from P. and D. Colnaghi and Co., Ltd.)",
+    "dimensions": "12.5 x 10.5 cm (4 15\/16 x 4 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "12.54",
+            "centimeters"
+        ],
+        "width": [
+            "10.48",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "A bust of the Duke of Alba and the head of a fool in the center. Grotesque representations on black ground outside. Inscriptions in French and Low German.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29387_9be45a7aec842a13_b.jpg",
-                "width":1006,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29387_9be45a7aec842a13_b.jpg",
+                "width": 1006,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "29387"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29387_9be45a7aec842a13_n.jpg",
-                "width":314,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29387_9be45a7aec842a13_z.jpg",
+                "width": 629,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "29387"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29387_9be45a7aec842a13_z.jpg",
-                "width":629,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29387_9be45a7aec842a13_n.jpg",
+                "width": 314,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "29387"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29387_9be45a7aec842a13_d.gif",
+                "width": 314,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "29387"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29387_9be45a7aec842a13_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "29387"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119364_036b8a5da892be4c_b.jpg",
+                "width": 1014,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "119364"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119364_036b8a5da892be4c_z.jpg",
+                "width": 634,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "119364"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119364_036b8a5da892be4c_n.jpg",
+                "width": 317,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "119364"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119364_036b8a5da892be4c_d.gif",
+                "width": 317,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "119364"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/119364_036b8a5da892be4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "119364"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18061681",
-            "role_id":"35236655",
-            "person_name":"Th\u00e9odore de Bry",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061681\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18061681",
+            "role_id": "35236655",
+            "person_name": "Th\u00e9odore de Bry",
+            "person_date": "Flemish, 1528 \u2013 1598",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061681\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18536707",
+            "role_id": "35352249",
+            "person_name": "P. and D. Colnaghi and Co., Ltd.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536707\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"Design for the Bottom of a Bowl showing De Hoopman va Narheit (Le Capitaine des Follie, The King of Fools)\", ca. 1578.\nca. 1578. Engraving on white laid paper. Museum purchase through gift of Mrs. John Innes Kane. 1942-36-32."
+    "tombstone": {
+        "epitaph": "Print, Design for the Bottom of a Bowl showing De Hoopman va Narheit (Le Capitaine des Follie, The King of Fools), ca. 1578. Engraving on white laid paper. \nMuseum purchase through gift of Mrs. John Innes Kane. 1942-36-32"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#3a3932",
-            "closest_css3":"#2f4f4f"
+            "color": "#2f2e2a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#908a77",
-            "closest_css3":"#808080"
+            "color": "#b2ab98",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#6b6454",
-            "closest_css3":"#696969"
+            "color": "#625d4f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#b7b39f",
-            "closest_css3":"#a9a9a9"
+            "color": "#87816f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

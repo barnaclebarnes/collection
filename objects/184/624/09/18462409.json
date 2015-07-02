@@ -1,87 +1,141 @@
 {
-    "id":"18462409",
-    "tms:id":"141809",
-    "accession_number":"1968-111-10",
-    "title":"Sidewall, \"Aesop's Fable: The Fox and the Crow\", 1840",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18462409\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35421841",
-    "type_id":"35256475",
-    "date":"1840",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on continous paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"53.5 x 48.5 cm (21 1\/16 x 19 1\/8 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"In Greek revival style. The fable of the fox and crow depicted in central framed medallion with black background: surmounted by fruit, flowers, grape vines, Greek palmettes, birds, scroll-work. Printed in 9 colors: orange, brown, blue, black and lavender on white satin ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18462409",
+    "tms:id": "141809",
+    "accession_number": "1968-111-10",
+    "title": "Sidewall, Aesop's Fable: The Fox and the Crow, 1840",
+    "title_raw": "Aesop's Fable: The Fox and the Crow",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18462409\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "69153157",
+    "type_id": "35256475",
+    "date": "1840",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on continous paper, polished ground",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "53.5 x 48.5 cm (21 1\/16 x 19 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "53.50",
+            "centimeters"
+        ],
+        "width": [
+            "48.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "In Greek revival style. The fable of the fox and crow depicted in central framed medallion with black background: surmounted by fruit, flowers, grape vines, Greek palmettes, birds, scroll-work. Printed in 9 colors: orange, brown, blue, black and lavender on white satin ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21094_81c1e2fd489f0f4c_b.jpg",
-                "width":925,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21094_81c1e2fd489f0f4c_b.jpg",
+                "width": 925,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "21094"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21094_81c1e2fd489f0f4c_n.jpg",
-                "width":289,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21094_81c1e2fd489f0f4c_z.jpg",
+                "width": 578,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "21094"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21094_81c1e2fd489f0f4c_z.jpg",
-                "width":578,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21094_81c1e2fd489f0f4c_n.jpg",
+                "width": 289,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "21094"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21094_81c1e2fd489f0f4c_d.gif",
+                "width": 289,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "21094"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21094_81c1e2fd489f0f4c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "21094"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048007",
+            "role_id": "35352245",
+            "person_name": "Catherine Lynn Frangiamore",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"Aesop's Fable: The Fox and the Crow\", 1840.\n1840. Block-printed on continous paper. Gift of Harvey Smith. 1968-111-10."
+    "tombstone": {
+        "epitaph": "Sidewall, Aesop's Fable: The Fox and the Crow, 1840. Block-printed on continous paper, polished ground. \nGift of Harvey Smith. 1968-111-10"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#143e62",
-            "closest_css3":"#2f4f4f"
+            "color": "#153e62",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#63baac",
-            "closest_css3":"#66cdaa"
+            "color": "#85d9c1",
+            "closest_crayola": "#9fe2bf",
+            "closest_css3": "#66cdaa",
+            "closest_css4": "#66cdaa"
         },
         {
-            "color":"#279875",
-            "closest_css3":"#2e8b57"
+            "color": "#c1a3a4",
+            "closest_crayola": "#d98695",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#c1a3a5",
-            "closest_css3":"#a9a9a9"
+            "color": "#e14529",
+            "closest_crayola": "#ff2b2b",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
         },
         {
-            "color":"#98a7a4",
-            "closest_css3":"#a9a9a9"
+            "color": "#289975",
+            "closest_crayola": "#319177",
+            "closest_css3": "#3cb371",
+            "closest_css4": "#3cb371"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

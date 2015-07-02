@@ -1,87 +1,121 @@
 {
-    "id":"18269795",
-    "tms:id":"34069",
-    "accession_number":"1921-6-402-4",
-    "title":"Print",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18269795\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35236873",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1921",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
-    },
-    "images":[
+    "id": "18269795",
+    "tms:id": "34069",
+    "accession_number": "1921-6-402-4",
+    "title": "Print",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18269795\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35236873",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1921",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29615_42441dfdc055e866_b.jpg",
-                "width":1024,
-                "height":681,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29615_42441dfdc055e866_b.jpg",
+                "width": 1024,
+                "height": 681,
+                "is_primary": "1",
+                "image_id": "29615"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29615_42441dfdc055e866_n.jpg",
-                "width":320,
-                "height":213,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29615_42441dfdc055e866_z.jpg",
+                "width": 640,
+                "height": 426,
+                "is_primary": "1",
+                "image_id": "29615"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29615_42441dfdc055e866_z.jpg",
-                "width":640,
-                "height":426,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29615_42441dfdc055e866_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "29615"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29615_42441dfdc055e866_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "29615"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29615_42441dfdc055e866_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "29615"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print.\nPurchased for the Museum by the Advisory Council. 1921-6-402-4."
+    "tombstone": {
+        "epitaph": "Print. \nPurchased for the Museum by the Advisory Council. 1921-6-402-4"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b0b0bb",
-            "closest_css3":"#a9a9a9"
+            "color": "#5e6668",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#576161",
-            "closest_css3":"#696969"
+            "color": "#2d3226",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#7d838f",
-            "closest_css3":"#778899"
+            "color": "#807575",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#3e4537",
-            "closest_css3":"#2f4f4f"
+            "color": "#49413a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#433b33",
-            "closest_css3":"#2f4f4f"
+            "color": "#685b58",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

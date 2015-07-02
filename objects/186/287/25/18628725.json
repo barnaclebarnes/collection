@@ -1,49 +1,132 @@
 {
-    "id":"18628725",
-    "tms:id":"189202",
-    "accession_number":"1988-5-2",
-    "title":"Rack, Toast",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18628725\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431463",
-    "type_id":"35294149",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1988",
-    "decade":null,
-    "woe:country":null,
-    "medium":"steel, stainless",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 4.7 x 8.1 x 16 cm (1 7\/8 x 3 3\/16 x 6 5\/16 in.)",
-    "creditline":"Gift of Dr. Richard Grant",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35294149",
-        "name":"rack, toast"
+    "id": "18628725",
+    "tms:id": "189202",
+    "accession_number": "1988-5-2",
+    "title": "Rack, Toast",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18628725\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431463",
+    "type_id": "35294149",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1988",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "steel, stainless",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 4.7 x 8.1 x 16 cm (1 7\/8 x 3 3\/16 x 6 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "16.00",
+            "centimeters"
+        ],
+        "height": [
+            "4.70",
+            "centimeters"
+        ],
+        "width": [
+            "8.10",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Dr. Richard Grant",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "rack, toast",
+    "images": [
         {
-            "person_id":"18044547",
-            "role_id":"35236655",
-            "person_name":"Arne Jacobsen",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044547\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113926_097abd99fc84c16f_b.jpg",
+                "width": 1024,
+                "height": 796,
+                "is_primary": "1",
+                "image_id": "113926"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113926_097abd99fc84c16f_z.jpg",
+                "width": 640,
+                "height": 497,
+                "is_primary": "1",
+                "image_id": "113926"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113926_097abd99fc84c16f_n.jpg",
+                "width": 320,
+                "height": 249,
+                "is_primary": "1",
+                "image_id": "113926"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113926_097abd99fc84c16f_d.gif",
+                "width": 320,
+                "height": 249,
+                "is_primary": "1",
+                "image_id": "113926"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113926_097abd99fc84c16f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113926"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Rack, Toast.\nsteel, stainless. Gift of Dr. Richard Grant. 1988-5-2."
+    "participants": [
+        {
+            "person_id": "68736543",
+            "role_id": "35351535",
+            "person_name": "Dr. Richard Grant",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736543\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044547",
+            "role_id": "35236655",
+            "person_name": "Arne Jacobsen",
+            "person_date": "Danish, 1902 \u2013 1971",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044547\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Rack, Toast. steel, stainless. \nGift of Dr. Richard Grant. 1988-5-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#595449",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#747268",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#37352e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

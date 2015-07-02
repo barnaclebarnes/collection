@@ -1,87 +1,129 @@
 {
-    "id":"18172099",
-    "tms:id":"18501",
-    "accession_number":"1911-28-448",
-    "title":"Drawing, \"Piazza del Popolo, Rome\", ca. 1754",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18172099\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35418003",
-    "type_id":"35237093",
-    "date":"ca. 1754",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1911",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Pen and ink, brush and gray wash, charcoal on cream laid paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"34.4 x 44.3 cm (13 9\/16 x 17 7\/16 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":"View across the Piazza del Popolo of the twin churches of S. Maria in Montesanto on the left, and S. Maria dei Miracoli on the right, behind the Obelisk of Ramses II.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18172099",
+    "tms:id": "18501",
+    "accession_number": "1911-28-448",
+    "title": "Drawing, Piazza del Popolo, Rome, ca. 1754",
+    "title_raw": "Piazza del Popolo, Rome",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18172099\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35418003",
+    "type_id": "35237093",
+    "date": "ca. 1754",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1911",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Pen and ink, brush and gray wash, charcoal on cream laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "34.4 x 44.3 cm (13 9\/16 x 17 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "34.40",
+            "centimeters"
+        ],
+        "width": [
+            "44.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "View across the Piazza del Popolo of the twin churches of S. Maria in Montesanto on the left, and S. Maria dei Miracoli on the right, behind the Obelisk of Ramses II.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19618_7e331322cda501bb_b.jpg",
-                "width":1024,
-                "height":729,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19618_7e331322cda501bb_b.jpg",
+                "width": 1024,
+                "height": 729,
+                "is_primary": "1",
+                "image_id": "19618"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19618_7e331322cda501bb_n.jpg",
-                "width":320,
-                "height":228,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19618_7e331322cda501bb_z.jpg",
+                "width": 640,
+                "height": 455,
+                "is_primary": "1",
+                "image_id": "19618"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/19618_7e331322cda501bb_z.jpg",
-                "width":640,
-                "height":455,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19618_7e331322cda501bb_n.jpg",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "19618"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19618_7e331322cda501bb_d.gif",
+                "width": 320,
+                "height": 228,
+                "is_primary": "1",
+                "image_id": "19618"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/19618_7e331322cda501bb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "19618"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18058345",
-            "role_id":"35236565",
-            "person_name":"Jean-Baptiste Lallemand",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18058345\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18058345",
+            "role_id": "35236565",
+            "person_name": "Jean-Baptiste Lallemand",
+            "person_date": "French, 1716 \u2013 1803",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058345\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Piazza del Popolo, Rome\", ca. 1754.\nca. 1754. Pen and ink, brush and gray wash, charcoal on cream laid paper. Purchased for the Museum by the Advisory Council. 1911-28-448."
+    "tombstone": {
+        "epitaph": "Drawing, Piazza del Popolo, Rome, ca. 1754. Pen and ink, brush and gray wash, charcoal on cream laid paper. \nPurchased for the Museum by the Advisory Council. 1911-28-448"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a0978a",
-            "closest_css3":"#bc8f8f"
+            "color": "#b9afa1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#827a6f",
-            "closest_css3":"#808080"
+            "color": "#93897c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#665e53",
-            "closest_css3":"#696969"
+            "color": "#686055",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

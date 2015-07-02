@@ -1,87 +1,178 @@
 {
-    "id":"18462573",
-    "tms:id":"141891",
-    "accession_number":"1968-111-174",
-    "title":"Border, 1900\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18462573\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35237285",
-    "date":"1900\u201325",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"48 x 6 cm (18 7\/8 x 2 3\/8 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"Central band of pink and yellow roses with other flowers of lavender and burgundy. The background below the floral band is printed brown while the background above is printed pastel green.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18462573",
+    "tms:id": "141891",
+    "accession_number": "1968-111-174",
+    "title": "Border (possibly France), 1900\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18462573\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35237285",
+    "date": "1900\u201325",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "48 x 6 cm (18 7\/8 x 2 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "48.00",
+            "centimeters"
+        ],
+        "width": [
+            "6.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "Central band of pink and yellow roses with other flowers of lavender and burgundy. The background below the floral band is printed brown while the background above is printed pastel green.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6588_114f9aaf8a0cfff5_b.jpg",
-                "width":1024,
-                "height":148,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82119_62072563d14fcd06_b.jpg",
+                "width": 1024,
+                "height": 221,
+                "is_primary": "1",
+                "image_id": "82119"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6588_114f9aaf8a0cfff5_n.jpg",
-                "width":320,
-                "height":46,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82119_62072563d14fcd06_z.jpg",
+                "width": 640,
+                "height": 138,
+                "is_primary": "1",
+                "image_id": "82119"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6588_114f9aaf8a0cfff5_z.jpg",
-                "width":640,
-                "height":93,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82119_62072563d14fcd06_n.jpg",
+                "width": 320,
+                "height": 69,
+                "is_primary": "1",
+                "image_id": "82119"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82119_62072563d14fcd06_d.gif",
+                "width": 320,
+                "height": 69,
+                "is_primary": "1",
+                "image_id": "82119"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82119_62072563d14fcd06_sq.jpg",
+                "width": 300,
+                "height": 221,
+                "is_primary": "1",
+                "image_id": "82119"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6588_114f9aaf8a0cfff5_b.jpg",
+                "width": 1024,
+                "height": 148,
+                "is_primary": "0",
+                "image_id": "6588"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6588_114f9aaf8a0cfff5_z.jpg",
+                "width": 640,
+                "height": 93,
+                "is_primary": "0",
+                "image_id": "6588"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6588_114f9aaf8a0cfff5_n.jpg",
+                "width": 320,
+                "height": 46,
+                "is_primary": "0",
+                "image_id": "6588"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6588_114f9aaf8a0cfff5_d.gif",
+                "width": 320,
+                "height": 46,
+                "is_primary": "0",
+                "image_id": "6588"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6588_114f9aaf8a0cfff5_sq.jpg",
+                "width": 300,
+                "height": 148,
+                "is_primary": "0",
+                "image_id": "6588"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048007",
+            "role_id": "35352245",
+            "person_name": "Catherine Lynn Frangiamore",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Border, 1900\u201325.\n1900\u201325. Block-printed. Gift of Harvey Smith. 1968-111-174."
+    "tombstone": {
+        "epitaph": "Border (possibly France), 1900\u201325. Block-printed. \nGift of Harvey Smith. 1968-111-174"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#817254",
-            "closest_css3":"#696969"
+            "color": "#6f6038",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#c4d2d1",
-            "closest_css3":"#d3d3d3"
+            "color": "#a5a894",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#d4defa",
-            "closest_css3":"#e6e6fa"
+            "color": "#808151",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#95a4a3",
-            "closest_css3":"#a9a9a9"
+            "color": "#302f22",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#a2905f",
-            "closest_css3":"#bdb76b"
+            "color": "#764e46",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

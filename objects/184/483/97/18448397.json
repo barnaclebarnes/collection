@@ -1,80 +1,141 @@
 {
-    "id":"18448397",
-    "tms:id":"134714",
-    "accession_number":"1963-39-593",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448397\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1963",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18448397",
+    "tms:id": "134714",
+    "accession_number": "1963-39-593",
+    "title": "Drawing (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448397\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51686103",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1963",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Crayon on beige paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "28 x 22.3 cm (11 in. x 8 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.00",
+            "centimeters"
+        ],
+        "width": [
+            "22.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Male figure using a scythe to kill a snake, as another snake can be seen in tall grass to the right.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57368_b40b64c9bc57d7e4_b.jpg",
-                "width":809,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57368_81c3425a0e99529f_b.jpg",
+                "width": 844,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "57368"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57368_b40b64c9bc57d7e4_n.jpg",
-                "width":253,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57368_81c3425a0e99529f_z.jpg",
+                "width": 527,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "57368"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57368_b40b64c9bc57d7e4_z.jpg",
-                "width":506,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57368_81c3425a0e99529f_n.jpg",
+                "width": 264,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "57368"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57368_81c3425a0e99529f_d.gif",
+                "width": 264,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "57368"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57368_81c3425a0e99529f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "57368"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nGift of Mrs. E. McKnight Kauffer. 1963-39-593."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#ecd7a8",
-            "closest_css3":"#f5deb3"
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#c27e51",
-            "closest_css3":"#cd853f"
-        },
-        {
-            "color":"#6f604c",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#b9ac99",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#997e5e",
-            "closest_css3":"#808080"
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing (USA). Crayon on beige paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-593"
+    },
+    "colors": [
+        {
+            "color": "#d9cf9b",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#bea96d",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#a47949",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#5d5039",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#97907c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

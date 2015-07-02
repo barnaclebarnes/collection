@@ -1,31 +1,105 @@
 {
-  "year_start": null, 
-  "exhibitions": [], 
-  "justification": null, 
-  "tms:id": "17565", 
-  "images": [], 
-  "id": "18167065", 
-  "decade": null, 
-  "dimensions": "H x W x D: 17 x 21.2 x 6 cm (6 11/16 x 8 3/8 x 2 3/8 in.)", 
-  "title": "Lock, 1909-25-30-a, ca. 1775", 
-  "provenance": null, 
-  "participants": [], 
-  "woe:country": null, 
-  "department_id": "35347497", 
-  "medium": "Steel, fire-gilt bronze", 
-  "description": "Case of steel, with border of fire-gilt bronze on face, and bronze arms top and bottom.", 
-  "creditline": "Purchased for the Museum by the Advisory Council", 
-  "period_id": null, 
-  "date": "ca. 1775", 
-  "url": "http://collection.cooperhewitt.org/objects/18167065/", 
-  "type": {
-    "id": "35237161", 
-    "name": "Lock"
-  }, 
-  "accession_number": "1909-25-30-a", 
-  "year_end": null, 
-  "signed": null, 
-  "inscribed": null, 
-  "markings": null, 
-  "year_acquired": "1909"
+    "id": "18167065",
+    "tms:id": "17565",
+    "accession_number": "1909-25-30-a",
+    "title": "Lock, ca. 1775",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18167065\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35417503",
+    "type_id": "35237161",
+    "date": "ca. 1775",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1909",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Steel, fire-gilt bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 17 x 21.2 x 6 cm (6 11\/16 x 8 3\/8 x 2 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.00",
+            "centimeters"
+        ],
+        "height": [
+            "17.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.20",
+            "centimeters"
+        ]
+    },
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": "Case of steel, with border of fire-gilt bronze on face, and bronze arms top and bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Lock",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116411_26958a370d354428_b.jpg",
+                "width": 1024,
+                "height": 976,
+                "is_primary": "0",
+                "image_id": "116411"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116411_26958a370d354428_z.jpg",
+                "width": 640,
+                "height": 610,
+                "is_primary": "0",
+                "image_id": "116411"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116411_26958a370d354428_n.jpg",
+                "width": 320,
+                "height": 305,
+                "is_primary": "0",
+                "image_id": "116411"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116411_26958a370d354428_d.gif",
+                "width": 320,
+                "height": 305,
+                "is_primary": "0",
+                "image_id": "116411"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116411_26958a370d354428_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "116411"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Lock, ca. 1775. Steel, fire-gilt bronze. \nPurchased for the Museum by the Advisory Council. 1909-25-30-a"
+    },
+    "colors": [
+
+    ],
+    "is_loan_object": 0
 }

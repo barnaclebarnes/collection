@@ -1,87 +1,168 @@
 {
-    "id":"18134323",
-    "tms:id":"12228",
-    "accession_number":"1902-1-975",
-    "title":"Fragment, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18134323\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35254623",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":"23424848",
-    "medium":"Medium: cotton\nTechnique: plain weave; block printed using mordants and immersion dyeing",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 35.6 x 25.7 cm (14 in. x 10 1\/8 in.)",
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Poppy-like plants arranged in staggered rows on a red with white dotted background.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18134323",
+    "tms:id": "12228",
+    "accession_number": "1902-1-975",
+    "title": "Fragment (India), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18134323\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35254623",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": "23424848",
+    "medium": "Medium: cotton\nTechnique: plain weave; block printed using mordants and immersion dyeing",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 35.6 x 25.7 cm (14 in. x 10 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "25.72",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Poppy-like plants arranged in staggered rows on a red with white dotted background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424848",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57237_f35e38b14367b09b_b.jpg",
-                "width":775,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64184_4dfeaa3dc47f2379_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64184"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57237_f35e38b14367b09b_n.jpg",
-                "width":242,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64184_4dfeaa3dc47f2379_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64184"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57237_f35e38b14367b09b_z.jpg",
-                "width":485,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64184_4dfeaa3dc47f2379_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64184"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64184_4dfeaa3dc47f2379_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64184"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64184_4dfeaa3dc47f2379_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64184"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57237_f35e38b14367b09b_b.jpg",
+                "width": 775,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "57237"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57237_f35e38b14367b09b_z.jpg",
+                "width": 485,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "57237"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57237_f35e38b14367b09b_n.jpg",
+                "width": 242,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "57237"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57237_f35e38b14367b09b_d.gif",
+                "width": 242,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "57237"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57237_f35e38b14367b09b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "57237"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 18th century.\n18th century. Medium: cotton\nTechnique: plain weave; block printed using mordants and immersion dyeing. Gift of John Pierpont Morgan. 1902-1-975."
+    "tombstone": {
+        "epitaph": "Fragment (India), 18th century. Medium: cotton\nTechnique: plain weave; block printed using mordants and immersion dyeing. \nGift of John Pierpont Morgan. 1902-1-975"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#713627",
-            "closest_css3":"#8b4513"
+            "color": "#502d16",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#35120c",
-            "closest_css3":"#000000"
+            "color": "#6c4b2d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#976a4e",
-            "closest_css3":"#a0522d"
+            "color": "#8e754f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#a88b6c",
-            "closest_css3":"#bc8f8f"
+            "color": "#a89870",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#e1bda0",
-            "closest_css3":"#deb887"
+            "color": "#2c1d12",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         }
-    ]
+    ],
+    "woe:country_name": "India",
+    "is_loan_object": 0
 }

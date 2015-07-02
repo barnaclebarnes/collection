@@ -1,95 +1,178 @@
 {
-    "id":"18678463",
-    "tms:id":"214697",
-    "accession_number":"1969-165-579",
-    "title":"Sample, \"Mexidot\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18678463\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: plain weave with supplementary warp patterning",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Beige and gold vertical stripes with black squares. Square patterning is formed by supplementary warp floats. Number 1308.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18678463",
+    "tms:id": "214697",
+    "accession_number": "1969-165-579",
+    "title": "Sample, Mexidot, 1961",
+    "title_raw": "Mexidot",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18678463\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35268079",
+    "date": "1961",
+    "year_start": 1961,
+    "year_end": 1961,
+    "year_acquired": "1969",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: plain weave with supplementary warp patterning",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "30.48",
+            "centimeters"
+        ],
+        "weft": [
+            "30.48",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Beige and gold vertical stripes with black squares. Square patterning is formed by supplementary warp floats. Number 1308.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17713_46ed35083f5b0fe6_b.jpg",
-                "width":1022,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111858_9355c2ba8da269bf_b.jpg",
+                "width": 1023,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111858"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17713_46ed35083f5b0fe6_n.jpg",
-                "width":320,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111858_9355c2ba8da269bf_z.jpg",
+                "width": 639,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111858"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17713_46ed35083f5b0fe6_z.jpg",
-                "width":639,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111858_9355c2ba8da269bf_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111858"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111858_9355c2ba8da269bf_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111858"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111858_9355c2ba8da269bf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111858"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17713_46ed35083f5b0fe6_b.jpg",
+                "width": 1022,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "17713"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17713_46ed35083f5b0fe6_z.jpg",
+                "width": 639,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "17713"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17713_46ed35083f5b0fe6_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17713"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17713_46ed35083f5b0fe6_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17713"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17713_46ed35083f5b0fe6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17713"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Mexidot\".\nMedium: cotton\nTechnique: plain weave with supplementary warp patterning. Gift of Alexander H. Girard. 1969-165-579."
+    "tombstone": {
+        "epitaph": "Sample, Mexidot, 1961. Medium: cotton\nTechnique: plain weave with supplementary warp patterning. \nGift of Alexander H. Girard. 1969-165-579"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b6a181",
-            "closest_css3":"#bc8f8f"
+            "color": "#a2967d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#b78e32",
-            "closest_css3":"#cd853f"
+            "color": "#b79b55",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#382d1c",
-            "closest_css3":"#2f4f4f"
+            "color": "#4b4740",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#43473e",
-            "closest_css3":"#2f4f4f"
+            "color": "#eceed8",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
         },
         {
-            "color":"#887d61",
-            "closest_css3":"#808080"
+            "color": "#6b6356",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

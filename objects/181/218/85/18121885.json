@@ -1,49 +1,102 @@
 {
-    "id":"18121885",
-    "tms:id":"9925",
-    "accession_number":"1901-39-3214",
-    "title":"Drawing, \"Olympus\", 1810",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18121885\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35366285",
-    "type_id":"35237093",
-    "date":"1810",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and ink, brush and watercolor on textured laid paper",
-    "markings":"Watermark: escutcheon with three lines of letters.",
-    "signed":null,
-    "inscribed":"\"ETERNITA,\" \"PACE\"",
-    "provenance":"Giovanni Piancastelli, Rome",
-    "dimensions":"24.9 x 43.4 cm (9 13\/16 x 17 1\/16 in.)",
-    "creditline":"Museum purchase through gift of various donors",
-    "description":"Jupiter on throne in center middle-distance in front of temple with inscription: Eternita.  Jupiter flanked by woman with cornucopia, Mars, beside whom, genii fly upon clouds. Sit at left: Neptune, Athena, Mercury; at right: Apollo, Aesculapius, Hercules. Altar dedicated to \"Pace\" stands in center foreground. From left, procession of putti and women with symbols of peaceful occupations; from right, procession of putti and warriors with arms.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18121885",
+    "tms:id": "9925",
+    "accession_number": "1901-39-3214",
+    "title": "Drawing, Olympus, 1810",
+    "title_raw": "Olympus",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18121885\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "35366285",
+    "type_id": "35237093",
+    "date": "1810",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and ink, brush and watercolor on textured laid paper",
+    "markings": "Watermark: escutcheon with three lines of letters.",
+    "signed": null,
+    "inscribed": "\"ETERNITA,\" \"PACE\"",
+    "provenance": "Giovanni Piancastelli, Rome",
+    "dimensions": "24.9 x 43.4 cm (9 13\/16 x 17 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.64",
+            "centimeters"
+        ],
+        "width": [
+            "55.88",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Jupiter on throne in center middle-distance in front of temple with inscription: Eternita.  Jupiter flanked by woman with cornucopia, Mars, beside whom, genii fly upon clouds. Sit at left: Neptune, Athena, Mercury; at right: Apollo, Aesculapius, Hercules. Altar dedicated to \"Pace\" stands in center foreground. From left, procession of putti and women with symbols of peaceful occupations; from right, procession of putti and warriors with arms.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18042405",
-            "role_id":"35236655",
-            "person_name":"Felice Giani",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042405\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121856_1543ff749c272c74_b.jpg",
+                "width": 1024,
+                "height": 605,
+                "is_primary": "1",
+                "image_id": "121856"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121856_1543ff749c272c74_z.jpg",
+                "width": 640,
+                "height": 378,
+                "is_primary": "1",
+                "image_id": "121856"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121856_1543ff749c272c74_n.jpg",
+                "width": 320,
+                "height": 189,
+                "is_primary": "1",
+                "image_id": "121856"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121856_1543ff749c272c74_d.gif",
+                "width": 320,
+                "height": 189,
+                "is_primary": "1",
+                "image_id": "121856"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121856_1543ff749c272c74_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "121856"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Olympus\", 1810.\n1810. Pen and ink, brush and watercolor on textured laid paper. Museum purchase through gift of various donors. 1901-39-3214."
+    "participants": [
+        {
+            "person_id": "18042405",
+            "role_id": "35236655",
+            "person_name": "Felice Giani",
+            "person_date": "Italian, 1758\u20131823",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042405\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Olympus, 1810. Pen and ink, brush and watercolor on textured laid paper. \nMuseum purchase through gift of various donors. 1901-39-3214"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

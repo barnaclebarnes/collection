@@ -1,57 +1,177 @@
 {
-    "id":"18677713",
-    "tms:id":"214322",
-    "accession_number":"1969-165-21",
-    "title":"Sample, \"Mikado\", 1954",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18677713\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35429735",
-    "type_id":"35268079",
-    "date":"1954",
-    "year_start":"1954",
-    "year_end":"1954",
-    "year_acquired":"1969",
-    "decade":"1950",
-    "woe:country":null,
-    "medium":"Medium: 81% cotton, 19% polyester\nTechnique: printed",
-    "markings":"Herman Miller Textiles paper label attached to lower right corner.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 60 x 61 cm (23 5\/8 x 24 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Columns and rows of stylized flowers with square center. Printed in dark red, orange and black on white. Number 65102.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18677713",
+    "tms:id": "214322",
+    "accession_number": "1969-165-21",
+    "title": "Sample, Mikado, 1954",
+    "title_raw": "Mikado",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18677713\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35429735",
+    "type_id": "35268079",
+    "date": "1954",
+    "year_start": 1954,
+    "year_end": 1954,
+    "year_acquired": "1969",
+    "decade": "1950",
+    "woe:country_id": null,
+    "medium": "Medium: 81% cotton, 19% polyester\nTechnique: printed",
+    "markings": "Herman Miller Textiles paper label attached to lower right corner.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 60 x 61 cm (23 5\/8 x 24 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "60.00",
+            "centimeters"
+        ],
+        "weft": [
+            "61.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Columns and rows of stylized flowers with square center. Printed in dark red, orange and black on white. Number 65102.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sample",
+    "images": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61313_c6cc559e1e47eb4d_b.jpg",
+                "width": 980,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "61313"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61313_c6cc559e1e47eb4d_z.jpg",
+                "width": 613,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "61313"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61313_c6cc559e1e47eb4d_n.jpg",
+                "width": 306,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61313"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61313_c6cc559e1e47eb4d_d.gif",
+                "width": 306,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61313"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61313_c6cc559e1e47eb4d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "61313"
+            }
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75612_0bb54b1fad046b93_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "75612"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75612_0bb54b1fad046b93_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "75612"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75612_0bb54b1fad046b93_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "75612"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75612_0bb54b1fad046b93_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "75612"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75612_0bb54b1fad046b93_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "75612"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Mikado\", 1954.\n1954. Medium: 81% cotton, 19% polyester\nTechnique: printed. Gift of Alexander H. Girard. 1969-165-21."
+    "participants": [
+        {
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample, Mikado, 1954. Medium: 81% cotton, 19% polyester\nTechnique: printed. \nGift of Alexander H. Girard. 1969-165-21"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#965d2d",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#643b23",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#cccabe",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#9b7b59",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#2c221c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "is_loan_object": 0
 }

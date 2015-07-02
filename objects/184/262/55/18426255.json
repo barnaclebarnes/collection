@@ -1,49 +1,132 @@
 {
-    "id":"18426255",
-    "tms:id":"123510",
-    "accession_number":"1959-52-1",
-    "title":"Print",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18426255\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35236873",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1959",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Raymond Baxter Dowden",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18426255",
+    "tms:id": "123510",
+    "accession_number": "1959-52-1",
+    "title": "Print, Owl among Sunflowers (Season's Greetings), 1958",
+    "title_raw": "Owl among Sunflowers (Season's Greetings)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18426255\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68724181",
+    "type_id": "35236873",
+    "date": "1958",
+    "year_start": 1958,
+    "year_end": 1958,
+    "year_acquired": "1959",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph in black ink on white paper",
+    "markings": null,
+    "signed": "Signed in red ink, lower right: Milton and Shirly Glaser; in green ink, lower left: Season's Best; and lower right: 1958",
+    "inscribed": null,
+    "provenance": "Ramond B. Dowden, New York: 1959: acquired by Museum",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Raymond Baxter Dowden",
+    "description": "Vertical rectangle. An owl, facing frontally, stands among a clump of four sunflowers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
         {
-            "person_id":"18051703",
-            "role_id":"35351535",
-            "person_name":"Raymond Baxter Dowden",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051703\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93316_9df3ee9e79be245b_b.jpg",
+                "width": 787,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93316"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93316_9df3ee9e79be245b_z.jpg",
+                "width": 492,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93316"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93316_9df3ee9e79be245b_n.jpg",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93316"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93316_9df3ee9e79be245b_d.gif",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93316"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93316_9df3ee9e79be245b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93316"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Print.\nGift of Raymond Baxter Dowden. 1959-52-1."
+    "participants": [
+        {
+            "person_id": "18042107",
+            "role_id": "35236565",
+            "person_name": "Milton Glaser",
+            "person_date": "American, b. 1929",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042107\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18051703",
+            "role_id": "35351535",
+            "person_name": "Raymond Baxter Dowden",
+            "person_date": "b. 1905",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051703\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Print, Owl among Sunflowers (Season's Greetings), 1958. Lithograph in black ink on white paper. \nGift of Raymond Baxter Dowden. 1959-52-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#eae8d0",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#45433d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#8d8a7e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b9b6a8",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#6f6c62",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,80 +1,168 @@
 {
-    "id":"18325365",
-    "tms:id":"47297",
-    "accession_number":"1931-6-151",
-    "title":"Fan, late 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18325365\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35411159",
-    "type_id":"35252007",
-    "date":"late 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424950",
-    "medium":"Medium: (mount) chromolithograph on paper; (sticks) wood",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 37 x 69 cm (14 9\/16 x 27 3\/16 in.)",
-    "creditline":"Bequest of Sarah Cooper Hewitt",
-    "description":"Obverse has a bullfighting scene. Sticks: varnished wood. Stamped silvered design.",
-    "justification":null,
-    "type":{
-        "id":"35252007",
-        "name":"fan"
+    "id": "18325365",
+    "tms:id": "47297",
+    "accession_number": "1931-6-151",
+    "title": "Fan (Spain), late 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18325365\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35411159",
+    "type_id": "35252007",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424950",
+    "medium": "Medium: (mount) chromolithograph on paper; (sticks) wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 37 x 69 cm (14 9\/16 x 27 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "37.00",
+            "centimeters"
+        ],
+        "width": [
+            "69.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Sarah Cooper Hewitt",
+    "description": "Obverse has a bullfighting scene. Sticks: varnished wood. Stamped silvered design.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424950",
+    "type": "fan",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27411_ce1682bffdcf5add_b.jpg",
-                "width":1024,
-                "height":614,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101019_16eecf7b747f3bed_b.jpg",
+                "width": 1024,
+                "height": 605,
+                "is_primary": "1",
+                "image_id": "101019"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27411_ce1682bffdcf5add_n.jpg",
-                "width":320,
-                "height":192,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101019_16eecf7b747f3bed_z.jpg",
+                "width": 640,
+                "height": 378,
+                "is_primary": "1",
+                "image_id": "101019"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27411_ce1682bffdcf5add_z.jpg",
-                "width":640,
-                "height":384,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101019_16eecf7b747f3bed_n.jpg",
+                "width": 320,
+                "height": 189,
+                "is_primary": "1",
+                "image_id": "101019"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101019_16eecf7b747f3bed_d.gif",
+                "width": 320,
+                "height": 189,
+                "is_primary": "1",
+                "image_id": "101019"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101019_16eecf7b747f3bed_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "101019"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27411_ce1682bffdcf5add_b.jpg",
+                "width": 1024,
+                "height": 614,
+                "is_primary": "0",
+                "image_id": "27411"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27411_ce1682bffdcf5add_z.jpg",
+                "width": 640,
+                "height": 384,
+                "is_primary": "0",
+                "image_id": "27411"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27411_ce1682bffdcf5add_n.jpg",
+                "width": 320,
+                "height": 192,
+                "is_primary": "0",
+                "image_id": "27411"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27411_ce1682bffdcf5add_d.gif",
+                "width": 320,
+                "height": 192,
+                "is_primary": "0",
+                "image_id": "27411"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27411_ce1682bffdcf5add_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "27411"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fan, late 19th century.\nlate 19th century. Medium: (mount) chromolithograph on paper; (sticks) wood. Bequest of Sarah Cooper Hewitt. 1931-6-151."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bca378",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#b7c8c1",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#e1d0b5",
-            "closest_css3":"#f5deb3"
-        },
-        {
-            "color":"#764c42",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#8c9d95",
-            "closest_css3":"#778899"
+            "person_id": "18049321",
+            "role_id": "35351537",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fan (Spain), late 19th century. Medium: (mount) chromolithograph on paper; (sticks) wood. \nBequest of Sarah Cooper Hewitt. 1931-6-151"
+    },
+    "colors": [
+        {
+            "color": "#a69a69",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#cfa367",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#8d633e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#ad8250",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#84472e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "woe:country_name": "Spain",
+    "is_loan_object": 0
 }

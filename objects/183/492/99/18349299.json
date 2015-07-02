@@ -1,49 +1,81 @@
 {
-    "id":"18349299",
-    "tms:id":"58328",
-    "accession_number":"1938-57-204",
-    "title":"Drawing, \"Shepherd Boy and Shepherdess in a Landscape\", 1767",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18349299\/",
-    "department_id":"35347493",
-    "period_id":"35417101",
-    "media_id":"35374759",
-    "type_id":"35237093",
-    "date":"1767",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Pen and black ink, brush and black wash over graphite on off-white laid paper",
-    "markings":"Watermark: Strasburg bend and lily [incomplete]",
-    "signed":"In ink lower right: Le Prince 1767",
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Sheet: 28.6 x 19.7 cm (11 1\/4 x 7 3\/4 in.)\nMount: 37.8 x 2835 cm (14 7\/8 in. x 93 ft. 1\/8 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":"A shepherd boy playesa flute, at left, while a shepherdess wearing a turban listens. Their sheep are shown in a rocky, and wooded landscape.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18349299",
+    "tms:id": "58328",
+    "accession_number": "1938-57-204",
+    "title": "Drawing, Shepherd Boy and Shepherdess in a Landscape, 1767",
+    "title_raw": "Shepherd Boy and Shepherdess in a Landscape",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18349299\/",
+    "department_id": "35347493",
+    "period_id": "35417101",
+    "media_id": "35374759",
+    "type_id": "35237093",
+    "date": "1767",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Pen and black ink, brush and black wash over graphite on off-white laid paper",
+    "markings": "Watermark: Strasburg bend and lily [incomplete]",
+    "signed": "In ink lower right: Le Prince 1767",
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Sheet: 28.6 x 19.7 cm (11 1\/4 x 7 3\/4 in.)\nMount: 37.8 x 2835 cm (14 7\/8 in. x 93 ft. 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.60",
+            "centimeters"
+        ],
+        "width": [
+            "19.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": "A shepherd boy playesa flute, at left, while a shepherdess wearing a turban listens. Their sheep are shown in a rocky, and wooded landscape.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
 
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18058615",
-            "role_id":"35236565",
-            "person_name":"Jean Baptiste Le Prince",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18058615\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18058615",
+            "role_id": "35236565",
+            "person_name": "Jean Baptiste Le Prince",
+            "person_date": "French, 1734 \u2013 1781",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058615\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Shepherd Boy and Shepherdess in a Landscape\", 1767.\n1767. Pen and black ink, brush and black wash over graphite on off-white laid paper. Bequest of Erskine Hewitt. 1938-57-204."
+    "tombstone": {
+        "epitaph": "Drawing, Shepherd Boy and Shepherdess in a Landscape, 1767. Pen and black ink, brush and black wash over graphite on off-white laid paper. \nBequest of Erskine Hewitt. 1938-57-204"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2e2c34",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

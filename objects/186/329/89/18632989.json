@@ -1,83 +1,167 @@
 {
-    "id":"18632989",
-    "tms:id":"191337",
-    "accession_number":"1989-41-207",
-    "title":"Figure, \"Bust of Lenin\", 1940\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18632989\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35417645",
-    "type_id":"35237189",
-    "date":"1940\u201350",
-    "year_start":"1940",
-    "year_end":"1950",
-    "year_acquired":"1989",
-    "decade":"1940",
-    "woe:country":null,
-    "medium":"Porcelain (bisque)",
-    "markings":"underside: Lomonosov \"LFZ\" mark stamped in orange",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"The Henry and Ludmilla Shapiro Collection",
-    "dimensions":"18.5 cm (7 5\/16 in.)",
-    "creditline":"The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
-    "description":"Bust-length portrait of bald man, head turned very slightly to his right",
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18632989",
+    "tms:id": "191337",
+    "accession_number": "1989-41-207",
+    "title": "Bust of Lenin Figure, 1940\u201350",
+    "title_raw": "Bust of Lenin",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18632989\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35417645",
+    "type_id": "35237189",
+    "date": "1940\u201350",
+    "year_start": 1940,
+    "year_end": 1950,
+    "year_acquired": "1989",
+    "decade": "1940",
+    "woe:country_id": null,
+    "medium": "Porcelain (bisque)",
+    "markings": "underside: Lomonosov \"LFZ\" mark stamped in orange",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "The Henry and Ludmilla Shapiro Collection",
+    "dimensions": "18.5 cm (7 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "18.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
+    "description": "Bust-length portrait of bald man, head turned very slightly to his right",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Figure",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10667_ed8007b5acf35b79_b.jpg",
-                "width":739,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10667_ed8007b5acf35b79_b.jpg",
+                "width": 739,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "10667"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10667_ed8007b5acf35b79_n.jpg",
-                "width":231,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10667_ed8007b5acf35b79_z.jpg",
+                "width": 462,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "10667"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10667_ed8007b5acf35b79_z.jpg",
-                "width":462,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10667_ed8007b5acf35b79_n.jpg",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10667"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10667_ed8007b5acf35b79_d.gif",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10667"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10667_ed8007b5acf35b79_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "10667"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115405_866631cdcbd5d186_b.jpg",
+                "width": 1024,
+                "height": 1018,
+                "is_primary": "0",
+                "image_id": "115405"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115405_866631cdcbd5d186_z.jpg",
+                "width": 640,
+                "height": 636,
+                "is_primary": "0",
+                "image_id": "115405"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115405_866631cdcbd5d186_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "115405"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115405_866631cdcbd5d186_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "115405"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115405_866631cdcbd5d186_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "115405"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045091",
-            "role_id":"35236657",
-            "person_name":"Lomonosov Porcelain Factory",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045091\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047827",
+            "role_id": "35352245",
+            "person_name": "Deborah S. Shinn",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045091",
+            "role_id": "35236657",
+            "person_name": "Lomonosov Porcelain Factory",
+            "person_date": "Leningrad, USSR, founded 1744",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045091\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Figure, \"Bust of Lenin\", 1940\u201350.\n1940\u201350. Porcelain (bisque). The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-207."
+    "tombstone": {
+        "epitaph": "Bust of Lenin Figure, 1940\u201350. Porcelain (bisque). \nThe Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-207"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#2c323f",
-            "closest_css3":"#2f4f4f"
+            "color": "#2c3240",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#9d9aad",
-            "closest_css3":"#a9a9a9"
+            "color": "#585a66",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#585a66",
-            "closest_css3":"#696969"
+            "color": "#9d9aad",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#7d7f90",
-            "closest_css3":"#708090"
+            "color": "#7a7b8b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

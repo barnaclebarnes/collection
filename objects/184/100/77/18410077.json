@@ -1,80 +1,141 @@
 {
-    "id":"18410077",
-    "tms:id":"115233",
-    "accession_number":"1956-42-97",
-    "title":"Sidewall, \"The Rosemount\", ca. 1900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18410077\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35419745",
-    "type_id":"35256475",
-    "date":"ca. 1900",
-    "year_start":null,
-    "year_end":"1905",
-    "year_acquired":"1956",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Block-printed, glazed paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"From 236 Henry Street, Brooklyn, New York.",
-    "dimensions":"56 x 43 cm (22 1\/16 x 16 15\/16 in.)",
-    "creditline":"Gift of Mary M. Kenway from the estate of Sarah B. Russell",
-    "description":"On white ground with traces of glazing large yellow roses on pale green trellis. Straight repeat, drop match. Printed in left margin: \"The Rosemount\".",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18410077",
+    "tms:id": "115233",
+    "accession_number": "1956-42-97",
+    "title": "Sidewall, The Rosemount, ca. 1900",
+    "title_raw": "The Rosemount",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18410077\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35419745",
+    "type_id": "35256475",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1905,
+    "year_acquired": "1956",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Block-printed, glazed paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "From 236 Henry Street, Brooklyn, New York.",
+    "dimensions": "56 x 43 cm (22 1\/16 x 16 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "56.00",
+            "centimeters"
+        ],
+        "width": [
+            "43.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mary M. Kenway from the estate of Sarah B. Russell",
+    "description": "On white ground with traces of glazing large yellow roses on pale green trellis. Straight repeat, drop match. Printed in left margin: \"The Rosemount\".",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5506_09a771eed56ff736_b.jpg",
-                "width":1024,
-                "height":709,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5506_09a771eed56ff736_b.jpg",
+                "width": 1024,
+                "height": 709,
+                "is_primary": "1",
+                "image_id": "5506"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5506_09a771eed56ff736_n.jpg",
-                "width":320,
-                "height":222,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5506_09a771eed56ff736_z.jpg",
+                "width": 640,
+                "height": 443,
+                "is_primary": "1",
+                "image_id": "5506"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5506_09a771eed56ff736_z.jpg",
-                "width":640,
-                "height":443,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5506_09a771eed56ff736_n.jpg",
+                "width": 320,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "5506"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5506_09a771eed56ff736_d.gif",
+                "width": 320,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "5506"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5506_09a771eed56ff736_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "5506"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"The Rosemount\", ca. 1900.\nca. 1900. Block-printed, glazed paper. Gift of Mary M. Kenway from the estate of Sarah B. Russell. 1956-42-97."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b9cbd1",
-            "closest_css3":"#b0c4de"
+            "person_id": "18049983",
+            "role_id": "35351535",
+            "person_name": "Mary  M. Kenway",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049983\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#b2c4b5",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#81907c",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#b2a570",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#646949",
-            "closest_css3":"#556b2f"
+            "person_id": "18048035",
+            "role_id": "35352245",
+            "person_name": "Hedy Backlin-Landman",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall, The Rosemount, ca. 1900. Block-printed, glazed paper. \nGift of Mary M. Kenway from the estate of Sarah B. Russell. 1956-42-97"
+    },
+    "colors": [
+        {
+            "color": "#b2c5c9",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#9ba891",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#646948",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#bfb37f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#808461",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,42 +1,97 @@
 {
-    "id":"18476865",
-    "tms:id":"149211",
-    "accession_number":"1972-5-8",
-    "title":"Disc",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476865\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35367405",
-    "type_id":"35249563",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":null,
-    "medium":"enamel",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"diam.: 2.2 cm (7\/8 in.)",
-    "creditline":"Bequest of Julian Clarence Levi",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249563",
-        "name":"disc"
+    "id": "18476865",
+    "tms:id": "149211",
+    "accession_number": "1972-5-8",
+    "title": "Disc",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476865\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35367405",
+    "type_id": "35249563",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "enamel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "diam.: 2.2 cm (7\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "2.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Julian Clarence Levi",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "disc",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116211_2d2208681526b628_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "116211"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116211_2d2208681526b628_z.jpg",
+                "width": 640,
+                "height": 513,
+                "is_primary": "1",
+                "image_id": "116211"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116211_2d2208681526b628_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "116211"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116211_2d2208681526b628_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "116211"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/116211_2d2208681526b628_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "116211"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18056787",
+            "role_id": "35351537",
+            "person_name": "Julian Clarence Levi",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056787\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Disc. enamel. \nBequest of Julian Clarence Levi. 1972-5-8"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Disc.\nenamel. Bequest of Julian Clarence Levi. 1972-5-8."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

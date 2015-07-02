@@ -1,87 +1,119 @@
 {
-    "id":"18470939",
-    "tms:id":"146109",
-    "accession_number":"1969-45-4-1\/47",
-    "title":"Sample Book, \"A Pinch of Salt\", 1967",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18470939\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35421475",
-    "type_id":"35247403",
-    "date":"1967",
-    "year_start":"1967",
-    "year_end":"1967",
-    "year_acquired":"1969",
-    "decade":"1960",
-    "woe:country":"23424977",
-    "medium":"Screen printed on vinyl",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"51 x 33 cm (20 1\/16 x 13 in.)",
-    "creditline":"Gift of Jack Denst",
-    "description":"Twelve designs which include floral, geometrics, traditional and Oriental themes, to dramatize the effect of color in small doses.",
-    "justification":null,
-    "type":{
-        "id":"35247403",
-        "name":"sample book"
+    "id": "18470939",
+    "tms:id": "146109",
+    "accession_number": "1969-45-4-1\/47",
+    "title": "Sample Book, A Pinch of Salt, 1967",
+    "title_raw": "A Pinch of Salt",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18470939\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35421475",
+    "type_id": "35247403",
+    "date": "1967",
+    "year_start": 1967,
+    "year_end": 1967,
+    "year_acquired": "1969",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "Screen printed on vinyl",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "51 x 33 cm (20 1\/16 x 13 in.)",
+    "dimensions_raw": {
+        "height": [
+            "51.00",
+            "centimeters"
+        ],
+        "width": [
+            "33.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Jack Denst",
+    "description": "Twelve designs which include floral, geometrics, traditional and Oriental themes, to dramatize the effect of color in small doses.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "sample book",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7750_9d68f0d769a19cde_b.jpg",
-                "width":586,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7750_9d68f0d769a19cde_b.jpg",
+                "width": 586,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "7750"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7750_9d68f0d769a19cde_n.jpg",
-                "width":183,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7750_9d68f0d769a19cde_z.jpg",
+                "width": 367,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "7750"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7750_9d68f0d769a19cde_z.jpg",
-                "width":367,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7750_9d68f0d769a19cde_n.jpg",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "7750"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7750_9d68f0d769a19cde_d.gif",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "7750"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7750_9d68f0d769a19cde_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "7750"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046917",
-            "role_id":"35236657",
-            "person_name":"The Jack Denst Designs, Inc.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046917\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18046917",
+            "role_id": "35236657",
+            "person_name": "The Jack Denst Designs, Inc.",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046917\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample Book, \"A Pinch of Salt\", 1967.\n1967. Screen printed on vinyl. Gift of Jack Denst. 1969-45-4-1\/47."
+    "tombstone": {
+        "epitaph": "Sample Book, A Pinch of Salt, 1967. Screen printed on vinyl. \nGift of Jack Denst. 1969-45-4-1\/47"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#fe6b76",
-            "closest_css3":"#fa8072"
+            "color": "#fc6c35",
+            "closest_crayola": "#ff7538",
+            "closest_css3": "#ff6347",
+            "closest_css4": "#ff6347"
         },
         {
-            "color":"#fd5644",
-            "closest_css3":"#ff6347"
+            "color": "#fc9540",
+            "closest_crayola": "#ffa343",
+            "closest_css3": "#ff7f50",
+            "closest_css4": "#ff7f50"
         },
         {
-            "color":"#fe8b65",
-            "closest_css3":"#fa8072"
-        },
-        {
-            "color":"#fc9742",
-            "closest_css3":"#ff7f50"
-        },
-        {
-            "color":"#dd301b",
-            "closest_css3":"#dc143c"
+            "color": "#e03322",
+            "closest_crayola": "#ff2b2b",
+            "closest_css3": "#dc143c",
+            "closest_css4": "#dc143c"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

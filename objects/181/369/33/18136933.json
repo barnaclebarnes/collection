@@ -1,80 +1,130 @@
 {
-    "id":"18136933",
-    "tms:id":"12644",
-    "accession_number":"1903-9-2",
-    "title":"Leather, 1750\u20131800",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18136933\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367357",
-    "type_id":"35256423",
-    "date":"1750\u20131800",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1903",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Leather, embossed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 85.5 x 66 cm (33 11\/16 in. x 26 in.)",
-    "creditline":"Gift of George Arnold Hearn",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35256423",
-        "name":"Leather"
+    "id": "18136933",
+    "tms:id": "12644",
+    "accession_number": "1903-9-2",
+    "title": "Leather, 1750\u20131800",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18136933\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367357",
+    "type_id": "35256423",
+    "date": "1750\u20131800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1903",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Leather, embossed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 85.5 x 66 cm (33 11\/16 in. x 26 in.)",
+    "dimensions_raw": {
+        "height": [
+            "85.50",
+            "centimeters"
+        ],
+        "width": [
+            "66.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of George Arnold Hearn",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Leather",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1050_3202554a845cd4ad_b.jpg",
-                "width":1024,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1050_3202554a845cd4ad_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "1050"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1050_3202554a845cd4ad_n.jpg",
-                "width":320,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1050_3202554a845cd4ad_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "1050"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1050_3202554a845cd4ad_z.jpg",
-                "width":640,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1050_3202554a845cd4ad_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "1050"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1050_3202554a845cd4ad_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "1050"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1050_3202554a845cd4ad_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "1050"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Leather, 1750\u20131800.\n1750\u20131800. Leather, embossed. Gift of George Arnold Hearn. 1903-9-2."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#5c5e6a",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#4e6147",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#312d19",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#423c4d",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#8f917e",
-            "closest_css3":"#808080"
+            "person_id": "18050353",
+            "role_id": "35351535",
+            "person_name": "Mr. George A. Hearn",
+            "person_date": "American, 1835\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050353\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Leather, 1750\u20131800. Leather, embossed. \nGift of George Arnold Hearn. 1903-9-2"
+    },
+    "colors": [
+        {
+            "color": "#5c5b4f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#7f7e75",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#403c2c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#696c73",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#49342a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

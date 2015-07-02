@@ -1,49 +1,121 @@
 {
-    "id":"18464211",
-    "tms:id":"142711",
-    "accession_number":"1968-135-5-a\/c",
-    "title":"Fragments",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464211\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367101",
-    "type_id":"35254679",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Velvet",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Harvey Smith",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254679",
-        "name":"Fragments"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18464211",
+    "tms:id": "142711",
+    "accession_number": "1968-135-5-a\/c",
+    "title": "Fragments",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18464211\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367101",
+    "type_id": "35254679",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: velvet",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Harvey Smith",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragments",
+    "images": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86854_12a59739f1648fbf_b.jpg",
+                "width": 1024,
+                "height": 790,
+                "is_primary": "1",
+                "image_id": "86854"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86854_12a59739f1648fbf_z.jpg",
+                "width": 640,
+                "height": 493,
+                "is_primary": "1",
+                "image_id": "86854"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86854_12a59739f1648fbf_n.jpg",
+                "width": 320,
+                "height": 247,
+                "is_primary": "1",
+                "image_id": "86854"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86854_12a59739f1648fbf_d.gif",
+                "width": 320,
+                "height": 247,
+                "is_primary": "1",
+                "image_id": "86854"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86854_12a59739f1648fbf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "86854"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragments.\nVelvet. Gift of Harvey Smith. 1968-135-5-a\/c."
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragments. Technique: velvet. \nGift of Harvey Smith. 1968-135-5-a\/c"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#df5c6a",
+            "closest_crayola": "#cc6666",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#b53541",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#7a1521",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#320c27",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#ed8492",
+            "closest_crayola": "#d98695",
+            "closest_css3": "#f08080",
+            "closest_css4": "#f08080"
+        }
+    ],
+    "is_loan_object": 0
 }

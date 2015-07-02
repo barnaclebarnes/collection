@@ -1,42 +1,176 @@
 {
-    "id":"18481905",
-    "tms:id":"151809",
-    "accession_number":"1973-51-90",
-    "title":"Fragment, \"Psyche\", 1810",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481905\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35254623",
-    "date":"1810",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1973",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved roller on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Martin scrapbook",
-    "dimensions":"Warp x Weft: 18.5 x 101 cm (7 5\/16 x 39 3\/4 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"Fragment printed in red.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18481905",
+    "tms:id": "151809",
+    "accession_number": "1973-51-90",
+    "title": "Fragment, Psyche, 1810",
+    "title_raw": "Psyche",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18481905\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35254623",
+    "date": "1810",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1973",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved roller on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Martin scrapbook",
+    "dimensions": "Warp x Weft: 18.5 x 101 cm (7 5\/16 x 39 3\/4 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "18.50",
+            "centimeters"
+        ],
+        "weft": [
+            "101.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Josephine Howell",
+    "description": "Fragment printed in red.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108956_dafee03a18db8c66_b.jpg",
+                "width": 1024,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "108956"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108956_dafee03a18db8c66_z.jpg",
+                "width": 640,
+                "height": 148,
+                "is_primary": "1",
+                "image_id": "108956"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108956_dafee03a18db8c66_n.jpg",
+                "width": 320,
+                "height": 74,
+                "is_primary": "1",
+                "image_id": "108956"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108956_dafee03a18db8c66_d.gif",
+                "width": 320,
+                "height": 74,
+                "is_primary": "1",
+                "image_id": "108956"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108956_dafee03a18db8c66_sq.jpg",
+                "width": 300,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "108956"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76348_a928f5cb24bcb481_b.jpg",
+                "width": 1024,
+                "height": 432,
+                "is_primary": "0",
+                "image_id": "76348"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76348_a928f5cb24bcb481_z.jpg",
+                "width": 640,
+                "height": 270,
+                "is_primary": "0",
+                "image_id": "76348"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76348_a928f5cb24bcb481_n.jpg",
+                "width": 320,
+                "height": 135,
+                "is_primary": "0",
+                "image_id": "76348"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76348_a928f5cb24bcb481_d.gif",
+                "width": 320,
+                "height": 135,
+                "is_primary": "0",
+                "image_id": "76348"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76348_a928f5cb24bcb481_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "76348"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045425",
+            "role_id": "35236681",
+            "person_name": "Oberkampf & Cie.",
+            "person_date": "Jouy-en-Josas, France, 1759 \u2013 1815",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045425\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, \"Psyche\", 1810.\n1810. Medium: cotton\nTechnique: printed by engraved roller on plain weave. Gift of Josephine Howell. 1973-51-90."
+    "tombstone": {
+        "epitaph": "Fragment, Psyche, 1810. Medium: cotton\nTechnique: printed by engraved roller on plain weave. \nGift of Josephine Howell. 1973-51-90"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a37e72",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#834746",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#b29a86",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

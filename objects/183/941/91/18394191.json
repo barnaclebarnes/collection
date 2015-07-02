@@ -1,80 +1,164 @@
 {
-    "id":"18394191",
-    "tms:id":"107252",
-    "accession_number":"1953-106-100",
-    "title":"Miser's Purse, 1815\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394191\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35406411",
-    "type_id":"35269513",
-    "date":"1815\u201340",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk, metal beads\nTechnique: metal beads sewn to white silk machine-made net using running stitch.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"L: 19 cm (7 1\/2 in.)",
-    "creditline":"Gift of Mrs. Albert Blum",
-    "description":"Netted white silk ornamented with cut steel beads in small star and anchor motifs and a larger triple zigzag pattern. Two faceted steel rings control side closing; small cut steel drops at each end.",
-    "justification":null,
-    "type":{
-        "id":"35269513",
-        "name":"Miser's purse"
+    "id": "18394191",
+    "tms:id": "107252",
+    "accession_number": "1953-106-100",
+    "title": "Miser's Purse (France), 1815\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18394191\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35406411",
+    "type_id": "35269513",
+    "date": "1815\u201340",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk, metal beads\nTechnique: metal beads sewn to white silk machine-made net using running stitch.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 18.4 \u00d7 4.1 cm (7 1\/4 \u00d7 1 5\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "19.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Albert Blum",
+    "description": "Netted white silk ornamented with cut steel beads in small star and anchor motifs and a larger triple zigzag pattern. Two faceted steel rings control side closing; small cut steel drops at each end.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Miser's purse",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29848_16a17d894234350c_b.jpg",
-                "width":1024,
-                "height":671,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103639_783131083c7fa174_b.jpg",
+                "width": 1024,
+                "height": 532,
+                "is_primary": "1",
+                "image_id": "103639"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29848_16a17d894234350c_n.jpg",
-                "width":320,
-                "height":210,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103639_783131083c7fa174_z.jpg",
+                "width": 640,
+                "height": 333,
+                "is_primary": "1",
+                "image_id": "103639"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29848_16a17d894234350c_z.jpg",
-                "width":640,
-                "height":419,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103639_783131083c7fa174_n.jpg",
+                "width": 320,
+                "height": 166,
+                "is_primary": "1",
+                "image_id": "103639"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103639_783131083c7fa174_d.gif",
+                "width": 320,
+                "height": 166,
+                "is_primary": "1",
+                "image_id": "103639"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103639_783131083c7fa174_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103639"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29848_16a17d894234350c_b.jpg",
+                "width": 1024,
+                "height": 671,
+                "is_primary": "0",
+                "image_id": "29848"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29848_16a17d894234350c_z.jpg",
+                "width": 640,
+                "height": 419,
+                "is_primary": "0",
+                "image_id": "29848"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29848_16a17d894234350c_n.jpg",
+                "width": 320,
+                "height": 210,
+                "is_primary": "0",
+                "image_id": "29848"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29848_16a17d894234350c_d.gif",
+                "width": 320,
+                "height": 210,
+                "is_primary": "0",
+                "image_id": "29848"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29848_16a17d894234350c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29848"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Miser's Purse, 1815\u201340.\n1815\u201340. Medium: silk, metal beads\nTechnique: metal beads sewn to white silk machine-made net using running stitch.. Gift of Mrs. Albert Blum. 1953-106-100."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#9d8956",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#efe3c3",
-            "closest_css3":"#ffe4c4"
-        },
-        {
-            "color":"#806a45",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#624721",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#391d0a",
-            "closest_css3":"#000000"
+            "person_id": "18061351",
+            "role_id": "35351535",
+            "person_name": "Mrs. Albert Blum",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Miser's Purse (France), 1815\u201340. Medium: silk, metal beads\nTechnique: metal beads sewn to white silk machine-made net using running stitch.. \nGift of Mrs. Albert Blum. 1953-106-100"
+    },
+    "colors": [
+        {
+            "color": "#bb9f74",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#c3beb8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#e6d5ae",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#947751",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#685540",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

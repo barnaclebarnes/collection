@@ -1,42 +1,131 @@
 {
-    "id":"18386559",
-    "tms:id":"103413",
-    "accession_number":"1951-105-2",
-    "title":"Trimming",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18386559\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254635",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1951",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Richard C. Greenleaf",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254635",
-        "name":"Trimming"
+    "id": "18386559",
+    "tms:id": "103413",
+    "accession_number": "1951-105-2",
+    "title": "Trimming (France), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18386559\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371963",
+    "type_id": "35254635",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1951",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk, linen",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 126 x 5.5 cm (49 5\/8 x 2 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "126.00",
+            "centimeters"
+        ],
+        "width": [
+            "5.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Richard C. Greenleaf",
+    "description": "Broad woven openwork band of linen wound with white silk and edged with a scallop of the same style, but heavier in pink and white. Band tied tight at regular intervals and sewn with bunches of tiny multicolored flowers in silk floss.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Trimming",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72539_482688830054a78b_b.jpg",
+                "width": 1024,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "72539"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72539_482688830054a78b_z.jpg",
+                "width": 640,
+                "height": 143,
+                "is_primary": "1",
+                "image_id": "72539"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72539_482688830054a78b_n.jpg",
+                "width": 320,
+                "height": 72,
+                "is_primary": "1",
+                "image_id": "72539"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72539_482688830054a78b_d.gif",
+                "width": 320,
+                "height": 72,
+                "is_primary": "1",
+                "image_id": "72539"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72539_482688830054a78b_sq.jpg",
+                "width": 300,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "72539"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049377",
+            "role_id": "35351535",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Trimming.\nGift of Richard C. Greenleaf. 1951-105-2."
+    "tombstone": {
+        "epitaph": "Trimming (France), 18th century. Medium: silk, linen. \nGift of Richard C. Greenleaf. 1951-105-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#3d3a38",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#c1a89d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#d4cbba",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#856d63",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#899079",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

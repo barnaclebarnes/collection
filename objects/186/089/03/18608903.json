@@ -1,87 +1,161 @@
 {
-    "id":"18608903",
-    "tms:id":"97980",
-    "accession_number":"1948-134-48",
-    "title":"Print, \"Seki. Early Departure\", ca. 1834",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18608903\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"51496397",
-    "type_id":"35236873",
-    "date":"ca. 1834",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":"Woodblock, brush and watercolor on paper",
-    "markings":"Seal, lower right: Hoyeido.",
-    "signed":null,
-    "inscribed":"Inscribed in black ink, lower right, Japanese characters and stamp in red ink",
-    "provenance":"Mary Rutherford Jay",
-    "dimensions":"24.1 x 36 cm (9 1\/2 x 14 3\/16 in.)",
-    "creditline":"Gift of Mary Rutherford Jay",
-    "description":"Courtyard of inn at which a daimyo is resting, screened with hangings bearing his crest. Lower left, servants preparing to start, adjusting their hats. Others receiving a samurai. The cipher of Hiroshige on lantern of one of latter servants.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18608903",
+    "tms:id": "97980",
+    "accession_number": "1948-134-48",
+    "title": "Print, Seki, Early Departure, in The Fifty-Three Stations of the Tokaido Road (Tokaido Gojusan Tsugi-no Uchi), ca. 1834",
+    "title_raw": "Seki, Early Departure, in The Fifty-Three Stations of the Tokaido Road (Tokaido Gojusan Tsugi-no Uchi)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18608903\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51496397",
+    "type_id": "35236873",
+    "date": "ca. 1834",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "Woodblock, brush and watercolor on paper",
+    "markings": "Seal, lower right: Hoyeido.",
+    "signed": null,
+    "inscribed": "Inscribed in black ink, lower right, Japanese characters and stamp in red ink",
+    "provenance": "Mary Rutherford Jay",
+    "dimensions": "24.1 x 36 cm (9 1\/2 x 14 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "24.10",
+            "centimeters"
+        ],
+        "width": [
+            "36.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mary Rutherford Jay",
+    "description": "Courtyard of inn at which a daimyo is resting, screened with hangings bearing his crest. Lower left, servants preparing to start, adjusting their hats. Others receiving a samurai. The cipher of Hiroshige on lantern of one of latter servants.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45184_4a0fdb091e13c4b2_b.jpg",
-                "width":1024,
-                "height":691,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45184_3a156633417a731c_b.jpg",
+                "width": 1024,
+                "height": 679,
+                "is_primary": "1",
+                "image_id": "45184"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45184_4a0fdb091e13c4b2_n.jpg",
-                "width":320,
-                "height":216,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45184_3a156633417a731c_z.jpg",
+                "width": 640,
+                "height": 424,
+                "is_primary": "1",
+                "image_id": "45184"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45184_4a0fdb091e13c4b2_z.jpg",
-                "width":640,
-                "height":432,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45184_3a156633417a731c_n.jpg",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "45184"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45184_3a156633417a731c_d.gif",
+                "width": 320,
+                "height": 212,
+                "is_primary": "1",
+                "image_id": "45184"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45184_3a156633417a731c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45184"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042839",
-            "role_id":"35236565",
-            "person_name":"Ando Hiroshige",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042839\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18065427",
+            "role_id": "35352245",
+            "person_name": "Stephanie Keating",
+            "person_date": "American",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18065427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18042839",
+            "role_id": "35236565",
+            "person_name": "Ando Hiroshige",
+            "person_date": "Japanese, 1797 - 1858",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042839\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18056719",
+            "role_id": "35351535",
+            "person_name": "Mary Rutherford Jay",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056719\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"Seki. Early Departure\", ca. 1834.\nca. 1834. Woodblock, brush and watercolor on paper. Gift of Mary Rutherford Jay. 1948-134-48."
+    "tombstone": {
+        "epitaph": "Print, Seki, Early Departure, in The Fifty-Three Stations of the Tokaido Road (Tokaido Gojusan Tsugi-no Uchi), ca. 1834. Woodblock, brush and watercolor on paper. \nGift of Mary Rutherford Jay. 1948-134-48"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#716d61",
-            "closest_css3":"#696969"
+            "color": "#e2ddbd",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
         },
         {
-            "color":"#6c958a",
-            "closest_css3":"#708090"
+            "color": "#5e5c4f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#4e4943",
-            "closest_css3":"#2f4f4f"
+            "color": "#566d6b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#a49981",
-            "closest_css3":"#bc8f8f"
+            "color": "#3c3a34",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#3a6080",
-            "closest_css3":"#483d8b"
+            "color": "#9e9a80",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

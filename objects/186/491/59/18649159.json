@@ -1,116 +1,254 @@
 {
-    "id":"18649159",
-    "tms:id":"199489",
-    "accession_number":"1994-66-3",
-    "title":"Creamer, ca. 1908",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649159\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35251887",
-    "date":"ca. 1908",
-    "year_start":"1903",
-    "year_end":"1913",
-    "year_acquired":"1994",
-    "decade":"1900",
-    "woe:country":"23424909",
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Justin G. Schiller",
-    "description":"Decorated with green and ochre four-pointed geometric star and linear bands on cream ground.",
-    "justification":null,
-    "type":{
-        "id":"35251887",
-        "name":"creamer"
+    "id": "18649159",
+    "tms:id": "199489",
+    "accession_number": "1994-66-3",
+    "title": "Creamer (Netherlands), ca. 1908",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18649159\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35251887",
+    "date": "ca. 1908",
+    "year_start": 1903,
+    "year_end": 1913,
+    "year_acquired": "1994",
+    "decade": "1900",
+    "woe:country_id": "23424909",
+    "medium": "Glazed earthenware",
+    "markings": "On base, in black ring form: \"AMPHORA . HOLLAND . \" \/ in black marking pen: \"22S-D-1 HD [conjoined]\"; in red: \"B\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Justin G. Schiller; 1994: acquired by Museum",
+    "dimensions": "H x W: 5.5 x 14 cm (2 3\/16 x 5 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "5.50",
+            "centimeters"
+        ],
+        "width": [
+            "14.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Justin G. Schiller",
+    "description": "Decorated with green and ochre four-pointed geometric star and linear bands on cream ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "creamer",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21081_18b561aa0776b288_b.jpg",
-                "width":1024,
-                "height":429,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107212_911a75c570916b89_b.jpg",
+                "width": 1024,
+                "height": 661,
+                "is_primary": "1",
+                "image_id": "107212"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21081_18b561aa0776b288_n.jpg",
-                "width":320,
-                "height":134,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107212_911a75c570916b89_z.jpg",
+                "width": 640,
+                "height": 413,
+                "is_primary": "1",
+                "image_id": "107212"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21081_18b561aa0776b288_z.jpg",
-                "width":640,
-                "height":268,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107212_911a75c570916b89_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "107212"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107212_911a75c570916b89_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "107212"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107212_911a75c570916b89_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107212"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12528_c2b5075b11751bd6_b.jpg",
-                "width":1024,
-                "height":514,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21081_18b561aa0776b288_b.jpg",
+                "width": 1024,
+                "height": 429,
+                "is_primary": "0",
+                "image_id": "21081"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12528_c2b5075b11751bd6_n.jpg",
-                "width":320,
-                "height":161,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21081_18b561aa0776b288_z.jpg",
+                "width": 640,
+                "height": 268,
+                "is_primary": "0",
+                "image_id": "21081"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12528_c2b5075b11751bd6_z.jpg",
-                "width":640,
-                "height":321,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21081_18b561aa0776b288_n.jpg",
+                "width": 320,
+                "height": 134,
+                "is_primary": "0",
+                "image_id": "21081"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21081_18b561aa0776b288_d.gif",
+                "width": 320,
+                "height": 134,
+                "is_primary": "0",
+                "image_id": "21081"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21081_18b561aa0776b288_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21081"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12529_51ebdf1888efe81e_b.jpg",
-                "width":1024,
-                "height":629,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12528_c2b5075b11751bd6_b.jpg",
+                "width": 1024,
+                "height": 514,
+                "is_primary": "0",
+                "image_id": "12528"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12529_51ebdf1888efe81e_n.jpg",
-                "width":320,
-                "height":197,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12528_c2b5075b11751bd6_z.jpg",
+                "width": 640,
+                "height": 321,
+                "is_primary": "0",
+                "image_id": "12528"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12529_51ebdf1888efe81e_z.jpg",
-                "width":640,
-                "height":393,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12528_c2b5075b11751bd6_n.jpg",
+                "width": 320,
+                "height": 161,
+                "is_primary": "0",
+                "image_id": "12528"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12528_c2b5075b11751bd6_d.gif",
+                "width": 320,
+                "height": 161,
+                "is_primary": "0",
+                "image_id": "12528"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12528_c2b5075b11751bd6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12528"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12529_51ebdf1888efe81e_b.jpg",
+                "width": 1024,
+                "height": 629,
+                "is_primary": "0",
+                "image_id": "12529"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12529_51ebdf1888efe81e_z.jpg",
+                "width": 640,
+                "height": 393,
+                "is_primary": "0",
+                "image_id": "12529"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12529_51ebdf1888efe81e_n.jpg",
+                "width": 320,
+                "height": 197,
+                "is_primary": "0",
+                "image_id": "12529"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12529_51ebdf1888efe81e_d.gif",
+                "width": 320,
+                "height": 197,
+                "is_primary": "0",
+                "image_id": "12529"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12529_51ebdf1888efe81e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12529"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Creamer, ca. 1908.\nca. 1908. Glazed earthenware. Gift of Justin G. Schiller. 1994-66-3."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bfbaaf",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18041085",
+            "role_id": "35351535",
+            "person_name": "Mr. Justin G. Schiller",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041085\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#343230",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18048765",
+            "role_id": "35352245",
+            "person_name": "Cynthia Trope",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#9c9485",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18045059",
+            "role_id": "35236657",
+            "person_name": "Amphora Factory",
+            "person_date": "Active 1908\u20131933",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045059\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#757067",
-            "closest_css3":"#696969"
+            "person_id": "18048937",
+            "role_id": "35236655",
+            "person_name": "Christian Johannes van der Hoef",
+            "person_date": "Dutch, 1875 \u2013 1933",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048937\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Creamer (Netherlands), ca. 1908. Glazed earthenware. \nGift of Justin G. Schiller. 1994-66-3"
+    },
+    "colors": [
+        {
+            "color": "#eae2c8",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#ffe4c4",
+            "closest_css4": "#ffe4c4"
+        },
+        {
+            "color": "#bcab85",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

@@ -1,76 +1,161 @@
 {
-    "id":"18633041",
-    "tms:id":"191363",
-    "accession_number":"1989-41-230",
-    "title":"Figure, \"Girl Playing Guitar\", 1960\u201370",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18633041\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35393671",
-    "type_id":"35237189",
-    "date":"1960\u201370",
-    "year_start":"1960",
-    "year_end":"1970",
-    "year_acquired":"1989",
-    "decade":"1960",
-    "woe:country":null,
-    "medium":"Porcelain, enamel, gilding",
-    "markings":"Dmitrov factory mark stamped in orange",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"The Henry and Ludmilla Shapiro Collection",
-    "dimensions":"14.2 cm (5 9\/16 in.)",
-    "creditline":"The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
-    "description":"Girl with black hair and shoes sits holding guitar in hands; mostly un- painted.",
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18633041",
+    "tms:id": "191363",
+    "accession_number": "1989-41-230",
+    "title": "Girl Playing Guitar Figure, 1960\u201370",
+    "title_raw": "Girl Playing Guitar",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18633041\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35393671",
+    "type_id": "35237189",
+    "date": "1960\u201370",
+    "year_start": 1960,
+    "year_end": 1970,
+    "year_acquired": "1989",
+    "decade": "1960",
+    "woe:country_id": null,
+    "medium": "Porcelain, enamel, gilding",
+    "markings": "Dmitrov factory mark stamped in orange",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "The Henry and Ludmilla Shapiro Collection",
+    "dimensions": "14.2 cm (5 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "14.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
+    "description": "Girl with black hair and shoes sits holding guitar in hands; mostly un- painted.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Figure",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10679_73ee60c22ca6ebdb_b.jpg",
-                "width":691,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10679_73ee60c22ca6ebdb_b.jpg",
+                "width": 691,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "10679"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10679_73ee60c22ca6ebdb_n.jpg",
-                "width":216,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10679_73ee60c22ca6ebdb_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "10679"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10679_73ee60c22ca6ebdb_z.jpg",
-                "width":432,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10679_73ee60c22ca6ebdb_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10679"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10679_73ee60c22ca6ebdb_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "10679"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10679_73ee60c22ca6ebdb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "10679"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121160_12e49f3186b40d04_b.jpg",
+                "width": 977,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "121160"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121160_12e49f3186b40d04_z.jpg",
+                "width": 610,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "121160"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121160_12e49f3186b40d04_n.jpg",
+                "width": 305,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "121160"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121160_12e49f3186b40d04_d.gif",
+                "width": 305,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "121160"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121160_12e49f3186b40d04_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "121160"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Figure, \"Girl Playing Guitar\", 1960\u201370.\n1960\u201370. Porcelain, enamel, gilding. The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-230."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#373a49",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18047827",
+            "role_id": "35352245",
+            "person_name": "Deborah S. Shinn",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#89859b",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#56576e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#aba1a7",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18045195",
+            "role_id": "35236657",
+            "person_name": "Dmitrov Porcelain Factory",
+            "person_date": "founded 1918",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045195\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Girl Playing Guitar Figure, 1960\u201370. Porcelain, enamel, gilding. \nThe Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-230"
+    },
+    "colors": [
+        {
+            "color": "#373a4a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#65657d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8a859c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "is_loan_object": 0
 }

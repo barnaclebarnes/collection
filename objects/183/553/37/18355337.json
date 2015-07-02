@@ -1,49 +1,122 @@
 {
-    "id":"18355337",
-    "tms:id":"61083",
-    "accession_number":"1938-82-59-a,b",
-    "title":"Trimming",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18355337\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254635",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Anonymous bequest in memory of Albert and Rebecca Elsberg",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254635",
-        "name":"Trimming"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18355337",
+    "tms:id": "61083",
+    "accession_number": "1938-82-59-a,b",
+    "title": "Trimming (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18355337\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254635",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Anonymous bequest in memory of Albert and Rebecca Elsberg",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Trimming",
+    "images": [
         {
-            "person_id":"18049335",
-            "role_id":"35351537",
-            "person_name":"Anonymous",
-            "role_name":"Bequestor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86009_ba8e318a9a2ce817_b.jpg",
+                "width": 898,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "86009"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86009_ba8e318a9a2ce817_z.jpg",
+                "width": 561,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "86009"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86009_ba8e318a9a2ce817_n.jpg",
+                "width": 281,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "86009"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86009_ba8e318a9a2ce817_d.gif",
+                "width": 281,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "86009"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86009_ba8e318a9a2ce817_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "86009"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Trimming.\nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-59-a,b."
+    "participants": [
+        {
+            "person_id": "18049335",
+            "role_id": "35351537",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Trimming (France). \nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-59-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4d3d2f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#916e5c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2b2019",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#bfaa8f",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#716557",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

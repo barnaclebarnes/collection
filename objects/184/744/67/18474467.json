@@ -1,42 +1,98 @@
 {
-    "id":"18474467",
-    "tms:id":"147994",
-    "accession_number":"1971-50-324",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474467\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35397761",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium:\nTechnigue: needle lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18474467",
+    "tms:id": "147994",
+    "accession_number": "1971-50-324",
+    "title": "Fragment (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474467\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35397761",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium:\nTechnigue: needle lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75943_3270f374d0077042_b.jpg",
+                "width": 1024,
+                "height": 631,
+                "is_primary": "1",
+                "image_id": "75943"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75943_3270f374d0077042_z.jpg",
+                "width": 640,
+                "height": 394,
+                "is_primary": "1",
+                "image_id": "75943"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75943_3270f374d0077042_n.jpg",
+                "width": 320,
+                "height": 197,
+                "is_primary": "1",
+                "image_id": "75943"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75943_3270f374d0077042_d.gif",
+                "width": 320,
+                "height": 197,
+                "is_primary": "1",
+                "image_id": "75943"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75943_3270f374d0077042_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75943"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nMedium:\nTechnigue: needle lace. Bequest of Marian Hague. 1971-50-324."
+    "tombstone": {
+        "epitaph": "Fragment (France). Medium:\nTechnigue: needle lace. \nBequest of Marian Hague. 1971-50-324"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2b1e22",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

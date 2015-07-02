@@ -1,42 +1,131 @@
 {
-    "id":"18622549",
-    "tms:id":"186111",
-    "accession_number":"1987-46-67",
-    "title":"Sample",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622549\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"140501",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Technique: plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 4.5 x 5 cm (1 3\/4 x 1 15\/16 in.)",
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":"Circles made of vines with five-lobed flower shapes. Snowflake-like shape in the center of each circle. In brown on white.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18622549",
+    "tms:id": "186111",
+    "accession_number": "1987-46-67",
+    "title": "Sample (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18622549\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "140501",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1987",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Technique: plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 4.5 x 5 cm (1 3\/4 x 1 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "4.50",
+            "centimeters"
+        ],
+        "width": [
+            "5.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": "Circles made of vines with five-lobed flower shapes. Snowflake-like shape in the center of each circle. In brown on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sample",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78098_2981ca66aabcbb75_b.jpg",
+                "width": 1024,
+                "height": 941,
+                "is_primary": "1",
+                "image_id": "78098"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78098_2981ca66aabcbb75_z.jpg",
+                "width": 640,
+                "height": 588,
+                "is_primary": "1",
+                "image_id": "78098"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78098_2981ca66aabcbb75_n.jpg",
+                "width": 320,
+                "height": 294,
+                "is_primary": "1",
+                "image_id": "78098"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78098_2981ca66aabcbb75_d.gif",
+                "width": 320,
+                "height": 294,
+                "is_primary": "1",
+                "image_id": "78098"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78098_2981ca66aabcbb75_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "78098"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sample.\nTechnique: plain weave foundation. Museum purchase from Au Panier Fleuri Fund. 1987-46-67."
+    "tombstone": {
+        "epitaph": "Sample (England). Technique: plain weave foundation. \nMuseum purchase from Au Panier Fleuri Fund. 1987-46-67"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#e7ead4",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#c4d2d7",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#96a2ad",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#bdb5a3",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#8b8278",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

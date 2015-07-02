@@ -1,87 +1,151 @@
 {
-    "id":"18628883",
-    "tms:id":"189282",
-    "accession_number":"1988-62-1008",
-    "title":"Drawing, \"Ouverture: Peach and Black\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18628883\/",
-    "department_id":"35347493",
-    "period_id":"35435467",
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":"1967",
-    "year_acquired":"1988",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18628883",
+    "tms:id": "189282",
+    "accession_number": "1988-62-1008",
+    "title": "Drawing, Ouverture: Peach and Black, 1923\u201332",
+    "title_raw": "Ouverture: Peach and Black",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18628883\/",
+    "department_id": "35347493",
+    "period_id": "35435467",
+    "media_id": "35421785",
+    "type_id": "35237093",
+    "date": "1923\u201332",
+    "year_start": 1923,
+    "year_end": 1923,
+    "year_acquired": "1988",
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "Brush and gouache on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds",
+    "description": "Crackle pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27148_6cf34b6d2888a9c7_b.jpg",
-                "width":1024,
-                "height":712,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27148_6cf34b6d2888a9c7_b.jpg",
+                "width": 1024,
+                "height": 712,
+                "is_primary": "1",
+                "image_id": "27148"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27148_6cf34b6d2888a9c7_n.jpg",
-                "width":320,
-                "height":222,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27148_6cf34b6d2888a9c7_z.jpg",
+                "width": 640,
+                "height": 445,
+                "is_primary": "1",
+                "image_id": "27148"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27148_6cf34b6d2888a9c7_z.jpg",
-                "width":640,
-                "height":445,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27148_6cf34b6d2888a9c7_n.jpg",
+                "width": 320,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "27148"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27148_6cf34b6d2888a9c7_d.gif",
+                "width": 320,
+                "height": 222,
+                "is_primary": "1",
+                "image_id": "27148"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27148_6cf34b6d2888a9c7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "27148"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18048101",
-            "role_id":"35236675",
-            "person_name":"Wiener Werkst\u00e4tte",
-            "role_name":"For",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048101\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18538455",
+            "role_id": "35352249",
+            "person_name": "Wolfgang Ruf",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538455\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18048101",
+            "role_id": "35236675",
+            "person_name": "Wiener Werkst\u00e4tte",
+            "person_date": "Vienna, Austria, 1903 - 1932",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048101\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18536953",
+            "role_id": "35236655",
+            "person_name": "Felice Rix-Ueno",
+            "person_date": "Austrian, 1893\u20131967",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536953\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Ouverture: Peach and Black\".\nMuseum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds. 1988-62-1008."
+    "tombstone": {
+        "epitaph": "Drawing, Ouverture: Peach and Black, 1923\u201332. Brush and gouache on paper. \nMuseum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds. 1988-62-1008"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d0c9bd",
-            "closest_css3":"#c0c0c0"
+            "color": "#d0c592",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#c2af7a",
-            "closest_css3":"#bdb76b"
+            "color": "#272010",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         },
         {
-            "color":"#764b28",
-            "closest_css3":"#8b4513"
+            "color": "#d8cec7",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#2f2216",
-            "closest_css3":"#000000"
+            "color": "#764a28",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#a0b76a",
-            "closest_css3":"#bdb76b"
+            "color": "#a2b96c",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

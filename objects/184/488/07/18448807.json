@@ -1,87 +1,151 @@
 {
-    "id":"18448807",
-    "tms:id":"134919",
-    "accession_number":"1963-39-768-b",
-    "title":"Photograph, \"The Calling of St. Peter\", 1944\u201348",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448807\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"51496675",
-    "type_id":"35247381",
-    "date":"1944\u201348",
-    "year_start":"1944",
-    "year_end":"1948",
-    "year_acquired":"1963",
-    "decade":"1940",
-    "woe:country":"23424977",
-    "medium":"Photograph printed on sensitized paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"23.9 x 30.8 cm (9 7\/16 x 12 1\/8 in.)",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"St. Peter and his two associates are seen drawing in their laden nets in a small boat. In the right background stands Christ. At left, a classical temple on a promontory and another standing figure.",
-    "justification":null,
-    "type":{
-        "id":"35247381",
-        "name":"photograph"
+    "id": "18448807",
+    "tms:id": "134919",
+    "accession_number": "1963-39-768-b",
+    "title": "Photograph, The Calling of St. Peter, 1944\u201348",
+    "title_raw": "The Calling of St. Peter",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448807\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51496675",
+    "type_id": "35247381",
+    "date": "1944\u201348",
+    "year_start": 1944,
+    "year_end": 1948,
+    "year_acquired": "1963",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Photograph printed on sensitized paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer",
+    "dimensions": "23.9 x 30.8 cm (9 7\/16 x 12 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.90",
+            "centimeters"
+        ],
+        "width": [
+            "30.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "St. Peter and his two associates are seen drawing in their laden nets in a small boat. In the right background stands Christ. At left, a classical temple on a promontory and another standing figure.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "photograph",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55003_a0be97776c881da9_b.jpg",
-                "width":1024,
-                "height":797,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55003_04b3fc9d1c7fdefc_b.jpg",
+                "width": 1024,
+                "height": 788,
+                "is_primary": "1",
+                "image_id": "55003"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55003_a0be97776c881da9_n.jpg",
-                "width":320,
-                "height":249,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55003_04b3fc9d1c7fdefc_z.jpg",
+                "width": 640,
+                "height": 493,
+                "is_primary": "1",
+                "image_id": "55003"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55003_a0be97776c881da9_z.jpg",
-                "width":640,
-                "height":498,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55003_04b3fc9d1c7fdefc_n.jpg",
+                "width": 320,
+                "height": 246,
+                "is_primary": "1",
+                "image_id": "55003"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55003_04b3fc9d1c7fdefc_d.gif",
+                "width": 320,
+                "height": 246,
+                "is_primary": "1",
+                "image_id": "55003"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55003_04b3fc9d1c7fdefc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "55003"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Photograph, \"The Calling of St. Peter\", 1944\u201348.\n1944\u201348. Photograph printed on sensitized paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-768-b."
+    "tombstone": {
+        "epitaph": "Photograph, The Calling of St. Peter, 1944\u201348. Photograph printed on sensitized paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-768-b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d8d1c3",
-            "closest_css3":"#d3d3d3"
+            "color": "#dedac9",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#2d2b24",
-            "closest_css3":"#2f4f4f"
+            "color": "#272620",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#60584b",
-            "closest_css3":"#556b2f"
+            "color": "#5b584b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#a69e8e",
-            "closest_css3":"#bc8f8f"
+            "color": "#949080",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#81796a",
-            "closest_css3":"#808080"
+            "color": "#b5b2a1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

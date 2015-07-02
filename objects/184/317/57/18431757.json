@@ -1,95 +1,182 @@
 {
-    "id":"18431757",
-    "tms:id":"126296",
-    "accession_number":"1960-173-2",
-    "title":"Textile, \"Harcourt Castle\", 1950\u201359",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18431757\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35251739",
-    "date":"1950\u201359",
-    "year_start":"1950",
-    "year_end":"1959",
-    "year_acquired":"1960",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Medium: linen\nTechnique: screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 73 x 65.6 cm (28 3\/4 x 25 13\/16 in.)\nRepeat H: 101.6 cm (40 in.)",
-    "creditline":"Gift of Anita Henry",
-    "description":"Coarse linen printed in brown and black with crowned lions rampant, pelicans and clusters of fleur-de-lys, each motif within a curving, continuous enframement.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18431757",
+    "tms:id": "126296",
+    "accession_number": "1960-173-2",
+    "title": "Textile, Harcourt Castle, 1950\u201359",
+    "title_raw": "Harcourt Castle",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18431757\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35251739",
+    "date": "1950\u201359",
+    "year_start": 1950,
+    "year_end": 1959,
+    "year_acquired": "1960",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Medium: linen\nTechnique: screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Anita Henry; 1960: acquired by Museum",
+    "dimensions": "H x W: 73 x 65.6 cm (28 3\/4 x 25 13\/16 in.)\nRepeat H: 101.6 cm (40 in.)",
+    "dimensions_raw": {
+        "height": [
+            "73.00",
+            "centimeters"
+        ],
+        "width": [
+            "65.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Anita Henry",
+    "description": "Coarse linen printed in brown and black with crowned lions rampant, pelicans and clusters of fleur-de-lys, each motif within a curving, continuous enframement.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43739_1c257dd4a415c9d2_b.jpg",
-                "width":918,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43739_30d87b99148c1b63_b.jpg",
+                "width": 939,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "43739"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43739_1c257dd4a415c9d2_n.jpg",
-                "width":287,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43739_30d87b99148c1b63_z.jpg",
+                "width": 587,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "43739"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43739_1c257dd4a415c9d2_z.jpg",
-                "width":574,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43739_30d87b99148c1b63_n.jpg",
+                "width": 293,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43739"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43739_30d87b99148c1b63_d.gif",
+                "width": 293,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "43739"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43739_30d87b99148c1b63_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43739"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74007_d920ecad3b127653_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "74007"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74007_d920ecad3b127653_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "74007"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74007_d920ecad3b127653_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "74007"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74007_d920ecad3b127653_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "74007"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74007_d920ecad3b127653_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "74007"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18059695",
-            "role_id":"35236655",
-            "person_name":"Anita Henry",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18059695\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18059695",
+            "role_id": "35236673",
+            "person_name": "Anita Henry",
+            "person_date": "",
+            "role_name": "Printer",
+            "role_display_name": "Printed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059695\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236673\/"
         },
         {
-            "person_id":"18059695",
-            "role_id":"35351535",
-            "person_name":"Anita Henry",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18059695\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18059695",
+            "role_id": "35236655",
+            "person_name": "Anita Henry",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059695\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18059695",
+            "role_id": "35351535",
+            "person_name": "Anita Henry",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059695\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Harcourt Castle\", 1950\u201359.\n1950\u201359. Medium: linen\nTechnique: screen printed on plain weave. Gift of Anita Henry. 1960-173-2."
+    "tombstone": {
+        "epitaph": "Textile, Harcourt Castle, 1950\u201359. Medium: linen\nTechnique: screen printed on plain weave. \nGift of Anita Henry. 1960-173-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bfb69c",
-            "closest_css3":"#d2b48c"
+            "color": "#b2ae91",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#a99675",
-            "closest_css3":"#bc8f8f"
+            "color": "#3e3121",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#3a372f",
-            "closest_css3":"#2f4f4f"
+            "color": "#918b6e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#533d2c",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#e6e1cc",
-            "closest_css3":"#dcdcdc"
+            "color": "#61563f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

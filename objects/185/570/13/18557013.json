@@ -1,42 +1,121 @@
 {
-    "id":"18557013",
-    "tms:id":"71158",
-    "accession_number":"1939-57-7",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18557013\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367101",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1939",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Velvet",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of the Estate of Herman A. Elsberg",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18557013",
+    "tms:id": "71158",
+    "accession_number": "1939-57-7",
+    "title": "Fragment",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18557013\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367101",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1939",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Velvet",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of the Estate of Herman A. Elsberg",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70353_4727b12a926857f1_b.jpg",
+                "width": 1024,
+                "height": 681,
+                "is_primary": "1",
+                "image_id": "70353"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70353_4727b12a926857f1_z.jpg",
+                "width": 640,
+                "height": 426,
+                "is_primary": "1",
+                "image_id": "70353"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70353_4727b12a926857f1_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "70353"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70353_4727b12a926857f1_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "70353"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70353_4727b12a926857f1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "70353"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052467",
+            "role_id": "35351535",
+            "person_name": "Estate of Herman A. Elsberg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052467\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nVelvet. Gift of the Estate of Herman A. Elsberg. 1939-57-7."
+    "tombstone": {
+        "epitaph": "Fragment. Velvet. \nGift of the Estate of Herman A. Elsberg. 1939-57-7"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#908174",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#67625a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#b6a394",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#809792",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#5d787a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

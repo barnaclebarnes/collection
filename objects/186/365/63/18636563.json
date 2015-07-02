@@ -1,103 +1,178 @@
 {
-    "id":"18636563",
-    "tms:id":"193132",
-    "accession_number":"1991-47-5",
-    "title":"Lamp, \"Chiara\", 1967",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18636563\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35398727",
-    "type_id":"35237335",
-    "date":"1967",
-    "year_start":"1967",
-    "year_end":"1967",
-    "year_acquired":"1991",
-    "decade":"1960",
-    "woe:country":"23424853",
-    "medium":"Chrome-plated steel",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 146 x 55 x 72 cm (57 1\/2 x 21 5\/8 x 28 3\/8 in.)",
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237335",
-        "name":"lamp"
+    "id": "18636563",
+    "tms:id": "193132",
+    "accession_number": "1991-47-5",
+    "title": "Chiara Lamp, 1967",
+    "title_raw": "Chiara",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18636563\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35398727",
+    "type_id": "35237335",
+    "date": "1967",
+    "year_start": 1967,
+    "year_end": 1967,
+    "year_acquired": "1991",
+    "decade": "1960",
+    "woe:country_id": "23424853",
+    "medium": "Chrome-plated steel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 146 x 55 x 72 cm (57 1\/2 x 21 5\/8 x 28 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "72.00",
+            "centimeters"
+        ],
+        "height": [
+            "146.00",
+            "centimeters"
+        ],
+        "width": [
+            "55.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "lamp",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39174_7e2bafed252d1c82_b.jpg",
-                "width":456,
-                "height":637,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104113_dcbab378571e1ea4_b.jpg",
+                "width": 552,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "104113"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39174_7e2bafed252d1c82_n.jpg",
-                "width":229,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104113_dcbab378571e1ea4_z.jpg",
+                "width": 345,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "104113"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39174_7e2bafed252d1c82_z.jpg",
-                "width":456,
-                "height":637,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104113_dcbab378571e1ea4_n.jpg",
+                "width": 173,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104113"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104113_dcbab378571e1ea4_d.gif",
+                "width": 173,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104113"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104113_dcbab378571e1ea4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104113"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39174_7e2bafed252d1c82_b.jpg",
+                "width": 456,
+                "height": 637,
+                "is_primary": "0",
+                "image_id": "39174"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39174_7e2bafed252d1c82_z.jpg",
+                "width": 456,
+                "height": 637,
+                "is_primary": "0",
+                "image_id": "39174"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39174_7e2bafed252d1c82_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "39174"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39174_7e2bafed252d1c82_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "39174"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39174_7e2bafed252d1c82_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "39174"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18057685",
-            "role_id":"35352249",
-            "person_name":"Bonham's",
-            "role_name":"Vendor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18057685\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+            "person_id": "18057685",
+            "role_id": "35352249",
+            "person_name": "Bonham's",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057685\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "person_id":"18051029",
-            "role_id":"35236657",
-            "person_name":"Flos",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051029\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
         },
         {
-            "person_id":"18044493",
-            "role_id":"35236655",
-            "person_name":"Mario Bellini",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044493\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18051029",
+            "role_id": "35236657",
+            "person_name": "Flos",
+            "person_date": "founded 1962",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051029\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18044493",
+            "role_id": "35236655",
+            "person_name": "Mario Bellini",
+            "person_date": "Italian, b. 1935",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044493\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Lamp, \"Chiara\", 1967.\n1967. Chrome-plated steel. Museum purchase from Decorative Arts Association Acquisition Fund. 1991-47-5."
+    "tombstone": {
+        "epitaph": "Chiara Lamp, 1967. Chrome-plated steel. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1991-47-5"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#858773",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#646851",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#b4b6a8",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#2c2d1c",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#404828",
-            "closest_css3":"#556b2f"
+            "color": "#868680",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

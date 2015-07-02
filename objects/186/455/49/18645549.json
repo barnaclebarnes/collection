@@ -1,79 +1,180 @@
 {
-    "id":"18645549",
-    "tms:id":"197678",
-    "accession_number":"1993-48-2",
-    "title":"Candelabra, 1928",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18645549\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371567",
-    "type_id":"35260689",
-    "date":"1928",
-    "year_start":"1928",
-    "year_end":"1928",
-    "year_acquired":"1993",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Pewter",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 21.2 x 23 x 9 cm (8 3\/8 x 9 1\/16 x 3 9\/16 in.)",
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":"A candelabrum with a square base and a rectangle body. Smaller repeated rectangles and squares recede inward into the body and base. The candelabrum holds three candles in a row. This candelabrum is part of a pair.",
-    "justification":null,
-    "type":{
-        "id":"35260689",
-        "name":"Candelabra"
+    "id": "18645549",
+    "tms:id": "197678",
+    "accession_number": "1993-48-2",
+    "title": "Candelabra (USA), 1928",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18645549\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371567",
+    "type_id": "35260689",
+    "date": "1928",
+    "year_start": 1928,
+    "year_end": 1928,
+    "year_acquired": "1993",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Pewter",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1993: acquired by Museum (from Historical Design Inc.)",
+    "dimensions": "H x W x D: 21.2 x 23 x 9 cm (8 3\/8 x 9 1\/16 x 3 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "9.00",
+            "centimeters"
+        ],
+        "height": [
+            "21.20",
+            "centimeters"
+        ],
+        "width": [
+            "23.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": "A candelabrum with a square base and a rectangle body. Smaller repeated rectangles and squares recede inward into the body and base. The candelabrum holds three candles in a row. This candelabrum is part of a pair.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Candelabra",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15955_d1335ff5049909b4_b.jpg",
-                "width":1024,
-                "height":571,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105015_ab8c14e048db416f_b.jpg",
+                "width": 1024,
+                "height": 1022,
+                "is_primary": "1",
+                "image_id": "105015"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15955_d1335ff5049909b4_n.jpg",
-                "width":320,
-                "height":179,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105015_ab8c14e048db416f_z.jpg",
+                "width": 640,
+                "height": 638,
+                "is_primary": "1",
+                "image_id": "105015"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15955_d1335ff5049909b4_z.jpg",
-                "width":640,
-                "height":357,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105015_ab8c14e048db416f_n.jpg",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "105015"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105015_ab8c14e048db416f_d.gif",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "105015"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105015_ab8c14e048db416f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105015"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15955_d1335ff5049909b4_b.jpg",
+                "width": 1024,
+                "height": 571,
+                "is_primary": "0",
+                "image_id": "15955"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15955_d1335ff5049909b4_z.jpg",
+                "width": 640,
+                "height": 357,
+                "is_primary": "0",
+                "image_id": "15955"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15955_d1335ff5049909b4_n.jpg",
+                "width": 320,
+                "height": 179,
+                "is_primary": "0",
+                "image_id": "15955"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15955_d1335ff5049909b4_d.gif",
+                "width": 320,
+                "height": 179,
+                "is_primary": "0",
+                "image_id": "15955"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15955_d1335ff5049909b4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15955"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044781",
-            "role_id":"35236657",
-            "person_name":"Reed & Barton",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044781\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041381",
+            "role_id": "35352249",
+            "person_name": "Historical Design Inc.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041381\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18044781",
+            "role_id": "35236657",
+            "person_name": "Reed & Barton",
+            "person_date": "Taunton, Massachusetts, USA, founded 1824",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044781\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Candelabra, 1928.\n1928. Pewter. Museum purchase from Decorative Arts Association Acquisition Fund. 1993-48-2."
+    "tombstone": {
+        "epitaph": "Candelabra (USA), 1928. Pewter. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1993-48-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#48463f",
-            "closest_css3":"#2f4f4f"
+            "color": "#8e8779",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#a59f97",
-            "closest_css3":"#a9a9a9"
+            "color": "#6b6356",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#837e73",
-            "closest_css3":"#808080"
+            "color": "#494036",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

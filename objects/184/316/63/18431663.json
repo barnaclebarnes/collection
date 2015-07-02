@@ -1,49 +1,178 @@
 {
-    "id":"18431663",
-    "tms:id":"126249",
-    "accession_number":"1960-163-86-a,b",
-    "title":"Scenic - Panel, \"Westchester Hunt\", 1930\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18431663\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35376083",
-    "type_id":"35287557",
-    "date":"1930\u201340",
-    "year_start":"1930",
-    "year_end":"1940",
-    "year_acquired":"1960",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"chromolithograph",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"208 x 49.5 cm (81 7\/8 x 19 1\/2 in.)",
-    "creditline":"Gift of Wallpaper Council, Inc.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35287557",
-        "name":"Scenic - panel"
+    "id": "18431663",
+    "tms:id": "126249",
+    "accession_number": "1960-163-86-a,b",
+    "title": "Scenic - Panel, Westchester Hunt, 1930\u201340",
+    "title_raw": "Westchester Hunt",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18431663\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35376083",
+    "type_id": "35287557",
+    "date": "1930\u201340",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1960",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "chromolithograph",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "208 x 49.5 cm (81 7\/8 x 19 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "208.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Wallpaper Council, Inc.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Scenic - panel",
+    "images": [
         {
-            "person_id":"18046573",
-            "role_id":"35236671",
-            "person_name":"The Schmitz-Horning Co.",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046573\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95170_a78fb5cb23d130bc_b.jpg",
+                "width": 254,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "95170"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95170_a78fb5cb23d130bc_z.jpg",
+                "width": 158,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "95170"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95170_a78fb5cb23d130bc_n.jpg",
+                "width": 79,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95170"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95170_a78fb5cb23d130bc_d.gif",
+                "width": 79,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "95170"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95170_a78fb5cb23d130bc_sq.jpg",
+                "width": 254,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "95170"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95871_4d6cb53f55e88d57_b.jpg",
+                "width": 254,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95871"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95871_4d6cb53f55e88d57_z.jpg",
+                "width": 158,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95871"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95871_4d6cb53f55e88d57_n.jpg",
+                "width": 79,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95871"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95871_4d6cb53f55e88d57_d.gif",
+                "width": 79,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95871"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95871_4d6cb53f55e88d57_sq.jpg",
+                "width": 254,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95871"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Scenic - Panel, \"Westchester Hunt\", 1930\u201340.\n1930\u201340. chromolithograph. Gift of Wallpaper Council, Inc.. 1960-163-86-a,b."
+    "participants": [
+        {
+            "person_id": "18058445",
+            "role_id": "35351535",
+            "person_name": "Wallpaper Council, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046573",
+            "role_id": "35236671",
+            "person_name": "The Schmitz-Horning Co.",
+            "person_date": "1905",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046573\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Scenic - Panel, Westchester Hunt, 1930\u201340. chromolithograph. \nGift of Wallpaper Council, Inc.. 1960-163-86-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#e8cd8a",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#a08963",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c7a167",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#747766",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#c17d57",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

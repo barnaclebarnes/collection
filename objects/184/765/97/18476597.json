@@ -1,42 +1,119 @@
 {
-    "id":"18476597",
-    "tms:id":"149076",
-    "accession_number":"1972-42-220-a,b",
-    "title":"Sidewall And Dado, 1805\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476597\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414641",
-    "type_id":"35292579",
-    "date":"1805\u201325",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"a) 38 x 18.5 cm (14 15\/16 x 7 5\/16 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"a) Sidewall containing a vase with bouquet. The background is printed with a stylized floral motif forming a trellis pattern. Printed in shades of green, blue and white on a light blue ground.",
-    "justification":null,
-    "type":{
-        "id":"35292579",
-        "name":"Sidewall and Dado"
+    "id": "18476597",
+    "tms:id": "149076",
+    "accession_number": "1972-42-220-a,b",
+    "title": "Sidewall And Dado (France), 1805\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476597\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414641",
+    "type_id": "35292579",
+    "date": "1805\u201325",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Josephine Howell; 1972: acquired by Museum",
+    "dimensions": "a) 38 x 18.5 cm (14 15\/16 x 7 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "38.00",
+            "centimeters"
+        ],
+        "width": [
+            "18.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Josephine Howell",
+    "description": "a) Sidewall containing a vase with bouquet. The background is printed with a stylized floral motif forming a trellis pattern. Printed in shades of green, blue and white on a light blue ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall and Dado",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92383_d34837f1c41d15a4_b.jpg",
+                "width": 551,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92383"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92383_d34837f1c41d15a4_z.jpg",
+                "width": 344,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92383"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92383_d34837f1c41d15a4_n.jpg",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92383"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92383_d34837f1c41d15a4_d.gif",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92383"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92383_d34837f1c41d15a4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92383"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall And Dado, 1805\u201325.\n1805\u201325. Block-printed on handmade paper. Gift of Josephine Howell. 1972-42-220-a,b."
+    "tombstone": {
+        "epitaph": "Sidewall And Dado (France), 1805\u201325. Block-printed on handmade paper. \nGift of Josephine Howell. 1972-42-220-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#5d7877",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#93ab98",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#3d5057",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

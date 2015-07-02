@@ -1,42 +1,115 @@
 {
-    "id":"18471563",
-    "tms:id":"146440",
-    "accession_number":"1969-91-1",
-    "title":"Vase",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18471563\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237225",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"21.2 x 19.5 x 7.2 cm (8 3\/8 x 7 11\/16 x 2 13\/16 in.)",
-    "creditline":"Museum purchase through gift of Eleanor Garnier Hewitt",
-    "description":"Frosted glass embossed with spiral design; stylized shell pattern",
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18471563",
+    "tms:id": "146440",
+    "accession_number": "1969-91-1",
+    "title": "Vase",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18471563\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237225",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1969",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "21.2 x 19.5 x 7.2 cm (8 3\/8 x 7 11\/16 x 2 13\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "7.20",
+            "centimeters"
+        ],
+        "height": [
+            "21.20",
+            "centimeters"
+        ],
+        "width": [
+            "19.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Eleanor Garnier Hewitt",
+    "description": "Frosted glass embossed with spiral design; stylized shell pattern",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Vase",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112881_bc863eb15fbd13df_b.jpg",
+                "width": 900,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "112881"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112881_bc863eb15fbd13df_z.jpg",
+                "width": 562,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "112881"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112881_bc863eb15fbd13df_n.jpg",
+                "width": 281,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112881"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112881_bc863eb15fbd13df_d.gif",
+                "width": 281,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "112881"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112881_bc863eb15fbd13df_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "112881"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18049325",
+            "role_id": "51571025",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Funder",
+            "role_display_name": "Purchased with funds from:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571025\/"
+        },
+        {
+            "person_id": "18051955",
+            "role_id": "35352249",
+            "person_name": "Astor Galleries, Inc.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051955\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Vase. glass. \nMuseum purchase through gift of Eleanor Garnier Hewitt. 1969-91-1"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Vase.\nglass. Museum purchase through gift of Eleanor Garnier Hewitt. 1969-91-1."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

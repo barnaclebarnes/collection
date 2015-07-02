@@ -1,80 +1,151 @@
 {
-    "id":"18319351",
-    "tms:id":"44848",
-    "accession_number":"1931-45-56",
-    "title":"Ornament, 1815\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18319351\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414641",
-    "type_id":"35255209",
-    "date":"1815\u201325",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"32.5 x 28.5 cm (12 13\/16 x 11 1\/4 in.)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":"Two putti at an altar; the male putto with a torch, the female with a basket of flowers.",
-    "justification":null,
-    "type":{
-        "id":"35255209",
-        "name":"Ornament"
+    "id": "18319351",
+    "tms:id": "44848",
+    "accession_number": "1931-45-56",
+    "title": "Ornament (France), 1815\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18319351\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414641",
+    "type_id": "35255209",
+    "date": "1815\u201325",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "32.5 x 28.5 cm (12 13\/16 x 11 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "32.50",
+            "centimeters"
+        ],
+        "width": [
+            "28.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Two putti at an altar; the male putto with a torch, the female with a basket of flowers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Ornament",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2574_20ade9945bac9b82_b.jpg",
-                "width":1024,
-                "height":777,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2574_20ade9945bac9b82_b.jpg",
+                "width": 1024,
+                "height": 777,
+                "is_primary": "1",
+                "image_id": "2574"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2574_20ade9945bac9b82_n.jpg",
-                "width":320,
-                "height":243,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2574_20ade9945bac9b82_z.jpg",
+                "width": 640,
+                "height": 486,
+                "is_primary": "1",
+                "image_id": "2574"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2574_20ade9945bac9b82_z.jpg",
-                "width":640,
-                "height":486,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2574_20ade9945bac9b82_n.jpg",
+                "width": 320,
+                "height": 243,
+                "is_primary": "1",
+                "image_id": "2574"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2574_20ade9945bac9b82_d.gif",
+                "width": 320,
+                "height": 243,
+                "is_primary": "1",
+                "image_id": "2574"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2574_20ade9945bac9b82_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "2574"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Ornament, 1815\u201325.\n1815\u201325. Block-printed on handmade paper. Gift of Eleanor and Sarah Hewitt. 1931-45-56."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#63a486",
-            "closest_css3":"#5f9ea0"
+            "person_id": "18052379",
+            "role_id": "35352245",
+            "person_name": "Calvin S.  Hathaway",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#4e6c61",
-            "closest_css3":"#696969"
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#adc1ca",
-            "closest_css3":"#b0c4de"
-        },
-        {
-            "color":"#ced0c5",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#727159",
-            "closest_css3":"#696969"
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Ornament (France), 1815\u201325. Block-printed on handmade paper. \nGift of Eleanor and Sarah Hewitt. 1931-45-56"
+    },
+    "colors": [
+        {
+            "color": "#65a486",
+            "closest_crayola": "#6dae81",
+            "closest_css3": "#5f9ea0",
+            "closest_css4": "#5f9ea0"
+        },
+        {
+            "color": "#b1c5d1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
+        },
+        {
+            "color": "#456c62",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#414f49",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#625b49",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

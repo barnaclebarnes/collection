@@ -1,71 +1,123 @@
 {
-    "id":"18638671",
-    "tms:id":"194196",
-    "accession_number":"1992-111-1",
-    "title":"Sidewall, ca. 1992",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18638671\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35407275",
-    "type_id":"35256475",
-    "date":"ca. 1992",
-    "year_start":"1987",
-    "year_end":"1997",
-    "year_acquired":"1992",
-    "decade":"1980",
-    "woe:country":"23424975",
-    "medium":"Lino block printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through bequest of Ida McNeil in memory of Lincoln C. McNeil and Catherine McNeil",
-    "description":"Central medallion shape, flanked by two birds and two dogs. Printed in light gray on medium gray ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18638671",
+    "tms:id": "194196",
+    "accession_number": "1992-111-1",
+    "title": "Sidewall (Scotland), ca. 1992",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18638671\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "51866313",
+    "type_id": "35256475",
+    "date": "ca. 1992",
+    "year_start": 1987,
+    "year_end": 1997,
+    "year_acquired": "1992",
+    "decade": "1980",
+    "woe:country_id": "23424975",
+    "medium": "Linoleum block-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1992: acquired by Museum",
+    "dimensions": "W: 55.9 cm (22 in.)",
+    "dimensions_raw": {
+        "width": [
+            "55.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through bequest of Ida McNeil in memory of Lincoln C. McNeil and Catherine McNeil",
+    "description": "Central medallion shape, flanked by two birds and two dogs. Printed in light gray on medium gray ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/49174_1ab57eef9d9f58b1_b.jpg",
-                "width":476,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49174_50e40df4c423d03d_b.jpg",
+                "width": 445,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "49174"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/49174_1ab57eef9d9f58b1_n.jpg",
-                "width":149,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49174_50e40df4c423d03d_z.jpg",
+                "width": 278,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "49174"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/49174_1ab57eef9d9f58b1_z.jpg",
-                "width":298,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49174_50e40df4c423d03d_n.jpg",
+                "width": 139,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49174"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49174_50e40df4c423d03d_d.gif",
+                "width": 139,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "49174"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/49174_50e40df4c423d03d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "49174"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046643",
-            "role_id":"35236655",
-            "person_name":"Peggy Angus",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046643\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041107",
+            "role_id": "35352249",
+            "person_name": "PEGGY ANGUS WALLPAPERS",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041107\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18053179",
+            "role_id": "35352247",
+            "person_name": "Ida McNeil Memorial Fund",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053179\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18046643",
+            "role_id": "35236655",
+            "person_name": "Peggy Angus",
+            "person_date": "British, 1904\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046643\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, ca. 1992.\nca. 1992. Lino block printed. Museum purchase through bequest of Ida McNeil in memory of Lincoln C. McNeil and Catherine McNeil. 1992-111-1."
+    "tombstone": {
+        "epitaph": "Sidewall (Scotland), ca. 1992. Linoleum block-printed on paper. \nMuseum purchase through bequest of Ida McNeil in memory of Lincoln C. McNeil and Catherine McNeil. 1992-111-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#9fa4a5",
-            "closest_css3":"#a9a9a9"
+            "color": "#84898c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

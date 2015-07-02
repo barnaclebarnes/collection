@@ -1,80 +1,167 @@
 {
-    "id":"18437449",
-    "tms:id":"129151",
-    "accession_number":"1961-109-1",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18437449\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1961",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. John Rolph, from the collection of her sister, Mrs. Evsei Beloussoff, and in her memory",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18437449",
+    "tms:id": "129151",
+    "accession_number": "1961-109-1",
+    "title": "Fragment",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18437449\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1961",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 17.1 x 30.5 cm (6 3\/4 in. x 12 in.)",
+    "dimensions_raw": {
+        "height": [
+            "17.15",
+            "centimeters"
+        ],
+        "width": [
+            "30.48",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. John Rolph, from the collection of her sister, Mrs. Evsei Beloussoff, and in her memory",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18290_f1581d0a56469258_b.jpg",
-                "width":1024,
-                "height":610,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65085_be08dce4c876b0d4_b.jpg",
+                "width": 1024,
+                "height": 620,
+                "is_primary": "1",
+                "image_id": "65085"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18290_f1581d0a56469258_n.jpg",
-                "width":320,
-                "height":191,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65085_be08dce4c876b0d4_z.jpg",
+                "width": 640,
+                "height": 388,
+                "is_primary": "1",
+                "image_id": "65085"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18290_f1581d0a56469258_z.jpg",
-                "width":640,
-                "height":381,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65085_be08dce4c876b0d4_n.jpg",
+                "width": 320,
+                "height": 194,
+                "is_primary": "1",
+                "image_id": "65085"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65085_be08dce4c876b0d4_d.gif",
+                "width": 320,
+                "height": 194,
+                "is_primary": "1",
+                "image_id": "65085"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65085_be08dce4c876b0d4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65085"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18290_f1581d0a56469258_b.jpg",
+                "width": 1024,
+                "height": 610,
+                "is_primary": "0",
+                "image_id": "18290"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18290_f1581d0a56469258_z.jpg",
+                "width": 640,
+                "height": 381,
+                "is_primary": "0",
+                "image_id": "18290"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18290_f1581d0a56469258_n.jpg",
+                "width": 320,
+                "height": 191,
+                "is_primary": "0",
+                "image_id": "18290"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18290_f1581d0a56469258_d.gif",
+                "width": 320,
+                "height": 191,
+                "is_primary": "0",
+                "image_id": "18290"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18290_f1581d0a56469258_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18290"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fragment.\nGift of Mrs. John Rolph, from the collection of her sister, Mrs. Evsei Beloussoff, and in her memory. 1961-109-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#7f5c38",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#4f0b06",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#b6926f",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#83201b",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#493314",
-            "closest_css3":"#556b2f"
+            "person_id": "18053083",
+            "role_id": "35351535",
+            "person_name": "Mrs. John Rolph",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053083\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fragment. H x W: 17.1 x 30.5 cm (6 3\/4 in. x 12 in.). \nGift of Mrs. John Rolph, from the collection of her sister, Mrs. Evsei Beloussoff, and in her memory. 1961-109-1"
+    },
+    "colors": [
+        {
+            "color": "#462313",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#816c41",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#5b3f21",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#b4a372",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#312819",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

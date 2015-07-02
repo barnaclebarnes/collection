@@ -1,42 +1,103 @@
 {
-    "id":"18474679",
-    "tms:id":"148102",
-    "accession_number":"1971-50-420",
-    "title":"Unknown",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474679\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"112411",
-    "type_id":"35257573",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: bobbin lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":"Mechlin-style",
-    "justification":null,
-    "type":{
-        "id":"35257573",
-        "name":"Unknown"
-    },
-    "images":[
-
+    "id": "18474679",
+    "tms:id": "148102",
+    "accession_number": "1971-50-420",
+    "title": "Border, 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474679\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35237285",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: linen\nTechnique: bobbin lace, Mechlin style",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": "Band with birds and branches.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76014_fa57b50f3ae5b07a_b.jpg",
+                "width": 1024,
+                "height": 327,
+                "is_primary": "1",
+                "image_id": "76014"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76014_fa57b50f3ae5b07a_z.jpg",
+                "width": 640,
+                "height": 205,
+                "is_primary": "1",
+                "image_id": "76014"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76014_fa57b50f3ae5b07a_n.jpg",
+                "width": 320,
+                "height": 102,
+                "is_primary": "1",
+                "image_id": "76014"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76014_fa57b50f3ae5b07a_d.gif",
+                "width": 320,
+                "height": 102,
+                "is_primary": "1",
+                "image_id": "76014"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76014_fa57b50f3ae5b07a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76014"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Unknown.\nTechnique: bobbin lace. Bequest of Marian Hague. 1971-50-420."
+    "tombstone": {
+        "epitaph": "Border, 18th century. Medium: linen\nTechnique: bobbin lace, Mechlin style. \nBequest of Marian Hague. 1971-50-420"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#251922",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#5c5e62",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

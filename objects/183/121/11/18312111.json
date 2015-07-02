@@ -1,80 +1,166 @@
 {
-    "id":"18312111",
-    "tms:id":"41944",
-    "accession_number":"1926-22-172",
-    "title":"Basin, 1730\u201370",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18312111\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51585125",
-    "type_id":"35237515",
-    "date":"1730\u201370",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1926",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"Polychrome and glazed porcelain",
-    "markings":"none",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Mrs. John Innes Kane; 1926: acquired by Museum",
-    "dimensions":"11 x 43.4 x 34 cm (4 5\/16 x 17 1\/16 x 13 3\/8 in.)",
-    "creditline":"Bequest of Mrs. John Innes Kane",
-    "description":"Fluted oval formed dish, famille verte, decorated on the rim  and sides with bands of green foliage and iron red flowers, the outside band interrupted by cartouches of carp, the basin decorated with birds, prunus, flowers and foliage.",
-    "justification":null,
-    "type":{
-        "id":"35237515",
-        "name":"basin"
+    "id": "18312111",
+    "tms:id": "41944",
+    "accession_number": "1926-22-172",
+    "title": "Basin (China (for export)), 1730\u201370",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18312111\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51585125",
+    "type_id": "35237515",
+    "date": "1730\u201370",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1926",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "Polychrome and glazed porcelain",
+    "markings": "none",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. John Innes Kane; 1926: acquired by Museum",
+    "dimensions": "11 x 43.4 x 34 cm (4 5\/16 x 17 1\/16 x 13 3\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "34.00",
+            "centimeters"
+        ],
+        "height": [
+            "11.00",
+            "centimeters"
+        ],
+        "width": [
+            "43.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. John Innes Kane",
+    "description": "Fluted oval formed dish, famille verte, decorated on the rim  and sides with bands of green foliage and iron red flowers, the outside band interrupted by cartouches of carp, the basin decorated with birds, prunus, flowers and foliage.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "basin",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48003_d12ba9727e9c475f_b.jpg",
-                "width":1024,
-                "height":564,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110713_b7b43c9755ea00c2_b.jpg",
+                "width": 1024,
+                "height": 671,
+                "is_primary": "1",
+                "image_id": "110713"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48003_d12ba9727e9c475f_n.jpg",
-                "width":320,
-                "height":176,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110713_b7b43c9755ea00c2_z.jpg",
+                "width": 640,
+                "height": 419,
+                "is_primary": "1",
+                "image_id": "110713"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48003_d12ba9727e9c475f_z.jpg",
-                "width":640,
-                "height":353,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110713_b7b43c9755ea00c2_n.jpg",
+                "width": 320,
+                "height": 210,
+                "is_primary": "1",
+                "image_id": "110713"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110713_b7b43c9755ea00c2_d.gif",
+                "width": 320,
+                "height": 210,
+                "is_primary": "1",
+                "image_id": "110713"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110713_b7b43c9755ea00c2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110713"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48003_d10507eb1b5f6381_b.jpg",
+                "width": 1024,
+                "height": 695,
+                "is_primary": "0",
+                "image_id": "48003"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48003_d10507eb1b5f6381_z.jpg",
+                "width": 640,
+                "height": 434,
+                "is_primary": "0",
+                "image_id": "48003"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48003_d10507eb1b5f6381_n.jpg",
+                "width": 320,
+                "height": 217,
+                "is_primary": "0",
+                "image_id": "48003"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48003_d10507eb1b5f6381_d.gif",
+                "width": 320,
+                "height": 217,
+                "is_primary": "0",
+                "image_id": "48003"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48003_d10507eb1b5f6381_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "48003"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Basin, 1730\u201370.\n1730\u201370. Polychrome and glazed porcelain. Bequest of Mrs. John Innes Kane. 1926-22-172."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#5f6959",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#aa8270",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#994e31",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#373e34",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#7b937c",
-            "closest_css3":"#808080"
+            "person_id": "18049373",
+            "role_id": "35351537",
+            "person_name": "Mrs. John Innes Kane",
+            "person_date": "American, d. 1926",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049373\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Basin (China (for export)), 1730\u201370. Polychrome and glazed porcelain. \nBequest of Mrs. John Innes Kane. 1926-22-172"
+    },
+    "colors": [
+        {
+            "color": "#444f46",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#667167",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8e7770",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#674336",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

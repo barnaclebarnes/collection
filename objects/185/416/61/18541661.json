@@ -1,42 +1,120 @@
 {
-    "id":"18541661",
-    "tms:id":"64215",
-    "accession_number":"1938-88-3676",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18541661\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
-
+    "id": "18541661",
+    "tms:id": "64215",
+    "accession_number": "1938-88-3676",
+    "title": "Drawing (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18541661\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92648_bab4f59e0b68bd0a_b.jpg",
+                "width": 749,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92648"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92648_bab4f59e0b68bd0a_z.jpg",
+                "width": 468,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92648"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92648_bab4f59e0b68bd0a_n.jpg",
+                "width": 234,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92648"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92648_bab4f59e0b68bd0a_d.gif",
+                "width": 234,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92648"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92648_bab4f59e0b68bd0a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92648"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042677",
+            "role_id": "35236565",
+            "person_name": "Filippo Marchionni",
+            "person_date": "Italian, 1732\u20131805",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042677\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        },
+        {
+            "person_id": "18049797",
+            "role_id": "35352249",
+            "person_name": "Mrs. Edward D. Brandegee",
+            "person_date": "American, 1871\u20131956",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049797\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-3676."
+    "tombstone": {
+        "epitaph": "Drawing (Italy). \nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-3676"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#918c74",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#675e47",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#443c2d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

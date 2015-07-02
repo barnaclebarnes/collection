@@ -1,87 +1,134 @@
 {
-    "id":"18670431",
-    "tms:id":"210633",
-    "accession_number":"1998-19-129",
-    "title":"Drawing, \"Diagonal Stripe in Pink and Gray, Wallpaper Design\", 1930\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18670431\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35384325",
-    "type_id":"35237093",
-    "date":"1930\u201340",
-    "year_start":"1930",
-    "year_end":"1940",
-    "year_acquired":"1998",
-    "decade":"1930",
-    "woe:country":null,
-    "medium":"Brush and gray, red, pink gouache, graphite on heavy white paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"36.8 x 31.8 cm (14 1\/2 x 12 1\/2 in. )",
-    "creditline":"Gift of Donald Cameron",
-    "description":"Diagonal gray stripes with pink and white border alternating with pink stripes, which are decorated with \"XO\" pattern composed of red dots.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18670431",
+    "tms:id": "210633",
+    "accession_number": "1998-19-129",
+    "title": "Drawing, Diagonal Stripe in Pink and Gray, Wallpaper Design, 1930\u201340",
+    "title_raw": "Diagonal Stripe in Pink and Gray, Wallpaper Design",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18670431\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35384325",
+    "type_id": "35237093",
+    "date": "1930\u201340",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1998",
+    "decade": "1930",
+    "woe:country_id": null,
+    "medium": "Brush and gray, red, pink gouache, graphite on heavy white paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "36.8 x 31.8 cm (14 1\/2 x 12 1\/2 in. )",
+    "dimensions_raw": {
+        "height": [
+            "36.80",
+            "centimeters"
+        ],
+        "width": [
+            "31.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Donald Cameron",
+    "description": "Diagonal gray stripes with pink and white border alternating with pink stripes, which are decorated with \"XO\" pattern composed of red dots.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43568_2ffb0b53a2befc88_b.jpg",
-                "width":1024,
-                "height":910,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43568_d7ca7c83b9bf2329_b.jpg",
+                "width": 1024,
+                "height": 918,
+                "is_primary": "1",
+                "image_id": "43568"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43568_2ffb0b53a2befc88_n.jpg",
-                "width":320,
-                "height":285,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43568_d7ca7c83b9bf2329_z.jpg",
+                "width": 640,
+                "height": 573,
+                "is_primary": "1",
+                "image_id": "43568"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43568_2ffb0b53a2befc88_z.jpg",
-                "width":640,
-                "height":569,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43568_d7ca7c83b9bf2329_n.jpg",
+                "width": 320,
+                "height": 287,
+                "is_primary": "1",
+                "image_id": "43568"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43568_d7ca7c83b9bf2329_d.gif",
+                "width": 320,
+                "height": 287,
+                "is_primary": "1",
+                "image_id": "43568"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43568_d7ca7c83b9bf2329_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "43568"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041077",
-            "role_id":"35351535",
-            "person_name":"Donald Cameron",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041077\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18041077",
+            "role_id": "35351535",
+            "person_name": "Donald Cameron",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041077\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18049811",
-            "role_id":"35236655",
-            "person_name":"Tommi Parzinger",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049811\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18049811",
+            "role_id": "35236655",
+            "person_name": "Tommi Parzinger",
+            "person_date": "American, b. Germany, 1903\u20131981",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049811\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Diagonal Stripe in Pink and Gray, Wallpaper Design\", 1930\u201340.\n1930\u201340. Brush and gray, red, pink gouache, graphite on heavy white paper. Gift of Donald Cameron. 1998-19-129."
+    "tombstone": {
+        "epitaph": "Drawing, Diagonal Stripe in Pink and Gray, Wallpaper Design, 1930\u201340. Brush and gray, red, pink gouache, graphite on heavy white paper. \nGift of Donald Cameron. 1998-19-129"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#e6dbc8",
-            "closest_css3":"#dcdcdc"
+            "color": "#d9d3be",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#ae4a3a",
-            "closest_css3":"#a0522d"
+            "color": "#4f4e53",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#a2726a",
-            "closest_css3":"#808080"
+            "color": "#82482d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#957161",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

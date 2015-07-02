@@ -1,42 +1,107 @@
 {
-    "id":"18621347",
-    "tms:id":"185492",
-    "accession_number":"1986-61-220-a,b",
-    "title":"Stopper, ca. 1920\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621347\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237175",
-    "date":"ca. 1920\u201330",
-    "year_start":"1910",
-    "year_end":"1940",
-    "year_acquired":"1986",
-    "decade":"1910",
-    "woe:country":"23424803",
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Cecil Davis, Ltd., London (Grosvenor House Antiques Dealers Fair) 1970, Phelps Warren, NY.",
-    "dimensions":"H x diam.: 17.2 x 9 cm (6 3\/4 x 3 9\/16 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"3-part mold blown, barrel-shaped body, central band of vertical flutes, diamond pattern above and below, flutes from shoulder to neck, everted lip with pouring spout, molded fluted bullseye stopper.",
-    "justification":null,
-    "type":{
-        "id":"35237175",
-        "name":"Stopper"
+    "id": "18621347",
+    "tms:id": "185492",
+    "accession_number": "1986-61-220-a,b",
+    "title": "Stopper (Ireland), ca. 1920\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621347\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237175",
+    "date": "ca. 1920\u201330",
+    "year_start": 1910,
+    "year_end": 1940,
+    "year_acquired": "1986",
+    "decade": "1910",
+    "woe:country_id": "23424803",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Cecil Davis, Ltd., London (Grosvenor House Antiques Dealers Fair) 1970, Phelps Warren, NY.",
+    "dimensions": "H x diam.: 17.2 x 9 cm (6 3\/4 x 3 9\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "9.00",
+            "centimeters"
+        ],
+        "height": [
+            "17.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "3-part mold blown, barrel-shaped body, central band of vertical flutes, diamond pattern above and below, flutes from shoulder to neck, everted lip with pouring spout, molded fluted bullseye stopper.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424803",
+    "type": "Stopper",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112547_4e1fcbd79cb3f36e_b.jpg",
+                "width": 602,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112547"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112547_4e1fcbd79cb3f36e_z.jpg",
+                "width": 376,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112547"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112547_4e1fcbd79cb3f36e_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112547"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112547_4e1fcbd79cb3f36e_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112547"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112547_4e1fcbd79cb3f36e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112547"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Stopper, ca. 1920\u201330.\nca. 1920\u201330. glass. Bequest of Walter Phelps Warren. 1986-61-220-a,b."
+    "tombstone": {
+        "epitaph": "Stopper (Ireland), ca. 1920\u201330. glass. \nBequest of Walter Phelps Warren. 1986-61-220-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a3a4a6",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Ireland",
+    "is_loan_object": 0
 }

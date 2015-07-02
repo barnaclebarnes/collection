@@ -1,49 +1,131 @@
 {
-    "id":"18617721",
-    "tms:id":"177393",
-    "accession_number":"1981-29-307",
-    "title":"Poster, \"BYU Chamber Orchestra\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617721\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 63.7 x 51.8 cm (25 1\/16 x 20 3\/8 in.)",
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617721",
+    "tms:id": "177393",
+    "accession_number": "1981-29-307",
+    "title": "Poster, BYU Chamber Orchestra",
+    "title_raw": "BYU Chamber Orchestra",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617721\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35407799",
+    "type_id": "35238163",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "Overall: 63.7 x 51.8 cm (25 1\/16 x 20 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "63.70",
+            "centimeters"
+        ],
+        "width": [
+            "51.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "Poster features orchestra members dressed in 16th century garb, flying around a room with a window open.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042421",
-            "role_id":"35236667",
-            "person_name":"Brigham Young University",
-            "role_name":"Client",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82694_e764856e9ad6bdcc_b.jpg",
+                "width": 1024,
+                "height": 824,
+                "is_primary": "1",
+                "image_id": "82694"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82694_e764856e9ad6bdcc_z.jpg",
+                "width": 640,
+                "height": 515,
+                "is_primary": "1",
+                "image_id": "82694"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82694_e764856e9ad6bdcc_n.jpg",
+                "width": 320,
+                "height": 258,
+                "is_primary": "1",
+                "image_id": "82694"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82694_e764856e9ad6bdcc_d.gif",
+                "width": 320,
+                "height": 258,
+                "is_primary": "1",
+                "image_id": "82694"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82694_e764856e9ad6bdcc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82694"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"BYU Chamber Orchestra\".\nOverall: 63.7 x 51.8 cm (25 1\/16 x 20 3\/8 in.). Gift of Various Donors. 1981-29-307."
+    "participants": [
+        {
+            "person_id": "18042421",
+            "role_id": "35236667",
+            "person_name": "Brigham Young University",
+            "person_date": "",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, BYU Chamber Orchestra. Lithograph on wove paper. \nGift of Various Donors. 1981-29-307"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#547db8",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#64532f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#dfaa44",
+            "closest_crayola": "#ffae42",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
+        },
+        {
+            "color": "#2a241c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#344155",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

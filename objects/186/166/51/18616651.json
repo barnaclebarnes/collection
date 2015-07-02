@@ -1,80 +1,168 @@
 {
-    "id":"18616651",
-    "tms:id":"176855",
-    "accession_number":"1981-28-26",
-    "title":"Sampler, ca. 1900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616651\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35432169",
-    "type_id":"35256439",
-    "date":"ca. 1900",
-    "year_start":null,
-    "year_end":"1910",
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424893",
-    "medium":"Medium: silk and cotton embroidery on cotton foundation\nTechnique: embroidered in double running, satin, stem, and long-armed cross stitches and withdrawn element work with overcasting on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 114 x 71cm (44 7\/8 x 27 15\/16in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Assorted bands of pattern arranged horizontally and vertically.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616651",
+    "tms:id": "176855",
+    "accession_number": "1981-28-26",
+    "title": "Sampler (Morocco), ca. 1900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616651\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432169",
+    "type_id": "35256439",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424893",
+    "medium": "Medium: silk and cotton embroidery on cotton foundation\nTechnique: embroidered in double running, satin, stem, and long-armed cross stitches and withdrawn element work with overcasting on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 114 x 71cm (44 7\/8 x 27 15\/16in.)",
+    "dimensions_raw": {
+        "height": [
+            "114.00",
+            "centimeters"
+        ],
+        "width": [
+            "71.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Assorted bands of pattern arranged horizontally and vertically.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424893",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36554_269dca38aaae156c_b.jpg",
-                "width":1024,
-                "height":618,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88271_cdb49b51d24bc61c_b.jpg",
+                "width": 1024,
+                "height": 608,
+                "is_primary": "1",
+                "image_id": "88271"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36554_269dca38aaae156c_n.jpg",
-                "width":320,
-                "height":193,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88271_cdb49b51d24bc61c_z.jpg",
+                "width": 640,
+                "height": 380,
+                "is_primary": "1",
+                "image_id": "88271"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36554_269dca38aaae156c_z.jpg",
-                "width":640,
-                "height":387,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88271_cdb49b51d24bc61c_n.jpg",
+                "width": 320,
+                "height": 190,
+                "is_primary": "1",
+                "image_id": "88271"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88271_cdb49b51d24bc61c_d.gif",
+                "width": 320,
+                "height": 190,
+                "is_primary": "1",
+                "image_id": "88271"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88271_cdb49b51d24bc61c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88271"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36554_269dca38aaae156c_b.jpg",
+                "width": 1024,
+                "height": 618,
+                "is_primary": "0",
+                "image_id": "36554"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36554_269dca38aaae156c_z.jpg",
+                "width": 640,
+                "height": 387,
+                "is_primary": "0",
+                "image_id": "36554"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36554_269dca38aaae156c_n.jpg",
+                "width": 320,
+                "height": 193,
+                "is_primary": "0",
+                "image_id": "36554"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36554_269dca38aaae156c_d.gif",
+                "width": 320,
+                "height": 193,
+                "is_primary": "0",
+                "image_id": "36554"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36554_269dca38aaae156c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36554"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, ca. 1900.\nca. 1900. Medium: silk and cotton embroidery on cotton foundation\nTechnique: embroidered in double running, satin, stem, and long-armed cross stitches and withdrawn element work with overcasting on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-26."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c2d3d1",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#7d493e",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#3c090a",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#725f65",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#758586",
-            "closest_css3":"#708090"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Morocco), ca. 1900. Medium: silk and cotton embroidery on cotton foundation\nTechnique: embroidered in double running, satin, stem, and long-armed cross stitches and withdrawn element work with overcasting on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-26"
+    },
+    "colors": [
+        {
+            "color": "#948666",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b0ab86",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#755d45",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#6f6b52",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#4c2a1b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Morocco",
+    "is_loan_object": 0
 }

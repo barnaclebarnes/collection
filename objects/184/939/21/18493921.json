@@ -1,80 +1,186 @@
 {
-    "id":"18493921",
-    "tms:id":"157851",
-    "accession_number":"1978-146-11",
-    "title":"Matchsafe, \"First Over the Bars\", late 19th\u2013early 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18493921\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431477",
-    "type_id":"35287419",
-    "date":"late 19th\u2013early 20th century",
-    "year_start":null,
-    "year_end":"1910",
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"celluloid, metal",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 7 x 4 x 1.1 cm (2 3\/4 x 1 9\/16 x 7\/16 in.)",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18493921",
+    "tms:id": "157851",
+    "accession_number": "1978-146-11",
+    "title": "First Over the Bars Matchsafe, late 19th\u2013early 20th century",
+    "title_raw": "First Over the Bars",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18493921\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35431477",
+    "type_id": "35287419",
+    "date": "late 19th\u2013early 20th century",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "celluloid, metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 7 x 4 x 1.1 cm (2 3\/4 x 1 9\/16 x 7\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.10",
+            "centimeters"
+        ],
+        "height": [
+            "7.00",
+            "centimeters"
+        ],
+        "width": [
+            "4.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26840_51cfe208fd3749d9_b.jpg",
-                "width":641,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97009_7941bc18fae6299b_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "97009"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26840_51cfe208fd3749d9_n.jpg",
-                "width":200,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97009_7941bc18fae6299b_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "97009"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26840_51cfe208fd3749d9_z.jpg",
-                "width":401,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97009_7941bc18fae6299b_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "97009"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97009_7941bc18fae6299b_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "97009"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97009_7941bc18fae6299b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "97009"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26840_51cfe208fd3749d9_b.jpg",
+                "width": 641,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "26840"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26840_51cfe208fd3749d9_z.jpg",
+                "width": 401,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "26840"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26840_51cfe208fd3749d9_n.jpg",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "26840"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26840_51cfe208fd3749d9_d.gif",
+                "width": 200,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "26840"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26840_51cfe208fd3749d9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "26840"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"First Over the Bars\", late 19th\u2013early 20th century.\nlate 19th\u2013early 20th century. celluloid, metal. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-11."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#8f834d",
-            "closest_css3":"#808080"
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#ada263",
-            "closest_css3":"#bdb76b"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#655242",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#3d402e",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#776d52",
-            "closest_css3":"#696969"
+            "person_id": "18052691",
+            "role_id": "35236657",
+            "person_name": "Whitehead & Hoag Company",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052691\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "First Over the Bars Matchsafe, late 19th\u2013early 20th century. celluloid, metal. \nGift of Stephen W. Brener and Carol B. Brener. 1978-146-11"
+    },
+    "colors": [
+        {
+            "color": "#c7bea3",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#888070",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a39d92",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#605745",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

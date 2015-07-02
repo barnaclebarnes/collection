@@ -1,91 +1,218 @@
 {
-    "id":"18127219",
-    "tms:id":"10753",
-    "accession_number":"1901-39-600",
-    "title":"Drawing, \"Iris Encourages Priam to Beg the Body of Hector from Achilles\", 1810\u201320",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18127219\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35366633",
-    "type_id":"35237093",
-    "date":"1810\u201320",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and brown ink, brown wash, over black chalk, ruled border in pen and brown on thick white wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"inscribed in pen and brown ink, lower margin: Iride consola Priamo; in pen and brown ink, lower left corner of margin: 21; in black chalk, lower left corner of margin: 109",
-    "provenance":"Giovanni Piancastelli",
-    "dimensions":"48.5 x 74 cm (19 1\/8 x 29 1\/8 in.)\ndimensions vary\nMat:  71.1 x 91.4 cm (28 x 36 in.)",
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18127219",
+    "tms:id": "10753",
+    "accession_number": "1901-39-600",
+    "title": "Drawing, Iris Encourages Priam to Beg the Body of Hector from Achilles, 1810\u201320",
+    "title_raw": "Iris Encourages Priam to Beg the Body of Hector from Achilles",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18127219\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "51683681",
+    "type_id": "35237093",
+    "date": "1810\u201320",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and brown ink, brush and brown wash, graphite on thick white wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in pen and brown ink, lower margin: Iride consola Priamo; in pen and brown ink, lower left corner of margin: 21; in black chalk, lower left corner of margin: 109",
+    "provenance": "Giovanni Piancastelli; 1901: acquired by Museum",
+    "dimensions": "(irregular): 48.5 x 74 cm (19 1\/8 x 29 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.10",
+            "centimeters"
+        ],
+        "width": [
+            "91.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Iris flies besides the walking Priam; a view into a room with sleeping Trojans is at left; the camp of the Greeks is shown in the right middle plane; Thetis approaches Achilles who sits behind the body of Hector who is fastened to his chariot.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/182_10c703fb2c54e894_b.jpg",
-                "width":1024,
-                "height":662,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65303_e099701f8a37da3a_b.jpg",
+                "width": 1024,
+                "height": 658,
+                "is_primary": "1",
+                "image_id": "65303"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/182_10c703fb2c54e894_n.jpg",
-                "width":320,
-                "height":207,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65303_e099701f8a37da3a_z.jpg",
+                "width": 640,
+                "height": 411,
+                "is_primary": "1",
+                "image_id": "65303"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/182_10c703fb2c54e894_z.jpg",
-                "width":640,
-                "height":414,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65303_e099701f8a37da3a_n.jpg",
+                "width": 320,
+                "height": 206,
+                "is_primary": "1",
+                "image_id": "65303"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65303_e099701f8a37da3a_d.gif",
+                "width": 320,
+                "height": 206,
+                "is_primary": "1",
+                "image_id": "65303"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65303_e099701f8a37da3a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65303"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/182_10c703fb2c54e894_b.jpg",
+                "width": 1024,
+                "height": 662,
+                "is_primary": "0",
+                "image_id": "182"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/182_10c703fb2c54e894_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "182"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/182_10c703fb2c54e894_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "182"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/182_10c703fb2c54e894_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "182"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/182_10c703fb2c54e894_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "182"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18047517",
-            "role_id":"35352245",
-            "person_name":"LP",
-            "role_name":"Cataloguer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047517\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+            "person_id": "18047469",
+            "role_id": "35352245",
+            "person_name": "Phyllis Dearborn Massar",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18042405",
-            "role_id":"35236565",
-            "person_name":"Felice Giani",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042405\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18047461",
+            "role_id": "35352245",
+            "person_name": "Marilyn Symmes",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047461\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18048471",
+            "role_id": "35352245",
+            "person_name": "Molly Seiler",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048471\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18047517",
+            "role_id": "35352245",
+            "person_name": "LP",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047517\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18047439",
+            "role_id": "35352245",
+            "person_name": "Rudolph Berliner",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047439\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18042405",
+            "role_id": "35236565",
+            "person_name": "Felice Giani",
+            "person_date": "Italian, 1758\u20131823",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042405\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Iris Encourages Priam to Beg the Body of Hector from Achilles\", 1810\u201320.\n1810\u201320. Pen and brown ink, brown wash, over black chalk, ruled border in pen and brown on thick white wove paper. Museum purchase through gift of various donors. 1901-39-600."
+    "tombstone": {
+        "epitaph": "Drawing, Iris Encourages Priam to Beg the Body of Hector from Achilles, 1810\u201320. Pen and brown ink, brush and brown wash, graphite on thick white wove paper. \nMuseum purchase through gift of various donors. 1901-39-600"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#ddbca4",
-            "closest_css3":"#d2b48c"
+            "color": "#e2e0cb",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#a87b5f",
-            "closest_css3":"#cd5c5c"
+            "color": "#4e4431",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#8e5e45",
-            "closest_css3":"#a0522d"
+            "color": "#887a59",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#5f3529",
-            "closest_css3":"#8b4513"
+            "color": "#b0a887",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#2e2921",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

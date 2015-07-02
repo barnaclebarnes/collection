@@ -1,80 +1,182 @@
 {
-    "id":"18496751",
-    "tms:id":"159269",
-    "accession_number":"1978-168-72",
-    "title":"Urn, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18496751\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35431629",
-    "type_id":"35261689",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Ormolu mounted cut glass\nGilt bronze",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 24 x 23.6 x 19.1 cm (9 7\/16 x 9 5\/16 x 7 1\/2 in.)",
-    "creditline":"Gift of Mrs. Howard J. Sachs and Mr. Peter G. Sachs in memory of Miss Edith L. Sachs",
-    "description":"Deep fluted bombe oval mounted with gadroon lip rim, husk collar and two ram's head handles joined by pendant garlands; on a leaf carved round foot, square base.",
-    "justification":null,
-    "type":{
-        "id":"35261689",
-        "name":"urn"
+    "id": "18496751",
+    "tms:id": "159269",
+    "accession_number": "1978-168-72",
+    "title": "Urn (France), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18496751\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51680683",
+    "type_id": "35261689",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Ormolu mounted cut glass, gilt bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. Howard J. Sachs and Mr. Peter G. Sachs; 1978: acquired by Museum",
+    "dimensions": "Overall: 24 x 23.6 x 19.1 cm (9 7\/16 x 9 5\/16 x 7 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "19.10",
+            "centimeters"
+        ],
+        "height": [
+            "24.00",
+            "centimeters"
+        ],
+        "width": [
+            "23.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Howard J. Sachs and Mr. Peter G. Sachs in memory of Miss Edith L. Sachs",
+    "description": "Deep fluted bombe oval mounted with gadroon lip rim, husk collar and two ram's head handles joined by pendant garlands; on a leaf carved round foot, square base.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "urn",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8661_1ad6321f93f7d323_b.jpg",
-                "width":915,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104952_d5e8a108729169cd_b.jpg",
+                "width": 957,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "104952"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8661_1ad6321f93f7d323_n.jpg",
-                "width":286,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104952_d5e8a108729169cd_z.jpg",
+                "width": 598,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "104952"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8661_1ad6321f93f7d323_z.jpg",
-                "width":572,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104952_d5e8a108729169cd_n.jpg",
+                "width": 299,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104952"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104952_d5e8a108729169cd_d.gif",
+                "width": 299,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104952"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104952_d5e8a108729169cd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104952"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8661_1ad6321f93f7d323_b.jpg",
+                "width": 915,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8661"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8661_1ad6321f93f7d323_z.jpg",
+                "width": 572,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8661"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8661_1ad6321f93f7d323_n.jpg",
+                "width": 286,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8661"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8661_1ad6321f93f7d323_d.gif",
+                "width": 286,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8661"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8661_1ad6321f93f7d323_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8661"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Urn, 18th century.\n18th century. Ormolu mounted cut glass\nGilt bronze. Gift of Mrs. Howard J. Sachs and Mr. Peter G. Sachs in memory of Miss Edith L. Sachs. 1978-168-72."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cdb29a",
-            "closest_css3":"#d2b48c"
+            "person_id": "18054121",
+            "role_id": "35351535",
+            "person_name": "Peter G. Sachs",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054121\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#f3ddbb",
-            "closest_css3":"#f5deb3"
-        },
-        {
-            "color":"#a5520f",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#b79265",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#723610",
-            "closest_css3":"#8b4513"
+            "person_id": "18052049",
+            "role_id": "35351535",
+            "person_name": "Mrs. Howard J. Sachs",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052049\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Urn (France), 18th century. Ormolu mounted cut glass, gilt bronze. \nGift of Mrs. Howard J. Sachs and Mr. Peter G. Sachs in memory of Miss Edith L. Sachs. 1978-168-72"
+    },
+    "colors": [
+        {
+            "color": "#5e4517",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#99948a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#8b7036",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#7f786b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#615448",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

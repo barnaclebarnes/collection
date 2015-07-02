@@ -1,72 +1,172 @@
 {
-    "id":"18114195",
-    "tms:id":"8747",
-    "accession_number":"1901-39-2157",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18114195\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18114195",
+    "tms:id": "8747",
+    "accession_number": "1901-39-2157",
+    "title": "Drawing, Design for a doorcase, 1750\u201375",
+    "title_raw": "Design for a doorcase",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18114195\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68264277",
+    "type_id": "35237093",
+    "date": "1750\u201375",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Graphite, pen and bistre ink, brush and bistre wash on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Giovanni Piancastelli; 1901: acquired by Museum",
+    "dimensions": "22.9 x 16.7 cm (9 in. x 6 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "22.90",
+            "centimeters"
+        ],
+        "width": [
+            "16.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Doorway with curve at top. Foilage hangs in the center above the doorway.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1192_386f920858a8b0c5_b.jpg",
-                "width":756,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91519_16c419f304f12dae_b.jpg",
+                "width": 738,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "91519"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1192_386f920858a8b0c5_n.jpg",
-                "width":236,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91519_16c419f304f12dae_z.jpg",
+                "width": 461,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "91519"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1192_386f920858a8b0c5_z.jpg",
-                "width":473,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91519_16c419f304f12dae_n.jpg",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91519"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91519_16c419f304f12dae_d.gif",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91519"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91519_16c419f304f12dae_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91519"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1192_386f920858a8b0c5_b.jpg",
+                "width": 756,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "1192"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1192_386f920858a8b0c5_z.jpg",
+                "width": 473,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "1192"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1192_386f920858a8b0c5_n.jpg",
+                "width": 236,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "1192"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1192_386f920858a8b0c5_d.gif",
+                "width": 236,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "1192"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1192_386f920858a8b0c5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "1192"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of various donors. 1901-39-2157."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bfa6b6",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18042677",
+            "role_id": "35236633",
+            "person_name": "Filippo Marchionni",
+            "person_date": "Italian, 1732\u20131805",
+            "role_name": "Possibly",
+            "role_display_name": "Possibly by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042677\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236633\/"
         },
         {
-            "color":"#a07c83",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#774f50",
-            "closest_css3":"#696969"
+            "person_id": "18042631",
+            "role_id": "35236633",
+            "person_name": "Carlo Marchionni",
+            "person_date": "Italian, 1702\u20131786; active 1728\u20131778",
+            "role_name": "Possibly",
+            "role_display_name": "Possibly by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042631\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236633\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for a doorcase, 1750\u201375. Graphite, pen and bistre ink, brush and bistre wash on paper. \nMuseum purchase through gift of various donors. 1901-39-2157"
+    },
+    "colors": [
+        {
+            "color": "#c3ba9c",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#97896a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7b6d53",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5d5241",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

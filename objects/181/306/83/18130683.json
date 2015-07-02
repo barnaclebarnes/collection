@@ -1,49 +1,159 @@
 {
-    "id":"18130683",
-    "tms:id":"11485",
-    "accession_number":"1902-1-320-a,b",
-    "title":"Fragment, 15th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18130683\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"15th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":"23424950",
-    "medium":"Medium: silk\nTechnique: 5&1 satin patterned by plain weave (lampas)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex-collection: Francisco Miquel y Bad\u00eda",
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Affronted crowned lions within palmettes in red, yellow and white on green background.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18130683",
+    "tms:id": "11485",
+    "accession_number": "1902-1-320-a,b",
+    "title": "Fragment (Spain), 15th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18130683\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "15th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": "23424950",
+    "medium": "Medium: silk\nTechnique: 5&1 satin patterned by plain weave (lampas)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex-collection: Francisco Miquel y Bad\u00eda",
+    "dimensions": "H x W: 27.6 \u00d7 33.9 cm (10 7\/8 \u00d7 13 3\/8 in.)",
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Irregularly shaped fragment of woven silk. Large, curving leaves form an inverted heart-shaped framework resolving in a center stem surmounted by a cone. Confronted rampant crowned lions flank the center stem. In red, yellow and white on a deep green satin ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424950",
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80249_62b103b25088b708_b.jpg",
+                "width": 1024,
+                "height": 809,
+                "is_primary": "1",
+                "image_id": "80249"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80249_62b103b25088b708_z.jpg",
+                "width": 640,
+                "height": 505,
+                "is_primary": "1",
+                "image_id": "80249"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80249_62b103b25088b708_n.jpg",
+                "width": 320,
+                "height": 253,
+                "is_primary": "1",
+                "image_id": "80249"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80249_62b103b25088b708_d.gif",
+                "width": 320,
+                "height": 253,
+                "is_primary": "1",
+                "image_id": "80249"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80249_62b103b25088b708_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80249"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80250_10de70071d56603b_b.jpg",
+                "width": 741,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "80250"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80250_10de70071d56603b_z.jpg",
+                "width": 463,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "80250"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80250_10de70071d56603b_n.jpg",
+                "width": 232,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "80250"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80250_10de70071d56603b_d.gif",
+                "width": 232,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "80250"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80250_10de70071d56603b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "80250"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 15th century.\n15th century. Medium: silk\nTechnique: 5&amp;1 satin patterned by plain weave (lampas). Gift of John Pierpont Morgan. 1902-1-320-a,b."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (Spain), 15th century. Medium: silk\nTechnique: 5&amp;1 satin patterned by plain weave (lampas). \nGift of John Pierpont Morgan. 1902-1-320-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#6e2828",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#525947",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#383c33",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#998f70",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#997b49",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "Spain",
+    "is_loan_object": 0
 }

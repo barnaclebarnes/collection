@@ -1,76 +1,138 @@
 {
-    "id":"18113635",
-    "tms:id":"8662",
-    "accession_number":"1901-39-2080",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18113635\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35365935",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Brush and wash, pen and ink on  paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Ex-collection: Giovanni Piancastelli",
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":"Recto: Sketch of a couple sitting, embraced while the female leans in for a kiss.  At left a sketch of a figure with wings holding a lyre.  At the bottom right a drawing of a cupid.\nVerso:  Eight drawings of female figures floating with drapery.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18113635",
+    "tms:id": "8662",
+    "accession_number": "1901-39-2080",
+    "title": "Drawing (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18113635\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35365935",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Brush and wash, pen and ink on  paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Ex-collection: Giovanni Piancastelli",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Recto: Sketch of a couple sitting, embraced while the female leans in for a kiss.  At left a sketch of a figure with wings holding a lyre.  At the bottom right a drawing of a cupid.\nVerso:  Eight drawings of female figures floating with drapery.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/407_408f66b611c4d861_b.jpg",
-                "width":1024,
-                "height":691,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/407_408f66b611c4d861_b.jpg",
+                "width": 1024,
+                "height": 691,
+                "is_primary": "1",
+                "image_id": "407"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/407_408f66b611c4d861_n.jpg",
-                "width":320,
-                "height":216,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/407_408f66b611c4d861_z.jpg",
+                "width": 640,
+                "height": 432,
+                "is_primary": "1",
+                "image_id": "407"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/407_408f66b611c4d861_z.jpg",
-                "width":640,
-                "height":432,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/407_408f66b611c4d861_n.jpg",
+                "width": 320,
+                "height": 216,
+                "is_primary": "1",
+                "image_id": "407"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/407_408f66b611c4d861_d.gif",
+                "width": 320,
+                "height": 216,
+                "is_primary": "1",
+                "image_id": "407"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/407_408f66b611c4d861_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "407"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121944_3424297e304f34cf_b.jpg",
+                "width": 1024,
+                "height": 824,
+                "is_primary": "0",
+                "image_id": "121944"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121944_3424297e304f34cf_z.jpg",
+                "width": 640,
+                "height": 515,
+                "is_primary": "0",
+                "image_id": "121944"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121944_3424297e304f34cf_n.jpg",
+                "width": 320,
+                "height": 258,
+                "is_primary": "0",
+                "image_id": "121944"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121944_3424297e304f34cf_d.gif",
+                "width": 320,
+                "height": 258,
+                "is_primary": "0",
+                "image_id": "121944"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121944_3424297e304f34cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "121944"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nBrush and wash, pen and ink on  paper. Museum purchase through gift of various donors. 1901-39-2080."
+    "tombstone": {
+        "epitaph": "Drawing (Italy). Brush and wash, pen and ink on  paper. \nMuseum purchase through gift of various donors. 1901-39-2080"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a8aebd",
-            "closest_css3":"#a9a9a9"
+            "color": "#a9afbe",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#7b858f",
-            "closest_css3":"#778899"
+            "color": "#7d848e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
         },
         {
-            "color":"#d0d7e5",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#6a6c77",
-            "closest_css3":"#696969"
+            "color": "#595964",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

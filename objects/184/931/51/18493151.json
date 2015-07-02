@@ -1,80 +1,182 @@
 {
-    "id":"18493151",
-    "tms:id":"157464",
-    "accession_number":"1977-65-1",
-    "title":"Textile, 1835\u201345",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18493151\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1835\u201345",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1977",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: printed by engraved roller on plain weave, glazed and polished",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 282 x 65 cm (9 ft. 3 in. x 25 9\/16 in.)\nRepeat H: 38.5 cm (15 3\/16 in.)",
-    "creditline":"Museum purchase from Friends of Textiles Fund",
-    "description":"Vertically symmetrical repeat of two offset isolated Gothic-style windows surrounded by a leafy vine which shelters two birds, one of which is protecting a nest with eggs. Dark brown background.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18493151",
+    "tms:id": "157464",
+    "accession_number": "1977-65-1",
+    "title": "Textile (England), 1835\u201345",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18493151\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1835\u201345",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1977",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: printed by engraved roller on plain weave, glazed and polished",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 282 x 65 cm (9 ft. 3 in. x 25 9\/16 in.)\nRepeat H: 38.5 cm (15 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "38.50",
+            "centimeters"
+        ],
+        "warp": [
+            "282.00",
+            "centimeters"
+        ],
+        "weft": [
+            "65.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Friends of Textiles Fund",
+    "description": "Vertically symmetrical repeat of two offset isolated Gothic-style windows surrounded by a leafy vine which shelters two birds, one of which is protecting a nest with eggs. Dark brown background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8251_9bd7ab8615afae02_b.jpg",
-                "width":509,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108583_fbceb6e2839f8fcf_b.jpg",
+                "width": 523,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108583"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8251_9bd7ab8615afae02_n.jpg",
-                "width":159,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108583_fbceb6e2839f8fcf_z.jpg",
+                "width": 327,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108583"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8251_9bd7ab8615afae02_z.jpg",
-                "width":318,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108583_fbceb6e2839f8fcf_n.jpg",
+                "width": 163,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108583"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108583_fbceb6e2839f8fcf_d.gif",
+                "width": 163,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108583"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108583_fbceb6e2839f8fcf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108583"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8251_9bd7ab8615afae02_b.jpg",
+                "width": 509,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8251"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8251_9bd7ab8615afae02_z.jpg",
+                "width": 318,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8251"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8251_9bd7ab8615afae02_n.jpg",
+                "width": 159,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8251"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8251_9bd7ab8615afae02_d.gif",
+                "width": 159,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8251"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8251_9bd7ab8615afae02_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8251"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1835\u201345.\n1835\u201345. Medium: cotton\nTechnique: printed by engraved roller on plain weave, glazed and polished. Museum purchase from Friends of Textiles Fund. 1977-65-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#63332b",
-            "closest_css3":"#8b4513"
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#a2351f",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#391a15",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#ddaa87",
-            "closest_css3":"#deb887"
-        },
-        {
-            "color":"#cb8343",
-            "closest_css3":"#cd853f"
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (England), 1835\u201345. Medium: cotton\nTechnique: printed by engraved roller on plain weave, glazed and polished. \nMuseum purchase from Friends of Textiles Fund. 1977-65-1"
+    },
+    "colors": [
+        {
+            "color": "#4b3c35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#765247",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#857051",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#aa8e73",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#b5a886",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

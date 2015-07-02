@@ -1,42 +1,109 @@
 {
-    "id":"18417977",
-    "tms:id":"119219",
-    "accession_number":"1957-180-76",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18417977\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35393169",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1957",
-    "decade":null,
-    "woe:country":null,
-    "medium":"embroidery, silk on silk",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of the estate of Mrs. Lathrop Colgate Harper",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18417977",
+    "tms:id": "119219",
+    "accession_number": "1957-180-76",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18417977\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35393169",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1957",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "embroidery, silk on silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of the estate of Mrs. Lathrop Colgate Harper",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73600_9682519b1443208d_b.jpg",
+                "width": 737,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "73600"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73600_9682519b1443208d_z.jpg",
+                "width": 461,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "73600"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73600_9682519b1443208d_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "73600"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73600_9682519b1443208d_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "73600"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73600_9682519b1443208d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "73600"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049995",
+            "role_id": "35351535",
+            "person_name": "Estate of Mrs. Lathrop Colgate Harper",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049995\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nembroidery, silk on silk. Gift of the estate of Mrs. Lathrop Colgate Harper. 1957-180-76."
+    "tombstone": {
+        "epitaph": "Textile. embroidery, silk on silk. \nGift of the estate of Mrs. Lathrop Colgate Harper. 1957-180-76"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#1b2724",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#474c49",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#77675f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

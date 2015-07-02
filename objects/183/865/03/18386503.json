@@ -1,87 +1,178 @@
 {
-    "id":"18386503",
-    "tms:id":"103385",
-    "accession_number":"1951-103-50",
-    "title":"Textile, late 19th\u2013early 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18386503\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"late 19th\u2013early 20th century",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1951",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: cotton\nTechnique: printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 14.6 x 33 cm (5 3\/4 x 13 in.)",
-    "creditline":"Gift of Robert W. Friedel",
-    "description":"Large curling leaves with twigs bearing small oak-like leaves and small many-petaled flowers. In red, yellow, pale green, pale blue, and white, with black outline, on dark blue ground peppered with black dots. Dotted detail on large leaves. Wide plain unprinted selvedge.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18386503",
+    "tms:id": "103385",
+    "accession_number": "1951-103-50",
+    "title": "Textile (England), late 19th\u2013early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18386503\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "late 19th\u2013early 20th century",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1951",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 14.6 x 33 cm (5 3\/4 x 13 in.)",
+    "dimensions_raw": {
+        "height": [
+            "14.61",
+            "centimeters"
+        ],
+        "width": [
+            "33.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Robert W. Friedel",
+    "description": "Large curling leaves with twigs bearing small oak-like leaves and small many-petaled flowers. In red, yellow, pale green, pale blue, and white, with black outline, on dark blue ground peppered with black dots. Dotted detail on large leaves. Wide plain unprinted selvedge.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17721_0e4d81913cc9401d_b.jpg",
-                "width":434,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64820_d11b248c5174de13_b.jpg",
+                "width": 489,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64820"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17721_0e4d81913cc9401d_n.jpg",
-                "width":136,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64820_d11b248c5174de13_z.jpg",
+                "width": 305,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64820"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17721_0e4d81913cc9401d_z.jpg",
-                "width":271,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64820_d11b248c5174de13_n.jpg",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64820"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64820_d11b248c5174de13_d.gif",
+                "width": 153,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64820"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64820_d11b248c5174de13_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64820"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17721_0e4d81913cc9401d_b.jpg",
+                "width": 434,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "17721"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17721_0e4d81913cc9401d_z.jpg",
+                "width": 271,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "17721"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17721_0e4d81913cc9401d_n.jpg",
+                "width": 136,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17721"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17721_0e4d81913cc9401d_d.gif",
+                "width": 136,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17721"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17721_0e4d81913cc9401d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17721"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043865",
-            "role_id":"35236685",
-            "person_name":"Morris & Co.",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043865\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18043865",
+            "role_id": "35236685",
+            "person_name": "Morris & Co.",
+            "person_date": "Merton Abbey, England, 1874\u20131896",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043865\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18052481",
+            "role_id": "35351535",
+            "person_name": "Robert W. Friedel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, late 19th\u2013early 20th century.\nlate 19th\u2013early 20th century. Medium: cotton\nTechnique: printed on plain weave. Gift of Robert W. Friedel. 1951-103-50."
+    "tombstone": {
+        "epitaph": "Textile (England), late 19th\u2013early 20th century. Medium: cotton\nTechnique: printed on plain weave. \nGift of Robert W. Friedel. 1951-103-50"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#72a0b4",
-            "closest_css3":"#5f9ea0"
+            "color": "#e0dcc6",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#b8c8ca",
-            "closest_css3":"#c0c0c0"
+            "color": "#292c38",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#688774",
-            "closest_css3":"#808080"
+            "color": "#909f9c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#453640",
-            "closest_css3":"#2f4f4f"
+            "color": "#7b906a",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#588090",
-            "closest_css3":"#708090"
+            "color": "#505047",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

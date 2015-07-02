@@ -1,87 +1,177 @@
 {
-    "id":"18616985",
-    "tms:id":"177022",
-    "accession_number":"1981-28-41",
-    "title":"Sampler, 1729",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616985\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35379681",
-    "type_id":"35256439",
-    "date":"1729",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, linen, and cotton embroidery on linen foundation\nTechnique:  embroidered in back, long aremed cross, cross, eyelet, satin stitches and cut work with needlemade fillings on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Mary Mitchell made this sampler in the fifteenth year of my age in the year 1729",
-    "provenance":null,
-    "dimensions":"H x W: 45.7 x 22.8cm (18 x 9in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Bands of pattern in polychrome.  In middle two alphabets and numbers.  At bottom verse, \"This work in hand my friends may have when I am dead and laid in grave Mary Mitchel made this sampler in the fifteenth year of my age in the year 1729.\"",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616985",
+    "tms:id": "177022",
+    "accession_number": "1981-28-41",
+    "title": "Sampler, 1729",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616985\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35379681",
+    "type_id": "35256439",
+    "date": "1729",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, linen, and cotton embroidery on linen foundation\nTechnique:  embroidered in back, long aremed cross, cross, eyelet, satin stitches and cut work with needlemade fillings on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Mary Mitchell made this sampler in the fifteenth year of my age in the year 1729",
+    "provenance": null,
+    "dimensions": "H x W: 45.7 x 22.8cm (18 x 9in.)",
+    "dimensions_raw": {
+        "height": [
+            "45.70",
+            "centimeters"
+        ],
+        "width": [
+            "22.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Bands of pattern in polychrome.  In middle two alphabets and numbers.  At bottom verse, \"This work in hand my friends may have when I am dead and laid in grave Mary Mitchel made this sampler in the fifteenth year of my age in the year 1729.\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36579_dd5839a53320ffe2_b.jpg",
-                "width":593,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66356_b52f6112e1e81629_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "66356"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36579_dd5839a53320ffe2_n.jpg",
-                "width":185,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66356_b52f6112e1e81629_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "66356"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36579_dd5839a53320ffe2_z.jpg",
-                "width":371,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66356_b52f6112e1e81629_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66356"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66356_b52f6112e1e81629_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66356"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66356_b52f6112e1e81629_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66356"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36579_dd5839a53320ffe2_b.jpg",
+                "width": 593,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "36579"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36579_dd5839a53320ffe2_z.jpg",
+                "width": 371,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "36579"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36579_dd5839a53320ffe2_n.jpg",
+                "width": 185,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36579"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36579_dd5839a53320ffe2_d.gif",
+                "width": 185,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36579"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36579_dd5839a53320ffe2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36579"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050609",
-            "role_id":"35236583",
-            "person_name":"Mary Mitchell",
-            "role_name":"Embroiderer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050609\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18050609",
+            "role_id": "35236583",
+            "person_name": "Mary Mitchell",
+            "person_date": "",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050609\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sampler, 1729.\n1729. Medium: silk, linen, and cotton embroidery on linen foundation\nTechnique:  embroidered in back, long aremed cross, cross, eyelet, satin stitches and cut work with needlemade fillings on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-41."
+    "tombstone": {
+        "epitaph": "Sampler, 1729. Medium: silk, linen, and cotton embroidery on linen foundation\nTechnique:  embroidered in back, long aremed cross, cross, eyelet, satin stitches and cut work with needlemade fillings on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-41"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#dac5a7",
-            "closest_css3":"#d2b48c"
+            "color": "#b5a881",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#ae9c8c",
-            "closest_css3":"#bc8f8f"
+            "color": "#87854f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#bbbbaa",
-            "closest_css3":"#c0c0c0"
+            "color": "#806d51",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#787c85",
-            "closest_css3":"#808080"
+            "color": "#676957",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#51472c",
-            "closest_css3":"#556b2f"
+            "color": "#644142",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

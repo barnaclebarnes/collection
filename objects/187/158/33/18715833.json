@@ -1,57 +1,171 @@
 {
-    "id":"18715833",
-    "tms:id":"233819",
-    "accession_number":"2008-19-1",
-    "title":"Sidewall, \"The Birches\", 1921",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18715833\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35411961",
-    "type_id":"35256475",
-    "date":"1921",
-    "year_start":"1921",
-    "year_end":"1921",
-    "year_acquired":"2008",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Machine printed on embossed paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Printed in left selvedge: \"Birge - Made in U.S.A.  1186\"",
-    "provenance":null,
-    "dimensions":"L x W: 670.6 x 50 cm (22 ft. x 19 11\/16 in.)",
-    "creditline":"Gift of Sharon and Curtis Stetter and Lila Harnett",
-    "description":"Repeating scene of a forest of birch trees in winter. Printed in purples, blue, ocher and white on tan embossed ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18715833",
+    "tms:id": "233819",
+    "accession_number": "2008-19-1",
+    "title": "Sidewall, The Birches, 1921",
+    "title_raw": "The Birches",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18715833\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35411961",
+    "type_id": "35256475",
+    "date": "1921",
+    "year_start": 1921,
+    "year_end": 1921,
+    "year_acquired": "2008",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Machine printed on embossed paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in left selvedge: \"Birge - Made in U.S.A.  1186\"",
+    "provenance": null,
+    "dimensions": "L x W: 670.6 x 50 cm (22 ft. x 19 11\/16 in.)",
+    "dimensions_raw": {
+        "length": [
+            "670.56",
+            "centimeters"
+        ],
+        "width": [
+            "50.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Sharon and Curtis Stetter and Lila Harnett",
+    "description": "Repeating scene of a forest of birch trees in winter. Printed in purples, blue, ocher and white on tan embossed ground.",
+    "justification": "Charles Burchfield is one of the best known American watercolorists of the 20th century. It is less well known that he began designing wallpaper for the M. H. Birge and Sons in Buffalo, New York in 1921. Burchfield became chief designer in 1927 and remained with the firm until 1929. Burchfield designed at least 19 wallpapers while working with Birge. The Birches was his first wallpaper design and is based on his 1917 painting, Bluebird and Cottonwoods. \nAt the time of proposed acquisition, the museum\u2019s collection includes small Burchfield wallpaper samples, including The Birches. The sample of The Birches is one of the museum\u2019s most popular 20th-century wallpapers and has been included in Cooper-Hewitt exhibitions. Acquiring this roll of The Birches would allow us to exhibit a larger section of the design.",
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "person_id":"18046415",
-            "role_id":"35236671",
-            "person_name":"M.H. Birge & Sons Co.",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046415\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
-        },
-        {
-            "person_id":"18046529",
-            "role_id":"35236655",
-            "person_name":"Charles Burchfield",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046529\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104506_7861582b21e6b3d2_b.jpg",
+                "width": 603,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "104506"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104506_7861582b21e6b3d2_z.jpg",
+                "width": 377,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "104506"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104506_7861582b21e6b3d2_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104506"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104506_7861582b21e6b3d2_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "104506"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104506_7861582b21e6b3d2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104506"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"The Birches\", 1921.\n1921. Machine printed on embossed paper. Gift of Sharon and Curtis Stetter and Lila Harnett. 2008-19-1."
+    "participants": [
+        {
+            "person_id": "18062573",
+            "role_id": "35351535",
+            "person_name": "Curtis Stetter",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062573\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18062571",
+            "role_id": "35351535",
+            "person_name": "Sharon Stetter",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18062571\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046415",
+            "role_id": "35236671",
+            "person_name": "M.H. Birge & Sons Co.",
+            "person_date": "1834",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046415\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18046529",
+            "role_id": "35236655",
+            "person_name": "Charles Burchfield",
+            "person_date": "1893 \u2013 1967",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046529\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061747",
+            "role_id": "35351535",
+            "person_name": "Lila Harnett",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061747\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall, The Birches, 1921. Machine printed on embossed paper. \nGift of Sharon and Curtis Stetter and Lila Harnett. 2008-19-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#98949c",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#d1c6b4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#706898",
+            "closest_crayola": "#7851a9",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#918074",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#d3ab6c",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

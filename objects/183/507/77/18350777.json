@@ -1,42 +1,103 @@
 {
-    "id":"18350777",
-    "tms:id":"58950",
-    "accession_number":"1938-57-736-c",
-    "title":"Plate",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18350777\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35236833",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":null,
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
-    },
-    "images":[
-
+    "id": "18350777",
+    "tms:id": "58950",
+    "accession_number": "1938-57-736-c",
+    "title": "Plate",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18350777\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35236833",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "plate",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107860_cad648d9f40b965b_b.jpg",
+                "width": 1024,
+                "height": 634,
+                "is_primary": "1",
+                "image_id": "107860"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107860_cad648d9f40b965b_z.jpg",
+                "width": 640,
+                "height": 396,
+                "is_primary": "1",
+                "image_id": "107860"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107860_cad648d9f40b965b_n.jpg",
+                "width": 320,
+                "height": 198,
+                "is_primary": "1",
+                "image_id": "107860"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107860_cad648d9f40b965b_d.gif",
+                "width": 320,
+                "height": 198,
+                "is_primary": "1",
+                "image_id": "107860"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107860_cad648d9f40b965b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107860"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Plate.\nporcelain. Bequest of Erskine Hewitt. 1938-57-736-c."
+    "tombstone": {
+        "epitaph": "Plate. porcelain. \nBequest of Erskine Hewitt. 1938-57-736-c"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a0a293",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#9b6966",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

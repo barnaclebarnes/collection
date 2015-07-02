@@ -1,87 +1,174 @@
 {
-    "id":"18634731",
-    "tms:id":"192212",
-    "accession_number":"1990-41-2",
-    "title":"Footed Bowl, \"\"Le Service Japonais\"\", ca. 1867",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18634731\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35374817",
-    "type_id":"35292943",
-    "date":"ca. 1867",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1990",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Earthenware, enamel",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 10.8 x 23.8 cm (4 1\/4 x 9 3\/8 in.)",
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":"Footed bowl with flower, fish, and grasshopper.",
-    "justification":null,
-    "type":{
-        "id":"35292943",
-        "name":"Footed Bowl"
+    "id": "18634731",
+    "tms:id": "192212",
+    "accession_number": "1990-41-2",
+    "title": "Service Rousseau Footed Bowl, ca. 1867",
+    "title_raw": "Service Rousseau",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18634731\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51588051",
+    "type_id": "35292943",
+    "date": "ca. 1867",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1990",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Enameled earthenware",
+    "markings": "On base rim: elaborate stamp in black: \"E. LEVEILLE \/ 74.BTHAUSSMANN\" over \"PARIS\" \/ ROUSSEAU\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1990: acquired by Museum (from Catherine Arminjon)",
+    "dimensions": "H x diam.: 10.8 x 23.8 cm (4 1\/4 x 9 3\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "23.81",
+            "centimeters"
+        ],
+        "height": [
+            "10.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": "Footed bowl with flower, fish, and grasshopper, bordered by blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Footed Bowl",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44452_d6bd7138ea2979fb_b.jpg",
-                "width":1024,
-                "height":778,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108110_37a33d8f8e736448_b.jpg",
+                "width": 1024,
+                "height": 698,
+                "is_primary": "1",
+                "image_id": "108110"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44452_d6bd7138ea2979fb_n.jpg",
-                "width":320,
-                "height":243,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108110_37a33d8f8e736448_z.jpg",
+                "width": 640,
+                "height": 436,
+                "is_primary": "1",
+                "image_id": "108110"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44452_d6bd7138ea2979fb_z.jpg",
-                "width":640,
-                "height":486,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108110_37a33d8f8e736448_n.jpg",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "108110"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108110_37a33d8f8e736448_d.gif",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "108110"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108110_37a33d8f8e736448_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108110"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44452_d6bd7138ea2979fb_b.jpg",
+                "width": 1024,
+                "height": 778,
+                "is_primary": "0",
+                "image_id": "44452"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44452_d6bd7138ea2979fb_z.jpg",
+                "width": 640,
+                "height": 486,
+                "is_primary": "0",
+                "image_id": "44452"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44452_d6bd7138ea2979fb_n.jpg",
+                "width": 320,
+                "height": 243,
+                "is_primary": "0",
+                "image_id": "44452"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44452_d6bd7138ea2979fb_d.gif",
+                "width": 320,
+                "height": 243,
+                "is_primary": "0",
+                "image_id": "44452"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44452_d6bd7138ea2979fb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "44452"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18051613",
-            "role_id":"35236655",
-            "person_name":"Felix Bracquemond",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051613\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "51676855",
+            "role_id": "35352249",
+            "person_name": "Catherine Arminjon",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18537317",
+            "role_id": "35236675",
+            "person_name": "Francois-Eugene Rousseau",
+            "person_date": "1827 \u2013 1891",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537317\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18051613",
+            "role_id": "35236655",
+            "person_name": "Felix Bracquemond",
+            "person_date": "France, 1833 \u2013 1914",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051613\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Footed Bowl, \"\"Le Service Japonais\"\", ca. 1867.\nca. 1867. Earthenware, enamel. Museum purchase from Decorative Arts Association Acquisition Fund. 1990-41-2."
+    "tombstone": {
+        "epitaph": "Service Rousseau Footed Bowl, ca. 1867. Enameled earthenware. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1990-41-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#43404f",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#465790",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#2b345d",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#6c6575",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#7a86a8",
-            "closest_css3":"#778899"
+            "color": "#5c596b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

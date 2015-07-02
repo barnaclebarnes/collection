@@ -1,42 +1,131 @@
 {
-    "id":"18383239",
-    "tms:id":"101743",
-    "accession_number":"1949-92-6",
-    "title":"Fragment, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383239\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1949",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"Medium: silk\nTechnique: plain compound satin",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 23.7 x 13.8 cm (9 5\/16 x 5 7\/16 in.)",
-    "creditline":"Gift of Walter Hochstradter",
-    "description":"Allover geometrical design in rose and blue on light blue ground.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18383239",
+    "tms:id": "101743",
+    "accession_number": "1949-92-6",
+    "title": "Fragment (China), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18383239\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1949",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "Medium: silk\nTechnique: plain compound satin",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 23.7 x 13.8 cm (9 5\/16 x 5 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.70",
+            "centimeters"
+        ],
+        "width": [
+            "13.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Walter Hochstradter",
+    "description": "Allover geometrical design in rose and blue on light blue ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64220_c05e1e5c4e632fba_b.jpg",
+                "width": 651,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64220"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64220_c05e1e5c4e632fba_z.jpg",
+                "width": 407,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64220"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64220_c05e1e5c4e632fba_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64220"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64220_c05e1e5c4e632fba_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64220"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64220_c05e1e5c4e632fba_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64220"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18059755",
+            "role_id": "35351535",
+            "person_name": "Walter Hochstadter",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059755\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 19th century.\n19th century. Medium: silk\nTechnique: plain compound satin. Gift of Walter Hochstradter. 1949-92-6."
+    "tombstone": {
+        "epitaph": "Fragment (China), 19th century. Medium: silk\nTechnique: plain compound satin. \nGift of Walter Hochstradter. 1949-92-6"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#757365",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#51565b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2b2635",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5e5749",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#52476b",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

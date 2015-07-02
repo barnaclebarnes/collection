@@ -1,79 +1,135 @@
 {
-    "id":"18448643",
-    "tms:id":"134837",
-    "accession_number":"1963-39-698",
-    "title":"Drawing, \"Advertisement for a Furrier\", ca. 1936",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448643\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35519447",
-    "type_id":"35237093",
-    "date":"ca. 1936",
-    "year_start":"1931",
-    "year_end":"1941",
-    "year_acquired":"1963",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Brush and gouache, silver, gold paint on thick paper",
-    "markings":null,
-    "signed":"Signed in black gouache, lower left: McK. K.",
-    "inscribed":null,
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"29.3 x 22.9 cm (11 9\/16 in. x 9 in.)",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"A black fox is seen from behind, turning its head toward the viewer. A silver streak runs down the fox\u2019s body and tail. It has pupil-less gold eyes. Upper left, in monogram: SL.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18448643",
+    "tms:id": "134837",
+    "accession_number": "1963-39-698",
+    "title": "Drawing, Advertisement for a Furrier, ca. 1936",
+    "title_raw": "Advertisement for a Furrier",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448643\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35519447",
+    "type_id": "35237093",
+    "date": "ca. 1936",
+    "year_start": 1931,
+    "year_end": 1941,
+    "year_acquired": "1963",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Brush and gouache, silver, gold paint on thick paper",
+    "markings": null,
+    "signed": "Signed in black gouache, lower left: McK. K.",
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer",
+    "dimensions": "29.3 x 22.9 cm (11 9\/16 in. x 9 in.)",
+    "dimensions_raw": {
+        "height": [
+            "29.30",
+            "centimeters"
+        ],
+        "width": [
+            "22.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "A black fox is seen from behind, turning its head toward the viewer. A silver streak runs down the fox\u2019s body and tail. It has pupil-less gold eyes. Upper left, in monogram: SL.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50784_e424c3f238a3c849_b.jpg",
-                "width":803,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50784_7354ca87029dc025_b.jpg",
+                "width": 788,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "50784"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50784_e424c3f238a3c849_n.jpg",
-                "width":251,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50784_7354ca87029dc025_z.jpg",
+                "width": 493,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "50784"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50784_e424c3f238a3c849_z.jpg",
-                "width":502,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50784_7354ca87029dc025_n.jpg",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "50784"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50784_7354ca87029dc025_d.gif",
+                "width": 246,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "50784"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50784_7354ca87029dc025_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "50784"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Advertisement for a Furrier\", ca. 1936.\nca. 1936. Brush and gouache, silver, gold paint on thick paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-698."
+    "tombstone": {
+        "epitaph": "Drawing, Advertisement for a Furrier, ca. 1936. Brush and gouache, silver, gold paint on thick paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-698"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#aaa69d",
-            "closest_css3":"#a9a9a9"
+            "color": "#464233",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#737069",
-            "closest_css3":"#696969"
+            "color": "#9a9990",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#675b42",
-            "closest_css3":"#556b2f"
+            "color": "#615f59",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#7d7b71",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

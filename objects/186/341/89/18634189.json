@@ -1,76 +1,190 @@
 {
-    "id":"18634189",
-    "tms:id":"191941",
-    "accession_number":"1990-140-1",
-    "title":"Vase, \"Ruba Rombic\", ca. 1928",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18634189\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237225",
-    "date":"ca. 1928",
-    "year_start":"1918",
-    "year_end":"1938",
-    "year_acquired":"1990",
-    "decade":"1910",
-    "woe:country":"23424977",
-    "medium":"Glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 16.3 x 12 x 11.5 cm (6 7\/16 x 4 3\/4 x 4 1\/2 in.)",
-    "creditline":"Museum purchase from James Ford Fund",
-    "description":"Upright form with thick, angular glass walls in transluscent shade of yellow-gold.",
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18634189",
+    "tms:id": "191941",
+    "accession_number": "1990-140-1",
+    "title": "Ruba Rombic Vase, ca. 1928",
+    "title_raw": "Ruba Rombic",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18634189\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237225",
+    "date": "ca. 1928",
+    "year_start": 1918,
+    "year_end": 1938,
+    "year_acquired": "1990",
+    "decade": "1910",
+    "woe:country_id": "23424977",
+    "medium": "Glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1990: acquired by Museum (from Historical Design Inc.)",
+    "dimensions": "H x W x D: 16.3 x 12 x 11.5 cm (6 7\/16 x 4 3\/4 x 4 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "11.50",
+            "centimeters"
+        ],
+        "height": [
+            "16.30",
+            "centimeters"
+        ],
+        "width": [
+            "12.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from James Ford Fund",
+    "description": "Upright form with thick, angular glass walls in transluscent shade of yellow-gold.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Vase",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15582_1898b2541eddc55c_b.jpg",
-                "width":696,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15582_1898b2541eddc55c_b.jpg",
+                "width": 696,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "15582"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15582_1898b2541eddc55c_n.jpg",
-                "width":218,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15582_1898b2541eddc55c_z.jpg",
+                "width": 435,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "15582"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15582_1898b2541eddc55c_z.jpg",
-                "width":435,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15582_1898b2541eddc55c_n.jpg",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "15582"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15582_1898b2541eddc55c_d.gif",
+                "width": 218,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "15582"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15582_1898b2541eddc55c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "15582"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115277_5e8145f5959d7d4e_b.jpg",
+                "width": 889,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "115277"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115277_5e8145f5959d7d4e_z.jpg",
+                "width": 556,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "115277"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115277_5e8145f5959d7d4e_n.jpg",
+                "width": 278,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "115277"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115277_5e8145f5959d7d4e_d.gif",
+                "width": 278,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "115277"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115277_5e8145f5959d7d4e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "115277"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Vase, \"Ruba Rombic\", ca. 1928.\nca. 1928. Glass. Museum purchase from James Ford Fund. 1990-140-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c3c5ac",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18048927",
+            "role_id": "35352247",
+            "person_name": "James Ford Fund",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048927\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
         },
         {
-            "color":"#8b927f",
-            "closest_css3":"#808080"
+            "person_id": "18041381",
+            "role_id": "35352249",
+            "person_name": "Historical Design Inc.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041381\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "color":"#333a44",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18045177",
+            "role_id": "35236657",
+            "person_name": "Consolidated Lamp and Glass",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045177\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#5c646b",
-            "closest_css3":"#696969"
+            "person_id": "18045175",
+            "role_id": "35236655",
+            "person_name": "Reuben Haley",
+            "person_date": "American, 1872 - 1933",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Ruba Rombic Vase, ca. 1928. Glass. \nMuseum purchase from James Ford Fund. 1990-140-1"
+    },
+    "colors": [
+        {
+            "color": "#c3c5ac",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#8b927f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#5c646b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

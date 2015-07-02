@@ -1,80 +1,141 @@
 {
-    "id":"18483227",
-    "tms:id":"152476",
-    "accession_number":"1974-41-8",
-    "title":"Border, 1850\u201375",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18483227\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35405959",
-    "type_id":"35237285",
-    "date":"1850\u201375",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1974",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"flocked",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"71.5 x 8.5 cm (28 1\/8 x 3 3\/8 in.)",
-    "creditline":"Gift of Samuel J. Dornsife",
-    "description":"Renaissance Revival, medallions, flowers",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18483227",
+    "tms:id": "152476",
+    "accession_number": "1974-41-8",
+    "title": "Border (possibly France), 1850\u201375",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18483227\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35405959",
+    "type_id": "35237285",
+    "date": "1850\u201375",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1974",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "flocked",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "71.5 x 8.5 cm (28 1\/8 x 3 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.50",
+            "centimeters"
+        ],
+        "width": [
+            "8.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Samuel J. Dornsife",
+    "description": "Renaissance Revival, medallions, flowers",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43529_b8e1fcb2a8567bba_b.jpg",
-                "width":1024,
-                "height":144,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43529_0287912634220fb6_b.jpg",
+                "width": 1024,
+                "height": 191,
+                "is_primary": "1",
+                "image_id": "43529"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43529_b8e1fcb2a8567bba_n.jpg",
-                "width":320,
-                "height":45,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43529_0287912634220fb6_z.jpg",
+                "width": 640,
+                "height": 119,
+                "is_primary": "1",
+                "image_id": "43529"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43529_b8e1fcb2a8567bba_z.jpg",
-                "width":640,
-                "height":90,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43529_0287912634220fb6_n.jpg",
+                "width": 320,
+                "height": 60,
+                "is_primary": "1",
+                "image_id": "43529"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43529_0287912634220fb6_d.gif",
+                "width": 320,
+                "height": 60,
+                "is_primary": "1",
+                "image_id": "43529"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43529_0287912634220fb6_sq.jpg",
+                "width": 300,
+                "height": 191,
+                "is_primary": "1",
+                "image_id": "43529"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, 1850\u201375.\n1850\u201375. flocked. Gift of Samuel J. Dornsife. 1974-41-8."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c8c1a8",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#2f3a28",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#dbb871",
-            "closest_css3":"#deb887"
-        },
-        {
-            "color":"#956134",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#a29574",
-            "closest_css3":"#bc8f8f"
+            "person_id": "68736387",
+            "role_id": "35351535",
+            "person_name": "Samuel J. Dornsife",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68736387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border (possibly France), 1850\u201375. flocked. \nGift of Samuel J. Dornsife. 1974-41-8"
+    },
+    "colors": [
+        {
+            "color": "#1c2418",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#83642f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#c9b76e",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#5b361d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#8e8969",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

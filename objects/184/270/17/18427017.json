@@ -1,80 +1,122 @@
 {
-    "id":"18427017",
-    "tms:id":"123893",
-    "accession_number":"1959-66-53",
-    "title":"Button, \"Button with portrait of a lady\", 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18427017\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35420323",
-    "type_id":"35237135",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1959",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Enameled metal, steel beads",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Julia Hutchins Wolcott",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237135",
-        "name":"button"
-    },
-    "images":[
+    "id": "18427017",
+    "tms:id": "123893",
+    "accession_number": "1959-66-53",
+    "title": "Button with portrait of a lady Button, 18th century",
+    "title_raw": "Button with portrait of a lady",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18427017\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35420323",
+    "type_id": "35237135",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1959",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Enameled metal, steel beads",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Julia Hutchins Wolcott",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "button",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26082_865e6f4edad8b451_b.jpg",
-                "width":981,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26082_865e6f4edad8b451_b.jpg",
+                "width": 981,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "26082"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26082_865e6f4edad8b451_n.jpg",
-                "width":307,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26082_865e6f4edad8b451_z.jpg",
+                "width": 613,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "26082"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26082_865e6f4edad8b451_z.jpg",
-                "width":613,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26082_865e6f4edad8b451_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "26082"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26082_865e6f4edad8b451_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "26082"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26082_865e6f4edad8b451_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "26082"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Button, \"Button with portrait of a lady\", 18th century.\n18th century. Enameled metal, steel beads. Bequest of Julia Hutchins Wolcott. 1959-66-53."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#9fa299",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#48473b",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#f8f4cd",
-            "closest_css3":"#fafad2"
-        },
-        {
-            "color":"#89724e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#463328",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18060915",
+            "role_id": "35351535",
+            "person_name": "Julia Hutchins Wolcott",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060915\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Button with portrait of a lady Button, 18th century. Enameled metal, steel beads. \nBequest of Julia Hutchins Wolcott. 1959-66-53"
+    },
+    "colors": [
+        {
+            "color": "#9fa299",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#f8f4cd",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#fafad2",
+            "closest_css4": "#fafad2"
+        },
+        {
+            "color": "#48473b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7d7c6e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#463328",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

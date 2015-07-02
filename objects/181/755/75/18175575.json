@@ -1,42 +1,158 @@
 {
-    "id":"18175575",
-    "tms:id":"19116",
-    "accession_number":"1912-13-17",
-    "title":"Embroidery",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18175575\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35267359",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. Edward Luckemeyer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35267359",
-        "name":"Embroidery"
-    },
-    "images":[
-
+    "id": "18175575",
+    "tms:id": "19116",
+    "accession_number": "1912-13-17",
+    "title": "Embroidery",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18175575\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35267359",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. Edward Luckemeyer",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Embroidery",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87681_01cce8e369512cda_b.jpg",
+                "width": 612,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "87681"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87681_01cce8e369512cda_z.jpg",
+                "width": 383,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "87681"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87681_01cce8e369512cda_n.jpg",
+                "width": 191,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "87681"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87681_01cce8e369512cda_d.gif",
+                "width": 191,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "87681"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87681_01cce8e369512cda_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "87681"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68774_09aef3ea4501eba9_b.jpg",
+                "width": 603,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68774"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68774_09aef3ea4501eba9_z.jpg",
+                "width": 377,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68774"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68774_09aef3ea4501eba9_n.jpg",
+                "width": 188,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68774"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68774_09aef3ea4501eba9_d.gif",
+                "width": 188,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68774"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68774_09aef3ea4501eba9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68774"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18051319",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward Luckemeyer",
+            "person_date": "d. 1938",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051319\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Embroidery.\nMedium: silk. Gift of Mrs. Edward Luckemeyer. 1912-13-17."
+    "tombstone": {
+        "epitaph": "Embroidery. Medium: silk. \nGift of Mrs. Edward Luckemeyer. 1912-13-17"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#605335",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#27150f",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#84774a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3f3222",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#ada072",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "is_loan_object": 0
 }

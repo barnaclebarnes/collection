@@ -1,49 +1,256 @@
 {
-    "id":"18649479",
-    "tms:id":"199651",
-    "accession_number":"1994-80-7",
-    "title":"Chef De Piece, \"Les Quatre Parties du Monde\", ca. 1785",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649479\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35379579",
-    "type_id":"35295179",
-    "date":"ca. 1785",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1994",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton plain weave\nTechnique:printed by engraved plate.",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Factory mark at one end in use at the Oberkampf factory between the years 1792 and 1815. Partial mark which appears to be D151.",
-    "provenance":null,
-    "dimensions":"Warp: 33cm (13in.). Weft: 101cm (39 3\/4in.) Selvage present at right edge.\nPattern: Width of printing plate: 95.5cm (37 1\/2in.)                                No height present in piece.",
-    "creditline":"Gift of Cora Ginsburg",
-    "description":"Design in blue on a white background. Deer, ostrich, monkeys, elephant and part of the figure of Asia.",
-    "justification":null,
-    "type":{
-        "id":"35295179",
-        "name":"Chef de piece"
+    "id": "18649479",
+    "tms:id": "199651",
+    "accession_number": "1994-80-7",
+    "title": "Chef De Piece, Les Quatre Parties du Monde, ca. 1785",
+    "title_raw": "Les Quatre Parties du Monde",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18649479\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35379579",
+    "type_id": "35295179",
+    "date": "ca. 1785",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1994",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton plain weave\nTechnique:printed by engraved plate.",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Factory mark at one end in use at the Oberkampf factory between the years 1792 and 1815. Partial mark which appears to be D151.",
+    "provenance": null,
+    "dimensions": "Warp: 33cm (13in.). Weft: 101cm (39 3\/4in.) Selvage present at right edge.\nPattern: Width of printing plate: 95.5cm (37 1\/2in.)                                No height present in piece.",
+    "dimensions_raw": {
+        "width": [
+            "95.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Cora Ginsburg",
+    "description": "Design in blue on a white background. Deer, ostrich, monkeys, elephant and part of the figure of Asia.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Chef de piece",
+    "images": [
         {
-            "person_id":"18045567",
-            "role_id":"35236655",
-            "person_name":"Jean-Baptiste Hu\u00ebt",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045567\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108704_a8228c6bed31047c_b.jpg",
+                "width": 1024,
+                "height": 361,
+                "is_primary": "1",
+                "image_id": "108704"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108704_a8228c6bed31047c_z.jpg",
+                "width": 640,
+                "height": 225,
+                "is_primary": "1",
+                "image_id": "108704"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108704_a8228c6bed31047c_n.jpg",
+                "width": 320,
+                "height": 113,
+                "is_primary": "1",
+                "image_id": "108704"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108704_a8228c6bed31047c_d.gif",
+                "width": 320,
+                "height": 113,
+                "is_primary": "1",
+                "image_id": "108704"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108704_a8228c6bed31047c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108704"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79086_d25db761929435de_b.jpg",
+                "width": 1024,
+                "height": 464,
+                "is_primary": "0",
+                "image_id": "79086"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79086_d25db761929435de_z.jpg",
+                "width": 640,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "79086"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79086_d25db761929435de_n.jpg",
+                "width": 320,
+                "height": 145,
+                "is_primary": "0",
+                "image_id": "79086"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79086_d25db761929435de_d.gif",
+                "width": 320,
+                "height": 145,
+                "is_primary": "0",
+                "image_id": "79086"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79086_d25db761929435de_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79086"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79088_610114858e7609c4_b.jpg",
+                "width": 1024,
+                "height": 539,
+                "is_primary": "0",
+                "image_id": "79088"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79088_610114858e7609c4_z.jpg",
+                "width": 640,
+                "height": 337,
+                "is_primary": "0",
+                "image_id": "79088"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79088_610114858e7609c4_n.jpg",
+                "width": 320,
+                "height": 168,
+                "is_primary": "0",
+                "image_id": "79088"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79088_610114858e7609c4_d.gif",
+                "width": 320,
+                "height": 168,
+                "is_primary": "0",
+                "image_id": "79088"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79088_610114858e7609c4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79088"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79087_4ea1dda2c016a6a3_b.jpg",
+                "width": 1024,
+                "height": 561,
+                "is_primary": "0",
+                "image_id": "79087"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79087_4ea1dda2c016a6a3_z.jpg",
+                "width": 640,
+                "height": 351,
+                "is_primary": "0",
+                "image_id": "79087"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79087_4ea1dda2c016a6a3_n.jpg",
+                "width": 320,
+                "height": 175,
+                "is_primary": "0",
+                "image_id": "79087"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79087_4ea1dda2c016a6a3_d.gif",
+                "width": 320,
+                "height": 175,
+                "is_primary": "0",
+                "image_id": "79087"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79087_4ea1dda2c016a6a3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79087"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Chef De Piece, \"Les Quatre Parties du Monde\", ca. 1785.\nca. 1785. Medium: cotton plain weave\nTechnique:printed by engraved plate.. Gift of Cora Ginsburg. 1994-80-7."
+    "participants": [
+        {
+            "person_id": "18045425",
+            "role_id": "35236657",
+            "person_name": "Oberkampf & Cie.",
+            "person_date": "Jouy-en-Josas, France, 1759 \u2013 1815",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045425\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041197",
+            "role_id": "35351535",
+            "person_name": "Cora Ginsburg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041197\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045567",
+            "role_id": "35236655",
+            "person_name": "Jean-Baptiste Hu\u00ebt",
+            "person_date": "1745 \u2013 1811",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Chef De Piece, Les Quatre Parties du Monde, ca. 1785. Medium: cotton plain weave\nTechnique:printed by engraved plate.. \nGift of Cora Ginsburg. 1994-80-7"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#879296",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#e8e7cf",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#566275",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,49 +1,161 @@
 {
-    "id":"18160125",
-    "tms:id":"16366",
-    "accession_number":"1908-26-84-a,b",
-    "title":"Candlestick",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18160125\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389405",
-    "type_id":"35237609",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1908",
-    "decade":null,
-    "woe:country":null,
-    "medium":"brass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 23 x 15 cm (9 1\/16 x 5 7\/8 in.)",
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237609",
-        "name":"candlestick"
+    "id": "18160125",
+    "tms:id": "16366",
+    "accession_number": "1908-26-84-a,b",
+    "title": "Candlestick",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18160125\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389405",
+    "type_id": "35237609",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1908",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "brass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 23 x 15 cm (9 1\/16 x 5 7\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "15.00",
+            "centimeters"
+        ],
+        "height": [
+            "23.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "candlestick",
+    "images": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105167_eacddda61d15b906_b.jpg",
+                "width": 828,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "105167"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105167_eacddda61d15b906_z.jpg",
+                "width": 518,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "105167"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105167_eacddda61d15b906_n.jpg",
+                "width": 259,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105167"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105167_eacddda61d15b906_d.gif",
+                "width": 259,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105167"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105167_eacddda61d15b906_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105167"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105135_a0d7dcfeb5dce644_b.jpg",
+                "width": 828,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "105135"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105135_a0d7dcfeb5dce644_z.jpg",
+                "width": 518,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "105135"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105135_a0d7dcfeb5dce644_n.jpg",
+                "width": 259,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "105135"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105135_a0d7dcfeb5dce644_d.gif",
+                "width": 259,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "105135"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105135_a0d7dcfeb5dce644_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "105135"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Candlestick.\nbrass. Purchased for the Museum by the Advisory Council. 1908-26-84-a,b."
+    "participants": [
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Candlestick. brass. \nPurchased for the Museum by the Advisory Council. 1908-26-84-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#634a2d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#846947",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#402812",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9c8c73",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,42 +1,121 @@
 {
-    "id":"18175693",
-    "tms:id":"19134",
-    "accession_number":"1912-13-33-b",
-    "title":"Unknown",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18175693\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35418545",
-    "type_id":"35257573",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":null,
-    "medium":"macrame",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. Edward Luckemeyer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35257573",
-        "name":"Unknown"
-    },
-    "images":[
-
+    "id": "18175693",
+    "tms:id": "19134",
+    "accession_number": "1912-13-33-b",
+    "title": "Trimming",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18175693\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35418545",
+    "type_id": "35254635",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: macrame",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. Edward Luckemeyer",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Trimming",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68782_a2f7f077b34d5d10_b.jpg",
+                "width": 1024,
+                "height": 519,
+                "is_primary": "1",
+                "image_id": "68782"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68782_a2f7f077b34d5d10_z.jpg",
+                "width": 640,
+                "height": 324,
+                "is_primary": "1",
+                "image_id": "68782"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68782_a2f7f077b34d5d10_n.jpg",
+                "width": 320,
+                "height": 162,
+                "is_primary": "1",
+                "image_id": "68782"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68782_a2f7f077b34d5d10_d.gif",
+                "width": 320,
+                "height": 162,
+                "is_primary": "1",
+                "image_id": "68782"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68782_a2f7f077b34d5d10_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "68782"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18051319",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward Luckemeyer",
+            "person_date": "d. 1938",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051319\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Unknown.\nmacrame. Gift of Mrs. Edward Luckemeyer. 1912-13-33-b."
+    "tombstone": {
+        "epitaph": "Trimming. Technique: macrame. \nGift of Mrs. Edward Luckemeyer. 1912-13-33-b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#5d5f57",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#383a33",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#71757a",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#ae7b52",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#deb38d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        }
+    ],
+    "is_loan_object": 0
 }

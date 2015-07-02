@@ -1,49 +1,146 @@
 {
-    "id":"18133099",
-    "tms:id":"12024",
-    "accession_number":"1902-1-797-a\/c",
-    "title":"Fragment, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18133099\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk\nTechnique: supplementary weft forming raised pile, then embossed.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Antonio Viv\u00e9s y Escudero",
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Floral sprays on red ground.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18133099",
+    "tms:id": "12024",
+    "accession_number": "1902-1-797-a\/c",
+    "title": "Fragment, 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18133099\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk\nTechnique: supplementary weft forming raised pile, then embossed.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Antonio Viv\u00e9s y Escudero",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Floral sprays on red ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64846_5a90287fed86a2bb_b.jpg",
+                "width": 456,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64846"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64846_5a90287fed86a2bb_z.jpg",
+                "width": 285,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64846"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64846_5a90287fed86a2bb_n.jpg",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64846"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64846_5a90287fed86a2bb_d.gif",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64846"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64846_5a90287fed86a2bb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64846"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85661_464b0cda3d442e05_b.jpg",
+                "width": 534,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "85661"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85661_464b0cda3d442e05_z.jpg",
+                "width": 334,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "85661"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85661_464b0cda3d442e05_n.jpg",
+                "width": 167,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "85661"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85661_464b0cda3d442e05_d.gif",
+                "width": 167,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "85661"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85661_464b0cda3d442e05_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "85661"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk\nTechnique: supplementary weft forming raised pile, then embossed.. Gift of John Pierpont Morgan. 1902-1-797-a\/c."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 18th century. Medium: silk\nTechnique: supplementary weft forming raised pile, then embossed.. \nGift of John Pierpont Morgan. 1902-1-797-a\/c"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#702e14",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#3f1b0c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#9d5330",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "is_loan_object": 0
 }

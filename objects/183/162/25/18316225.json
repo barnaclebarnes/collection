@@ -1,87 +1,198 @@
 {
-    "id":"18316225",
-    "tms:id":"43593",
-    "accession_number":"1928-2-113",
-    "title":"Sidewall - Panel, \"Uranie\", ca. 1825",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18316225\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414641",
-    "type_id":"35284895",
-    "date":"ca. 1825",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1928",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"209 x 65.5 cm (82 5\/16 x 25 13\/16 in.)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":"Vertical rectangle. Large diamond-shaped framework of leaf forms, set with lyre and candelabrum, enclosing circular medallion at center. In medallion classical profile of woman's head, with caption: \"Uranie\". Framework in yellow, against on olive-green ground.",
-    "justification":null,
-    "type":{
-        "id":"35284895",
-        "name":"Sidewall - panel"
+    "id": "18316225",
+    "tms:id": "43593",
+    "accession_number": "1928-2-113",
+    "title": "Sidewall - Panel, Uranie, ca. 1825",
+    "title_raw": "Uranie",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18316225\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414641",
+    "type_id": "35284895",
+    "date": "ca. 1825",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1928",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "209 x 65.5 cm (82 5\/16 x 25 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "209.00",
+            "centimeters"
+        ],
+        "width": [
+            "65.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Vertical rectangle. Large diamond-shaped framework of leaf forms, set with lyre and candelabrum, enclosing circular medallion at center. In medallion classical profile of woman's head, with caption: \"Uranie\". Framework in yellow, against on olive-green ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall - panel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_b.jpg",
-                "width":328,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63206_bb0ad8c987acb5c6_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63206"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_n.jpg",
-                "width":102,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63206_bb0ad8c987acb5c6_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63206"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_z.jpg",
-                "width":205,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63206_bb0ad8c987acb5c6_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63206"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63206_bb0ad8c987acb5c6_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63206"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63206_bb0ad8c987acb5c6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63206"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_b.jpg",
+                "width": 328,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2883"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_z.jpg",
+                "width": 205,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2883"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_n.jpg",
+                "width": 102,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2883"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_d.gif",
+                "width": 102,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2883"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2883"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046693",
-            "role_id":"35236657",
-            "person_name":"Xavier Mader",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046693\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18052379",
+            "role_id": "35352245",
+            "person_name": "Calvin S.  Hathaway",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18049325",
+            "role_id": "35351535",
+            "person_name": "Eleanor Garnier Hewitt",
+            "person_date": "American, 1864\u20131924",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046693",
+            "role_id": "35236657",
+            "person_name": "Xavier Mader",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046693\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall - Panel, \"Uranie\", ca. 1825.\nca. 1825. Block-printed on handmade paper. Gift of Eleanor and Sarah Hewitt. 1928-2-113."
+    "tombstone": {
+        "epitaph": "Sidewall - Panel, Uranie, ca. 1825. Block-printed on handmade paper. \nGift of Eleanor and Sarah Hewitt. 1928-2-113"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#747169",
-            "closest_css3":"#696969"
+            "color": "#8f7e65",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#aaa495",
-            "closest_css3":"#a9a9a9"
+            "color": "#b88f69",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#4d4840",
-            "closest_css3":"#2f4f4f"
+            "color": "#78634c",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#a3896b",
-            "closest_css3":"#808080"
+            "color": "#ceb594",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#caab8a",
-            "closest_css3":"#d2b48c"
+            "color": "#463932",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

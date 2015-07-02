@@ -1,80 +1,168 @@
 {
-    "id":"18575181",
-    "tms:id":"81490",
-    "accession_number":"1945-54-23",
-    "title":"Bag, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18575181\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35428261",
-    "type_id":"35264577",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1945",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: glass beads, silk, metal\nTechnique: beaded knitting",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 23 x 14 cm (9 1\/16 x 5 1\/2 in.)",
-    "creditline":"Gift of Mary S. M. Gibson",
-    "description":"Knitted bag with colored beads in design of floral band above leaf pattern arranged  in lozenge design; bead fringe. With blue satin at top with metal cord and balls.",
-    "justification":null,
-    "type":{
-        "id":"35264577",
-        "name":"Bag"
+    "id": "18575181",
+    "tms:id": "81490",
+    "accession_number": "1945-54-23",
+    "title": "Bag (USA), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18575181\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35428261",
+    "type_id": "35264577",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1945",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: glass beads, silk, metal\nTechnique: beaded knitting",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 23 x 14 cm (9 1\/16 x 5 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.00",
+            "centimeters"
+        ],
+        "width": [
+            "14.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mary S. M. Gibson",
+    "description": "Knitted bag with colored beads in design of floral band above leaf pattern arranged  in lozenge design; bead fringe. With blue satin at top with metal cord and balls.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Bag",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4639_aee1a05f24ddfd74_b.jpg",
-                "width":668,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94102_85c96c120c1d7db6_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94102"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4639_aee1a05f24ddfd74_n.jpg",
-                "width":209,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94102_85c96c120c1d7db6_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94102"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4639_aee1a05f24ddfd74_z.jpg",
-                "width":417,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94102_85c96c120c1d7db6_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94102"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94102_85c96c120c1d7db6_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94102"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94102_85c96c120c1d7db6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94102"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4639_aee1a05f24ddfd74_b.jpg",
+                "width": 668,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "4639"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4639_aee1a05f24ddfd74_z.jpg",
+                "width": 417,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "4639"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4639_aee1a05f24ddfd74_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4639"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4639_aee1a05f24ddfd74_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4639"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4639_aee1a05f24ddfd74_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "4639"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Bag, 19th century.\n19th century. Medium: glass beads, silk, metal\nTechnique: beaded knitting. Gift of Mary S. M. Gibson. 1945-54-23."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#e9d8d5",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#415885",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#9a4f4c",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#22232f",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#612228",
-            "closest_css3":"#8b4513"
+            "person_id": "18055143",
+            "role_id": "35352245",
+            "person_name": "Susan J. Brown",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055143\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Bag (USA), 19th century. Medium: glass beads, silk, metal\nTechnique: beaded knitting. \nGift of Mary S. M. Gibson. 1945-54-23"
+    },
+    "colors": [
+        {
+            "color": "#4b2f21",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2a3342",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b3aea2",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#435467",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#43412d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

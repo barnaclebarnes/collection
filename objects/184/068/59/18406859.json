@@ -1,87 +1,188 @@
 {
-    "id":"18406859",
-    "tms:id":"113620",
-    "accession_number":"1955-85-11",
-    "title":"Dado, 1810\u201320",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18406859\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414641",
-    "type_id":"35285763",
-    "date":"1810\u201320",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"58.5 x 51 cm (23 1\/16 x 20 1\/16 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"On tan ground a wreath containing a vase, a bowl and a tambourine, the whole traversed by staff terminating in pink cones. On parallel lines above, simulated moldings and a rosette. Printed in browns and yellow.",
-    "justification":null,
-    "type":{
-        "id":"35285763",
-        "name":"Dado"
+    "id": "18406859",
+    "tms:id": "113620",
+    "accession_number": "1955-85-11",
+    "title": "Dado (France), 1810\u201320",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18406859\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414641",
+    "type_id": "35285763",
+    "date": "1810\u201320",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "58.5 x 51 cm (23 1\/16 x 20 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "58.50",
+            "centimeters"
+        ],
+        "width": [
+            "51.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Josephine Howell",
+    "description": "On tan ground a wreath containing a vase, a bowl and a tambourine, the whole traversed by staff terminating in pink cones. On parallel lines above, simulated moldings and a rosette. Printed in browns and yellow.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Dado",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5466_31ada10a35e5a380_b.jpg",
-                "width":1024,
-                "height":917,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63398_44b1d62935cc09d7_b.jpg",
+                "width": 1024,
+                "height": 818,
+                "is_primary": "1",
+                "image_id": "63398"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5466_31ada10a35e5a380_n.jpg",
-                "width":320,
-                "height":286,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63398_44b1d62935cc09d7_z.jpg",
+                "width": 640,
+                "height": 511,
+                "is_primary": "1",
+                "image_id": "63398"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5466_31ada10a35e5a380_z.jpg",
-                "width":640,
-                "height":573,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63398_44b1d62935cc09d7_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "63398"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63398_44b1d62935cc09d7_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "63398"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63398_44b1d62935cc09d7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63398"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5466_31ada10a35e5a380_b.jpg",
+                "width": 1024,
+                "height": 917,
+                "is_primary": "0",
+                "image_id": "5466"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5466_31ada10a35e5a380_z.jpg",
+                "width": 640,
+                "height": 573,
+                "is_primary": "0",
+                "image_id": "5466"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5466_31ada10a35e5a380_n.jpg",
+                "width": 320,
+                "height": 286,
+                "is_primary": "0",
+                "image_id": "5466"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5466_31ada10a35e5a380_d.gif",
+                "width": 320,
+                "height": 286,
+                "is_primary": "0",
+                "image_id": "5466"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5466_31ada10a35e5a380_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "5466"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046441",
-            "role_id":"35236657",
-            "person_name":"Dufour et Leroy",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046441\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048035",
+            "role_id": "35352245",
+            "person_name": "Hedy Backlin-Landman",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046441",
+            "role_id": "35236657",
+            "person_name": "Dufour et Leroy",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046441\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Dado, 1810\u201320.\n1810\u201320. Block-printed on handmade paper. Gift of Josephine Howell. 1955-85-11."
+    "tombstone": {
+        "epitaph": "Dado (France), 1810\u201320. Block-printed on handmade paper. \nGift of Josephine Howell. 1955-85-11"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b5b7ad",
-            "closest_css3":"#a9a9a9"
+            "color": "#857a5a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#98938d",
-            "closest_css3":"#808080"
+            "color": "#65583e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#6c6159",
-            "closest_css3":"#696969"
+            "color": "#382e20",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#cdba93",
-            "closest_css3":"#d2b48c"
+            "color": "#a58b50",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#f9fbc4",
-            "closest_css3":"#fffacd"
+            "color": "#d0ce85",
+            "closest_crayola": "#c5e384",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

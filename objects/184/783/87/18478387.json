@@ -1,80 +1,188 @@
 {
-    "id":"18478387",
-    "tms:id":"150003",
-    "accession_number":"1972-75-58",
-    "title":"Sample, ca. 1948",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18478387\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35379383",
-    "type_id":"35268079",
-    "date":"ca. 1948",
-    "year_start":"1943",
-    "year_end":"1953",
-    "year_acquired":"1972",
-    "decade":"1940",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton, synthetic\nTechnique: plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"2656 c. 1948 Dorothy Liebes",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 18 x 18 cm (7 1\/16 x 7 1\/16 in.)",
-    "creditline":"Gift of the Estate of Dorothy (Liebes) Morin",
-    "description":"Plain weave with paired warps with every fifth weft in another 2\/2 sequence. Warp is orange two-ply string. Weft is a repeating sequence of orange six-ply yarn, pink chenille, three rows of flat metallic gold paired with orange string, green six-ply yarn, green chenille, flat metallic silver paired with wrapped metallic silver. Four plain weave on paired warp. Five weft in another 2\/2 sequence.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18478387",
+    "tms:id": "150003",
+    "accession_number": "1972-75-58",
+    "title": "Sample (USA), ca. 1948",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18478387\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35379383",
+    "type_id": "35268079",
+    "date": "ca. 1948",
+    "year_start": 1943,
+    "year_end": 1953,
+    "year_acquired": "1972",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton, synthetic\nTechnique: plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "2656 c. 1948 Dorothy Liebes",
+    "provenance": "Estate of Dorothy (Liebes) Morin; 1972: acquired by Museum",
+    "dimensions": "Warp x Weft: 18 x 18 cm (7 1\/16 x 7 1\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "18.00",
+            "centimeters"
+        ],
+        "weft": [
+            "18.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of Dorothy (Liebes) Morin",
+    "description": "Plain weave with paired warps with every fifth weft in another 2\/2 sequence. Warp is orange two-ply string. Weft is a repeating sequence of orange six-ply yarn, pink chenille, three rows of flat metallic gold paired with orange string, green six-ply yarn, green chenille, flat metallic silver paired with wrapped metallic silver. Four plain weave on paired warp. Five weft in another 2\/2 sequence.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35943_e7448485e0d94006_b.jpg",
-                "width":880,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81805_c22406abf8de293d_b.jpg",
+                "width": 881,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81805"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35943_e7448485e0d94006_n.jpg",
-                "width":275,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81805_c22406abf8de293d_z.jpg",
+                "width": 551,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81805"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35943_e7448485e0d94006_z.jpg",
-                "width":550,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81805_c22406abf8de293d_n.jpg",
+                "width": 275,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81805"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81805_c22406abf8de293d_d.gif",
+                "width": 275,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81805"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81805_c22406abf8de293d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81805"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35943_e7448485e0d94006_b.jpg",
+                "width": 880,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "35943"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35943_e7448485e0d94006_z.jpg",
+                "width": 550,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "35943"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35943_e7448485e0d94006_n.jpg",
+                "width": 275,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35943"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35943_e7448485e0d94006_d.gif",
+                "width": 275,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35943"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35943_e7448485e0d94006_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35943"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sample, ca. 1948.\nca. 1948. Medium: cotton, synthetic\nTechnique: plain weave. Gift of the Estate of Dorothy (Liebes) Morin. 1972-75-58."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#6f3210",
-            "closest_css3":"#8b4513"
+            "person_id": "18045817",
+            "role_id": "35236745",
+            "person_name": "Dorothy Wright Liebes",
+            "person_date": "American, 1897\u20131972",
+            "role_name": "Weaver",
+            "role_display_name": "Woven by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236745\/"
         },
         {
-            "color":"#3d3018",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18045817",
+            "role_id": "35236655",
+            "person_name": "Dorothy Wright Liebes",
+            "person_date": "American, 1897\u20131972",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#a26636",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#13201b",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#70595c",
-            "closest_css3":"#696969"
+            "person_id": "18054731",
+            "role_id": "35351535",
+            "person_name": "Estate of Dorothy (Liebes) Morin",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054731\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sample (USA), ca. 1948. Medium: cotton, synthetic\nTechnique: plain weave. \nGift of the Estate of Dorothy (Liebes) Morin. 1972-75-58"
+    },
+    "colors": [
+        {
+            "color": "#a77038",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#cec7af",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#885b36",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#464738",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a27c69",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

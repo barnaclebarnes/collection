@@ -1,80 +1,134 @@
 {
-    "id":"18402547",
-    "tms:id":"111457",
-    "accession_number":"1955-123-4-a",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18402547\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"121769",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: resist printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Au Panier Fleuri Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
+    "id": "18402547",
+    "tms:id": "111457",
+    "accession_number": "1955-123-4-a",
+    "title": "Fragment",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18402547\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "121769",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: resist printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from Au Panier Fleuri Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18346_8c7ff57906498ef6_b.jpg",
-                "width":1024,
-                "height":635,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108008_3598fd399b2c8902_b.jpg",
+                "width": 655,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108008"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18346_8c7ff57906498ef6_n.jpg",
-                "width":320,
-                "height":198,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108008_3598fd399b2c8902_z.jpg",
+                "width": 409,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108008"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18346_8c7ff57906498ef6_z.jpg",
-                "width":640,
-                "height":397,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108008_3598fd399b2c8902_n.jpg",
+                "width": 205,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108008"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108008_3598fd399b2c8902_d.gif",
+                "width": 205,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108008"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108008_3598fd399b2c8902_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108008"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18346_8c7ff57906498ef6_b.jpg",
+                "width": 1024,
+                "height": 635,
+                "is_primary": "0",
+                "image_id": "18346"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18346_8c7ff57906498ef6_z.jpg",
+                "width": 640,
+                "height": 397,
+                "is_primary": "0",
+                "image_id": "18346"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18346_8c7ff57906498ef6_n.jpg",
+                "width": 320,
+                "height": 198,
+                "is_primary": "0",
+                "image_id": "18346"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18346_8c7ff57906498ef6_d.gif",
+                "width": 320,
+                "height": 198,
+                "is_primary": "0",
+                "image_id": "18346"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18346_8c7ff57906498ef6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18346"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fragment.\nTechnique: resist printed. Museum purchase from Au Panier Fleuri Fund. 1955-123-4-a."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d8d1c6",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#3f5380",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#daf7f3",
-            "closest_css3":"#e0ffff"
-        },
-        {
-            "color":"#5c728c",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#b3ccd4",
-            "closest_css3":"#b0c4de"
+            "person_id": "18539099",
+            "role_id": "35352249",
+            "person_name": "Arditti & Mayorcas",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539099\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fragment. Technique: resist printed. \nMuseum purchase from Au Panier Fleuri Fund. 1955-123-4-a"
+    },
+    "colors": [
+        {
+            "color": "#5b6570",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,42 +1,131 @@
 {
-    "id":"18386613",
-    "tms:id":"103440",
-    "accession_number":"1951-105-5",
-    "title":"Band",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18386613\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254631",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1951",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Richard C. Greenleaf",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254631",
-        "name":"Band"
+    "id": "18386613",
+    "tms:id": "103440",
+    "accession_number": "1951-105-5",
+    "title": "Band (France), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18386613\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254631",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1951",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 35 x 4 cm (13 3\/4 x 1 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.00",
+            "centimeters"
+        ],
+        "width": [
+            "4.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Richard C. Greenleaf",
+    "description": "Diamond-shaped openwork band of loosely chained blue cords sewn with serpentines of colored knotted silk floss. Floral pompom of silk floss and silk cord centered in each scallop. Edging in scalloped white chenille.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Band",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72554_17282d8d9289869e_b.jpg",
+                "width": 1024,
+                "height": 327,
+                "is_primary": "1",
+                "image_id": "72554"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72554_17282d8d9289869e_z.jpg",
+                "width": 640,
+                "height": 205,
+                "is_primary": "1",
+                "image_id": "72554"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72554_17282d8d9289869e_n.jpg",
+                "width": 320,
+                "height": 102,
+                "is_primary": "1",
+                "image_id": "72554"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72554_17282d8d9289869e_d.gif",
+                "width": 320,
+                "height": 102,
+                "is_primary": "1",
+                "image_id": "72554"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72554_17282d8d9289869e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "72554"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049377",
+            "role_id": "35351535",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Band.\nGift of Richard C. Greenleaf. 1951-105-5."
+    "tombstone": {
+        "epitaph": "Band (France), 18th century. Medium: silk. \nGift of Richard C. Greenleaf. 1951-105-5"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#292a30",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#172a46",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#2b496b",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#3f2d29",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a4543d",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

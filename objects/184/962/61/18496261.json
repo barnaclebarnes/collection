@@ -1,80 +1,164 @@
 {
-    "id":"18496261",
-    "tms:id":"159021",
-    "accession_number":"1978-146-870",
-    "title":"Matchsafe, \"Bamboo Leaves\", ca. 1900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18496261\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389463",
-    "type_id":"35287419",
-    "date":"ca. 1900",
-    "year_start":null,
-    "year_end":"1910",
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"Silver",
-    "markings":"Maker's mark (MK), unidentified Chinese characters.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"5.3 x 3.2 x 1 cm (2 1\/16 x 1 1\/4 x 3\/8 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"Rectangular, rounded corners, featuring bamboo leaves and central, circular reserve. Reverse features plum blossoms. Link attached to top of lid. Lid hinged on side. Striker on bottom.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18496261",
+    "tms:id": "159021",
+    "accession_number": "1978-146-870",
+    "title": "Bamboo Leaves Matchsafe, ca. 1900",
+    "title_raw": "Bamboo Leaves",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18496261\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35287419",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "Silver",
+    "markings": "Maker's mark (MK), unidentified Chinese characters.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "5.3 x 3.2 x 1 cm (2 1\/16 x 1 1\/4 x 3\/8 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.00",
+            "centimeters"
+        ],
+        "height": [
+            "5.30",
+            "centimeters"
+        ],
+        "width": [
+            "3.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "Rectangular, rounded corners, featuring bamboo leaves and central, circular reserve. Reverse features plum blossoms. Link attached to top of lid. Lid hinged on side. Striker on bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8630_ba2bb3a51de544b8_b.jpg",
-                "width":672,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104314_7d8ad9f547c6a141_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "104314"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8630_ba2bb3a51de544b8_n.jpg",
-                "width":210,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104314_7d8ad9f547c6a141_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "104314"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8630_ba2bb3a51de544b8_z.jpg",
-                "width":420,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104314_7d8ad9f547c6a141_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "104314"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104314_7d8ad9f547c6a141_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "104314"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104314_7d8ad9f547c6a141_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104314"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8630_ba2bb3a51de544b8_b.jpg",
+                "width": 672,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8630"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8630_ba2bb3a51de544b8_z.jpg",
+                "width": 420,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8630"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8630_ba2bb3a51de544b8_n.jpg",
+                "width": 210,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8630"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8630_ba2bb3a51de544b8_d.gif",
+                "width": 210,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8630"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8630_ba2bb3a51de544b8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8630"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Bamboo Leaves\", ca. 1900.\nca. 1900. Silver. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-870."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d0cede",
-            "closest_css3":"#d3d3d3"
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#9d909c",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#322533",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#8a7690",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#705a62",
-            "closest_css3":"#696969"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Bamboo Leaves Matchsafe, ca. 1900. Silver. \nGift of Stephen W. Brener and Carol B. Brener. 1978-146-870"
+    },
+    "colors": [
+        {
+            "color": "#675852",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#857a76",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

@@ -1,73 +1,245 @@
 {
-    "id":"18635635",
-    "tms:id":"192665",
-    "accession_number":"1991-14-2",
-    "title":"Map, \"Celestial Map\", 1989",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18635635\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35398511",
-    "type_id":"35237919",
-    "date":"1989",
-    "year_start":"1989",
-    "year_end":"1989",
-    "year_acquired":"1991",
-    "decade":"1980",
-    "woe:country":"23424977",
-    "medium":"Medium: Tyveck\nTechnique: Interarts gave this information, \"4-color process colors plus   silkscreened phosphorescent ink overprint; offset printed.",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Height: 69.5 (27 1\/4in.) Width:75.5cm 29 3\/4in. )",
-    "creditline":"Gift of Interarts",
-    "description":"Map of the night skies naming the constellations.",
-    "justification":null,
-    "type":{
-        "id":"35237919",
-        "name":"map"
+    "id": "18635635",
+    "tms:id": "192665",
+    "accession_number": "1991-14-2",
+    "title": "Map, Celestial Map, 1989",
+    "title_raw": "Celestial Map",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18635635\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35398511",
+    "type_id": "35237919",
+    "date": "1989",
+    "year_start": 1989,
+    "year_end": 1989,
+    "year_acquired": "1991",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "Medium: Tyveck\nTechnique: Interarts gave this information, \"4-color process colors plus   silkscreened phosphorescent ink overprint; offset printed.",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Height: 69.5 (27 1\/4in.) Width:75.5cm 29 3\/4in. )",
+    "dimensions_raw": {
+        "height": [
+            "69.50",
+            "centimeters"
+        ],
+        "width": [
+            "75.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Interarts",
+    "description": "Map of the night skies naming the constellations.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "map",
+    "images": [
         {
-            "person_id":"18045871",
-            "role_id":"35351535",
-            "person_name":"Interarts",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045871\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106156_8f266e357716db41_b.jpg",
+                "width": 1024,
+                "height": 1020,
+                "is_primary": "1",
+                "image_id": "106156"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106156_8f266e357716db41_z.jpg",
+                "width": 640,
+                "height": 637,
+                "is_primary": "1",
+                "image_id": "106156"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106156_8f266e357716db41_n.jpg",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "106156"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106156_8f266e357716db41_d.gif",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "106156"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106156_8f266e357716db41_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106156"
+            }
         },
         {
-            "person_id":"18045871",
-            "role_id":"35236681",
-            "person_name":"Interarts",
-            "role_name":"Company",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045871\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78697_778d9754941b6c22_b.jpg",
+                "width": 1024,
+                "height": 758,
+                "is_primary": "0",
+                "image_id": "78697"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78697_778d9754941b6c22_z.jpg",
+                "width": 640,
+                "height": 474,
+                "is_primary": "0",
+                "image_id": "78697"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78697_778d9754941b6c22_n.jpg",
+                "width": 320,
+                "height": 237,
+                "is_primary": "0",
+                "image_id": "78697"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78697_778d9754941b6c22_d.gif",
+                "width": 320,
+                "height": 237,
+                "is_primary": "0",
+                "image_id": "78697"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78697_778d9754941b6c22_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "78697"
+            }
         },
         {
-            "person_id":"18045869",
-            "role_id":"35236685",
-            "person_name":"Graphic Jackets",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045869\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
-        },
-        {
-            "person_id":"18045873",
-            "role_id":"35236655",
-            "person_name":"Tomas Filsinger",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045873\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78698_2c28832a1404602f_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "78698"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78698_2c28832a1404602f_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "78698"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78698_2c28832a1404602f_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "78698"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78698_2c28832a1404602f_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "78698"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78698_2c28832a1404602f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "78698"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Map, \"Celestial Map\", 1989.\n1989. Medium: Tyveck\nTechnique: Interarts gave this information, &quot;4-color process colors plus   silkscreened phosphorescent ink overprint; offset printed.. Gift of Interarts. 1991-14-2."
+    "participants": [
+        {
+            "person_id": "18045871",
+            "role_id": "35351535",
+            "person_name": "Interarts",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045871\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045871",
+            "role_id": "35236681",
+            "person_name": "Interarts",
+            "person_date": "",
+            "role_name": "Company",
+            "role_display_name": "Company:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045871\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        },
+        {
+            "person_id": "18045869",
+            "role_id": "35236685",
+            "person_name": "Graphic Jackets",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045869\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18045873",
+            "role_id": "35236655",
+            "person_name": "Tomas Filsinger",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045873\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Map, Celestial Map, 1989. Medium: Tyveck\nTechnique: Interarts gave this information, &quot;4-color process colors plus   silkscreened phosphorescent ink overprint; offset printed.. \nGift of Interarts. 1991-14-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#353633",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#575752",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#767a72",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#979a8e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#e5ebd9",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,87 +1,130 @@
 {
-    "id":"18699135",
-    "tms:id":"225176",
-    "accession_number":"2003-14-42",
-    "title":"Sampler, 1815",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18699135\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371963",
-    "type_id":"35256439",
-    "date":"1815",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"2003",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, linen\nTechnique: embroidery on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Oxford Jane Bedwin October 13, 1815",
-    "provenance":"Ex. coll. Fraser-Martin. Purchased from John Wanamaker.",
-    "dimensions":"14 1\/4 X 18 1\/4 inches framed",
-    "creditline":"Gift of Myra and William H. Mathers",
-    "description":"Large house with a field of sheep in front.  A church with steeple, a sailboat, a shepherd with his dog.  Floral border.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18699135",
+    "tms:id": "225176",
+    "accession_number": "2003-14-42",
+    "title": "Sampler, 1815",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18699135\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371963",
+    "type_id": "35256439",
+    "date": "1815",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2003",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, linen\nTechnique: embroidery on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Oxford Jane Bedwin October 13, 1815",
+    "provenance": "Ex. coll. Fraser-Martin. Purchased from John Wanamaker.",
+    "dimensions": "14 1\/4 X 18 1\/4 inches framed",
+    "dimensions_raw": {
+        "height": [
+            "36.20",
+            "centimeters"
+        ],
+        "width": [
+            "46.36",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Myra and William H. Mathers",
+    "description": "Large house with a field of sheep in front.  A church with steeple, a sailboat, a shepherd with his dog.  Floral border.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28113_8033aaca1533dbdc_b.jpg",
-                "width":1024,
-                "height":817,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28113_8033aaca1533dbdc_b.jpg",
+                "width": 1024,
+                "height": 817,
+                "is_primary": "1",
+                "image_id": "28113"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28113_8033aaca1533dbdc_n.jpg",
-                "width":320,
-                "height":255,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28113_8033aaca1533dbdc_z.jpg",
+                "width": 640,
+                "height": 511,
+                "is_primary": "1",
+                "image_id": "28113"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28113_8033aaca1533dbdc_z.jpg",
-                "width":640,
-                "height":511,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28113_8033aaca1533dbdc_n.jpg",
+                "width": 320,
+                "height": 255,
+                "is_primary": "1",
+                "image_id": "28113"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28113_8033aaca1533dbdc_d.gif",
+                "width": 320,
+                "height": 255,
+                "is_primary": "1",
+                "image_id": "28113"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28113_8033aaca1533dbdc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "28113"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18056013",
-            "role_id":"35236583",
-            "person_name":"Jane Bedwin",
-            "role_name":"Embroiderer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056013\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+            "person_id": "18056013",
+            "role_id": "35236583",
+            "person_name": "Jane Bedwin",
+            "person_date": "",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056013\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sampler, 1815.\n1815. Medium: silk, linen\nTechnique: embroidery on plain weave. Gift of Myra and William H. Mathers. 2003-14-42."
+    "tombstone": {
+        "epitaph": "Sampler, 1815. Medium: silk, linen\nTechnique: embroidery on plain weave. \nGift of Myra and William H. Mathers. 2003-14-42"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cab48c",
-            "closest_css3":"#d2b48c"
+            "color": "#d3c197",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#968c6b",
-            "closest_css3":"#808080"
+            "color": "#928560",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#777355",
-            "closest_css3":"#696969"
+            "color": "#303023",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#23241a",
-            "closest_css3":"#000000"
+            "color": "#706848",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#452f15",
-            "closest_css3":"#556b2f"
+            "color": "#6c532f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

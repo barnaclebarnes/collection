@@ -1,198 +1,394 @@
 {
-    "id":"18569213",
-    "tms:id":"78307",
-    "accession_number":"1943-43-27-a",
-    "title":"Textile, \"La Foire du Caire\", ca. 1790",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18569213\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1790",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1943",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Repeat H: 99.1 cm (39 in.)\nH x W (a): 145.5 x 84 cm (57 5\/16 x 33 1\/16 in.)\nH x W (b): 147.3 x 85 cm (58 in. x 33 7\/16 in.)",
-    "creditline":"Gift of W. and J. Sloane",
-    "description":"Four vignettes showing scenes in a Middle Eastern city. Purple on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-        {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15981_b8fc1078129c0174_b.jpg",
-                "width":644,
-                "height":1024,
-                "is_primary":"1"
-            },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15981_b8fc1078129c0174_n.jpg",
-                "width":201,
-                "height":320,
-                "is_primary":"1"
-            },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15981_b8fc1078129c0174_z.jpg",
-                "width":402,
-                "height":640,
-                "is_primary":"1"
-            }
-        },
-        {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15986_fd6e67959f4efe7e_b.jpg",
-                "width":1024,
-                "height":677,
-                "is_primary":"0"
-            },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15986_fd6e67959f4efe7e_n.jpg",
-                "width":320,
-                "height":211,
-                "is_primary":"0"
-            },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15986_fd6e67959f4efe7e_z.jpg",
-                "width":640,
-                "height":423,
-                "is_primary":"0"
-            }
-        },
-        {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15988_3abafe390c9b052f_b.jpg",
-                "width":1024,
-                "height":682,
-                "is_primary":"0"
-            },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15988_3abafe390c9b052f_n.jpg",
-                "width":320,
-                "height":213,
-                "is_primary":"0"
-            },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15988_3abafe390c9b052f_z.jpg",
-                "width":640,
-                "height":426,
-                "is_primary":"0"
-            }
-        },
-        {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15987_5143ba0b159f0ade_b.jpg",
-                "width":1024,
-                "height":678,
-                "is_primary":"0"
-            },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15987_5143ba0b159f0ade_n.jpg",
-                "width":320,
-                "height":212,
-                "is_primary":"0"
-            },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15987_5143ba0b159f0ade_z.jpg",
-                "width":640,
-                "height":424,
-                "is_primary":"0"
-            }
-        },
-        {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15989_09e6daa2639554a9_b.jpg",
-                "width":1024,
-                "height":689,
-                "is_primary":"0"
-            },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15989_09e6daa2639554a9_n.jpg",
-                "width":320,
-                "height":215,
-                "is_primary":"0"
-            },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15989_09e6daa2639554a9_z.jpg",
-                "width":640,
-                "height":431,
-                "is_primary":"0"
-            }
-        },
-        [
-
+    "id": "18569213",
+    "tms:id": "78307",
+    "accession_number": "1943-43-27-a",
+    "title": "Textile, La Foire du Caire, ca. 1790",
+    "title_raw": "La Foire du Caire",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18569213\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1943",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Repeat H: 99.1 cm (39 in.)\nH x W (a): 145.5 x 84 cm (57 5\/16 x 33 1\/16 in.)\nH x W (b): 147.3 x 85 cm (58 in. x 33 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "145.50",
+            "centimeters"
         ],
+        "width": [
+            "84.00",
+            "centimeters"
+        ]
+    },
+    "creditline": "Gift of W. and J. Sloane",
+    "description": "Four vignettes showing scenes in a Middle Eastern city. Purple on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15982_e5bcfe7308ff93db_b.jpg",
-                "width":1024,
-                "height":686,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109400_310fabb9102ee97e_b.jpg",
+                "width": 671,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109400"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15982_e5bcfe7308ff93db_n.jpg",
-                "width":320,
-                "height":214,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109400_310fabb9102ee97e_z.jpg",
+                "width": 419,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109400"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15982_e5bcfe7308ff93db_z.jpg",
-                "width":640,
-                "height":429,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109400_310fabb9102ee97e_n.jpg",
+                "width": 210,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109400"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109400_310fabb9102ee97e_d.gif",
+                "width": 210,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109400"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109400_310fabb9102ee97e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109400"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15981_b8fc1078129c0174_b.jpg",
+                "width": 644,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "15981"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15981_b8fc1078129c0174_z.jpg",
+                "width": 402,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "15981"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15981_b8fc1078129c0174_n.jpg",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15981"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15981_b8fc1078129c0174_d.gif",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15981"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15981_b8fc1078129c0174_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15981"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15986_fd6e67959f4efe7e_b.jpg",
+                "width": 1024,
+                "height": 677,
+                "is_primary": "0",
+                "image_id": "15986"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15986_fd6e67959f4efe7e_z.jpg",
+                "width": 640,
+                "height": 423,
+                "is_primary": "0",
+                "image_id": "15986"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15986_fd6e67959f4efe7e_n.jpg",
+                "width": 320,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "15986"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15986_fd6e67959f4efe7e_d.gif",
+                "width": 320,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "15986"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15986_fd6e67959f4efe7e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15986"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15988_3abafe390c9b052f_b.jpg",
+                "width": 1024,
+                "height": 682,
+                "is_primary": "0",
+                "image_id": "15988"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15988_3abafe390c9b052f_z.jpg",
+                "width": 640,
+                "height": 426,
+                "is_primary": "0",
+                "image_id": "15988"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15988_3abafe390c9b052f_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "15988"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15988_3abafe390c9b052f_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "0",
+                "image_id": "15988"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15988_3abafe390c9b052f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15988"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15987_5143ba0b159f0ade_b.jpg",
+                "width": 1024,
+                "height": 678,
+                "is_primary": "0",
+                "image_id": "15987"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15987_5143ba0b159f0ade_z.jpg",
+                "width": 640,
+                "height": 424,
+                "is_primary": "0",
+                "image_id": "15987"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15987_5143ba0b159f0ade_n.jpg",
+                "width": 320,
+                "height": 212,
+                "is_primary": "0",
+                "image_id": "15987"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15987_5143ba0b159f0ade_d.gif",
+                "width": 320,
+                "height": 212,
+                "is_primary": "0",
+                "image_id": "15987"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15987_5143ba0b159f0ade_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15987"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15989_09e6daa2639554a9_b.jpg",
+                "width": 1024,
+                "height": 689,
+                "is_primary": "0",
+                "image_id": "15989"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15989_09e6daa2639554a9_z.jpg",
+                "width": 640,
+                "height": 431,
+                "is_primary": "0",
+                "image_id": "15989"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15989_09e6daa2639554a9_n.jpg",
+                "width": 320,
+                "height": 215,
+                "is_primary": "0",
+                "image_id": "15989"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15989_09e6daa2639554a9_d.gif",
+                "width": 320,
+                "height": 215,
+                "is_primary": "0",
+                "image_id": "15989"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15989_09e6daa2639554a9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15989"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15985_786a39ed318ed2c2_b.jpg",
+                "width": 1024,
+                "height": 679,
+                "is_primary": "0",
+                "image_id": "15985"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15985_786a39ed318ed2c2_z.jpg",
+                "width": 640,
+                "height": 425,
+                "is_primary": "0",
+                "image_id": "15985"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15985_786a39ed318ed2c2_n.jpg",
+                "width": 320,
+                "height": 212,
+                "is_primary": "0",
+                "image_id": "15985"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15985_786a39ed318ed2c2_d.gif",
+                "width": 320,
+                "height": 212,
+                "is_primary": "0",
+                "image_id": "15985"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15985_786a39ed318ed2c2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15985"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15982_e5bcfe7308ff93db_b.jpg",
+                "width": 1024,
+                "height": 686,
+                "is_primary": "0",
+                "image_id": "15982"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15982_e5bcfe7308ff93db_z.jpg",
+                "width": 640,
+                "height": 429,
+                "is_primary": "0",
+                "image_id": "15982"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15982_e5bcfe7308ff93db_n.jpg",
+                "width": 320,
+                "height": 214,
+                "is_primary": "0",
+                "image_id": "15982"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15982_e5bcfe7308ff93db_d.gif",
+                "width": 320,
+                "height": 214,
+                "is_primary": "0",
+                "image_id": "15982"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15982_e5bcfe7308ff93db_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15982"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042255",
-            "role_id":"35351535",
-            "person_name":"W. and J. Sloane",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042255\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18042255",
+            "role_id": "35351535",
+            "person_name": "W. and J. Sloane",
+            "person_date": "1843\u20131985",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042255\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18045481",
-            "role_id":"35236671",
-            "person_name":"Petitpierre et Cie",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045481\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "person_id": "18045481",
+            "role_id": "35236671",
+            "person_name": "Petitpierre et Cie",
+            "person_date": "1770 \u2013 1848",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"La Foire du Caire\", ca. 1790.\nca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Gift of W. and J. Sloane. 1943-43-27-a."
+    "tombstone": {
+        "epitaph": "Textile, La Foire du Caire, ca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nGift of W. and J. Sloane. 1943-43-27-a"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#4b3a4e",
-            "closest_css3":"#2f4f4f"
+            "color": "#705d5b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#c2bbd7",
-            "closest_css3":"#b0c4de"
+            "color": "#91847c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#998aa8",
-            "closest_css3":"#a9a9a9"
+            "color": "#4f3a3d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#282a35",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#734956",
-            "closest_css3":"#696969"
+            "color": "#d8d8c3",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

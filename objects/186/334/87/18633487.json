@@ -1,87 +1,198 @@
 {
-    "id":"18633487",
-    "tms:id":"191587",
-    "accession_number":"1989-84-1",
-    "title":"Plate, \"Brasserie\/Etonnerie\", 1827",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18633487\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51587777",
-    "type_id":"35236833",
-    "date":"1827",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1989",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Enameled, gilt and glazed porcelain",
-    "markings":"On underside, painted in green: \"7 ms. 2 1\" below; in gold: \"D. g. 17 avril\"; painted in gray: interlaced \"L\"s, fleur-de-lis in center, \"Sevres \/ 27\" below; incised in clay: \"P [curved line] I I\" and \"D C\"",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"1989: acquired by Museum (from Caroline Imbert)",
-    "dimensions":"H x diam.: 3.2 x 23.5 cm (1 1\/4 x 9 1\/4 in.)",
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition and Charles C. Sampson Memorial Funds",
-    "description":"Circular plate.  In center a polychromed scene of barrel washing, with inscription \"Brasserie \/ Etonnerie;\" gilt rim with deep blue diaper pattern.",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18633487",
+    "tms:id": "191587",
+    "accession_number": "1989-84-1",
+    "title": "Brasserie Etonnerie Plate, 1827",
+    "title_raw": "Brasserie Etonnerie",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18633487\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51587759",
+    "type_id": "35236833",
+    "date": "1827",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1989",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Enameled, gilt and glazed porcelain",
+    "markings": "On underside, painted in green: \"7 ms. 2 1\" below; in gold: \"D. g. 17 avril\"; painted in gray: interlaced \"L\"s, fleur-de-lis in center, \"Sevres \/ 27\" below; incised in clay: \"P [curved line] I I\" and \"D C\"",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1989: acquired by Museum (from Caroline Imbert)",
+    "dimensions": "H x diam.: 3.2 x 23.5 cm (1 1\/4 x 9 1\/4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "23.50",
+            "centimeters"
+        ],
+        "height": [
+            "3.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition and Charles E. Sampson Memorial Funds",
+    "description": "Circular plate.  In center a polychromed scene of barrel washing, with inscription \"Brasserie \/ Etonnerie;\" gilt rim with deep blue diaper pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10699_2b8390817aca8b86_b.jpg",
-                "width":982,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107178_de0631f7136bf556_b.jpg",
+                "width": 1024,
+                "height": 627,
+                "is_primary": "1",
+                "image_id": "107178"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10699_2b8390817aca8b86_n.jpg",
-                "width":307,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107178_de0631f7136bf556_z.jpg",
+                "width": 640,
+                "height": 392,
+                "is_primary": "1",
+                "image_id": "107178"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10699_2b8390817aca8b86_z.jpg",
-                "width":614,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107178_de0631f7136bf556_n.jpg",
+                "width": 320,
+                "height": 196,
+                "is_primary": "1",
+                "image_id": "107178"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107178_de0631f7136bf556_d.gif",
+                "width": 320,
+                "height": 196,
+                "is_primary": "1",
+                "image_id": "107178"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107178_de0631f7136bf556_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107178"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10699_2b8390817aca8b86_b.jpg",
+                "width": 982,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10699"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10699_2b8390817aca8b86_z.jpg",
+                "width": 614,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10699"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10699_2b8390817aca8b86_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10699"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10699_2b8390817aca8b86_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10699"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10699_2b8390817aca8b86_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10699"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041967",
-            "role_id":"35236655",
-            "person_name":"Jean-Charles Develly",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041967\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18063767",
+            "role_id": "35352249",
+            "person_name": "Caroline Imbert",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063767\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18041967",
+            "role_id": "35236655",
+            "person_name": "Jean-Charles Develly",
+            "person_date": "1783\u20131849",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041967\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18043925",
+            "role_id": "35236657",
+            "person_name": "S\u00e8vres Porcelain Manufactory",
+            "person_date": "S\u00e8vres, France, founded 1738",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043925\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Plate, \"Brasserie\/Etonnerie\", 1827.\n1827. Enameled, gilt and glazed porcelain. Museum purchase from Decorative Arts Association Acquisition and Charles C. Sampson Memorial Funds. 1989-84-1."
+    "tombstone": {
+        "epitaph": "Brasserie Etonnerie Plate, 1827. Enameled, gilt and glazed porcelain. \nMuseum purchase from Decorative Arts Association Acquisition and Charles E. Sampson Memorial Funds. 1989-84-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#667172",
-            "closest_css3":"#696969"
+            "color": "#7f6650",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#7e3b0a",
-            "closest_css3":"#8b4513"
+            "color": "#8b8575",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#f9e7b2",
-            "closest_css3":"#ffe4b5"
+            "color": "#b9a270",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#b9955c",
-            "closest_css3":"#bdb76b"
+            "color": "#564a43",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#959bab",
-            "closest_css3":"#a9a9a9"
+            "color": "#f7f4c3",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#fffacd",
+            "closest_css4": "#fffacd"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

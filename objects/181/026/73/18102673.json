@@ -1,42 +1,167 @@
 {
-    "id":"18102673",
-    "tms:id":"6666",
-    "accession_number":"1898-18-2",
-    "title":"Textile, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18102673\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394505",
-    "type_id":"35251739",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1898",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, wool\nTechnique: tapestry woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":"See 1898-18-1*",
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Georges A. Glaenzer",
-    "description":"One piece that contains 4  uncut chair arms - 1898-18-2,3,4,5",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18102673",
+    "tms:id": "6666",
+    "accession_number": "1898-18-2",
+    "title": "Textile, 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18102673\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394505",
+    "type_id": "35251739",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1898",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, wool\nTechnique: plain weave with discontinuous wefts (tapestry)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 40.6 \u00d7 64.1 cm (16 \u00d7 25 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.64",
+            "centimeters"
+        ],
+        "width": [
+            "64.14",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Georges A. Glaenzer",
+    "description": "One piece that contains four uncut chair arms (1898-18-2,3,4,5).",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82402_2daad598482abaf3_b.jpg",
+                "width": 1024,
+                "height": 697,
+                "is_primary": "1",
+                "image_id": "82402"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82402_2daad598482abaf3_z.jpg",
+                "width": 640,
+                "height": 435,
+                "is_primary": "1",
+                "image_id": "82402"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82402_2daad598482abaf3_n.jpg",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "82402"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82402_2daad598482abaf3_d.gif",
+                "width": 320,
+                "height": 218,
+                "is_primary": "1",
+                "image_id": "82402"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82402_2daad598482abaf3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82402"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85580_d18f2814272c7c81_b.jpg",
+                "width": 1024,
+                "height": 674,
+                "is_primary": "0",
+                "image_id": "85580"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85580_d18f2814272c7c81_z.jpg",
+                "width": 640,
+                "height": 422,
+                "is_primary": "0",
+                "image_id": "85580"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85580_d18f2814272c7c81_n.jpg",
+                "width": 320,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "85580"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85580_d18f2814272c7c81_d.gif",
+                "width": 320,
+                "height": 211,
+                "is_primary": "0",
+                "image_id": "85580"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85580_d18f2814272c7c81_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "85580"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050397",
+            "role_id": "35351535",
+            "person_name": "Georges A. Glaenzer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050397\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 19th century.\n19th century. Medium: silk, wool\nTechnique: tapestry woven. Gift of Georges A. Glaenzer. 1898-18-2."
+    "tombstone": {
+        "epitaph": "Textile, 19th century. Medium: silk, wool\nTechnique: plain weave with discontinuous wefts (tapestry). \nGift of Georges A. Glaenzer. 1898-18-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a68571",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#8e6766",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#975b31",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#bc9b62",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#d3bf94",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "is_loan_object": 0
 }

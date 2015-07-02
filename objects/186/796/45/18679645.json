@@ -1,95 +1,166 @@
 {
-    "id":"18679645",
-    "tms:id":"215296",
-    "accession_number":"1969-165-823",
-    "title":"Sample, \"Linoplad\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18679645\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: linen\nTechnique: plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Plain weave checked pattern in yellow, beige and white. Number 27.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18679645",
+    "tms:id": "215296",
+    "accession_number": "1969-165-823",
+    "title": "Sample, Linoplad",
+    "title_raw": "Linoplad",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18679645\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1969",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: linen\nTechnique: plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "30.48",
+            "centimeters"
+        ],
+        "weft": [
+            "30.48",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Plain weave checked pattern in yellow, beige and white. Number 27.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17105_8c788ae56906e99f_b.jpg",
-                "width":1024,
-                "height":1018,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112174_8629d1c6dd6d13fb_b.jpg",
+                "width": 1024,
+                "height": 1005,
+                "is_primary": "1",
+                "image_id": "112174"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17105_8c788ae56906e99f_n.jpg",
-                "width":320,
-                "height":318,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112174_8629d1c6dd6d13fb_z.jpg",
+                "width": 640,
+                "height": 628,
+                "is_primary": "1",
+                "image_id": "112174"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17105_8c788ae56906e99f_z.jpg",
-                "width":640,
-                "height":636,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112174_8629d1c6dd6d13fb_n.jpg",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "112174"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112174_8629d1c6dd6d13fb_d.gif",
+                "width": 320,
+                "height": 314,
+                "is_primary": "1",
+                "image_id": "112174"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112174_8629d1c6dd6d13fb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112174"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17105_8c788ae56906e99f_b.jpg",
+                "width": 1024,
+                "height": 1018,
+                "is_primary": "0",
+                "image_id": "17105"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17105_8c788ae56906e99f_z.jpg",
+                "width": 640,
+                "height": 636,
+                "is_primary": "0",
+                "image_id": "17105"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17105_8c788ae56906e99f_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "17105"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17105_8c788ae56906e99f_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "17105"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17105_8c788ae56906e99f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17105"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Linoplad\".\nMedium: linen\nTechnique: plain weave. Gift of Alexander H. Girard. 1969-165-823."
+    "tombstone": {
+        "epitaph": "Sample, Linoplad. Medium: linen\nTechnique: plain weave. \nGift of Alexander H. Girard. 1969-165-823"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a7860c",
-            "closest_css3":"#b8860b"
+            "color": "#bcad3d",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
         },
         {
-            "color":"#bda87b",
-            "closest_css3":"#bdb76b"
+            "color": "#a9a183",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#cea922",
-            "closest_css3":"#daa520"
-        },
-        {
-            "color":"#988255",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#e9ddc3",
-            "closest_css3":"#f5deb3"
+            "color": "#d3d0af",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

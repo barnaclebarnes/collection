@@ -1,87 +1,188 @@
 {
-    "id":"18491607",
-    "tms:id":"156684",
-    "accession_number":"1976-98-20",
-    "title":"Textile, \"The Seder\", 1930s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18491607\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1930s",
-    "year_start":"1930",
-    "year_end":"1939",
-    "year_acquired":"1976",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: hand screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Written on back in pencil: A. Nedby 10 years",
-    "provenance":null,
-    "dimensions":"H x W: 181 x 86.4 cm (71 1\/4 x 34 in.)\nRepeat H x W: 59.4 x 41.9 cm (23 3\/8 x 16 1\/2 in.)",
-    "creditline":"Gift of the Estate of Ella Ostrowsky",
-    "description":"Horizontal offset repeat of Friday Sabbath meal with man, woman, boy and girl around table of food with menorah. Silk screened in 3 colors: gold, salmon and blue. Salmon printed over blue for purple, blue over gold for green.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18491607",
+    "tms:id": "156684",
+    "accession_number": "1976-98-20",
+    "title": "Textile, The Seder, 1930s",
+    "title_raw": "The Seder",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18491607\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1930s",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1976",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: hand screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Written on back in pencil: A. Nedby 10 years",
+    "provenance": null,
+    "dimensions": "H x W: 181 x 86.4 cm (71 1\/4 x 34 in.)\nRepeat H x W: 59.4 x 41.9 cm (23 3\/8 x 16 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "180.98",
+            "centimeters"
+        ],
+        "width": [
+            "86.36",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of Ella Ostrowsky",
+    "description": "Horizontal offset repeat of Friday Sabbath meal with man, woman, boy and girl around table of food with menorah. Silk screened in 3 colors: gold, salmon and blue. Salmon printed over blue for purple, blue over gold for green.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8122_3094d816a40b89e8_b.jpg",
-                "width":520,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107276_542643166ca1c860_b.jpg",
+                "width": 706,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "107276"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8122_3094d816a40b89e8_n.jpg",
-                "width":163,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107276_542643166ca1c860_z.jpg",
+                "width": 441,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "107276"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8122_3094d816a40b89e8_z.jpg",
-                "width":325,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107276_542643166ca1c860_n.jpg",
+                "width": 221,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107276"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107276_542643166ca1c860_d.gif",
+                "width": 221,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107276"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107276_542643166ca1c860_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107276"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8122_3094d816a40b89e8_b.jpg",
+                "width": 520,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8122"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8122_3094d816a40b89e8_z.jpg",
+                "width": 325,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8122"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8122_3094d816a40b89e8_n.jpg",
+                "width": 163,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8122"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8122_3094d816a40b89e8_d.gif",
+                "width": 163,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8122"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8122_3094d816a40b89e8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8122"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049575",
-            "role_id":"35236793",
-            "person_name":"The Educational Alliance",
-            "role_name":"Student at",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049575\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236793\/"
+            "person_id": "18049575",
+            "role_id": "35236793",
+            "person_name": "The Educational Alliance",
+            "person_date": "",
+            "role_name": "Student at",
+            "role_display_name": "Student at",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049575\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236793\/"
+        },
+        {
+            "person_id": "34624821",
+            "role_id": "35236685",
+            "person_name": "A. Nedby",
+            "person_date": "American",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/34624821\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18537843",
+            "role_id": "35351535",
+            "person_name": "Estate of Ella Ostrowsky",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537843\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"The Seder\", 1930s.\n1930s. Medium: cotton\nTechnique: hand screen printed on plain weave. Gift of the Estate of Ella Ostrowsky. 1976-98-20."
+    "tombstone": {
+        "epitaph": "Textile, The Seder, 1930s. Medium: cotton\nTechnique: hand screen printed on plain weave. \nGift of the Estate of Ella Ostrowsky. 1976-98-20"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#f3972a",
-            "closest_css3":"#daa520"
+            "color": "#cc9c46",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#e1d5e1",
-            "closest_css3":"#dcdcdc"
+            "color": "#cec5a2",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#f5e0d4",
-            "closest_css3":"#faebd7"
+            "color": "#a96a69",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         },
         {
-            "color":"#c16b1e",
-            "closest_css3":"#d2691e"
+            "color": "#cf8a6c",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#e9967a",
+            "closest_css4": "#e9967a"
         },
         {
-            "color":"#ae4545",
-            "closest_css3":"#a0522d"
+            "color": "#a19f80",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

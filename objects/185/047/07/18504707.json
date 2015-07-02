@@ -1,80 +1,178 @@
 {
-    "id":"18504707",
-    "tms:id":"163257",
-    "accession_number":"1980-31-7",
-    "title":"Square, ca. 1910",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18504707\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35256017",
-    "date":"ca. 1910",
-    "year_start":"1905",
-    "year_end":"1915",
-    "year_acquired":"1980",
-    "decade":"1900",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: chromolithography printed on 4&1 satin",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 58 x 58.5 cm (22 13\/16 x 23 1\/16 in.)",
-    "creditline":"Gift of Mr. and Mrs. Stephen Smith",
-    "description":"Panel for collectors of cigarette souvenir squares which were to be stitched to the spaces indicated. Eleven flags with a large United States flag in the center and a gold frame around the edge. \"No. 1.\" All edges cut.",
-    "justification":null,
-    "type":{
-        "id":"35256017",
-        "name":"Square"
+    "id": "18504707",
+    "tms:id": "163257",
+    "accession_number": "1980-31-7",
+    "title": "Cover (USA), ca. 1910",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18504707\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35237165",
+    "date": "ca. 1910",
+    "year_start": 1905,
+    "year_end": 1915,
+    "year_acquired": "1980",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: chromolithography printed on 4&1 satin",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 58 x 58.5 cm (22 13\/16 x 23 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "58.00",
+            "centimeters"
+        ],
+        "width": [
+            "58.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mr. and Mrs. Stephen Smith",
+    "description": "Panel for collectors of cigarette souvenir squares which were to be stitched to the spaces indicated. Eleven flags with a large United States flag in the center and a gold frame around the edge. \"No. 1.\" All edges cut.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Cover",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32596_eec900388003897a_b.jpg",
-                "width":991,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90125_27bca3c62fc1193c_b.jpg",
+                "width": 1024,
+                "height": 1003,
+                "is_primary": "1",
+                "image_id": "90125"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32596_eec900388003897a_n.jpg",
-                "width":310,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90125_27bca3c62fc1193c_z.jpg",
+                "width": 640,
+                "height": 627,
+                "is_primary": "1",
+                "image_id": "90125"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32596_eec900388003897a_z.jpg",
-                "width":620,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90125_27bca3c62fc1193c_n.jpg",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "90125"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90125_27bca3c62fc1193c_d.gif",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "90125"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90125_27bca3c62fc1193c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90125"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32596_eec900388003897a_b.jpg",
+                "width": 991,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "32596"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32596_eec900388003897a_z.jpg",
+                "width": 620,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "32596"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32596_eec900388003897a_n.jpg",
+                "width": 310,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32596"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32596_eec900388003897a_d.gif",
+                "width": 310,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32596"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32596_eec900388003897a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32596"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Square, ca. 1910.\nca. 1910. Medium: cotton\nTechnique: chromolithography printed on 4&amp;1 satin. Gift of Mr. and Mrs. Stephen Smith. 1980-31-7."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#695c54",
-            "closest_css3":"#696969"
+            "person_id": "18055561",
+            "role_id": "35351535",
+            "person_name": "Mrs. Stephen Smith",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055561\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#621716",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#3a4443",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#af6530",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#934d2e",
-            "closest_css3":"#a0522d"
+            "person_id": "18055559",
+            "role_id": "35351535",
+            "person_name": "Mr. Stephen Smith",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055559\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Cover (USA), ca. 1910. Medium: cotton\nTechnique: chromolithography printed on 4&amp;1 satin. \nGift of Mr. and Mrs. Stephen Smith. 1980-31-7"
+    },
+    "colors": [
+        {
+            "color": "#e5e1cc",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#b68e55",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#8e5437",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#627556",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#bbbc9d",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

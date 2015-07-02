@@ -1,42 +1,122 @@
 {
-    "id":"18471597",
-    "tms:id":"146457",
-    "accession_number":"1969-97-4-a,b",
-    "title":"Andiron",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18471597\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35397545",
-    "type_id":"35264345",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":null,
-    "medium":"brass, iron(?)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 48.5 x 51 x 16.5 cm (19 1\/8 x 20 1\/16 x 6 1\/2 in.)",
-    "creditline":"Gift of James M. Osborn",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35264345",
-        "name":"andiron"
+    "id": "18471597",
+    "tms:id": "146457",
+    "accession_number": "1969-97-4-a,b",
+    "title": "Andiron",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18471597\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35397545",
+    "type_id": "35264345",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1969",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "brass, iron(?)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 48.5 x 51 x 16.5 cm (19 1\/8 x 20 1\/16 x 6 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "16.50",
+            "centimeters"
+        ],
+        "height": [
+            "48.50",
+            "centimeters"
+        ],
+        "width": [
+            "51.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of James M. Osborn",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "andiron",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103970_7e284e015eb855dc_b.jpg",
+                "width": 1024,
+                "height": 921,
+                "is_primary": "1",
+                "image_id": "103970"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103970_7e284e015eb855dc_z.jpg",
+                "width": 640,
+                "height": 575,
+                "is_primary": "1",
+                "image_id": "103970"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103970_7e284e015eb855dc_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "103970"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103970_7e284e015eb855dc_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "103970"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103970_7e284e015eb855dc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103970"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18053141",
+            "role_id": "35351535",
+            "person_name": "James M. Osborn",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053141\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Andiron.\nbrass, iron(?). Gift of James M. Osborn. 1969-97-4-a,b."
+    "tombstone": {
+        "epitaph": "Andiron. brass, iron(?). \nGift of James M. Osborn. 1969-97-4-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#3b2f23",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6e6045",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#837d70",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,87 +1,188 @@
 {
-    "id":"18562409",
-    "tms:id":"74408",
-    "accession_number":"1941-107-9",
-    "title":"Sidewall, ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18562409\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"ca. 1930",
-    "year_start":"1925",
-    "year_end":"1935",
-    "year_acquired":"1941",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"85.5 x 51 cm (33 11\/16 x 20 1\/16 in.)",
-    "creditline":"Gift of D. Lorraine Yerkes",
-    "description":"Full width giving slightly more than one repeat of vertical framework set with floral clusters and interrupted at regular intervals with cartouche of rococo scrolls. Greens on white embossed ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18562409",
+    "tms:id": "74408",
+    "accession_number": "1941-107-9",
+    "title": "Sidewall (USA), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18562409\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "ca. 1930",
+    "year_start": 1925,
+    "year_end": 1935,
+    "year_acquired": "1941",
+    "decade": "1920",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "85.5 x 51 cm (33 11\/16 x 20 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "85.50",
+            "centimeters"
+        ],
+        "width": [
+            "51.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of D. Lorraine Yerkes",
+    "description": "Full width giving slightly more than one repeat of vertical framework set with floral clusters and interrupted at regular intervals with cartouche of rococo scrolls. Greens on white embossed ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4444_5314ccf74c43c859_b.jpg",
-                "width":615,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92248_832e4675bef79ba8_b.jpg",
+                "width": 650,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92248"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4444_5314ccf74c43c859_n.jpg",
-                "width":192,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92248_832e4675bef79ba8_z.jpg",
+                "width": 406,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92248"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4444_5314ccf74c43c859_z.jpg",
-                "width":384,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92248_832e4675bef79ba8_n.jpg",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92248"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92248_832e4675bef79ba8_d.gif",
+                "width": 203,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92248"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92248_832e4675bef79ba8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92248"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4444_5314ccf74c43c859_b.jpg",
+                "width": 615,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "4444"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4444_5314ccf74c43c859_z.jpg",
+                "width": 384,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "4444"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4444_5314ccf74c43c859_n.jpg",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4444"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4444_5314ccf74c43c859_d.gif",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "4444"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4444_5314ccf74c43c859_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "4444"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046415",
-            "role_id":"35236657",
-            "person_name":"M.H. Birge & Sons Co.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046415\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047043",
+            "role_id": "35351535",
+            "person_name": "D. Lorraine Yerkes",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047043\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18052379",
+            "role_id": "35352245",
+            "person_name": "Calvin S.  Hathaway",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046415",
+            "role_id": "35236657",
+            "person_name": "M.H. Birge & Sons Co.",
+            "person_date": "1834",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046415\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, ca. 1930.\nca. 1930. Machine-printed. Gift of D. Lorraine Yerkes. 1941-107-9."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), ca. 1930. Machine-printed. \nGift of D. Lorraine Yerkes. 1941-107-9"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#adbfcf",
-            "closest_css3":"#b0c4de"
+            "color": "#dcd8cc",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#5f7565",
-            "closest_css3":"#696969"
+            "color": "#566c46",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#2d4443",
-            "closest_css3":"#2f4f4f"
+            "color": "#71885a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#799885",
-            "closest_css3":"#808080"
+            "color": "#a0b37b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
         },
         {
-            "color":"#8d9d9f",
-            "closest_css3":"#778899"
+            "color": "#323a32",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

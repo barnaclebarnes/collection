@@ -1,42 +1,110 @@
 {
-    "id":"18417843",
-    "tms:id":"119152",
-    "accession_number":"1957-180-111",
-    "title":"Picture",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18417843\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394387",
-    "type_id":"35270021",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1957",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of the estate of Mrs. Lathrop Colgate Harper",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35270021",
-        "name":"Picture"
-    },
-    "images":[
-
+    "id": "18417843",
+    "tms:id": "119152",
+    "accession_number": "1957-180-111",
+    "title": "Picture (England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18417843\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394387",
+    "type_id": "35270021",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1957",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of the estate of Mrs. Lathrop Colgate Harper",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Picture",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73554_197d9e124ccdb2f4_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "73554"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73554_197d9e124ccdb2f4_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "73554"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73554_197d9e124ccdb2f4_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "73554"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73554_197d9e124ccdb2f4_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "73554"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/73554_197d9e124ccdb2f4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "73554"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049995",
+            "role_id": "35351535",
+            "person_name": "Estate of Mrs. Lathrop Colgate Harper",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049995\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Picture.\nwoven. Gift of the estate of Mrs. Lathrop Colgate Harper. 1957-180-111."
+    "tombstone": {
+        "epitaph": "Picture (England). woven. \nGift of the estate of Mrs. Lathrop Colgate Harper. 1957-180-111"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#15192c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#8a8e92",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#454956",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

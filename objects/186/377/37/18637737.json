@@ -1,87 +1,198 @@
 {
-    "id":"18637737",
-    "tms:id":"193722",
-    "accession_number":"1991-89-167",
-    "title":"Sidewall, 1930\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18637737\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1930\u201350",
-    "year_start":"1930",
-    "year_end":"1950",
-    "year_acquired":"1991",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Printed on selvage: \"WASHABLE, RUN III, U.W.P.C. OF N.A. UNION MADE\"",
-    "provenance":null,
-    "dimensions":"135 x 49 cm (53 1\/8 x 19 5\/16 in. )",
-    "creditline":"Gift of Suzanne Lipschutz",
-    "description":"Red and blue flowers with white geometrics with metallic silver on a pale green ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18637737",
+    "tms:id": "193722",
+    "accession_number": "1991-89-167",
+    "title": "Sidewall (USA), 1930\u201350",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18637737\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1930\u201350",
+    "year_start": 1930,
+    "year_end": 1950,
+    "year_acquired": "1991",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed on selvage: \"WASHABLE, RUN III, U.W.P.C. OF N.A. UNION MADE\"",
+    "provenance": null,
+    "dimensions": "135 x 49 cm (53 1\/8 x 19 5\/16 in. )",
+    "dimensions_raw": {
+        "height": [
+            "135.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Suzanne Lipschutz",
+    "description": "Red and blue flowers with white geometrics with metallic silver on a pale green ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11694_1f989e9cc9883983_b.jpg",
-                "width":578,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81890_d7da3a82927c2487_b.jpg",
+                "width": 596,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81890"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11694_1f989e9cc9883983_n.jpg",
-                "width":181,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81890_d7da3a82927c2487_z.jpg",
+                "width": 372,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81890"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11694_1f989e9cc9883983_z.jpg",
-                "width":361,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81890_d7da3a82927c2487_n.jpg",
+                "width": 186,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81890"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81890_d7da3a82927c2487_d.gif",
+                "width": 186,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81890"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81890_d7da3a82927c2487_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81890"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11694_1f989e9cc9883983_b.jpg",
+                "width": 578,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11694"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11694_1f989e9cc9883983_z.jpg",
+                "width": 361,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11694"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11694_1f989e9cc9883983_n.jpg",
+                "width": 181,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11694"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11694_1f989e9cc9883983_d.gif",
+                "width": 181,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11694"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11694_1f989e9cc9883983_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11694"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046869",
-            "role_id":"35236657",
-            "person_name":"Mountville",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046869\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18538223",
+            "role_id": "35352245",
+            "person_name": "Molly Holst",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538223\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18537341",
+            "role_id": "35351535",
+            "person_name": "Suzanne Lipschutz",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537341\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048481",
+            "role_id": "35352245",
+            "person_name": "Rose Gottschalk",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046869",
+            "role_id": "35236657",
+            "person_name": "Mountville",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046869\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1930\u201350.\n1930\u201350. Machine-printed. Gift of Suzanne Lipschutz. 1991-89-167."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1930\u201350. Machine-printed. \nGift of Suzanne Lipschutz. 1991-89-167"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#738894",
-            "closest_css3":"#778899"
+            "color": "#90a58a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
         },
         {
-            "color":"#bdd0e2",
-            "closest_css3":"#b0c4de"
+            "color": "#6c8b67",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#4a586d",
-            "closest_css3":"#696969"
+            "color": "#7373a4",
+            "closest_crayola": "#7366bd",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
         },
         {
-            "color":"#782521",
-            "closest_css3":"#8b4513"
+            "color": "#8b3e1c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#393d54",
-            "closest_css3":"#2f4f4f"
+            "color": "#80899e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,80 +1,150 @@
 {
-    "id":"18621495",
-    "tms:id":"185571",
-    "accession_number":"1986-61-62",
-    "title":"Plate",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621495\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35411369",
-    "type_id":"35236833",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Tin-glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Kinch and Christensen, Copenhagen; 1968: Walter Phelps Warren; 1986: bequested to Museum",
-    "dimensions":"H x W: 4 x 35.8cm (1 9\/16 x 14 1\/8in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Circular plate with wide rim; painted in underglaze blue on white with brick-red outer border; center has chinoiserie scene of bird, flowers; cavetto has diaper pattern with 5 floral reserves; outer rim has 5 floral sprays; back painted with 4 evenly-spaced squiggles.",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18621495",
+    "tms:id": "185571",
+    "accession_number": "1986-61-62",
+    "title": "Plate (Netherlands), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621495\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35411369",
+    "type_id": "35236833",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Tin-glazed earthenware",
+    "markings": "none",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Kinch and Christensen, Copenhagen; 1968: Walter Phelps Warren; 1986: bequested to Museum",
+    "dimensions": "H x W: 4 x 35.8cm (1 9\/16 x 14 1\/8in.)",
+    "dimensions_raw": {
+        "height": [
+            "4.00",
+            "centimeters"
+        ],
+        "width": [
+            "35.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Circular plate with wide rim; painted in underglaze blue on white with brick-red outer border; center has chinoiserie scene of bird, flowers; cavetto has diaper pattern with 5 floral reserves; outer rim has 5 floral sprays; back painted with 4 evenly-spaced squiggles.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44838_594ba1a7a7c88e4e_b.jpg",
-                "width":1024,
-                "height":989,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110998_519899838a812405_b.jpg",
+                "width": 1024,
+                "height": 829,
+                "is_primary": "1",
+                "image_id": "110998"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44838_594ba1a7a7c88e4e_n.jpg",
-                "width":320,
-                "height":309,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110998_519899838a812405_z.jpg",
+                "width": 640,
+                "height": 518,
+                "is_primary": "1",
+                "image_id": "110998"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44838_594ba1a7a7c88e4e_z.jpg",
-                "width":640,
-                "height":618,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110998_519899838a812405_n.jpg",
+                "width": 320,
+                "height": 259,
+                "is_primary": "1",
+                "image_id": "110998"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110998_519899838a812405_d.gif",
+                "width": 320,
+                "height": 259,
+                "is_primary": "1",
+                "image_id": "110998"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110998_519899838a812405_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110998"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44838_594ba1a7a7c88e4e_b.jpg",
+                "width": 1024,
+                "height": 989,
+                "is_primary": "0",
+                "image_id": "44838"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44838_594ba1a7a7c88e4e_z.jpg",
+                "width": 640,
+                "height": 618,
+                "is_primary": "0",
+                "image_id": "44838"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44838_594ba1a7a7c88e4e_n.jpg",
+                "width": 320,
+                "height": 309,
+                "is_primary": "0",
+                "image_id": "44838"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44838_594ba1a7a7c88e4e_d.gif",
+                "width": 320,
+                "height": 309,
+                "is_primary": "0",
+                "image_id": "44838"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44838_594ba1a7a7c88e4e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "44838"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Plate.\nTin-glazed earthenware. Bequest of Walter Phelps Warren. 1986-61-62."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#829dbb",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#3f5172",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#536e94",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#6f402d",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#646271",
-            "closest_css3":"#696969"
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Plate (Netherlands), 17th century. Tin-glazed earthenware. \nBequest of Walter Phelps Warren. 1986-61-62"
+    },
+    "colors": [
+        {
+            "color": "#736f66",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3f444d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

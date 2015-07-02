@@ -1,42 +1,122 @@
 {
-    "id":"18558651",
-    "tms:id":"72526",
-    "accession_number":"1940-120-70",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18558651\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1940",
-    "decade":null,
-    "woe:country":"23424750",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mary Hearn Greims",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18558651",
+    "tms:id": "72526",
+    "accession_number": "1940-120-70",
+    "title": "Drawing, Wallpaper Design, 1830\u201350",
+    "title_raw": "Wallpaper Design",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18558651\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51683785",
+    "type_id": "35237093",
+    "date": "1830\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1940",
+    "decade": null,
+    "woe:country_id": "23424750",
+    "medium": "Brush and gouache, watercolor, graphite on white paper",
+    "markings": "On verso, in graphite: 11",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1940: acquired by Museum",
+    "dimensions": "32.7 x 24.5 cm (12 7\/8 x 9 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "32.70",
+            "centimeters"
+        ],
+        "width": [
+            "24.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Mary Hearn Greims",
+    "description": "A dado is shown at the bottom, an entablature on top. The panel shows on top a rinceau. It is checkered. For the squares are suggested alternative decorations: obliquely dispersed straw-plotting, at left: a seemingly woven lozenge, at right. Alternative suggestions were also made for the floral decorations of the vertical and horizontal bands framing the squares. Rosettes are in the squares at the crossings of the bands.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63528_edcbab479939ee87_b.jpg",
+                "width": 769,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63528"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63528_edcbab479939ee87_z.jpg",
+                "width": 481,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63528"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63528_edcbab479939ee87_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63528"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63528_edcbab479939ee87_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63528"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63528_edcbab479939ee87_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63528"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mary Hearn Greims. 1940-120-70."
+    "tombstone": {
+        "epitaph": "Drawing, Wallpaper Design, 1830\u201350. Brush and gouache, watercolor, graphite on white paper. \nMuseum purchase through gift of Mary Hearn Greims. 1940-120-70"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#89968d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#5c493b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#86725e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#3f3d3a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b4ae9a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

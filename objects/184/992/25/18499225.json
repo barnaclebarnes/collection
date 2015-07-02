@@ -1,42 +1,107 @@
 {
-    "id":"18499225",
-    "tms:id":"160514",
-    "accession_number":"1979-91-1161",
-    "title":"Ceiling, 1905\u201315",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18499225\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35431831",
-    "type_id":"35293313",
-    "date":"1905\u201315",
-    "year_start":"1905",
-    "year_end":"1915",
-    "year_acquired":"1979",
-    "decade":"1900",
-    "woe:country":"23424977",
-    "medium":"Machine-printed on paper, mica, liquid",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"89 x 49 cm (35 1\/16 x 19 5\/16 in.)",
-    "creditline":"Gift of Victorian Collectibles",
-    "description":"Lattice pattern of scrolls with medallions of scrolling foliage and flowers. Printed in light blue, white liquid mica and gold liquid mica on pink-beige ground.",
-    "justification":null,
-    "type":{
-        "id":"35293313",
-        "name":"Ceiling"
+    "id": "18499225",
+    "tms:id": "160514",
+    "accession_number": "1979-91-1161",
+    "title": "Ceiling (USA), 1905\u201315",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18499225\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35431831",
+    "type_id": "35293313",
+    "date": "1905\u201315",
+    "year_start": 1905,
+    "year_end": 1915,
+    "year_acquired": "1979",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed on paper, mica, liquid",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "89 x 49 cm (35 1\/16 x 19 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "89.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Victorian Collectibles",
+    "description": "Lattice pattern of scrolls with medallions of scrolling foliage and flowers. Printed in light blue, white liquid mica and gold liquid mica on pink-beige ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Ceiling",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102698_70667cd8e8f1a2a3_b.jpg",
+                "width": 585,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "102698"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102698_70667cd8e8f1a2a3_z.jpg",
+                "width": 365,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "102698"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102698_70667cd8e8f1a2a3_n.jpg",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "102698"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102698_70667cd8e8f1a2a3_d.gif",
+                "width": 183,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "102698"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102698_70667cd8e8f1a2a3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "102698"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18064161",
+            "role_id": "35351535",
+            "person_name": "Victorian Collectibles",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18064161\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Ceiling, 1905\u201315.\n1905\u201315. Machine-printed on paper, mica, liquid. Gift of Victorian Collectibles. 1979-91-1161."
+    "tombstone": {
+        "epitaph": "Ceiling (USA), 1905\u201315. Machine-printed on paper, mica, liquid. \nGift of Victorian Collectibles. 1979-91-1161"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#bda77f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

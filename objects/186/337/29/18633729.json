@@ -1,49 +1,102 @@
 {
-    "id":"18633729",
-    "tms:id":"191710",
-    "accession_number":"1990-115-1",
-    "title":"Figure, ca. 1970",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18633729\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35237189",
-    "date":"ca. 1970",
-    "year_start":"1960",
-    "year_end":"1980",
-    "year_acquired":"1990",
-    "decade":"1960",
-    "woe:country":null,
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18633729",
+    "tms:id": "191710",
+    "accession_number": "1990-115-1",
+    "title": "Figure, ca. 1970",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18633729\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237189",
+    "date": "ca. 1970",
+    "year_start": 1960,
+    "year_end": 1980,
+    "year_acquired": "1990",
+    "decade": "1960",
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Figure",
+    "images": [
         {
-            "person_id":"18049699",
-            "role_id":"35352249",
-            "person_name":"David McFadden",
-            "role_name":"Vendor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049699\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120884_a99ed836e23e8a10_b.jpg",
+                "width": 904,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "120884"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120884_a99ed836e23e8a10_z.jpg",
+                "width": 565,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "120884"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120884_a99ed836e23e8a10_n.jpg",
+                "width": 283,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120884"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120884_a99ed836e23e8a10_d.gif",
+                "width": 283,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120884"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120884_a99ed836e23e8a10_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120884"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Figure, ca. 1970.\nca. 1970. porcelain. Museum purchase from Decorative Arts Association Acquisition Fund. 1990-115-1."
+    "participants": [
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18049699",
+            "role_id": "35352249",
+            "person_name": "David McFadden",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049699\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Figure, ca. 1970. porcelain. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1990-115-1"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "is_loan_object": 0
 }

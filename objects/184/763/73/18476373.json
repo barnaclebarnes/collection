@@ -1,80 +1,168 @@
 {
-    "id":"18476373",
-    "tms:id":"148958",
-    "accession_number":"1972-42-122-a,b",
-    "title":"Border, 1860\u201380",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476373\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35393257",
-    "type_id":"35237285",
-    "date":"1860\u201380",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on machine-made paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"a) Overall: 38 x 6 cm (14 15\/16 x 2 3\/8 in.)\nb) Overall: 36.5 x 6 cm (14 3\/8 x 2 3\/8 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"Quatrefoil on raised panels. Printed in bright orange, brown, tan and blue on blue ground.\n\nH# 21",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18476373",
+    "tms:id": "148958",
+    "accession_number": "1972-42-122-a,b",
+    "title": "Border (France), 1860\u201380",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476373\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35393257",
+    "type_id": "35237285",
+    "date": "1860\u201380",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on machine-made paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Josephine Howell; 1972: acquired by Museum",
+    "dimensions": "a) Overall: 38 x 6 cm (14 15\/16 x 2 3\/8 in.)\nb) Overall: 36.5 x 6 cm (14 3\/8 x 2 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "38.00",
+            "centimeters"
+        ],
+        "width": [
+            "6.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Josephine Howell",
+    "description": "Quatrefoil on raised panels. Printed in bright orange, brown, tan and blue on blue ground.\n\nH# 21",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23755_05d9acedca0f0bbd_b.jpg",
-                "width":1024,
-                "height":186,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92298_c4eab08c7ae1608a_b.jpg",
+                "width": 1024,
+                "height": 167,
+                "is_primary": "1",
+                "image_id": "92298"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23755_05d9acedca0f0bbd_n.jpg",
-                "width":320,
-                "height":58,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92298_c4eab08c7ae1608a_z.jpg",
+                "width": 640,
+                "height": 104,
+                "is_primary": "1",
+                "image_id": "92298"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23755_05d9acedca0f0bbd_z.jpg",
-                "width":640,
-                "height":116,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92298_c4eab08c7ae1608a_n.jpg",
+                "width": 320,
+                "height": 52,
+                "is_primary": "1",
+                "image_id": "92298"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92298_c4eab08c7ae1608a_d.gif",
+                "width": 320,
+                "height": 52,
+                "is_primary": "1",
+                "image_id": "92298"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92298_c4eab08c7ae1608a_sq.jpg",
+                "width": 300,
+                "height": 167,
+                "is_primary": "1",
+                "image_id": "92298"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23755_05d9acedca0f0bbd_b.jpg",
+                "width": 1024,
+                "height": 186,
+                "is_primary": "0",
+                "image_id": "23755"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23755_05d9acedca0f0bbd_z.jpg",
+                "width": 640,
+                "height": 116,
+                "is_primary": "0",
+                "image_id": "23755"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23755_05d9acedca0f0bbd_n.jpg",
+                "width": 320,
+                "height": 58,
+                "is_primary": "0",
+                "image_id": "23755"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23755_05d9acedca0f0bbd_d.gif",
+                "width": 320,
+                "height": 58,
+                "is_primary": "0",
+                "image_id": "23755"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23755_05d9acedca0f0bbd_sq.jpg",
+                "width": 300,
+                "height": 186,
+                "is_primary": "0",
+                "image_id": "23755"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, 1860\u201380.\n1860\u201380. Block-printed on machine-made paper. Gift of Josephine Howell. 1972-42-122-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#50171a",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#7d4f38",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#4a64a9",
-            "closest_css3":"#4682b4"
-        },
-        {
-            "color":"#c99661",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#d4423e",
-            "closest_css3":"#cd5c5c"
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border (France), 1860\u201380. Block-printed on machine-made paper. \nGift of Josephine Howell. 1972-42-122-a,b"
+    },
+    "colors": [
+        {
+            "color": "#4254a7",
+            "closest_crayola": "#324ab2",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#63463b",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#896945",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#c39a54",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#28328b",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

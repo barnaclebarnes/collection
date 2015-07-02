@@ -1,80 +1,158 @@
 {
-    "id":"18474291",
-    "tms:id":"147905",
-    "accession_number":"1971-50-245",
-    "title":"Towel",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474291\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"126465",
-    "type_id":"35283283",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: withdrawn element with embroidery",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35283283",
-        "name":"Towel"
-    },
-    "images":[
+    "id": "18474291",
+    "tms:id": "147905",
+    "accession_number": "1971-50-245",
+    "title": "Towel",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474291\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "126465",
+    "type_id": "35283283",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Technique: withdrawn element with embroidery",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Towel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37631_bd5007cbfe7c58ea_b.jpg",
-                "width":459,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37631_bd5007cbfe7c58ea_b.jpg",
+                "width": 459,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "37631"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37631_bd5007cbfe7c58ea_n.jpg",
-                "width":143,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37631_bd5007cbfe7c58ea_z.jpg",
+                "width": 287,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "37631"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37631_bd5007cbfe7c58ea_z.jpg",
-                "width":287,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37631_bd5007cbfe7c58ea_n.jpg",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "37631"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37631_bd5007cbfe7c58ea_d.gif",
+                "width": 143,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "37631"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37631_bd5007cbfe7c58ea_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "37631"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113208_fb2d48492914c132_b.jpg",
+                "width": 453,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113208"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113208_fb2d48492914c132_z.jpg",
+                "width": 283,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113208"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113208_fb2d48492914c132_n.jpg",
+                "width": 142,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113208"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113208_fb2d48492914c132_d.gif",
+                "width": 142,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113208"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113208_fb2d48492914c132_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113208"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Towel.\nTechnique: withdrawn element with embroidery. Bequest of Marian Hague. 1971-50-245."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#1c2218",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#436243",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#cfaeb2",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#5e8a74",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#988880",
-            "closest_css3":"#808080"
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Towel. Technique: withdrawn element with embroidery. \nBequest of Marian Hague. 1971-50-245"
+    },
+    "colors": [
+        {
+            "color": "#8e9a91",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#6e7d6d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#152014",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#a6b8ba",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#444837",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,72 +1,150 @@
 {
-    "id":"18188441",
-    "tms:id":"21410",
-    "accession_number":"1916-33-219",
-    "title":"Square, late 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18188441\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35256017",
-    "date":"late 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1916",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 76.7 x 75.6 cm (30 3\/16 x 29 3\/4 in.)",
-    "creditline":"Gift of Mrs. William P. Treadwell",
-    "description":"White muslin square kerchief with a looped edge. Blue border design in a pattern resembling seaweed and coral.",
-    "justification":null,
-    "type":{
-        "id":"35256017",
-        "name":"Square"
+    "id": "18188441",
+    "tms:id": "21410",
+    "accession_number": "1916-33-219",
+    "title": "Square (USA), late 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18188441\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35256017",
+    "date": "late 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1916",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 76.7 x 75.6 cm (30 3\/16 x 29 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "76.70",
+            "centimeters"
+        ],
+        "width": [
+            "75.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. William P. Treadwell",
+    "description": "White muslin square kerchief with a looped edge. Blue border design in a pattern resembling seaweed and coral.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Square",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1871_745cd21af0f28a7e_b.jpg",
-                "width":1024,
-                "height":1012,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105890_ba756f5cd3e2babe_b.jpg",
+                "width": 1024,
+                "height": 993,
+                "is_primary": "1",
+                "image_id": "105890"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1871_745cd21af0f28a7e_n.jpg",
-                "width":320,
-                "height":316,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105890_ba756f5cd3e2babe_z.jpg",
+                "width": 640,
+                "height": 621,
+                "is_primary": "1",
+                "image_id": "105890"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1871_745cd21af0f28a7e_z.jpg",
-                "width":640,
-                "height":633,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105890_ba756f5cd3e2babe_n.jpg",
+                "width": 320,
+                "height": 310,
+                "is_primary": "1",
+                "image_id": "105890"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105890_ba756f5cd3e2babe_d.gif",
+                "width": 320,
+                "height": 310,
+                "is_primary": "1",
+                "image_id": "105890"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105890_ba756f5cd3e2babe_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105890"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1871_745cd21af0f28a7e_b.jpg",
+                "width": 1024,
+                "height": 1012,
+                "is_primary": "0",
+                "image_id": "1871"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1871_745cd21af0f28a7e_z.jpg",
+                "width": 640,
+                "height": 633,
+                "is_primary": "0",
+                "image_id": "1871"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1871_745cd21af0f28a7e_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "1871"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1871_745cd21af0f28a7e_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "1871"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1871_745cd21af0f28a7e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "1871"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Square, late 19th century.\nlate 19th century. Medium: cotton\nTechnique: printed. Gift of Mrs. William P. Treadwell. 1916-33-219."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bbcdde",
-            "closest_css3":"#b0c4de"
-        },
-        {
-            "color":"#8b9bbc",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#686e98",
-            "closest_css3":"#708090"
+            "person_id": "18049893",
+            "role_id": "35351535",
+            "person_name": "Mrs. William P. Treadwell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049893\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Square (USA), late 19th century. Medium: cotton\nTechnique: printed. \nGift of Mrs. William P. Treadwell. 1916-33-219"
+    },
+    "colors": [
+        {
+            "color": "#ded9bb",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#9b9a92",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

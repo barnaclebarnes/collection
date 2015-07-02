@@ -1,42 +1,109 @@
 {
-    "id":"18474337",
-    "tms:id":"147928",
-    "accession_number":"1971-50-266",
-    "title":"Unknown",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474337\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35257573",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: linen\nTechnique: needle lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35257573",
-        "name":"Unknown"
-    },
-    "images":[
-
+    "id": "18474337",
+    "tms:id": "147928",
+    "accession_number": "1971-50-266",
+    "title": "Border",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474337\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35237285",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: linen\nTechnique: needle lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Border",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75922_7b48707e4e2f4746_b.jpg",
+                "width": 1024,
+                "height": 550,
+                "is_primary": "1",
+                "image_id": "75922"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75922_7b48707e4e2f4746_z.jpg",
+                "width": 640,
+                "height": 344,
+                "is_primary": "1",
+                "image_id": "75922"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75922_7b48707e4e2f4746_n.jpg",
+                "width": 320,
+                "height": 172,
+                "is_primary": "1",
+                "image_id": "75922"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75922_7b48707e4e2f4746_d.gif",
+                "width": 320,
+                "height": 172,
+                "is_primary": "1",
+                "image_id": "75922"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75922_7b48707e4e2f4746_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75922"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Unknown.\nMedium: linen\nTechnique: needle lace. Bequest of Marian Hague. 1971-50-266."
+    "tombstone": {
+        "epitaph": "Border. Medium: linen\nTechnique: needle lace. \nBequest of Marian Hague. 1971-50-266"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#483841",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a9a59e",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#57555b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

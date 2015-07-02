@@ -1,96 +1,219 @@
 {
-    "id":"18350571",
-    "tms:id":"58850",
-    "accession_number":"1938-57-650-a,b",
-    "title":"Chocolate Pot And Lid, late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18350571\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51585365",
-    "type_id":"35267357",
-    "date":"late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424829",
-    "medium":"Gilt, painted and glazed porcelain",
-    "markings":"On underside, underglaze blue: vertical line with two short horizontal lines crossing it a third and two-thirds of the way down; short vertical diagonal line at top of vertical line.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Erskine Hewitt; 1938: bequested to Museum",
-    "dimensions":"H x W (a: pot): 18.9 x 10.5 cm (7 7\/16 x 4 1\/8 in.)\nH x diam. (b: lid): 4.4 x 7.1 cm (1 3\/4 x 2 13\/16 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":"Pear-shaped; bracket lip, double-curved strap handle. Domed cover with flower finial. Vignettes of Chinoiserie figures in landscape, with gilded and painted imbricated borders.",
-    "justification":null,
-    "type":{
-        "id":"35267357",
-        "name":"Chocolate pot and lid"
+    "id": "18350571",
+    "tms:id": "58850",
+    "accession_number": "1938-57-650-a,b",
+    "title": "Chocolate Pot And Lid (Germany), ca 1770",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18350571\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51585365",
+    "type_id": "35267357",
+    "date": "ca 1770",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "Gilt, painted and glazed porcelain",
+    "markings": "On underside, underglaze blue: vertical line with two short horizontal lines crossing it a third and two-thirds of the way down; short vertical diagonal line at top of vertical line.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Erskine Hewitt; 1938: bequested to Museum",
+    "dimensions": "H x W (a,b: overall): 23.5 x 10.5 cm (9 1\/4 x 4 1\/8 in.)\nH x W (a: pot): 18.9 x 10.5 cm (7 7\/16 x 4 1\/8 in.)\nH x diam. (b: lid): 4.4 x 7.1 cm (1 3\/4 x 2 13\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "7.10",
+            "centimeters"
+        ],
+        "height": [
+            "4.40",
+            "centimeters"
+        ],
+        "width": [
+            "10.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": "Pear-shaped; bracket lip, double-curved strap handle. Domed cover with flower finial. Vignettes of Chinoiserie figures in landscape, with gilded and painted imbricated borders.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Chocolate pot and lid",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47786_53c5ca39519c0fca_b.jpg",
-                "width":782,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107982_0b595705d9db524f_b.jpg",
+                "width": 950,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "107982"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47786_53c5ca39519c0fca_n.jpg",
-                "width":244,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107982_0b595705d9db524f_z.jpg",
+                "width": 593,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "107982"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47786_53c5ca39519c0fca_z.jpg",
-                "width":489,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107982_0b595705d9db524f_n.jpg",
+                "width": 297,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107982"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107982_0b595705d9db524f_d.gif",
+                "width": 297,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "107982"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107982_0b595705d9db524f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107982"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47785_20e29a5edee524a8_b.jpg",
-                "width":1024,
-                "height":494,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47786_fe3f11be46bc9249_b.jpg",
+                "width": 691,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "47786"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47785_20e29a5edee524a8_n.jpg",
-                "width":320,
-                "height":154,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47786_fe3f11be46bc9249_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "47786"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47785_20e29a5edee524a8_z.jpg",
-                "width":640,
-                "height":309,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47786_fe3f11be46bc9249_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "47786"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47786_fe3f11be46bc9249_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "47786"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47786_fe3f11be46bc9249_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "47786"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47785_d7f64b001463019b_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "47785"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47785_d7f64b001463019b_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "47785"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47785_d7f64b001463019b_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "47785"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47785_d7f64b001463019b_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "47785"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47785_d7f64b001463019b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "47785"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Chocolate Pot And Lid, late 18th century.\nlate 18th century. Gilt, painted and glazed porcelain. Bequest of Erskine Hewitt. 1938-57-650-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#7b5e50",
-            "closest_css3":"#696969"
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#534642",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#a0775b",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#b39a83",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18044683",
+            "role_id": "35236657",
+            "person_name": "Berlin Porcelain Factory",
+            "person_date": "Berlin, Prussia, present-day Germany",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044683\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Chocolate Pot And Lid (Germany), ca 1770. Gilt, painted and glazed porcelain. \nBequest of Erskine Hewitt. 1938-57-650-a,b"
+    },
+    "colors": [
+        {
+            "color": "#b69473",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#987760",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a39f93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#7b594c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#594a41",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

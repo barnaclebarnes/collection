@@ -1,71 +1,122 @@
 {
-    "id":"18462443",
-    "tms:id":"141826",
-    "accession_number":"1968-111-115",
-    "title":"Sidewall, 1900\u201325",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18462443\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35256475",
-    "date":"1900\u201325",
-    "year_start":null,
-    "year_end":"1925",
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"98 x 50 cm (38 9\/16 x 19 11\/16 in.)",
-    "creditline":"Gift of Harvey Smith",
-    "description":"In grisaille, scattered grasses, wild flowers, Queen Anne's Lace, wild roses.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18462443",
+    "tms:id": "141826",
+    "accession_number": "1968-111-115",
+    "title": "Sidewall, 1900\u201325",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18462443\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35256475",
+    "date": "1900\u201325",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "98 x 50 cm (38 9\/16 x 19 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "98.00",
+            "centimeters"
+        ],
+        "width": [
+            "50.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Harvey Smith",
+    "description": "In grisaille, scattered grasses, wild flowers, Queen Anne's Lace, wild roses.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48103_845ab8e4bd4ab22e_b.jpg",
-                "width":537,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48103_8d4e8a648428100d_b.jpg",
+                "width": 568,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "48103"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48103_845ab8e4bd4ab22e_n.jpg",
-                "width":168,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48103_8d4e8a648428100d_z.jpg",
+                "width": 355,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "48103"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/48103_845ab8e4bd4ab22e_z.jpg",
-                "width":336,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48103_8d4e8a648428100d_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "48103"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48103_8d4e8a648428100d_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "48103"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/48103_8d4e8a648428100d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "48103"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048007",
+            "role_id": "35352245",
+            "person_name": "Catherine Lynn Frangiamore",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048007\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1900\u201325.\n1900\u201325. Block-printed. Gift of Harvey Smith. 1968-111-115."
+    "tombstone": {
+        "epitaph": "Sidewall, 1900\u201325. Block-printed. \nGift of Harvey Smith. 1968-111-115"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#9c9581",
-            "closest_css3":"#808080"
+            "color": "#c9c7b9",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#807d69",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

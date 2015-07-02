@@ -1,42 +1,117 @@
 {
-    "id":"18609951",
-    "tms:id":"98496",
-    "accession_number":"1948-40-28",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18609951\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Original album associated with this collection still exists.  See 1948-40-1 accessory",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18609951",
+    "tms:id": "98496",
+    "accession_number": "1948-40-28",
+    "title": "Drawing, Design for Doorway, 1815\u201322",
+    "title_raw": "Design for Doorway",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18609951\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35414367",
+    "type_id": "35237093",
+    "date": "1815\u201322",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Graphite on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1948: acquired by Museum (from Mrs. K. Gregory)",
+    "dimensions": "Mat: 40.6 x 55.9 cm (16 x 22 in.)\n33.2 x 44.9 cm (13 1\/16 x 17 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.20",
+            "centimeters"
+        ],
+        "width": [
+            "44.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Elevation of a wall, with a doorway in the center, flanked on either side by pairs of columns with foliated shafts. Overdoor consists of a lunette of birds, enclosed in a wide decorative border. Candelabrum with fluted shafts entwined by serpents is beside the doorway. The walls have paintings of Chinese landscapes with figures in elaborate frames.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62843_895096bc12b85cd9_b.jpg",
+                "width": 1024,
+                "height": 654,
+                "is_primary": "1",
+                "image_id": "62843"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62843_895096bc12b85cd9_z.jpg",
+                "width": 640,
+                "height": 408,
+                "is_primary": "1",
+                "image_id": "62843"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62843_895096bc12b85cd9_n.jpg",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "62843"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62843_895096bc12b85cd9_d.gif",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "62843"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62843_895096bc12b85cd9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "62843"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042069",
+            "role_id": "35236655",
+            "person_name": "Frederick Crace",
+            "person_date": "English, 1779\u20131859",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18539479",
+            "role_id": "35352249",
+            "person_name": "Mrs. K. Gregory",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539479\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-28."
+    "tombstone": {
+        "epitaph": "Drawing, Design for Doorway, 1815\u201322. Graphite on paper. \nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-28"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#bebba7",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,42 +1,116 @@
 {
-    "id":"18621103",
-    "tms:id":"185367",
-    "accession_number":"1986-61-110",
-    "title":"Figure",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621103\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237189",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"25.4 x 11.4 x 10.4 cm (10 x 4 1\/2 x 4 1\/8 in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Male figure holding long cornucopia; clear and dark purple glass with some blue; pontil mark on bottom of circular domed base.",
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18621103",
+    "tms:id": "185367",
+    "accession_number": "1986-61-110",
+    "title": "Figure (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621103\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237189",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "25.4 x 11.4 x 10.4 cm (10 x 4 1\/2 x 4 1\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "10.40",
+            "centimeters"
+        ],
+        "height": [
+            "25.40",
+            "centimeters"
+        ],
+        "width": [
+            "11.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Male figure holding long cornucopia; clear and dark purple glass with some blue; pontil mark on bottom of circular domed base.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Figure",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121163_b88b93d82b16290f_b.jpg",
+                "width": 780,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "121163"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121163_b88b93d82b16290f_z.jpg",
+                "width": 487,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "121163"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121163_b88b93d82b16290f_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "121163"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121163_b88b93d82b16290f_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "121163"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121163_b88b93d82b16290f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "121163"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18053371",
+            "role_id": "35236565",
+            "person_name": "Charles Lin Tissot",
+            "person_date": "American, 1904 - 1994",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Figure (Italy). glass. \nBequest of Walter Phelps Warren. 1986-61-110"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Figure.\nglass. Bequest of Walter Phelps Warren. 1986-61-110."
-    },
-    "colors":[
-
-    ]
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

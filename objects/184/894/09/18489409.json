@@ -1,80 +1,170 @@
 {
-    "id":"18489409",
-    "tms:id":"155577",
-    "accession_number":"1976-1-80",
-    "title":"Bowl",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489409\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237197",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":"23424957",
-    "medium":"Glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"C. Helme and Alice B. Strater Collection; 1976: acquired by Museum",
-    "dimensions":"H x diam.: 5.5 x 10.2 cm (2 3\/16 x 4 in.)",
-    "creditline":"Gift of the C. Helme and Alice B. Strater Collection",
-    "description":"Green, red, white and blue glass in a vertical twisted ribbon pattern.",
-    "justification":null,
-    "type":{
-        "id":"35237197",
-        "name":"Bowl"
+    "id": "18489409",
+    "tms:id": "155577",
+    "accession_number": "1976-1-80",
+    "title": "Bowl (Switzerland), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18489409\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237197",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": "23424957",
+    "medium": "Glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "C. Helme and Alice B. Strater Collection; 1976: acquired by Museum",
+    "dimensions": "H x diam.: 5.5 x 10.2 cm (2 3\/16 x 4 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "10.20",
+            "centimeters"
+        ],
+        "height": [
+            "5.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the C. Helme and Alice B. Strater Collection",
+    "description": "Green, red, white and blue glass in a vertical twisted ribbon pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424957",
+    "type": "Bowl",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44264_0c51bd02a3fc3075_b.jpg",
-                "width":1024,
-                "height":825,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44264_bda02d3ed8ffc708_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "44264"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44264_0c51bd02a3fc3075_n.jpg",
-                "width":320,
-                "height":258,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44264_bda02d3ed8ffc708_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "44264"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44264_0c51bd02a3fc3075_z.jpg",
-                "width":640,
-                "height":516,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44264_bda02d3ed8ffc708_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "44264"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44264_bda02d3ed8ffc708_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "44264"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44264_bda02d3ed8ffc708_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "44264"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117554_2c53312da16a85e2_b.jpg",
+                "width": 1024,
+                "height": 861,
+                "is_primary": "0",
+                "image_id": "117554"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117554_2c53312da16a85e2_z.jpg",
+                "width": 640,
+                "height": 538,
+                "is_primary": "0",
+                "image_id": "117554"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117554_2c53312da16a85e2_n.jpg",
+                "width": 320,
+                "height": 269,
+                "is_primary": "0",
+                "image_id": "117554"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117554_2c53312da16a85e2_d.gif",
+                "width": 320,
+                "height": 269,
+                "is_primary": "0",
+                "image_id": "117554"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117554_2c53312da16a85e2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "117554"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Bowl.\nGlass. Gift of the C. Helme and Alice B. Strater Collection. 1976-1-80."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#807e77",
-            "closest_css3":"#808080"
+            "person_id": "18538283",
+            "role_id": "35351535",
+            "person_name": "Margaret S. Robinson",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538283\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#5d5d55",
-            "closest_css3":"#696969"
+            "person_id": "18538281",
+            "role_id": "35351535",
+            "person_name": "John B. Strater",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538281\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#54372d",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#3d4231",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#362e24",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18538279",
+            "role_id": "35351535",
+            "person_name": "C. Helme Strater Jr.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538279\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Bowl (Switzerland), 18th century. Glass. \nGift of the C. Helme and Alice B. Strater Collection. 1976-1-80"
+    },
+    "colors": [
+        {
+            "color": "#6e6e68",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#363227",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

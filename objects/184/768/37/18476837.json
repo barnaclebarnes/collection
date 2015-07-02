@@ -1,42 +1,118 @@
 {
-    "id":"18476837",
-    "tms:id":"149197",
-    "accession_number":"1972-5-13",
-    "title":"Cup",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476837\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35249795",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 8.5 x 13.5 cm (3 3\/8 x 5 5\/16 in.)",
-    "creditline":"Bequest of Julian Clarence Levi",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249795",
-        "name":"cup"
+    "id": "18476837",
+    "tms:id": "149197",
+    "accession_number": "1972-5-13",
+    "title": "Cup",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476837\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35249795",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 8.5 x 13.5 cm (3 3\/8 x 5 5\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "13.50",
+            "centimeters"
+        ],
+        "height": [
+            "8.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Julian Clarence Levi",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "cup",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103659_5266bfb892a98885_b.jpg",
+                "width": 1024,
+                "height": 964,
+                "is_primary": "1",
+                "image_id": "103659"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103659_5266bfb892a98885_z.jpg",
+                "width": 640,
+                "height": 602,
+                "is_primary": "1",
+                "image_id": "103659"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103659_5266bfb892a98885_n.jpg",
+                "width": 320,
+                "height": 301,
+                "is_primary": "1",
+                "image_id": "103659"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103659_5266bfb892a98885_d.gif",
+                "width": 320,
+                "height": 301,
+                "is_primary": "1",
+                "image_id": "103659"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103659_5266bfb892a98885_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103659"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18056787",
+            "role_id": "35351537",
+            "person_name": "Julian Clarence Levi",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056787\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Cup.\nH x diam.: 8.5 x 13.5 cm (3 3\/8 x 5 5\/16 in.). Bequest of Julian Clarence Levi. 1972-5-13."
+    "tombstone": {
+        "epitaph": "Cup. H x diam.: 8.5 x 13.5 cm (3 3\/8 x 5 5\/16 in.). \nBequest of Julian Clarence Levi. 1972-5-13"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4c453c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#2d2214",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#6c6860",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

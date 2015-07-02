@@ -1,87 +1,151 @@
 {
-    "id":"18448201",
-    "tms:id":"134616",
-    "accession_number":"1963-39-504",
-    "title":"Drawing, \"Study for L.C.C. Evening Classes, the London Underground Poster\", 1935",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448201\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35374467",
-    "type_id":"35237093",
-    "date":"1935",
-    "year_start":"1935",
-    "year_end":"1935",
-    "year_acquired":"1963",
-    "decade":"1930",
-    "woe:country":"23424975",
-    "medium":"Brush and watercolor on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"21.1 x 28 cm (8 5\/16 in. x 11 in.)",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"Semi-abstract composition showing at the left, a hand; in the center, a globe of the earth on a stand against a background showing the moon; at the right, a classical bust of Venus.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18448201",
+    "tms:id": "134616",
+    "accession_number": "1963-39-504",
+    "title": "Drawing, Study for L.C.C. Evening Classes, 1935",
+    "title_raw": "Study for L.C.C. Evening Classes",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448201\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35374467",
+    "type_id": "35237093",
+    "date": "1935",
+    "year_start": 1935,
+    "year_end": 1935,
+    "year_acquired": "1963",
+    "decade": "1930",
+    "woe:country_id": "23424975",
+    "medium": "Brush and watercolor on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer",
+    "dimensions": "H x W: 21.3 \u00d7 28.1 cm (8 3\/8 \u00d7 11 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "21.10",
+            "centimeters"
+        ],
+        "width": [
+            "28.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Semi-abstract composition showing at the left, a hand; in the center, a globe of the earth on a stand against a background showing the moon; at the right, a classical bust of Venus.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50749_18da4685d1f6f2c7_b.jpg",
-                "width":1024,
-                "height":775,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50749_d075ca86745d1177_b.jpg",
+                "width": 1024,
+                "height": 773,
+                "is_primary": "1",
+                "image_id": "50749"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50749_18da4685d1f6f2c7_n.jpg",
-                "width":320,
-                "height":242,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50749_d075ca86745d1177_z.jpg",
+                "width": 640,
+                "height": 483,
+                "is_primary": "1",
+                "image_id": "50749"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50749_18da4685d1f6f2c7_z.jpg",
-                "width":640,
-                "height":484,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50749_d075ca86745d1177_n.jpg",
+                "width": 320,
+                "height": 242,
+                "is_primary": "1",
+                "image_id": "50749"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50749_d075ca86745d1177_d.gif",
+                "width": 320,
+                "height": 242,
+                "is_primary": "1",
+                "image_id": "50749"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50749_d075ca86745d1177_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "50749"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18539239",
+            "role_id": "35236667",
+            "person_name": "London Transport",
+            "person_date": "London, England",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539239\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Study for L.C.C. Evening Classes, the London Underground Poster\", 1935.\n1935. Brush and watercolor on paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-504."
+    "tombstone": {
+        "epitaph": "Drawing, Study for L.C.C. Evening Classes, 1935. Brush and watercolor on paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-504"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c5bc9e",
-            "closest_css3":"#d2b48c"
+            "color": "#f8f4dc",
+            "closest_crayola": "#fddde6",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
         },
         {
-            "color":"#9a947e",
-            "closest_css3":"#808080"
+            "color": "#cac2a4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#44617b",
-            "closest_css3":"#483d8b"
+            "color": "#4b687d",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#2e3135",
-            "closest_css3":"#2f4f4f"
+            "color": "#a49b82",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#5d7a8c",
-            "closest_css3":"#708090"
+            "color": "#111836",
+            "closest_crayola": "#000000",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

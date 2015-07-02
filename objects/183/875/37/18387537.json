@@ -1,42 +1,122 @@
 {
-    "id":"18387537",
-    "tms:id":"103910",
-    "accession_number":"1951-162-1",
-    "title":"Toast Rack",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18387537\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35289949",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1951",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 15 x 18 x 12 cm (5 7\/8 x 7 1\/16 x 4 3\/4 in.)",
-    "creditline":"Gift of John Judkyn",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35289949",
-        "name":"toast rack"
+    "id": "18387537",
+    "tms:id": "103910",
+    "accession_number": "1951-162-1",
+    "title": "Toast Rack",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18387537\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35289949",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1951",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 15 x 18 x 12 cm (5 7\/8 x 7 1\/16 x 4 3\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "12.00",
+            "centimeters"
+        ],
+        "height": [
+            "15.00",
+            "centimeters"
+        ],
+        "width": [
+            "18.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of John Judkyn",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "toast rack",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103471_b87a244ee3e65230_b.jpg",
+                "width": 1024,
+                "height": 887,
+                "is_primary": "1",
+                "image_id": "103471"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103471_b87a244ee3e65230_z.jpg",
+                "width": 640,
+                "height": 554,
+                "is_primary": "1",
+                "image_id": "103471"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103471_b87a244ee3e65230_n.jpg",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "103471"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103471_b87a244ee3e65230_d.gif",
+                "width": 320,
+                "height": 277,
+                "is_primary": "1",
+                "image_id": "103471"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103471_b87a244ee3e65230_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103471"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18058119",
+            "role_id": "35351535",
+            "person_name": "John Judkyn",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058119\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Toast Rack.\nH x W x D: 15 x 18 x 12 cm (5 7\/8 x 7 1\/16 x 4 3\/4 in.). Gift of John Judkyn. 1951-162-1."
+    "tombstone": {
+        "epitaph": "Toast Rack. H x W x D: 15 x 18 x 12 cm (5 7\/8 x 7 1\/16 x 4 3\/4 in.). \nGift of John Judkyn. 1951-162-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4d4a43",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#746a55",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#30271f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

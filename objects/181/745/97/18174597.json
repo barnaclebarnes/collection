@@ -1,79 +1,170 @@
 {
-    "id":"18174597",
-    "tms:id":"18970",
-    "accession_number":"1912-12-235",
-    "title":"Drawing, \"Fisherman and Two Other Men in a Canoe\", ca. 1897",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18174597\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35418371",
-    "type_id":"35237093",
-    "date":"ca. 1897",
-    "year_start":null,
-    "year_end":"1907",
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Crayon on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Sheet: 12.1 x 19.5 cm (4 3\/4 x 7 11\/16 in.)",
-    "creditline":"Gift of Charles Savage Homer, Jr.",
-    "description":"Horizontal view of a canoe with two men paddling while a third, in the center, fishes.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18174597",
+    "tms:id": "18970",
+    "accession_number": "1912-12-235",
+    "title": "Drawing, Fisherman and Two Other Men in a Canoe, ca. 1897",
+    "title_raw": "Fisherman and Two Other Men in a Canoe",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18174597\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35418371",
+    "type_id": "35237093",
+    "date": "ca. 1897",
+    "year_start": null,
+    "year_end": 1907,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Crayon on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Sheet: 12.1 x 19.5 cm (4 3\/4 x 7 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "12.10",
+            "centimeters"
+        ],
+        "width": [
+            "19.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Charles Savage Homer, Jr.",
+    "description": "Horizontal view of a canoe with two men paddling while a third, in the center, fishes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47073_5362a8258206411a_b.jpg",
-                "width":1024,
-                "height":625,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47073_5362a8258206411a_b.jpg",
+                "width": 1024,
+                "height": 625,
+                "is_primary": "1",
+                "image_id": "47073"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47073_5362a8258206411a_n.jpg",
-                "width":320,
-                "height":195,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47073_5362a8258206411a_z.jpg",
+                "width": 640,
+                "height": 391,
+                "is_primary": "1",
+                "image_id": "47073"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47073_5362a8258206411a_z.jpg",
-                "width":640,
-                "height":391,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47073_5362a8258206411a_n.jpg",
+                "width": 320,
+                "height": 195,
+                "is_primary": "1",
+                "image_id": "47073"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47073_5362a8258206411a_d.gif",
+                "width": 320,
+                "height": 195,
+                "is_primary": "1",
+                "image_id": "47073"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47073_5362a8258206411a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47073"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122812_60edbcc85cb631bb_b.jpg",
+                "width": 1024,
+                "height": 658,
+                "is_primary": "0",
+                "image_id": "122812"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122812_60edbcc85cb631bb_z.jpg",
+                "width": 640,
+                "height": 411,
+                "is_primary": "0",
+                "image_id": "122812"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122812_60edbcc85cb631bb_n.jpg",
+                "width": 320,
+                "height": 206,
+                "is_primary": "0",
+                "image_id": "122812"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122812_60edbcc85cb631bb_d.gif",
+                "width": 320,
+                "height": 206,
+                "is_primary": "0",
+                "image_id": "122812"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122812_60edbcc85cb631bb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "122812"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041949",
-            "role_id":"35236565",
-            "person_name":"Winslow Homer",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041949\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18537931",
+            "role_id": "35351535",
+            "person_name": "Charles Savage Homer, Jr.",
+            "person_date": "American, 1834\u20131917",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537931\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047639",
+            "role_id": "35352245",
+            "person_name": "Adrienne Sturbois",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047639\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041949",
+            "role_id": "35236565",
+            "person_name": "Winslow Homer",
+            "person_date": "American, 1836\u20131910",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041949\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Fisherman and Two Other Men in a Canoe\", ca. 1897.\nca. 1897. Crayon on paper. Gift of Charles Savage Homer, Jr.. 1912-12-235."
+    "tombstone": {
+        "epitaph": "Drawing, Fisherman and Two Other Men in a Canoe, ca. 1897. Crayon on paper. \nGift of Charles Savage Homer, Jr.. 1912-12-235"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#dbd6ca",
-            "closest_css3":"#d3d3d3"
+            "color": "#958878",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#a3988f",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#786d5f",
-            "closest_css3":"#696969"
+            "color": "#786d5f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

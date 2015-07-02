@@ -1,68 +1,103 @@
 {
-    "id":"18352723",
-    "tms:id":"59737",
-    "accession_number":"1938-58-85-a,b",
-    "title":"Button",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18352723\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237135",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Norvin Hewitt Green",
-    "description":"Component -a is on card 2\nComponent -b is on card 3",
-    "justification":null,
-    "type":{
-        "id":"35237135",
-        "name":"button"
-    },
-    "images":[
+    "id": "18352723",
+    "tms:id": "59737",
+    "accession_number": "1938-58-85-a,b",
+    "title": "Button",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18352723\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237135",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Norvin Hewitt Green",
+    "description": "Component -a is on card 2\nComponent -b is on card 3",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "button",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39051_28b115c92bc9b6e2_b.jpg",
-                "width":1024,
-                "height":748,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39051_28b115c92bc9b6e2_b.jpg",
+                "width": 1024,
+                "height": 748,
+                "is_primary": "1",
+                "image_id": "39051"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39051_28b115c92bc9b6e2_n.jpg",
-                "width":320,
-                "height":234,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39051_28b115c92bc9b6e2_z.jpg",
+                "width": 640,
+                "height": 467,
+                "is_primary": "1",
+                "image_id": "39051"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/39051_28b115c92bc9b6e2_z.jpg",
-                "width":640,
-                "height":467,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39051_28b115c92bc9b6e2_n.jpg",
+                "width": 320,
+                "height": 234,
+                "is_primary": "1",
+                "image_id": "39051"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39051_28b115c92bc9b6e2_d.gif",
+                "width": 320,
+                "height": 234,
+                "is_primary": "1",
+                "image_id": "39051"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/39051_28b115c92bc9b6e2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "39051"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Button.\nGift of Norvin Hewitt Green. 1938-58-85-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#626761",
-            "closest_css3":"#696969"
+            "person_id": "18056845",
+            "role_id": "35351535",
+            "person_name": "Norvin Hewitt Green",
+            "person_date": "American, 1893\u20131955",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Button. \nGift of Norvin Hewitt Green. 1938-58-85-a,b"
+    },
+    "colors": [
+        {
+            "color": "#717670",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#464a44",
-            "closest_css3":"#2f4f4f"
+            "color": "#4f544d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

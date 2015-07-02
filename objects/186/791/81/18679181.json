@@ -1,95 +1,178 @@
 {
-    "id":"18679181",
-    "tms:id":"215061",
-    "accession_number":"1969-165-793",
-    "title":"Sample, \"Mogul\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18679181\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402849",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: wool\nTechnique: plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Plain weave in narrow vertical stripes of red, green, violet, light blue, black, pink, and blue. Warp threads are red, green, violet, light blue, black, pink, and blue while the weft is comprised of red threads. Number 081.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18679181",
+    "tms:id": "215061",
+    "accession_number": "1969-165-793",
+    "title": "Sample, Mogul",
+    "title_raw": "Mogul",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18679181\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402849",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1969",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: wool\nTechnique: plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "30.48",
+            "centimeters"
+        ],
+        "weft": [
+            "30.48",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Plain weave in narrow vertical stripes of red, green, violet, light blue, black, pink, and blue. Warp threads are red, green, violet, light blue, black, pink, and blue while the weft is comprised of red threads. Number 081.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17916_6cd5e54e5ada8a3c_b.jpg",
-                "width":1024,
-                "height":1017,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112216_65a87dabe9cf6746_b.jpg",
+                "width": 1024,
+                "height": 1020,
+                "is_primary": "1",
+                "image_id": "112216"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17916_6cd5e54e5ada8a3c_n.jpg",
-                "width":320,
-                "height":318,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112216_65a87dabe9cf6746_z.jpg",
+                "width": 640,
+                "height": 637,
+                "is_primary": "1",
+                "image_id": "112216"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17916_6cd5e54e5ada8a3c_z.jpg",
-                "width":640,
-                "height":636,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112216_65a87dabe9cf6746_n.jpg",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "112216"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112216_65a87dabe9cf6746_d.gif",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "112216"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112216_65a87dabe9cf6746_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112216"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17916_6cd5e54e5ada8a3c_b.jpg",
+                "width": 1024,
+                "height": 1017,
+                "is_primary": "0",
+                "image_id": "17916"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17916_6cd5e54e5ada8a3c_z.jpg",
+                "width": 640,
+                "height": 636,
+                "is_primary": "0",
+                "image_id": "17916"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17916_6cd5e54e5ada8a3c_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "17916"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17916_6cd5e54e5ada8a3c_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "0",
+                "image_id": "17916"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17916_6cd5e54e5ada8a3c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17916"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Mogul\".\nMedium: wool\nTechnique: plain weave. Gift of Alexander H. Girard. 1969-165-793."
+    "tombstone": {
+        "epitaph": "Sample, Mogul. Medium: wool\nTechnique: plain weave. \nGift of Alexander H. Girard. 1969-165-793"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a40101",
-            "closest_css3":"#8b0000"
+            "color": "#973638",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
         },
         {
-            "color":"#d41b2f",
-            "closest_css3":"#dc143c"
+            "color": "#658685",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#200f3a",
-            "closest_css3":"#191970"
+            "color": "#6e3d6c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#6c1f51",
-            "closest_css3":"#800080"
+            "color": "#4a3531",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#1d0707",
-            "closest_css3":"#000000"
+            "color": "#524d6f",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

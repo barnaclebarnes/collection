@@ -1,87 +1,188 @@
 {
-    "id":"18353669",
-    "tms:id":"60119",
-    "accession_number":"1938-62-42",
-    "title":"Sidewall, \"The Quincy\", 1908",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18353669\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1908",
-    "year_start":"1908",
-    "year_end":"1908",
-    "year_acquired":"1938",
-    "decade":"1900",
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"74 x 55.5 cm (29 1\/8 x 21 7\/8 in.)",
-    "creditline":"Gift of Grace Lincoln Temple",
-    "description":"Full width with nearly two repeats of design. Large clusters of flowers and wind-blown foliage, with space-filling scrolls of foliage and single flower-forms on smaller scale. Irise or rainbow ground varies from blue to yellow and back to blue, in vertical stripes. Printed in white on ground of blue, green and yellow.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18353669",
+    "tms:id": "60119",
+    "accession_number": "1938-62-42",
+    "title": "Sidewall, The Quincy, 1908",
+    "title_raw": "The Quincy",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18353669\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1908",
+    "year_start": 1908,
+    "year_end": 1908,
+    "year_acquired": "1938",
+    "decade": "1900",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "74 x 55.5 cm (29 1\/8 x 21 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "74.00",
+            "centimeters"
+        ],
+        "width": [
+            "55.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Grace Lincoln Temple",
+    "description": "Full width with nearly two repeats of design. Large clusters of flowers and wind-blown foliage, with space-filling scrolls of foliage and single flower-forms on smaller scale. Irise or rainbow ground varies from blue to yellow and back to blue, in vertical stripes. Printed in white on ground of blue, green and yellow.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3811_37fa656ffe301ec8_b.jpg",
-                "width":730,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105911_b0a5c1f2d6961766_b.jpg",
+                "width": 776,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "105911"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3811_37fa656ffe301ec8_n.jpg",
-                "width":228,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105911_b0a5c1f2d6961766_z.jpg",
+                "width": 485,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "105911"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3811_37fa656ffe301ec8_z.jpg",
-                "width":457,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105911_b0a5c1f2d6961766_n.jpg",
+                "width": 243,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105911"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105911_b0a5c1f2d6961766_d.gif",
+                "width": 243,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105911"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105911_b0a5c1f2d6961766_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105911"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3811_37fa656ffe301ec8_b.jpg",
+                "width": 730,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "3811"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3811_37fa656ffe301ec8_z.jpg",
+                "width": 457,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "3811"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3811_37fa656ffe301ec8_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "3811"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3811_37fa656ffe301ec8_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "3811"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3811_37fa656ffe301ec8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3811"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046371",
-            "role_id":"35236657",
-            "person_name":"Thomas Strahan & Co., Manufactory",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046371\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18052379",
+            "role_id": "35352245",
+            "person_name": "Calvin S.  Hathaway",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052379\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046661",
+            "role_id": "35351535",
+            "person_name": "Grace Lincoln Temple",
+            "person_date": "1865\u20131953",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046371",
+            "role_id": "35236657",
+            "person_name": "Thomas Strahan & Co., Manufactory",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"The Quincy\", 1908.\n1908. Machine-printed. Gift of Grace Lincoln Temple. 1938-62-42."
+    "tombstone": {
+        "epitaph": "Sidewall, The Quincy, 1908. Machine-printed. \nGift of Grace Lincoln Temple. 1938-62-42"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#95a8c0",
-            "closest_css3":"#a9a9a9"
+            "color": "#486876",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#7585a3",
-            "closest_css3":"#778899"
+            "color": "#cfcba6",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#3e5771",
-            "closest_css3":"#2f4f4f"
+            "color": "#cbbe60",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#cbe0f6",
-            "closest_css3":"#e6e6fa"
+            "color": "#738886",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#aaaa9c",
-            "closest_css3":"#a9a9a9"
+            "color": "#97a2a5",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

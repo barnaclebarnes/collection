@@ -1,42 +1,144 @@
 {
-    "id":"18176969",
-    "tms:id":"19326",
-    "accession_number":"1912-18-33",
-    "title":"Tray",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18176969\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35247437",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1912",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 60.5 x 76.8 x 3.8 cm (23 13\/16 x 30 1\/4 x 1 1\/2 in.)",
-    "creditline":"Gift of Mr. and Mrs. Talbot Jones Taylor",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35247437",
-        "name":"tray"
+    "id": "18176969",
+    "tms:id": "19326",
+    "accession_number": "1912-18-33",
+    "title": "Tray",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18176969\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35247437",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1912",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 60.5 x 76.8 x 3.8 cm (23 13\/16 x 30 1\/4 x 1 1\/2 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.80",
+            "centimeters"
+        ],
+        "height": [
+            "60.50",
+            "centimeters"
+        ],
+        "width": [
+            "76.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mr. and Mrs. Talbot Jones Taylor",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "tray",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104417_350ef6f1c8e2502f_b.jpg",
+                "width": 1024,
+                "height": 632,
+                "is_primary": "1",
+                "image_id": "104417"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104417_350ef6f1c8e2502f_z.jpg",
+                "width": 640,
+                "height": 395,
+                "is_primary": "1",
+                "image_id": "104417"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104417_350ef6f1c8e2502f_n.jpg",
+                "width": 320,
+                "height": 198,
+                "is_primary": "1",
+                "image_id": "104417"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104417_350ef6f1c8e2502f_d.gif",
+                "width": 320,
+                "height": 198,
+                "is_primary": "1",
+                "image_id": "104417"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/104417_350ef6f1c8e2502f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "104417"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18054051",
+            "role_id": "35351535",
+            "person_name": "Mrs. Talbot Jones Taylor",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054051\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18051321",
+            "role_id": "35351535",
+            "person_name": "Talbot Jones Taylor",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Tray.\nH x W x D: 60.5 x 76.8 x 3.8 cm (23 13\/16 x 30 1\/4 x 1 1\/2 in.). Gift of Mr. and Mrs. Talbot Jones Taylor. 1912-18-33."
+    "tombstone": {
+        "epitaph": "Tray. H x W x D: 60.5 x 76.8 x 3.8 cm (23 13\/16 x 30 1\/4 x 1 1\/2 in.). \nGift of Mr. and Mrs. Talbot Jones Taylor. 1912-18-33"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#685c4f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#887458",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#383431",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#929087",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a89373",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "is_loan_object": 0
 }

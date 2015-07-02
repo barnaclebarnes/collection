@@ -1,127 +1,256 @@
 {
-    "id":"18631973",
-    "tms:id":"190827",
-    "accession_number":"1988-79-2",
-    "title":"Lounge Chair, \"Easy Edges\", ca. 1971",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18631973\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35380979",
-    "type_id":"35294179",
-    "date":"ca. 1971",
-    "year_start":"1961",
-    "year_end":"1981",
-    "year_acquired":"1988",
-    "decade":"1960",
-    "woe:country":"23424977",
-    "medium":"Corrugated cardboard, masonite",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 76 x 59.5 x 99 cm (29 15\/16 in. x 23 7\/16 in. x 39 in.)",
-    "creditline":"Gift of William Woolfenden",
-    "description":"Wide, curved, open-form lounge chair made of laminated shaped strips of corrugated cardboard; masonite layer on left and right sides. Seat and back are formed by the edges of layered cardboard strips; rectangular base.",
-    "justification":null,
-    "type":{
-        "id":"35294179",
-        "name":"Lounge chair"
+    "id": "18631973",
+    "tms:id": "190827",
+    "accession_number": "1988-79-2",
+    "title": "Easy Edges Lounge Chair, ca. 1971",
+    "title_raw": "Easy Edges",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18631973\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35380979",
+    "type_id": "35294179",
+    "date": "ca. 1971",
+    "year_start": 1961,
+    "year_end": 1981,
+    "year_acquired": "1988",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "Corrugated cardboard, masonite",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "William E. Woolfenden; 1988: acquired by Museum",
+    "dimensions": "H x W x D: 76 x 59.5 x 99 cm (29 15\/16 in. x 23 7\/16 in. x 39 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "99.00",
+            "centimeters"
+        ],
+        "height": [
+            "74.80",
+            "centimeters"
+        ],
+        "width": [
+            "57.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of William Woolfenden",
+    "description": "Wide, curved, open-form lounge chair made of laminated shaped strips of corrugated cardboard; masonite layer on left and right sides. Seat and back are formed by the edges of layered cardboard strips; rectangular base.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Lounge chair",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10578_c320733e9c56e6ae_b.jpg",
-                "width":1024,
-                "height":876,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103551_17b41d9510d9c095_b.jpg",
+                "width": 1024,
+                "height": 1019,
+                "is_primary": "1",
+                "image_id": "103551"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10578_c320733e9c56e6ae_n.jpg",
-                "width":320,
-                "height":274,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103551_17b41d9510d9c095_z.jpg",
+                "width": 640,
+                "height": 637,
+                "is_primary": "1",
+                "image_id": "103551"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10578_c320733e9c56e6ae_z.jpg",
-                "width":640,
-                "height":547,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103551_17b41d9510d9c095_n.jpg",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "103551"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103551_17b41d9510d9c095_d.gif",
+                "width": 320,
+                "height": 318,
+                "is_primary": "1",
+                "image_id": "103551"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103551_17b41d9510d9c095_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103551"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10579_b5255b1a152459c2_b.jpg",
-                "width":752,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10579_b5255b1a152459c2_b.jpg",
+                "width": 752,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10579"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10579_b5255b1a152459c2_n.jpg",
-                "width":235,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10579_b5255b1a152459c2_z.jpg",
+                "width": 470,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10579"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10579_b5255b1a152459c2_z.jpg",
-                "width":470,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10579_b5255b1a152459c2_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10579"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10579_b5255b1a152459c2_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10579"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10579_b5255b1a152459c2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10579"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10580_b9f555606968d9a5_b.jpg",
-                "width":685,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10580_b9f555606968d9a5_b.jpg",
+                "width": 685,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10580"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10580_b9f555606968d9a5_n.jpg",
-                "width":214,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10580_b9f555606968d9a5_z.jpg",
+                "width": 428,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10580"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10580_b9f555606968d9a5_z.jpg",
-                "width":428,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10580_b9f555606968d9a5_n.jpg",
+                "width": 214,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10580"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10580_b9f555606968d9a5_d.gif",
+                "width": 214,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10580"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10580_b9f555606968d9a5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10580"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10578_c320733e9c56e6ae_b.jpg",
+                "width": 1024,
+                "height": 876,
+                "is_primary": "0",
+                "image_id": "10578"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10578_c320733e9c56e6ae_z.jpg",
+                "width": 640,
+                "height": 547,
+                "is_primary": "0",
+                "image_id": "10578"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10578_c320733e9c56e6ae_n.jpg",
+                "width": 320,
+                "height": 274,
+                "is_primary": "0",
+                "image_id": "10578"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10578_c320733e9c56e6ae_d.gif",
+                "width": 320,
+                "height": 274,
+                "is_primary": "0",
+                "image_id": "10578"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10578_c320733e9c56e6ae_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10578"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18053195",
-            "role_id":"35236655",
-            "person_name":"Frank O. Gehry",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18053195\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041203",
+            "role_id": "35351535",
+            "person_name": "William E. Woolfenden",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041203\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053195",
+            "role_id": "35236655",
+            "person_name": "Frank O. Gehry",
+            "person_date": "American, born Canada, 1929",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053195\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Lounge Chair, \"Easy Edges\", ca. 1971.\nca. 1971. Corrugated cardboard, masonite. Gift of William Woolfenden. 1988-79-2."
+    "tombstone": {
+        "epitaph": "Easy Edges Lounge Chair, ca. 1971. Corrugated cardboard, masonite. \nGift of William Woolfenden. 1988-79-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#8287a3",
-            "closest_css3":"#778899"
+            "color": "#775a3a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#ced6e9",
-            "closest_css3":"#dcdcdc"
+            "color": "#947c5a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#a7683f",
-            "closest_css3":"#a0522d"
+            "color": "#503e25",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#9faac6",
-            "closest_css3":"#a9a9a9"
+            "color": "#2f2113",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         },
         {
-            "color":"#f1c896",
-            "closest_css3":"#deb887"
+            "color": "#726e67",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

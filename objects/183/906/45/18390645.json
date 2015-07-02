@@ -1,49 +1,112 @@
 {
-    "id":"18390645",
-    "tms:id":"105467",
-    "accession_number":"1952-15-2",
-    "title":"Bell",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18390645\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35259767",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1952",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 19 x 13 cm (7 1\/2 x 5 1\/8 in.)",
-    "creditline":"Gift of Ely Jaques Kahn",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35259767",
-        "name":"Bell"
+    "id": "18390645",
+    "tms:id": "105467",
+    "accession_number": "1952-15-2",
+    "title": "Bell",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18390645\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35259767",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1952",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 19 x 13 cm (7 1\/2 x 5 1\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "13.00",
+            "centimeters"
+        ],
+        "height": [
+            "19.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Ely Jacques Kahn.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Bell",
+    "images": [
         {
-            "person_id":"18042541",
-            "role_id":"35351535",
-            "person_name":"Ely Jacques Kahn",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042541\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103677_995c1d8347eb283e_b.jpg",
+                "width": 996,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103677"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103677_995c1d8347eb283e_z.jpg",
+                "width": 622,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103677"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103677_995c1d8347eb283e_n.jpg",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103677"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103677_995c1d8347eb283e_d.gif",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103677"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103677_995c1d8347eb283e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103677"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Bell.\nH x diam.: 19 x 13 cm (7 1\/2 x 5 1\/8 in.). Gift of Ely Jaques Kahn. 1952-15-2."
+    "participants": [
+        {
+            "person_id": "18042541",
+            "role_id": "35351535",
+            "person_name": "Ely Jacques Kahn",
+            "person_date": "1884\u20131972",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042541\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Bell. H x diam.: 19 x 13 cm (7 1\/2 x 5 1\/8 in.). \nGift of Ely Jacques Kahn.. 1952-15-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#281e15",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#5b5144",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
 }

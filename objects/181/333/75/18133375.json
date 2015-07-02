@@ -1,87 +1,176 @@
 {
-    "id":"18133375",
-    "tms:id":"12068",
-    "accession_number":"1902-1-831-a,b",
-    "title":"Textile, early 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18133375\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":"early 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: 7&1 satin with weft floats bound by supplementary warp",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft (a): 40.4 x 53.4 cm (15 7\/8 x 21 in.)\nWarp x Weft (b): 42.2 x 53.3 cm (16 5\/8 x 21 in.)",
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Green and white panel with equestrian and mythological figures, animals and stylized floral motifs. Two attached pieces represent a portion of a larger repeat. The lower panel has addorsed figures of Pan piping along with stylized frames, flowers, medallions, water birds, and a lion. The upper portion depicts a central group mounted on horseback within a frame. Flowers and garlands surround the sides of the frame.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18133375",
+    "tms:id": "12068",
+    "accession_number": "1902-1-831-a,b",
+    "title": "Textile (France), early 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18133375\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "early 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: 7&1 satin with weft floats bound by supplementary warp",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft (a): 40.4 x 53.4 cm (15 7\/8 x 21 in.)\nWarp x Weft (b): 42.2 x 53.3 cm (16 5\/8 x 21 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "40.40",
+            "centimeters"
+        ],
+        "weft": [
+            "53.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Green and white panel with equestrian and mythological figures, animals and stylized floral motifs. Two attached pieces represent a portion of a larger repeat. The lower panel has addorsed figures of Pan piping along with stylized frames, flowers, medallions, water birds, and a lion. The upper portion depicts a central group mounted on horseback within a frame. Flowers and garlands surround the sides of the frame.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32616_290d7166f925a780_b.jpg",
-                "width":624,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117142_86e6735d2181e034_b.jpg",
+                "width": 1024,
+                "height": 786,
+                "is_primary": "1",
+                "image_id": "117142"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32616_290d7166f925a780_n.jpg",
-                "width":195,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117142_86e6735d2181e034_z.jpg",
+                "width": 640,
+                "height": 491,
+                "is_primary": "1",
+                "image_id": "117142"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32616_290d7166f925a780_z.jpg",
-                "width":390,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117142_86e6735d2181e034_n.jpg",
+                "width": 320,
+                "height": 246,
+                "is_primary": "1",
+                "image_id": "117142"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117142_86e6735d2181e034_d.gif",
+                "width": 320,
+                "height": 246,
+                "is_primary": "1",
+                "image_id": "117142"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117142_86e6735d2181e034_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "117142"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117633_981c211b0f2fcce5_b.jpg",
+                "width": 1024,
+                "height": 777,
+                "is_primary": "0",
+                "image_id": "117633"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117633_981c211b0f2fcce5_z.jpg",
+                "width": 640,
+                "height": 485,
+                "is_primary": "0",
+                "image_id": "117633"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117633_981c211b0f2fcce5_n.jpg",
+                "width": 320,
+                "height": 243,
+                "is_primary": "0",
+                "image_id": "117633"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117633_981c211b0f2fcce5_d.gif",
+                "width": 320,
+                "height": 243,
+                "is_primary": "0",
+                "image_id": "117633"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117633_981c211b0f2fcce5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "117633"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32616_290d7166f925a780_b.jpg",
+                "width": 624,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "32616"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32616_290d7166f925a780_z.jpg",
+                "width": 390,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "32616"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32616_290d7166f925a780_n.jpg",
+                "width": 195,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32616"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32616_290d7166f925a780_d.gif",
+                "width": 195,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32616"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32616_290d7166f925a780_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32616"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, early 19th century.\nearly 19th century. Medium: silk\nTechnique: 7&amp;1 satin with weft floats bound by supplementary warp. Gift of John Pierpont Morgan. 1902-1-831-a,b."
+    "tombstone": {
+        "epitaph": "Textile (France), early 19th century. Medium: silk\nTechnique: 7&amp;1 satin with weft floats bound by supplementary warp. \nGift of John Pierpont Morgan. 1902-1-831-a,b"
     },
-    "colors":[
-        {
-            "color":"#252a1d",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#5c5c4a",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#5c525c",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#cdc1b2",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#f5f5d9",
-            "closest_css3":"#f5f5dc"
-        }
-    ]
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

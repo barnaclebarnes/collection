@@ -1,87 +1,184 @@
 {
-    "id":"18631987",
-    "tms:id":"190834",
-    "accession_number":"1988-83-2",
-    "title":"Vase",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18631987\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35392471",
-    "type_id":"35237225",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1988",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Glazed porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":"A blue porcelain vase with gold details. Vase is decorated with a pattern of large leaves in the form of stars. The stacked foot and beaded lip are both finished in gold.",
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18631987",
+    "tms:id": "190834",
+    "accession_number": "1988-83-2",
+    "title": "Chinois Ly Vase, 1868",
+    "title_raw": "Chinois Ly",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18631987\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35392471",
+    "type_id": "35237225",
+    "date": "1868",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1988",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Glazed porcelain",
+    "markings": "none",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1988: acquired by Museum (from Sotheby's)",
+    "dimensions": "H x diam.: 33.8 \u00d7 15 cm (13 5\/16 \u00d7 5 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.81",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": "A blue porcelain vase with gold details. Vase is decorated with a pattern of large leaves in the form of stars. The stacked foot and beaded lip are both finished in gold.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Vase",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10581_731b8e680e4597c8_b.jpg",
-                "width":951,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109160_1d3b517ddbcd4aec_b.jpg",
+                "width": 815,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109160"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10581_731b8e680e4597c8_n.jpg",
-                "width":297,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109160_1d3b517ddbcd4aec_z.jpg",
+                "width": 509,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109160"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10581_731b8e680e4597c8_z.jpg",
-                "width":594,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109160_1d3b517ddbcd4aec_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109160"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109160_1d3b517ddbcd4aec_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109160"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109160_1d3b517ddbcd4aec_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109160"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10581_731b8e680e4597c8_b.jpg",
+                "width": 951,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10581"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10581_731b8e680e4597c8_z.jpg",
+                "width": 594,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10581"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10581_731b8e680e4597c8_n.jpg",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10581"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10581_731b8e680e4597c8_d.gif",
+                "width": 297,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10581"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10581_731b8e680e4597c8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10581"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18047407",
-            "role_id":"35352249",
-            "person_name":"Sotheby's",
-            "role_name":"Vendor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047407\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+            "person_id": "18050335",
+            "role_id": "35352249",
+            "person_name": "Sotheby's",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18054689",
+            "role_id": "35236717",
+            "person_name": "Aim\u00e9-Joseph Godd\u00e9",
+            "person_date": "French, born 1823",
+            "role_name": "Decorator",
+            "role_display_name": "Decorated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054689\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236717\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Vase.\nGlazed porcelain. Museum purchase from Decorative Arts Association Acquisition Fund. 1988-83-2."
+    "tombstone": {
+        "epitaph": "Chinois Ly Vase, 1868. Glazed porcelain. \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1988-83-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#757d92",
-            "closest_css3":"#708090"
+            "color": "#192050",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
         },
         {
-            "color":"#515662",
-            "closest_css3":"#696969"
+            "color": "#27597e",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
         },
         {
-            "color":"#0e1360",
-            "closest_css3":"#191970"
+            "color": "#897f74",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#1442be",
-            "closest_css3":"#4169e1"
+            "color": "#443c5a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#919cb5",
-            "closest_css3":"#a9a9a9"
+            "color": "#453b35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

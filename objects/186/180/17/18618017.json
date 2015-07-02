@@ -1,49 +1,123 @@
 {
-    "id":"18618017",
-    "tms:id":"177542",
-    "accession_number":"1981-29-440",
-    "title":"Poster, \"IBM \/ Suggest!\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18618017\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18618017",
+    "tms:id": "177542",
+    "accession_number": "1981-29-440",
+    "title": "Poster, IBM \/ Suggest!, ca. 1980",
+    "title_raw": "IBM \/ Suggest!",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18618017\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431679",
+    "type_id": "35238163",
+    "date": "ca. 1980",
+    "year_start": 1975,
+    "year_end": 1985,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Screenprint on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "53 x 38.2 cm (20 7\/8 x 15 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "53.00",
+            "centimeters"
+        ],
+        "width": [
+            "38.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "On yellow ground, white text in row: HYPOTHESIS four times; SUGGESTION four times. Lower left in black: IBM [logo]; lower right: Suggest!",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042357",
-            "role_id":"35236655",
-            "person_name":"Ken White",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042357\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90308_5ac2bd985ee77da7_b.jpg",
+                "width": 734,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90308"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90308_5ac2bd985ee77da7_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90308"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90308_5ac2bd985ee77da7_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90308"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90308_5ac2bd985ee77da7_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90308"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90308_5ac2bd985ee77da7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90308"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, \"IBM \/ Suggest!\".\nGift of Various Donors. 1981-29-440."
+    "participants": [
+        {
+            "person_id": "18041871",
+            "role_id": "35236667",
+            "person_name": "IBM",
+            "person_date": "USA",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041871\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18042357",
+            "role_id": "35236655",
+            "person_name": "Ken White",
+            "person_date": "American, 1935-1985",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042357\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, IBM \/ Suggest!, ca. 1980. Screenprint on paper. \nGift of Various Donors. 1981-29-440"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#fde683",
+            "closest_crayola": "#fce883",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
+        },
+        {
+            "color": "#c79d18",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,87 +1,192 @@
 {
-    "id":"18647963",
-    "tms:id":"198888",
-    "accession_number":"1994-129-5",
-    "title":"Box, \"Inlaid mother-of-pearl snuff box\", ca. 1750\u201360",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18647963\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35423501",
-    "type_id":"35236855",
-    "date":"ca. 1750\u201360",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1994",
-    "decade":null,
-    "woe:country":"23424829",
-    "medium":"Gold, mother-of-pearl, gilt metal, enamel",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"From the collection of Maria Wyman",
-    "dimensions":"Overall: 6 x 4.5 x 1.5 cm (2 3\/8 x 1 3\/4 x 9\/16 in.)",
-    "creditline":"Gift of the Panwy Foundation, from the collection of Maria Wyman",
-    "description":"A dark blue snuff box with a decorative inlayed top depicting a figure sitting with wings.",
-    "justification":null,
-    "type":{
-        "id":"35236855",
-        "name":"Box"
+    "id": "18647963",
+    "tms:id": "198888",
+    "accession_number": "1994-129-5",
+    "title": "Inlaid mother-of-pearl snuff box Box, ca. 1750\u201360",
+    "title_raw": "Inlaid mother-of-pearl snuff box",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18647963\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35423501",
+    "type_id": "35236855",
+    "date": "ca. 1750\u201360",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1994",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "Gold, mother-of-pearl, gilt metal, enamel",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Panwy Foundation, from the collection of Maria Wyman; 1994: acquired by Museum",
+    "dimensions": "Overall: 6 x 4.5 x 1.5 cm (2 3\/8 x 1 3\/4 x 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.50",
+            "centimeters"
+        ],
+        "height": [
+            "6.00",
+            "centimeters"
+        ],
+        "width": [
+            "4.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Panwy Foundation, from the collection of Maria Wyman",
+    "description": "A dark blue snuff box with a decorative inlayed top depicting a figure sitting with wings.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Box",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12613_bbcdd1447ba41b37_b.jpg",
-                "width":1024,
-                "height":760,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94383_eab8a53be7e43a8c_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94383"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12613_bbcdd1447ba41b37_n.jpg",
-                "width":320,
-                "height":238,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94383_eab8a53be7e43a8c_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94383"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12613_bbcdd1447ba41b37_z.jpg",
-                "width":640,
-                "height":475,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94383_eab8a53be7e43a8c_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94383"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94383_eab8a53be7e43a8c_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94383"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94383_eab8a53be7e43a8c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94383"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12613_bbcdd1447ba41b37_b.jpg",
+                "width": 1024,
+                "height": 760,
+                "is_primary": "0",
+                "image_id": "12613"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12613_bbcdd1447ba41b37_z.jpg",
+                "width": 640,
+                "height": 475,
+                "is_primary": "0",
+                "image_id": "12613"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12613_bbcdd1447ba41b37_n.jpg",
+                "width": 320,
+                "height": 238,
+                "is_primary": "0",
+                "image_id": "12613"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12613_bbcdd1447ba41b37_d.gif",
+                "width": 320,
+                "height": 238,
+                "is_primary": "0",
+                "image_id": "12613"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12613_bbcdd1447ba41b37_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12613"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18060999",
-            "role_id":"35236685",
-            "person_name":"J. M. Heinrici",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18060999\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18060999",
+            "role_id": "35236685",
+            "person_name": "J. M. Heinrici",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18060999\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18041697",
+            "role_id": "35351535",
+            "person_name": "The Panwy Foundation, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041697\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048765",
+            "role_id": "35352245",
+            "person_name": "Cynthia Trope",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Box, \"Inlaid mother-of-pearl snuff box\", ca. 1750\u201360.\nca. 1750\u201360. Gold, mother-of-pearl, gilt metal, enamel. Gift of the Panwy Foundation, from the collection of Maria Wyman. 1994-129-5."
+    "tombstone": {
+        "epitaph": "Inlaid mother-of-pearl snuff box Box, ca. 1750\u201360. Gold, mother-of-pearl, gilt metal, enamel. \nGift of the Panwy Foundation, from the collection of Maria Wyman. 1994-129-5"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#323146",
-            "closest_css3":"#2f4f4f"
+            "color": "#b5b1ab",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#47393a",
-            "closest_css3":"#2f4f4f"
+            "color": "#302c2a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#7a4f3b",
-            "closest_css3":"#a0522d"
+            "color": "#534b3f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#c0865c",
-            "closest_css3":"#cd853f"
+            "color": "#71654f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#5e5b68",
-            "closest_css3":"#696969"
+            "color": "#c3b581",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

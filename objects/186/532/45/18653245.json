@@ -1,87 +1,170 @@
 {
-    "id":"18653245",
-    "tms:id":"201581",
-    "accession_number":"1996-18-39",
-    "title":"Sugar Bowl, 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18653245\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35249119",
-    "date":"1920\u201340",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1996",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Glazed earthenware",
-    "markings":"On bottom printed in brown, \"Germany\".",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"height 5.3, width 9.8, depth 8 centimeters",
-    "creditline":"Gift of Victor Wiener",
-    "description":"Spherical bowl with symmetrically placed descending, widening, and curving tab handles.  Entire surface covered with light jade green glaze.",
-    "justification":null,
-    "type":{
-        "id":"35249119",
-        "name":"sugar bowl"
+    "id": "18653245",
+    "tms:id": "201581",
+    "accession_number": "1996-18-39",
+    "title": "Sugar Bowl (Germany), 1920\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18653245\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35249119",
+    "date": "1920\u201340",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1996",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Glazed earthenware",
+    "markings": "On bottom printed in brown, \"Germany\".",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "height 5.3, width 9.8, depth 8 centimeters",
+    "dimensions_raw": {
+        "depth": [
+            "8.00",
+            "centimeters"
+        ],
+        "height": [
+            "5.30",
+            "centimeters"
+        ],
+        "width": [
+            "9.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Victor Wiener",
+    "description": "Spherical bowl with symmetrically placed descending, widening, and curving tab handles.  Entire surface covered with light jade green glaze.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "sugar bowl",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12938_71fdab4f27c0ca83_b.jpg",
-                "width":1024,
-                "height":644,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109839_09829d7d9d86ffc2_b.jpg",
+                "width": 1024,
+                "height": 871,
+                "is_primary": "1",
+                "image_id": "109839"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12938_71fdab4f27c0ca83_n.jpg",
-                "width":320,
-                "height":201,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109839_09829d7d9d86ffc2_z.jpg",
+                "width": 640,
+                "height": 544,
+                "is_primary": "1",
+                "image_id": "109839"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12938_71fdab4f27c0ca83_z.jpg",
-                "width":640,
-                "height":402,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109839_09829d7d9d86ffc2_n.jpg",
+                "width": 320,
+                "height": 272,
+                "is_primary": "1",
+                "image_id": "109839"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109839_09829d7d9d86ffc2_d.gif",
+                "width": 320,
+                "height": 272,
+                "is_primary": "1",
+                "image_id": "109839"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109839_09829d7d9d86ffc2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109839"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12938_71fdab4f27c0ca83_b.jpg",
+                "width": 1024,
+                "height": 644,
+                "is_primary": "0",
+                "image_id": "12938"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12938_71fdab4f27c0ca83_z.jpg",
+                "width": 640,
+                "height": 402,
+                "is_primary": "0",
+                "image_id": "12938"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12938_71fdab4f27c0ca83_n.jpg",
+                "width": 320,
+                "height": 201,
+                "is_primary": "0",
+                "image_id": "12938"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12938_71fdab4f27c0ca83_d.gif",
+                "width": 320,
+                "height": 201,
+                "is_primary": "0",
+                "image_id": "12938"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12938_71fdab4f27c0ca83_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12938"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049127",
-            "role_id":"35236657",
-            "person_name":"Carstens-Uffrecht",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049127\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041855",
+            "role_id": "35351535",
+            "person_name": "Victor Wiener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049127",
+            "role_id": "35236657",
+            "person_name": "Carstens-Uffrecht",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049127\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sugar Bowl, 1920\u201340.\n1920\u201340. Glazed earthenware. Gift of Victor Wiener. 1996-18-39."
+    "tombstone": {
+        "epitaph": "Sugar Bowl (Germany), 1920\u201340. Glazed earthenware. \nGift of Victor Wiener. 1996-18-39"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#c9c8d3",
-            "closest_css3":"#d3d3d3"
+            "color": "#949d84",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
         },
         {
-            "color":"#d1ceb2",
-            "closest_css3":"#c0c0c0"
+            "color": "#dbe2c3",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#9ca78c",
-            "closest_css3":"#8fbc8f"
-        },
-        {
-            "color":"#788063",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#4b5038",
-            "closest_css3":"#556b2f"
+            "color": "#5d6844",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

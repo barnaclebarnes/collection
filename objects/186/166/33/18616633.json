@@ -1,80 +1,131 @@
 {
-    "id":"18616633",
-    "tms:id":"176846",
-    "accession_number":"1981-28-251",
-    "title":"Sampler, 1774",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616633\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410907",
-    "type_id":"35256439",
-    "date":"1774",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Medium: silk embroidery on cotton foundation\nTechnique: embroidered in running (pattern darning) cross, and eyelet stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":"IVS  Oud 15 Jaar",
-    "provenance":null,
-    "dimensions":"H x W: 48.3 x 50.5 cm (19 x 19 7\/8 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Ten darning crosses, one darning corner.  Crowned signature and date in upper left and lower right corners.  In center \"Oud 15 Jaar\" (15 years old).",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616633",
+    "tms:id": "176846",
+    "accession_number": "1981-28-251",
+    "title": "Sampler (Netherlands), 1774",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616633\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410907",
+    "type_id": "35256439",
+    "date": "1774",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Medium: silk embroidery on cotton foundation\nTechnique: embroidered in running (pattern darning) cross, and eyelet stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": "IVS  Oud 15 Jaar",
+    "provenance": null,
+    "dimensions": "H x W: 48.3 x 50.5 cm (19 x 19 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "48.26",
+            "centimeters"
+        ],
+        "width": [
+            "50.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Ten darning crosses, one darning corner.  Crowned signature and date in upper left and lower right corners.  In center \"Oud 15 Jaar\" (15 years old).",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37016_950b8621df807925_b.jpg",
-                "width":1024,
-                "height":935,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37016_950b8621df807925_b.jpg",
+                "width": 1024,
+                "height": 935,
+                "is_primary": "1",
+                "image_id": "37016"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37016_950b8621df807925_n.jpg",
-                "width":320,
-                "height":292,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37016_950b8621df807925_z.jpg",
+                "width": 640,
+                "height": 584,
+                "is_primary": "1",
+                "image_id": "37016"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37016_950b8621df807925_z.jpg",
-                "width":640,
-                "height":584,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37016_950b8621df807925_n.jpg",
+                "width": 320,
+                "height": 292,
+                "is_primary": "1",
+                "image_id": "37016"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37016_950b8621df807925_d.gif",
+                "width": 320,
+                "height": 292,
+                "is_primary": "1",
+                "image_id": "37016"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37016_950b8621df807925_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "37016"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1774.\n1774. Medium: silk embroidery on cotton foundation\nTechnique: embroidered in running (pattern darning) cross, and eyelet stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-251."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d6cde7",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#b59ea6",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#6f6068",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#4f3d3a",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#b78681",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Netherlands), 1774. Medium: silk embroidery on cotton foundation\nTechnique: embroidered in running (pattern darning) cross, and eyelet stitches on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-251"
+    },
+    "colors": [
+        {
+            "color": "#d8cde6",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#c4a0a4",
+            "closest_crayola": "#d98695",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#645258",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#987481",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#848398",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

@@ -1,80 +1,131 @@
 {
-    "id":"18666169",
-    "tms:id":"208463",
-    "accession_number":"1901-16-150",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18666169\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 5.8 x 10.4 cm (2 5\/16 x 4 1\/8 in.)",
-    "creditline":"Gift of Thomas E. Kirby, Esq.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18666169",
+    "tms:id": "208463",
+    "accession_number": "1901-16-150",
+    "title": "Fragment (Japan)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18666169\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 5.8 x 10.4 cm (2 5\/16 x 4 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "5.80",
+            "centimeters"
+        ],
+        "width": [
+            "10.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Thomas E. Kirby, Esq.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/56322_bb144fc9de99ed6b_b.jpg",
-                "width":1024,
-                "height":630,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/56322_bb144fc9de99ed6b_b.jpg",
+                "width": 1024,
+                "height": 630,
+                "is_primary": "1",
+                "image_id": "56322"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/56322_bb144fc9de99ed6b_n.jpg",
-                "width":320,
-                "height":197,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/56322_bb144fc9de99ed6b_z.jpg",
+                "width": 640,
+                "height": 394,
+                "is_primary": "1",
+                "image_id": "56322"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/56322_bb144fc9de99ed6b_z.jpg",
-                "width":640,
-                "height":394,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/56322_bb144fc9de99ed6b_n.jpg",
+                "width": 320,
+                "height": 197,
+                "is_primary": "1",
+                "image_id": "56322"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/56322_bb144fc9de99ed6b_d.gif",
+                "width": 320,
+                "height": 197,
+                "is_primary": "1",
+                "image_id": "56322"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/56322_bb144fc9de99ed6b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "56322"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fragment.\nH x W: 5.8 x 10.4 cm (2 5\/16 x 4 1\/8 in.). Gift of Thomas E. Kirby, Esq.. 1901-16-150."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b9bbcd",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#7d7d74",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#93919f",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#68605d",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#f3ebc7",
-            "closest_css3":"#ffebcd"
+            "person_id": "18537941",
+            "role_id": "35351535",
+            "person_name": "Thomas E. Kirby, Esq.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537941\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (Japan). H x W: 5.8 x 10.4 cm (2 5\/16 x 4 1\/8 in.). \nGift of Thomas E. Kirby, Esq.. 1901-16-150"
+    },
+    "colors": [
+        {
+            "color": "#b1b0bc",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#e8dea4",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#6d5538",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#aa4352",
+            "closest_crayola": "#bf4f51",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#4f3c32",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

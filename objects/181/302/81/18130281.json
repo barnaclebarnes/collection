@@ -1,87 +1,168 @@
 {
-    "id":"18130281",
-    "tms:id":"11282",
-    "accession_number":"1902-1-142",
-    "title":"Band, \"The Sacrifice of Isaac\", 6th\u20138th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18130281\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35366757",
-    "type_id":"35254631",
-    "date":"6th\u20138th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: Warp; S-spun, Z-twist linen. Wefts; S-spun linen, S-spun wools\nTechnique: slit tapestry with supplementary weft wrapping",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 29.3 x 14.4 cm (11 9\/16 x 5 11\/16 in.)",
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Band divided into three sections. The central section shows a scene of Abraham about to sacrifice Isaac. The hand of God comes in from the upper left. Geometric pattern on either side.",
-    "justification":null,
-    "type":{
-        "id":"35254631",
-        "name":"Band"
+    "id": "18130281",
+    "tms:id": "11282",
+    "accession_number": "1902-1-142",
+    "title": "Band, The Sacrifice of Isaac, 6th\u20138th century",
+    "title_raw": "The Sacrifice of Isaac",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18130281\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35366757",
+    "type_id": "35254631",
+    "date": "6th\u20138th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": "23424802",
+    "medium": "Medium: Warp; S-spun, Z-twist linen. Wefts; S-spun linen, S-spun wools\nTechnique: slit tapestry with supplementary weft wrapping",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 29.3 x 14.4 cm (11 9\/16 x 5 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "29.30",
+            "centimeters"
+        ],
+        "width": [
+            "14.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Band divided into three sections. The central section shows a scene of Abraham about to sacrifice Isaac. The hand of God comes in from the upper left. Geometric pattern on either side.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424802",
+    "type": "Band",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18755_1c4f3a2b1e4b73a7_b.jpg",
-                "width":1024,
-                "height":577,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90381_be4ed0ae4d58a437_b.jpg",
+                "width": 1024,
+                "height": 568,
+                "is_primary": "1",
+                "image_id": "90381"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18755_1c4f3a2b1e4b73a7_n.jpg",
-                "width":320,
-                "height":180,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90381_be4ed0ae4d58a437_z.jpg",
+                "width": 640,
+                "height": 355,
+                "is_primary": "1",
+                "image_id": "90381"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18755_1c4f3a2b1e4b73a7_z.jpg",
-                "width":640,
-                "height":360,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90381_be4ed0ae4d58a437_n.jpg",
+                "width": 320,
+                "height": 178,
+                "is_primary": "1",
+                "image_id": "90381"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90381_be4ed0ae4d58a437_d.gif",
+                "width": 320,
+                "height": 178,
+                "is_primary": "1",
+                "image_id": "90381"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90381_be4ed0ae4d58a437_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90381"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18755_1c4f3a2b1e4b73a7_b.jpg",
+                "width": 1024,
+                "height": 577,
+                "is_primary": "0",
+                "image_id": "18755"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18755_1c4f3a2b1e4b73a7_z.jpg",
+                "width": 640,
+                "height": 360,
+                "is_primary": "0",
+                "image_id": "18755"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18755_1c4f3a2b1e4b73a7_n.jpg",
+                "width": 320,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "18755"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18755_1c4f3a2b1e4b73a7_d.gif",
+                "width": 320,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "18755"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18755_1c4f3a2b1e4b73a7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18755"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Band, \"The Sacrifice of Isaac\", 6th\u20138th century.\n6th\u20138th century. Medium: Warp; S-spun, Z-twist linen. Wefts; S-spun linen, S-spun wools\nTechnique: slit tapestry with supplementary weft wrapping. Gift of John Pierpont Morgan. 1902-1-142."
+    "tombstone": {
+        "epitaph": "Band, The Sacrifice of Isaac, 6th\u20138th century. Medium: Warp; S-spun, Z-twist linen. Wefts; S-spun linen, S-spun wools\nTechnique: slit tapestry with supplementary weft wrapping. \nGift of John Pierpont Morgan. 1902-1-142"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b7a17f",
-            "closest_css3":"#bc8f8f"
+            "color": "#4c2b24",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#ecead4",
-            "closest_css3":"#faebd7"
+            "color": "#b7aa81",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#7b2327",
-            "closest_css3":"#8b4513"
+            "color": "#90805c",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#a06a41",
-            "closest_css3":"#a0522d"
+            "color": "#7b5937",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#362a1e",
-            "closest_css3":"#2f4f4f"
+            "color": "#dcd4b7",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
         }
-    ]
+    ],
+    "woe:country_name": "Egypt",
+    "is_loan_object": 0
 }

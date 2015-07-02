@@ -1,80 +1,139 @@
 {
-    "id":"18564043",
-    "tms:id":"75225",
-    "accession_number":"1941-69-163",
-    "title":"Textile, 1893",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564043\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1893",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424936",
-    "medium":"Medium: cotton\nTechnique: cross stitch on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"\"One must work hard but it is a pleasure to do one's best.\"",
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"Warp x Weft: 44 x 42 cm (17 5\/16 x 16 9\/16 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"Man at horse-drawn plough and a woman sowing seeds. Inscription and date in Russian. (Trans: \"One must work hard but it is a pleasure to do one's best.\") Warps at one end are knotted into a fringe.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18564043",
+    "tms:id": "75225",
+    "accession_number": "1941-69-163",
+    "title": "Textile (Russia), 1893",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564043\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1893",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424936",
+    "medium": "Medium: cotton\nTechnique: cross stitch on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "\"One must work hard but it is a pleasure to do one's best.\"",
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "Warp x Weft: 44 x 42 cm (17 5\/16 x 16 9\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "44.00",
+            "centimeters"
+        ],
+        "weft": [
+            "42.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "Man at horse-drawn plough and a woman sowing seeds. Inscription and date in Russian. (Trans: \"One must work hard but it is a pleasure to do one's best.\") Warps at one end are knotted into a fringe.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424936",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29117_b98a0efee2a33fe1_b.jpg",
-                "width":928,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118798_faf848fa8df06adf_b.jpg",
+                "width": 945,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118798"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29117_b98a0efee2a33fe1_n.jpg",
-                "width":290,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118798_faf848fa8df06adf_z.jpg",
+                "width": 591,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118798"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29117_b98a0efee2a33fe1_z.jpg",
-                "width":580,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118798_faf848fa8df06adf_n.jpg",
+                "width": 295,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118798"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118798_faf848fa8df06adf_d.gif",
+                "width": 295,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118798"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118798_faf848fa8df06adf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118798"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29117_b98a0efee2a33fe1_b.jpg",
+                "width": 928,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "29117"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29117_b98a0efee2a33fe1_z.jpg",
+                "width": 580,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "29117"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29117_b98a0efee2a33fe1_n.jpg",
+                "width": 290,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "29117"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29117_b98a0efee2a33fe1_d.gif",
+                "width": 290,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "29117"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29117_b98a0efee2a33fe1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29117"
             }
         }
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Russia), 1893. Medium: cotton\nTechnique: cross stitch on plain weave. \nBequest of Mrs. Henry E. Coe. 1941-69-163"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1893.\n1893. Medium: cotton\nTechnique: cross stitch on plain weave. Bequest of Mrs. Henry E. Coe. 1941-69-163."
-    },
-    "colors":[
-        {
-            "color":"#3d4d5f",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#ded5c8",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#b8a899",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#907053",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#252016",
-            "closest_css3":"#000000"
-        }
-    ]
+    "woe:country_name": "Russia",
+    "is_loan_object": 0
 }

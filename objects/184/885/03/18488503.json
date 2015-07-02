@@ -1,42 +1,131 @@
 {
-    "id":"18488503",
-    "tms:id":"155120",
-    "accession_number":"1975-60-24",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18488503\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427727",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1975",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: relief printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from General Acquisitions Endowment",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18488503",
+    "tms:id": "155120",
+    "accession_number": "1975-60-24",
+    "title": "Textile (England), 1760\u201380",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18488503\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1760\u201380",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1975",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: cotton\nTechnique: block printed on plain weave, blue and yellow applied by brush",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 131 x 72.5 cm (51 9\/16 x 28 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "131.00",
+            "centimeters"
+        ],
+        "width": [
+            "72.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase from General Acquisitions Endowment",
+    "description": "Thick angular tree with clusters of fruit and flowers meandering up center of fabric. Curves of the branch frame peacock or quail-like birds standing on small patches of earth. One bird about to snatch a spider dangling on a thread from a branch. Undyed background. Blue warps on left and right selvage.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76671_4af23d0a22de4d31_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "76671"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76671_4af23d0a22de4d31_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "76671"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76671_4af23d0a22de4d31_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76671"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76671_4af23d0a22de4d31_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "76671"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76671_4af23d0a22de4d31_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76671"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: relief printed. Museum purchase from General Acquisitions Endowment. 1975-60-24."
+    "tombstone": {
+        "epitaph": "Textile (England), 1760\u201380. Medium: cotton\nTechnique: block printed on plain weave, blue and yellow applied by brush. \nMuseum purchase from General Acquisitions Endowment. 1975-60-24"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#e7c6a9",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#f7e4a1",
+            "closest_crayola": "#f0e891",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#c28c6a",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#f4f6d5",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
+        },
+        {
+            "color": "#ab6049",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

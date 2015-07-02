@@ -1,72 +1,156 @@
 {
-    "id":"18127769",
-    "tms:id":"10837",
-    "accession_number":"1901-39-673",
-    "title":"Drawing, \"Architectural details; three heads\", ca. 1750",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18127769\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":"ca. 1750",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18127769",
+    "tms:id": "10837",
+    "accession_number": "1901-39-673",
+    "title": "Drawing, Architectural details; three heads, ca. 1750",
+    "title_raw": "Architectural details; three heads",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18127769\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68264439",
+    "type_id": "35237093",
+    "date": "ca. 1750",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Black, red chalk, pen and ink, brush and gray watercolor on laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Giovanni Piancastelli; 1901: acquired by Museum",
+    "dimensions": "26.7 x 19.2 cm (10 1\/2 x 7 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "26.70",
+            "centimeters"
+        ],
+        "width": [
+            "19.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Top left: elevation of upper left corner of a building; part of a window pane, above which two friezes and cornices rise. A drapery festoon decorates the lower part with grotesque motif. Top right: a capital for a pilaster with masks forming the capital; a part of left leg of a seated man. Center right: left side of a frieze with a tiara over a shell flanked by cherubim. Bottom: three heads of women; left one is lowered, the central one is turned in toward left; right is shown in bust profile.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/218_298b4b753898933f_b.jpg",
-                "width":750,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90731_fb8a11a2b504b9f3_b.jpg",
+                "width": 730,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90731"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/218_298b4b753898933f_n.jpg",
-                "width":234,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90731_fb8a11a2b504b9f3_z.jpg",
+                "width": 456,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90731"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/218_298b4b753898933f_z.jpg",
-                "width":468,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90731_fb8a11a2b504b9f3_n.jpg",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90731"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90731_fb8a11a2b504b9f3_d.gif",
+                "width": 228,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90731"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90731_fb8a11a2b504b9f3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90731"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218_298b4b753898933f_b.jpg",
+                "width": 750,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "218"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218_298b4b753898933f_z.jpg",
+                "width": 468,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "218"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218_298b4b753898933f_n.jpg",
+                "width": 234,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "218"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218_298b4b753898933f_d.gif",
+                "width": 234,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "218"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/218_298b4b753898933f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "218"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Architectural details; three heads\", ca. 1750.\nca. 1750. Museum purchase through gift of various donors. 1901-39-673."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d3b7c6",
-            "closest_css3":"#d8bfd8"
-        },
-        {
-            "color":"#977885",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#a69bb3",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18042677",
+            "role_id": "35236655",
+            "person_name": "Filippo Marchionni",
+            "person_date": "Italian, 1732\u20131805",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042677\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Architectural details; three heads, ca. 1750. Black, red chalk, pen and ink, brush and gray watercolor on laid paper. \nMuseum purchase through gift of various donors. 1901-39-673"
+    },
+    "colors": [
+        {
+            "color": "#cab48e",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#9f987e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#877a5d",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

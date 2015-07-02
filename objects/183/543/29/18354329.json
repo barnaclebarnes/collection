@@ -1,87 +1,122 @@
 {
-    "id":"18354329",
-    "tms:id":"60553",
-    "accession_number":"1938-82-160-a",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18354329\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Anonymous bequest in memory of Albert and Rebecca Elsberg",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18354329",
+    "tms:id": "60553",
+    "accession_number": "1938-82-160-a",
+    "title": "Textile (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18354329\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Anonymous bequest in memory of Albert and Rebecca Elsberg",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3756_06ff220e3ed66a45_b.jpg",
-                "width":680,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3756_06ff220e3ed66a45_b.jpg",
+                "width": 680,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "3756"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3756_06ff220e3ed66a45_n.jpg",
-                "width":212,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3756_06ff220e3ed66a45_z.jpg",
+                "width": 425,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "3756"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3756_06ff220e3ed66a45_z.jpg",
-                "width":425,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3756_06ff220e3ed66a45_n.jpg",
+                "width": 212,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "3756"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3756_06ff220e3ed66a45_d.gif",
+                "width": 212,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "3756"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3756_06ff220e3ed66a45_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "3756"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049335",
-            "role_id":"35351537",
-            "person_name":"Anonymous",
-            "role_name":"Bequestor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+            "person_id": "18049335",
+            "role_id": "35351537",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-160-a."
+    "tombstone": {
+        "epitaph": "Textile (France). \nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-160-a"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b184a1",
-            "closest_css3":"#bc8f8f"
+            "color": "#994d4f",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#98505a",
-            "closest_css3":"#a0522d"
+            "color": "#8a7994",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#c16878",
-            "closest_css3":"#cd5c5c"
+            "color": "#c26770",
+            "closest_crayola": "#cc6666",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         },
         {
-            "color":"#877493",
-            "closest_css3":"#808080"
+            "color": "#b17b97",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#8a4334",
-            "closest_css3":"#a0522d"
+            "color": "#ac98b6",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

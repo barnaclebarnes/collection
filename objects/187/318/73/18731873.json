@@ -1,79 +1,164 @@
 {
-    "id":"18731873",
-    "tms:id":"242037",
-    "accession_number":"2009-18-76",
-    "title":"White Wine Glass, \"Mimosas\", 1905",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731873\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51588435",
-    "type_id":"35293809",
-    "date":"1905",
-    "year_start":"1905",
-    "year_end":"1905",
-    "year_acquired":"2009",
-    "decade":"1900",
-    "woe:country":"23424750",
-    "medium":"Mouth-blown crystal, engraving",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 14.6 x 6.7 cm (5 3\/4 x 2 5\/8 in.)",
-    "creditline":"Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
-    "description":"Mouth-blown crystal, with dainty floral engraving",
-    "justification":null,
-    "type":{
-        "id":"35293809",
-        "name":"White wine glass"
+    "id": "18731873",
+    "tms:id": "242037",
+    "accession_number": "2009-18-76",
+    "title": "No. 222 White Wine Glass, 1905",
+    "title_raw": "No. 222",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18731873\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51588435",
+    "type_id": "35293809",
+    "date": "1905",
+    "year_start": 1905,
+    "year_end": 1905,
+    "year_acquired": "2009",
+    "decade": "1900",
+    "woe:country_id": "23424750",
+    "medium": "Mouth-blown crystal, engraving",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "2009: acquired by Museum",
+    "dimensions": "H x diam.: 14.6 x 6.7 cm (5 3\/4 x 2 5\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "6.70",
+            "centimeters"
+        ],
+        "height": [
+            "14.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
+    "description": "Mouth-blown crystal wine glass, with dainty floral engraving.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "White wine glass",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32246_7d5094cd6ada3607_b.jpg",
-                "width":644,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32246_7d5094cd6ada3607_b.jpg",
+                "width": 644,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "32246"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32246_7d5094cd6ada3607_n.jpg",
-                "width":201,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32246_7d5094cd6ada3607_z.jpg",
+                "width": 402,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "32246"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32246_7d5094cd6ada3607_z.jpg",
-                "width":402,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32246_7d5094cd6ada3607_n.jpg",
+                "width": 201,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "32246"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32246_7d5094cd6ada3607_d.gif",
+                "width": 201,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "32246"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32246_7d5094cd6ada3607_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "32246"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120720_ce0c6607c060d1a0_b.jpg",
+                "width": 615,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120720"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120720_ce0c6607c060d1a0_z.jpg",
+                "width": 384,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120720"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120720_ce0c6607c060d1a0_n.jpg",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120720"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120720_ce0c6607c060d1a0_d.gif",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120720"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120720_ce0c6607c060d1a0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120720"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18061841",
-            "role_id":"35236657",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18061841",
+            "role_id": "35236657",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18061841",
-            "role_id":"51571131",
-            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
-            "role_name":"Lender",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+            "person_id": "18537837",
+            "role_id": "35236655",
+            "person_name": "Stefan Rath",
+            "person_date": "Austrian, 1876\u20131960",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537837\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061841",
+            "role_id": "51571131",
+            "person_name": "J. & L. Lobmeyr GmbH",
+            "person_date": "Vienna, Austria, founded ca. 1935",
+            "role_name": "Lender",
+            "role_display_name": "Lent by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"White Wine Glass, \"Mimosas\", 1905.\n1905. Mouth-blown crystal, engraving. Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-76."
+    "tombstone": {
+        "epitaph": "No. 222 White Wine Glass, 1905. Mouth-blown crystal, engraving. \nMuseum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-76"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cbcbcd",
-            "closest_css3":"#d3d3d3"
+            "color": "#cbcbcd",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         }
-    ]
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

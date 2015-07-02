@@ -1,87 +1,188 @@
 {
-    "id":"18431525",
-    "tms:id":"126158",
-    "accession_number":"1960-163-22",
-    "title":"Scenic - Panel, \"Relief Map of the United States\", 1930\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18431525\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35420523",
-    "type_id":"35287557",
-    "date":"1930\u201340",
-    "year_start":"1930",
-    "year_end":"1940",
-    "year_acquired":"1960",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Chromo-lithographed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"104 x 50 cm (40 15\/16 x 19 11\/16 in.)",
-    "creditline":"Gift of Wallpaper Council, Inc.",
-    "description":"The left panel of a mural containing a relief map of the United States showing the west coast.",
-    "justification":null,
-    "type":{
-        "id":"35287557",
-        "name":"Scenic - panel"
+    "id": "18431525",
+    "tms:id": "126158",
+    "accession_number": "1960-163-22",
+    "title": "Scenic - Panel, Relief Map of the United States, 1930\u201340",
+    "title_raw": "Relief Map of the United States",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18431525\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35420523",
+    "type_id": "35287557",
+    "date": "1930\u201340",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1960",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Chromo-lithographed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "104 x 50 cm (40 15\/16 x 19 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "104.00",
+            "centimeters"
+        ],
+        "width": [
+            "50.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Wallpaper Council, Inc.",
+    "description": "The left panel of a mural containing a relief map of the United States showing the west coast.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Scenic - panel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6099_b43bc9c70f4f6f35_b.jpg",
-                "width":502,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91434_1ebebe8a6f078ece_b.jpg",
+                "width": 567,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "91434"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6099_b43bc9c70f4f6f35_n.jpg",
-                "width":157,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91434_1ebebe8a6f078ece_z.jpg",
+                "width": 354,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "91434"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6099_b43bc9c70f4f6f35_z.jpg",
-                "width":314,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91434_1ebebe8a6f078ece_n.jpg",
+                "width": 177,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91434"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91434_1ebebe8a6f078ece_d.gif",
+                "width": 177,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "91434"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91434_1ebebe8a6f078ece_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91434"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6099_b43bc9c70f4f6f35_b.jpg",
+                "width": 502,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "6099"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6099_b43bc9c70f4f6f35_z.jpg",
+                "width": 314,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "6099"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6099_b43bc9c70f4f6f35_n.jpg",
+                "width": 157,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6099"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6099_b43bc9c70f4f6f35_d.gif",
+                "width": 157,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6099"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6099_b43bc9c70f4f6f35_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "6099"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046573",
-            "role_id":"35236657",
-            "person_name":"The Schmitz-Horning Co.",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046573\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18047399",
+            "role_id": "35352245",
+            "person_name": "Gregory Herringshaw",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047399\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18055649",
+            "role_id": "35352245",
+            "person_name": "Marilyn Hiller",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055649\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046573",
+            "role_id": "35236657",
+            "person_name": "The Schmitz-Horning Co.",
+            "person_date": "1905",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046573\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Scenic - Panel, \"Relief Map of the United States\", 1930\u201340.\n1930\u201340. Chromo-lithographed. Gift of Wallpaper Council, Inc.. 1960-163-22."
+    "tombstone": {
+        "epitaph": "Scenic - Panel, Relief Map of the United States, 1930\u201340. Chromo-lithographed. \nGift of Wallpaper Council, Inc.. 1960-163-22"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#5d4d46",
-            "closest_css3":"#556b2f"
+            "color": "#e0dfc1",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#9d765b",
-            "closest_css3":"#808080"
+            "color": "#b9ac60",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#c6ae6c",
-            "closest_css3":"#bdb76b"
+            "color": "#504a3d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#687076",
-            "closest_css3":"#696969"
+            "color": "#a58c5a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#c99c7d",
-            "closest_css3":"#bc8f8f"
+            "color": "#7f714e",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

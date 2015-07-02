@@ -1,42 +1,109 @@
 {
-    "id":"18474547",
-    "tms:id":"148036",
-    "accession_number":"1971-50-360",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474547\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"112691",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium:\nTechnique: bobbin lace, discontinuous tape",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18474547",
+    "tms:id": "148036",
+    "accession_number": "1971-50-360",
+    "title": "Fragment",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474547\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "68724191",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: linen, black beads\nTechnique: bobbin lace, discontinuous tape",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": "Band with three plants forming tabs.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75974_25d23dce2bd40062_b.jpg",
+                "width": 1024,
+                "height": 574,
+                "is_primary": "1",
+                "image_id": "75974"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75974_25d23dce2bd40062_z.jpg",
+                "width": 640,
+                "height": 359,
+                "is_primary": "1",
+                "image_id": "75974"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75974_25d23dce2bd40062_n.jpg",
+                "width": 320,
+                "height": 179,
+                "is_primary": "1",
+                "image_id": "75974"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75974_25d23dce2bd40062_d.gif",
+                "width": 320,
+                "height": 179,
+                "is_primary": "1",
+                "image_id": "75974"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75974_25d23dce2bd40062_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75974"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nMedium:\nTechnique: bobbin lace, discontinuous tape. Bequest of Marian Hague. 1971-50-360."
+    "tombstone": {
+        "epitaph": "Fragment. Medium: linen, black beads\nTechnique: bobbin lace, discontinuous tape. \nBequest of Marian Hague. 1971-50-360"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#37302c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#444c4d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#1e2829",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

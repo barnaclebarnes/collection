@@ -1,57 +1,151 @@
 {
-    "id":"18623079",
-    "tms:id":"186376",
-    "accession_number":"1987-83-20",
-    "title":"Panel",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18623079\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237229",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 141 x 132 cm (55 1\/2 x 51 15\/16 in.)",
-    "creditline":"Gift of Robert D. Sailors",
-    "description":"Regular plaid in gray and shades of brown.",
-    "justification":null,
-    "type":{
-        "id":"35237229",
-        "name":"Panel"
+    "id": "18623079",
+    "tms:id": "186376",
+    "accession_number": "1987-83-20",
+    "title": "Panel (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18623079\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237229",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1987",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 141 x 132 cm (55 1\/2 x 51 15\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "141.00",
+            "centimeters"
+        ],
+        "weft": [
+            "132.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Robert D. Sailors",
+    "description": "Regular plaid in gray and shades of brown.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Panel",
+    "images": [
         {
-            "person_id":"18046135",
-            "role_id":"35351535",
-            "person_name":"Robert D. Sailors",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046135\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
-        },
-        {
-            "person_id":"18046135",
-            "role_id":"35236685",
-            "person_name":"Robert D. Sailors",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046135\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78171_f06da45ce9cde213_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "1",
+                "image_id": "78171"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78171_f06da45ce9cde213_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "1",
+                "image_id": "78171"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78171_f06da45ce9cde213_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "78171"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78171_f06da45ce9cde213_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "78171"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/78171_f06da45ce9cde213_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "78171"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Panel.\nWarp x Weft: 141 x 132 cm (55 1\/2 x 51 15\/16 in.). Gift of Robert D. Sailors. 1987-83-20."
+    "participants": [
+        {
+            "person_id": "18046135",
+            "role_id": "35351535",
+            "person_name": "Robert D. Sailors",
+            "person_date": "American, 1913 \u2013 1995",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046135\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046135",
+            "role_id": "35236685",
+            "person_name": "Robert D. Sailors",
+            "person_date": "American, 1913 \u2013 1995",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046135\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Panel (USA). Warp x Weft: 141 x 132 cm (55 1\/2 x 51 15\/16 in.). \nGift of Robert D. Sailors. 1987-83-20"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#dfcbc4",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#cfa492",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#716566",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a57869",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b2a3a0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

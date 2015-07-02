@@ -1,42 +1,119 @@
 {
-    "id":"18476211",
-    "tms:id":"148874",
-    "accession_number":"1972-39-13-a\/c",
-    "title":"Sidewall, 1890\u20131920",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476211\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1890\u20131920",
-    "year_start":null,
-    "year_end":"1920",
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"88.5 x 50.5 cm (34 13\/16 x 19 7\/8 in.)",
-    "creditline":"Gift of Elizabeth R. Albro",
-    "description":"All-over floral pattern, printed in dark blue with red, light blue and gold accents. The flower is the blue ground color with the negative areas printed in dark blue.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18476211",
+    "tms:id": "148874",
+    "accession_number": "1972-39-13-a\/c",
+    "title": "Sidewall (USA), 1879\u201387",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476211\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35256475",
+    "date": "1879\u201387",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed in right selvedge: A.W.P.M.A.",
+    "provenance": null,
+    "dimensions": "88.5 x 50.5 cm (34 13\/16 x 19 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "88.50",
+            "centimeters"
+        ],
+        "width": [
+            "50.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Elizabeth R. Albro",
+    "description": "All-over floral pattern, printed in dark blue with red, light blue and gold accents. The flower is the blue ground color with the negative areas printed in dark blue. In the Aesthetic style.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83818_3d16856bd54bc1cf_b.jpg",
+                "width": 630,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "83818"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83818_3d16856bd54bc1cf_z.jpg",
+                "width": 394,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "83818"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83818_3d16856bd54bc1cf_n.jpg",
+                "width": 197,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83818"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83818_3d16856bd54bc1cf_d.gif",
+                "width": 197,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "83818"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/83818_3d16856bd54bc1cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "83818"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18046709",
+            "role_id": "35236657",
+            "person_name": "American Wall Paper Manufacturers' Association",
+            "person_date": "1879\u20131887",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046709\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1890\u20131920.\n1890\u20131920. Machine-printed. Gift of Elizabeth R. Albro. 1972-39-13-a\/c."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1879\u201387. Machine-printed on paper. \nGift of Elizabeth R. Albro. 1972-39-13-a\/c"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#46526d",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#212232",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#677582",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

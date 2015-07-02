@@ -1,80 +1,141 @@
 {
-    "id":"18447347",
-    "tms:id":"134189",
-    "accession_number":"1963-39-164-j",
-    "title":"Print",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18447347\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35236873",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1963",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18447347",
+    "tms:id": "134189",
+    "accession_number": "1963-39-164-j",
+    "title": "Print, American Airlines to Ireland, 1948",
+    "title_raw": "American Airlines to Ireland",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18447347\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51685987",
+    "type_id": "35236873",
+    "date": "1948",
+    "year_start": 1948,
+    "year_end": 1948,
+    "year_acquired": "1963",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper mounted on thick board",
+    "markings": null,
+    "signed": "Signed in black ink, lower left: E. McKnight Kauffer \u201848",
+    "inscribed": "Printed in black ink, lower left: LITHO IN U.S.A.",
+    "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum",
+    "dimensions": "23 x 17.5 cm (9 1\/16 x 6 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.00",
+            "centimeters"
+        ],
+        "width": [
+            "17.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Green hilly landscape; crenellated fortress in the background and farm with fields in the foreground. Above, in black: AMERICAN AIRLINES; below, in red and green: TO \/ IRELAND [AA logo in black, lower right].",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57349_c699fa1c579b5f5f_b.jpg",
-                "width":794,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57349_361dd7c5158571ce_b.jpg",
+                "width": 742,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "57349"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57349_c699fa1c579b5f5f_n.jpg",
-                "width":248,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57349_361dd7c5158571ce_z.jpg",
+                "width": 463,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "57349"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57349_c699fa1c579b5f5f_z.jpg",
-                "width":496,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57349_361dd7c5158571ce_n.jpg",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "57349"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57349_361dd7c5158571ce_d.gif",
+                "width": 232,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "57349"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57349_361dd7c5158571ce_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "57349"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Print.\nGift of Mrs. E. McKnight Kauffer. 1963-39-164-j."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#50886f",
-            "closest_css3":"#696969"
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#beca84",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#e8eacb",
-            "closest_css3":"#faebd7"
-        },
-        {
-            "color":"#83b8c8",
-            "closest_css3":"#87ceeb"
-        },
-        {
-            "color":"#343532",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Print, American Airlines to Ireland, 1948. Lithograph on paper mounted on thick board. \nGift of Mrs. E. McKnight Kauffer. 1963-39-164-j"
+    },
+    "colors": [
+        {
+            "color": "#aabb78",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#5d8167",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#426152",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#dce3c0",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#89a6bc",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

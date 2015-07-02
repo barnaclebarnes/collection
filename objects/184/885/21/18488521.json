@@ -1,42 +1,121 @@
 {
-    "id":"18488521",
-    "tms:id":"155129",
-    "accession_number":"1975-60-30",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18488521\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367167",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1975",
-    "decade":null,
-    "woe:country":null,
-    "medium":"printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase from General Acquisitions Endowment",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18488521",
+    "tms:id": "155129",
+    "accession_number": "1975-60-30",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18488521\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367167",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1975",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase from General Acquisitions Endowment",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76678_150a6d9cdc984ede_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "1",
+                "image_id": "76678"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76678_150a6d9cdc984ede_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "1",
+                "image_id": "76678"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76678_150a6d9cdc984ede_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "76678"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76678_150a6d9cdc984ede_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "1",
+                "image_id": "76678"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76678_150a6d9cdc984ede_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "76678"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18048535",
+            "role_id": "35352247",
+            "person_name": "General Acquisitions Endowment",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048535\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nprinted. Museum purchase from General Acquisitions Endowment. 1975-60-30."
+    "tombstone": {
+        "epitaph": "Textile. printed. \nMuseum purchase from General Acquisitions Endowment. 1975-60-30"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#c8b5ba",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#c09981",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#42444f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#d2bda5",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#eae3d0",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        }
+    ],
+    "is_loan_object": 0
 }

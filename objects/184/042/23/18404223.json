@@ -1,80 +1,289 @@
 {
-    "id":"18404223",
-    "tms:id":"112296",
-    "accession_number":"1955-25-4-a\/d",
-    "title":"Fragment, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18404223\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: 5-harness satin damask",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 200 x 151.5 cm (6 ft. 6 3\/4 in. x 59 5\/8 in.)",
-    "creditline":"Gift of L. Boyd and Annie McQuarrie Hatch",
-    "description":"Large-scale symmetrical floral design with flowering and fruiting twigs enclosing central bouquet. Striped green and white selvages.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18404223",
+    "tms:id": "112296",
+    "accession_number": "1955-25-4-a\/d",
+    "title": "Fragment (France), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18404223\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: 5-harness satin damask",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 200 x 151.5 cm (6 ft. 6 3\/4 in. x 59 5\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "200.00",
+            "centimeters"
+        ],
+        "weft": [
+            "151.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of L. Boyd and Annie McQuarrie Hatch",
+    "description": "Large-scale symmetrical floral design with flowering and fruiting twigs enclosing central bouquet. Striped green and white selvages.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32922_deaa605720755287_b.jpg",
-                "width":613,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32922_deaa605720755287_b.jpg",
+                "width": 613,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "32922"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32922_deaa605720755287_n.jpg",
-                "width":191,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32922_deaa605720755287_z.jpg",
+                "width": 383,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "32922"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32922_deaa605720755287_z.jpg",
-                "width":383,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32922_deaa605720755287_n.jpg",
+                "width": 191,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "32922"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32922_deaa605720755287_d.gif",
+                "width": 191,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "32922"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32922_deaa605720755287_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "32922"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120968_72d571f5555ae308_b.jpg",
+                "width": 566,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120968"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120968_72d571f5555ae308_z.jpg",
+                "width": 354,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120968"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120968_72d571f5555ae308_n.jpg",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120968"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120968_72d571f5555ae308_d.gif",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120968"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120968_72d571f5555ae308_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120968"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120896_47ff3262f53c8e16_b.jpg",
+                "width": 564,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120896"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120896_47ff3262f53c8e16_z.jpg",
+                "width": 352,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120896"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120896_47ff3262f53c8e16_n.jpg",
+                "width": 176,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120896"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120896_47ff3262f53c8e16_d.gif",
+                "width": 176,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120896"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120896_47ff3262f53c8e16_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120896"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121178_7aad9ee57823003d_b.jpg",
+                "width": 568,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "121178"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121178_7aad9ee57823003d_z.jpg",
+                "width": 355,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "121178"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121178_7aad9ee57823003d_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "121178"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121178_7aad9ee57823003d_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "121178"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121178_7aad9ee57823003d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "121178"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120918_abe2bea5475b7e28_b.jpg",
+                "width": 570,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120918"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120918_abe2bea5475b7e28_z.jpg",
+                "width": 356,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120918"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120918_abe2bea5475b7e28_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120918"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120918_abe2bea5475b7e28_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120918"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120918_abe2bea5475b7e28_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120918"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk\nTechnique: 5-harness satin damask. Gift of L. Boyd and Annie McQuarrie Hatch. 1955-25-4-a\/d."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#5181a6",
-            "closest_css3":"#4682b4"
+            "person_id": "18049411",
+            "role_id": "35351535",
+            "person_name": "L. Boyd Hatch",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049411\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#212c4a",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#334a60",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#45658a",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#8ebdeb",
-            "closest_css3":"#87ceeb"
+            "person_id": "18056351",
+            "role_id": "35351535",
+            "person_name": "Anne McQuarrie Hatch",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), 18th century. Medium: silk\nTechnique: 5-harness satin damask. \nGift of L. Boyd and Annie McQuarrie Hatch. 1955-25-4-a\/d"
+    },
+    "colors": [
+        {
+            "color": "#5386b8",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#244465",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#3f6c9b",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#232a3b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7dbef2",
+            "closest_crayola": "#80daeb",
+            "closest_css3": "#87ceeb",
+            "closest_css4": "#87ceeb"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

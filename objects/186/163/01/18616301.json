@@ -1,120 +1,215 @@
 {
-    "id":"18616301",
-    "tms:id":"176680",
-    "accession_number":"1981-28-101",
-    "title":"Sampler, 1774",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616301\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427205",
-    "type_id":"35256439",
-    "date":"1774",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross, satin, eyelet, tent, and half cross stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 40.6 x 33 cm (16 x 13 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Within a curving floral border, two angels holding a crown over a heart with text \"the faithful heart shall ever crowned be.\"  Then isolated floral and animal motifs including Adam and Eve.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616301",
+    "tms:id": "176680",
+    "accession_number": "1981-28-101",
+    "title": "Sampler (England), 1774",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616301\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427205",
+    "type_id": "35256439",
+    "date": "1774",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross, satin, eyelet, tent, and half cross stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 40.6 x 33 cm (16 x 13 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.64",
+            "centimeters"
+        ],
+        "width": [
+            "33.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Within a curving floral border, two angels holding a crown over a heart with text \"the faithful heart shall ever crowned be.\"  Then isolated floral and animal motifs including Adam and Eve.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42579_360144589e2ee3b7_b.jpg",
-                "width":833,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42579_360144589e2ee3b7_b.jpg",
+                "width": 833,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "42579"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42579_360144589e2ee3b7_n.jpg",
-                "width":260,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42579_360144589e2ee3b7_z.jpg",
+                "width": 521,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "42579"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42579_360144589e2ee3b7_z.jpg",
-                "width":521,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42579_360144589e2ee3b7_n.jpg",
+                "width": 260,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42579"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42579_360144589e2ee3b7_d.gif",
+                "width": 260,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42579"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42579_360144589e2ee3b7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42579"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36649_3848eff7afe219b6_b.jpg",
-                "width":815,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36649_3848eff7afe219b6_b.jpg",
+                "width": 815,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "36649"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36649_3848eff7afe219b6_n.jpg",
-                "width":255,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36649_3848eff7afe219b6_z.jpg",
+                "width": 510,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "36649"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36649_3848eff7afe219b6_z.jpg",
-                "width":510,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36649_3848eff7afe219b6_n.jpg",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36649"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36649_3848eff7afe219b6_d.gif",
+                "width": 255,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36649"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36649_3848eff7afe219b6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36649"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36648_fe8ec55c3d427618_b.jpg",
-                "width":687,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36648_fe8ec55c3d427618_b.jpg",
+                "width": 687,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "36648"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36648_fe8ec55c3d427618_n.jpg",
-                "width":215,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36648_fe8ec55c3d427618_z.jpg",
+                "width": 430,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "36648"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36648_fe8ec55c3d427618_z.jpg",
-                "width":430,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36648_fe8ec55c3d427618_n.jpg",
+                "width": 215,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36648"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36648_fe8ec55c3d427618_d.gif",
+                "width": 215,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "36648"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36648_fe8ec55c3d427618_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36648"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1774.\n1774. Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross, satin, eyelet, tent, and half cross stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-101."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b39d6c",
-            "closest_css3":"#bdb76b"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#8c7854",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#70573d",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#626751",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#494435",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18050703",
+            "role_id": "35236583",
+            "person_name": "Ann Coleman",
+            "person_date": "English",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050703\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (England), 1774. Medium: silk embroidery on wool foundation\nTechnique: embroidered in cross, satin, eyelet, tent, and half cross stitches on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-101"
+    },
+    "colors": [
+        {
+            "color": "#9e9d80",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#a0895f",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#74775e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#625d46",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#7d5f43",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,80 +1,182 @@
 {
-    "id":"18651565",
-    "tms:id":"200724",
-    "accession_number":"1995-50-60",
-    "title":"Textile, \"The Chinese\", ca. 1810",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18651565\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35407495",
-    "type_id":"35251739",
-    "date":"ca. 1810",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Roller-printed on cotton; yellow added by block or brush\nMedium: cotton \nTechnique: plain weave foundation; red printed by engraved roller; yellow added by block or brush",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 47.5 x 96 cm (18 11\/16 x 37 13\/16 in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Small scenes depicting religious and secular architecture in China, many of which are derived from illustrations in \"An Authentic Account of an Embassy from the King of Great Britain to the Emperor of China\" (London, 1797).  The fortress at Yangchow (center), and warriors, is based on the drawings of William Alexander. Printed in red with white reserved and a yellow ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18651565",
+    "tms:id": "200724",
+    "accession_number": "1995-50-60",
+    "title": "Textile, Les Chinois, ca. 1810",
+    "title_raw": "Les Chinois",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18651565\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35407495",
+    "type_id": "35251739",
+    "date": "ca. 1810",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Roller-printed on cotton; yellow added by block or brush\nMedium: cotton \nTechnique: plain weave foundation; red printed by engraved roller; yellow added by block or brush",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 47.5 x 96 cm (18 11\/16 x 37 13\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "47.50",
+            "centimeters"
+        ],
+        "weft": [
+            "96.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Small scenes depicting religious and secular architecture in China, many of which are derived from illustrations in \"An Authentic Account of an Embassy from the King of Great Britain to the Emperor of China\" (London, 1797). The fortress at Yangchow (center), and warriors, is based on the drawings of William Alexander. Printed in red with white reserved and a yellow ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12234_edd2056b512724d0_b.jpg",
-                "width":1024,
-                "height":528,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107947_18e82cb10739a58f_b.jpg",
+                "width": 1024,
+                "height": 582,
+                "is_primary": "1",
+                "image_id": "107947"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12234_edd2056b512724d0_n.jpg",
-                "width":320,
-                "height":165,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107947_18e82cb10739a58f_z.jpg",
+                "width": 640,
+                "height": 364,
+                "is_primary": "1",
+                "image_id": "107947"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12234_edd2056b512724d0_z.jpg",
-                "width":640,
-                "height":330,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107947_18e82cb10739a58f_n.jpg",
+                "width": 320,
+                "height": 182,
+                "is_primary": "1",
+                "image_id": "107947"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107947_18e82cb10739a58f_d.gif",
+                "width": 320,
+                "height": 182,
+                "is_primary": "1",
+                "image_id": "107947"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/107947_18e82cb10739a58f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "107947"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12234_edd2056b512724d0_b.jpg",
+                "width": 1024,
+                "height": 528,
+                "is_primary": "0",
+                "image_id": "12234"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12234_edd2056b512724d0_z.jpg",
+                "width": 640,
+                "height": 330,
+                "is_primary": "0",
+                "image_id": "12234"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12234_edd2056b512724d0_n.jpg",
+                "width": 320,
+                "height": 165,
+                "is_primary": "0",
+                "image_id": "12234"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12234_edd2056b512724d0_d.gif",
+                "width": 320,
+                "height": 165,
+                "is_primary": "0",
+                "image_id": "12234"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12234_edd2056b512724d0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12234"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, \"The Chinese\", ca. 1810.\nca. 1810. Roller-printed on cotton; yellow added by block or brush\nMedium: cotton \nTechnique: plain weave foundation; red printed by engraved roller; yellow added by block or brush. Bequest of Elinor Merrell. 1995-50-60."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b56932",
-            "closest_css3":"#a0522d"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#954617",
-            "closest_css3":"#8b4513"
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#b38e74",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#7c1d0f",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#d6be9a",
-            "closest_css3":"#d2b48c"
+            "person_id": "18045425",
+            "role_id": "35236671",
+            "person_name": "Oberkampf & Cie.",
+            "person_date": "Jouy-en-Josas, France, 1759 \u2013 1815",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045425\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Les Chinois, ca. 1810. Roller-printed on cotton; yellow added by block or brush\nMedium: cotton \nTechnique: plain weave foundation; red printed by engraved roller; yellow added by block or brush. \nBequest of Elinor Merrell. 1995-50-60"
+    },
+    "colors": [
+        {
+            "color": "#a07c58",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#9a685a",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#baa98a",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#7e4039",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

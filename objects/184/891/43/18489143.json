@@ -1,42 +1,142 @@
 {
-    "id":"18489143",
-    "tms:id":"155443",
-    "accession_number":"1976-1-107",
-    "title":"Flagon",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489143\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371567",
-    "type_id":"35249799",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":null,
-    "medium":"pewter",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 32.5 x 30 x 13.5 cm (12 13\/16 x 11 13\/16 x 5 5\/16 in.)",
-    "creditline":"Gift of the C. Helme and Alice B. Strater Collection",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249799",
-        "name":"flagon"
+    "id": "18489143",
+    "tms:id": "155443",
+    "accession_number": "1976-1-107",
+    "title": "Flagon",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18489143\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371567",
+    "type_id": "35249799",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "pewter",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 32.5 x 30 x 13.5 cm (12 13\/16 x 11 13\/16 x 5 5\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "13.50",
+            "centimeters"
+        ],
+        "height": [
+            "32.50",
+            "centimeters"
+        ],
+        "width": [
+            "30.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of the C. Helme and Alice B. Strater Collection",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "flagon",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103324_42c90ed466ccfab2_b.jpg",
+                "width": 1024,
+                "height": 888,
+                "is_primary": "1",
+                "image_id": "103324"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103324_42c90ed466ccfab2_z.jpg",
+                "width": 640,
+                "height": 555,
+                "is_primary": "1",
+                "image_id": "103324"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103324_42c90ed466ccfab2_n.jpg",
+                "width": 320,
+                "height": 278,
+                "is_primary": "1",
+                "image_id": "103324"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103324_42c90ed466ccfab2_d.gif",
+                "width": 320,
+                "height": 278,
+                "is_primary": "1",
+                "image_id": "103324"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103324_42c90ed466ccfab2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103324"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18538283",
+            "role_id": "35351535",
+            "person_name": "Margaret S. Robinson",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538283\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538281",
+            "role_id": "35351535",
+            "person_name": "John B. Strater",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538281\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538279",
+            "role_id": "35351535",
+            "person_name": "C. Helme Strater Jr.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538279\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Flagon.\npewter. Gift of the C. Helme and Alice B. Strater Collection. 1976-1-107."
+    "tombstone": {
+        "epitaph": "Flagon. pewter. \nGift of the C. Helme and Alice B. Strater Collection. 1976-1-107"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4c463b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#736d60",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#958f81",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

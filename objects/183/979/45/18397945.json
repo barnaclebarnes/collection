@@ -1,80 +1,162 @@
 {
-    "id":"18397945",
-    "tms:id":"109138",
-    "accession_number":"1953-37-1-a",
-    "title":"Textile, \"La Route de Poissy\", 1815",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18397945\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1815",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 96 x 72 cm (37 13\/16 x 28 3\/8 in.)",
-    "creditline":"Gift of Agnes J. Holden in memory of Elizabeth Haynes",
-    "description":"Panel of white cotton, copper plate printed in violet. Design known as \"La Route de Poissey.\" Shows four scenes: 1) Men bowling, and on stone at side \"Les Joueurs de Boules;\" 2) Fat man on horseback and thin man smoking pipe. Inscription on stone \"Route de Poissy\" 3) Man playing bagpipe, and boy receiving money from a lady, on a stone at side \"Joueur de Carnemuse;\" a carriage with two men on the box and passengers inside. Drawn by a jaded horse. Inscription on stone at side \"Route de St. Cloud.\" also on a stone appears: \"Delmes.\"",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18397945",
+    "tms:id": "109138",
+    "accession_number": "1953-37-1-a",
+    "title": "Textile, La Route de Poissy, 1815",
+    "title_raw": "La Route de Poissy",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18397945\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1815",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 96 x 72 cm (37 13\/16 x 28 3\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "96.00",
+            "centimeters"
+        ],
+        "width": [
+            "72.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Agnes J. Holden in memory of Elizabeth Haynes",
+    "description": "Panel of white cotton, copper plate printed in violet. Design known as \"La Route de Poissey.\" Shows four scenes: 1) Men bowling, and on stone at side \"Les Joueurs de Boules;\" 2) Fat man on horseback and thin man smoking pipe. Inscription on stone \"Route de Poissy\" 3) Man playing bagpipe, and boy receiving money from a lady, on a stone at side \"Joueur de Carnemuse;\" a carriage with two men on the box and passengers inside. Drawn by a jaded horse. Inscription on stone at side \"Route de St. Cloud.\" also on a stone appears: \"Delmes.\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17998_bcb21415ad0f7efe_b.jpg",
-                "width":883,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109290_4677eecbc4c7e5e8_b.jpg",
+                "width": 708,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109290"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17998_bcb21415ad0f7efe_n.jpg",
-                "width":276,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109290_4677eecbc4c7e5e8_z.jpg",
+                "width": 443,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109290"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17998_bcb21415ad0f7efe_z.jpg",
-                "width":552,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109290_4677eecbc4c7e5e8_n.jpg",
+                "width": 221,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109290"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109290_4677eecbc4c7e5e8_d.gif",
+                "width": 221,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109290"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109290_4677eecbc4c7e5e8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109290"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17998_bcb21415ad0f7efe_b.jpg",
+                "width": 883,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "17998"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17998_bcb21415ad0f7efe_z.jpg",
+                "width": 552,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "17998"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17998_bcb21415ad0f7efe_n.jpg",
+                "width": 276,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17998"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17998_bcb21415ad0f7efe_d.gif",
+                "width": 276,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "17998"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17998_bcb21415ad0f7efe_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17998"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, \"La Route de Poissy\", 1815.\n1815. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Gift of Agnes J. Holden in memory of Elizabeth Haynes. 1953-37-1-a."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#867f8d",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#c8c4f2",
-            "closest_css3":"#d8bfd8"
-        },
-        {
-            "color":"#64596e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#a09dc5",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#58434a",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18537565",
+            "role_id": "35351535",
+            "person_name": "Agnes Holden",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537565\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, La Route de Poissy, 1815. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nGift of Agnes J. Holden in memory of Elizabeth Haynes. 1953-37-1-a"
+    },
+    "colors": [
+        {
+            "color": "#918885",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7a6f72",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#ececd6",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
+        },
+        {
+            "color": "#5d4f5a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

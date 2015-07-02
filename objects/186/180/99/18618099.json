@@ -1,42 +1,129 @@
 {
-    "id":"18618099",
-    "tms:id":"177583",
-    "accession_number":"1981-29-478",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18618099\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18618099",
+    "tms:id": "177583",
+    "accession_number": "1981-29-478",
+    "title": "Poster, C-Forms by Don Chadwick, 1979",
+    "title_raw": "C-Forms by Don Chadwick",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18618099\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68266123",
+    "type_id": "35238163",
+    "date": "1979",
+    "year_start": 1979,
+    "year_end": 1979,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on glossy paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "30.5 x 30.7 cm (12 in. x 12 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.50",
+            "centimeters"
+        ],
+        "width": [
+            "30.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Various Donors",
+    "description": "On light blue and orange ground, close-up of a rod; possibly back of a chair. Text in white ink: C-Forms by Don Chadwick; herman miller",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88985_7ca1be8a1c1152b8_b.jpg",
+                "width": 1024,
+                "height": 1020,
+                "is_primary": "1",
+                "image_id": "88985"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88985_7ca1be8a1c1152b8_z.jpg",
+                "width": 640,
+                "height": 637,
+                "is_primary": "1",
+                "image_id": "88985"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88985_7ca1be8a1c1152b8_n.jpg",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "88985"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88985_7ca1be8a1c1152b8_d.gif",
+                "width": 320,
+                "height": 319,
+                "is_primary": "1",
+                "image_id": "88985"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88985_7ca1be8a1c1152b8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88985"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049013",
+            "role_id": "35236667",
+            "person_name": "Herman Miller Furniture Company",
+            "person_date": "Zeeland, Michigan, USA, 1923\u20131960",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049013\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "68248409",
+            "role_id": "35236655",
+            "person_name": "Barbara J. Loveland",
+            "person_date": "American",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68248409\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Poster.\nGift of Various Donors. 1981-29-478."
+    "tombstone": {
+        "epitaph": "Poster, C-Forms by Don Chadwick, 1979. Lithograph on glossy paper. \nGift of Various Donors. 1981-29-478"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#cf9b61",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#c57e52",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#a56a59",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

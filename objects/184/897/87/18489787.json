@@ -1,72 +1,104 @@
 {
-    "id":"18489787",
-    "tms:id":"155767",
-    "accession_number":"1976-103-167",
-    "title":"Stencil",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489787\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35288579",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Helen Snyder",
-    "dimensions":null,
-    "creditline":"Gift of Helen Snyder",
-    "description":"Zigzag pattern with floral and intersections of diagonal lines.",
-    "justification":null,
-    "type":{
-        "id":"35288579",
-        "name":"Stencil"
-    },
-    "images":[
+    "id": "18489787",
+    "tms:id": "155767",
+    "accession_number": "1976-103-167",
+    "title": "Katagami, Zigzag Geometric Pattern, late 19th\u2013early 20th century",
+    "title_raw": "Zigzag Geometric Pattern",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18489787\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68264769",
+    "type_id": "51589549",
+    "date": "late 19th\u2013early 20th century",
+    "year_start": null,
+    "year_end": 1925,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "Cut mulberry paper treated with persimmon tannin and silk thread",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Helen Snyder",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Helen Snyder",
+    "description": "Zigzag pattern with floral and intersections of diagonal lines.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Katagami",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44888_7dbfbd0174963d29_b.jpg",
-                "width":1024,
-                "height":783,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44888_39d2ad8e03cef56e_b.jpg",
+                "width": 1024,
+                "height": 773,
+                "is_primary": "1",
+                "image_id": "44888"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44888_7dbfbd0174963d29_n.jpg",
-                "width":320,
-                "height":245,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44888_39d2ad8e03cef56e_z.jpg",
+                "width": 640,
+                "height": 483,
+                "is_primary": "1",
+                "image_id": "44888"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44888_7dbfbd0174963d29_z.jpg",
-                "width":640,
-                "height":489,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44888_39d2ad8e03cef56e_n.jpg",
+                "width": 320,
+                "height": 242,
+                "is_primary": "1",
+                "image_id": "44888"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44888_39d2ad8e03cef56e_d.gif",
+                "width": 320,
+                "height": 242,
+                "is_primary": "1",
+                "image_id": "44888"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44888_39d2ad8e03cef56e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "44888"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Stencil.\nGift of Helen Snyder. 1976-103-167."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#796254",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#908178",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#afa098",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18061335",
+            "role_id": "35351535",
+            "person_name": "Helen Snyder",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Katagami, Zigzag Geometric Pattern, late 19th\u2013early 20th century. Cut mulberry paper treated with persimmon tannin and silk thread. \nGift of Helen Snyder. 1976-103-167"
+    },
+    "colors": [
+        {
+            "color": "#928a82",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#75695d",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

@@ -1,42 +1,125 @@
 {
-    "id":"18349567",
-    "tms:id":"58435",
-    "accession_number":"1938-57-298",
-    "title":"Bottle",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18349567\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402647",
-    "type_id":"35248697",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":"earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 16.8 x 6.8 cm (6 5\/8 x 2 11\/16 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":"brown",
-    "justification":null,
-    "type":{
-        "id":"35248697",
-        "name":"bottle"
+    "id": "18349567",
+    "tms:id": "58435",
+    "accession_number": "1938-57-298",
+    "title": "Bottle (Japan)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18349567\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35248697",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 16.8 x 6.8 cm (6 5\/8 x 2 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "6.80",
+            "centimeters"
+        ],
+        "height": [
+            "16.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": "brown",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "bottle",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109218_0f242a9f43e37a70_b.jpg",
+                "width": 891,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109218"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109218_0f242a9f43e37a70_z.jpg",
+                "width": 557,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109218"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109218_0f242a9f43e37a70_n.jpg",
+                "width": 278,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109218"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109218_0f242a9f43e37a70_d.gif",
+                "width": 278,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109218"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109218_0f242a9f43e37a70_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109218"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Bottle.\nearthenware. Bequest of Erskine Hewitt. 1938-57-298."
+    "tombstone": {
+        "epitaph": "Bottle (Japan). earthenware. \nBequest of Erskine Hewitt. 1938-57-298"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2c221c",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#534b44",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#a9a49a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#827c73",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

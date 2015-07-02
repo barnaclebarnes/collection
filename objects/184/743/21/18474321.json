@@ -1,42 +1,121 @@
 {
-    "id":"18474321",
-    "tms:id":"147920",
-    "accession_number":"1971-50-259",
-    "title":"Lace In Frame",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474321\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"112429",
-    "type_id":"35292467",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium:\nTechnique: punto in aria needle lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35292467",
-        "name":"Lace in frame"
-    },
-    "images":[
-
+    "id": "18474321",
+    "tms:id": "147920",
+    "accession_number": "1971-50-259",
+    "title": "Lace In Frame",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474321\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "112429",
+    "type_id": "35292467",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium:\nTechnique: punto in aria needle lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Lace in frame",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75918_f4ac07f1078b4c54_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "75918"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75918_f4ac07f1078b4c54_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "75918"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75918_f4ac07f1078b4c54_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "75918"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75918_f4ac07f1078b4c54_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "75918"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75918_f4ac07f1078b4c54_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75918"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Lace In Frame.\nMedium:\nTechnique: punto in aria needle lace. Bequest of Marian Hague. 1971-50-259."
+    "tombstone": {
+        "epitaph": "Lace In Frame. Medium:\nTechnique: punto in aria needle lace. \nBequest of Marian Hague. 1971-50-259"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4e1114",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#832b2b",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#e3d2d2",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#715d61",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#f0b6be",
+            "closest_crayola": "#fdbcb4",
+            "closest_css3": "#ffb6c1",
+            "closest_css4": "#ffb6c1"
+        }
+    ],
+    "is_loan_object": 0
 }

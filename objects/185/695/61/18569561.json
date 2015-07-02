@@ -1,87 +1,168 @@
 {
-    "id":"18569561",
-    "tms:id":"78481",
-    "accession_number":"1943-46-9",
-    "title":"Textile, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18569561\/",
-    "department_id":"35347501",
-    "period_id":"35417307",
-    "media_id":"35394323",
-    "type_id":"35251739",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1943",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk, metallic thread\nTechnique: plain compound cloth, brocaded",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 60.2 x 55 cm (23 11\/16 x 21 5\/8 in.)",
-    "creditline":"Gift of Mrs. Robert Woods Bliss, Dumbarton Oaks Collection",
-    "description":"Faded blue ground with design of large vertical zigzags outlined by minute ornaments in silver thread and containing a large variety of flower forms brocaded in polychrome silks.  The zigzags are interrupted by undulating branches brocaded in silver thread.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18569561",
+    "tms:id": "78481",
+    "accession_number": "1943-46-9",
+    "title": "Textile (France), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18569561\/",
+    "department_id": "35347501",
+    "period_id": "35417307",
+    "media_id": "35394323",
+    "type_id": "35251739",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1943",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk, metallic thread\nTechnique: plain compound cloth, brocaded",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 60.2 x 55 cm (23 11\/16 x 21 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "60.20",
+            "centimeters"
+        ],
+        "width": [
+            "55.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Robert Woods Bliss, Dumbarton Oaks Collection",
+    "description": "Faded blue ground with design of large vertical zigzags outlined by minute ornaments in silver thread and containing a large variety of flower forms brocaded in polychrome silks.  The zigzags are interrupted by undulating branches brocaded in silver thread.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31812_4ddcdfa4266b55dd_b.jpg",
-                "width":937,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87698_46b90c884b6cce8e_b.jpg",
+                "width": 930,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "87698"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31812_4ddcdfa4266b55dd_n.jpg",
-                "width":293,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87698_46b90c884b6cce8e_z.jpg",
+                "width": 581,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "87698"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31812_4ddcdfa4266b55dd_z.jpg",
-                "width":586,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87698_46b90c884b6cce8e_n.jpg",
+                "width": 291,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "87698"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87698_46b90c884b6cce8e_d.gif",
+                "width": 291,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "87698"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87698_46b90c884b6cce8e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "87698"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31812_4ddcdfa4266b55dd_b.jpg",
+                "width": 937,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "31812"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31812_4ddcdfa4266b55dd_z.jpg",
+                "width": 586,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "31812"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31812_4ddcdfa4266b55dd_n.jpg",
+                "width": 293,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "31812"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31812_4ddcdfa4266b55dd_d.gif",
+                "width": 293,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "31812"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31812_4ddcdfa4266b55dd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "31812"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050267",
-            "role_id":"35351535",
-            "person_name":"Mrs. Robert Woods Bliss",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050267\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18050267",
+            "role_id": "35351535",
+            "person_name": "Mrs. Robert Woods Bliss",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050267\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 17th century.\n17th century. Medium: silk, metallic thread\nTechnique: plain compound cloth, brocaded. Gift of Mrs. Robert Woods Bliss, Dumbarton Oaks Collection. 1943-46-9."
+    "tombstone": {
+        "epitaph": "Textile (France), 17th century. Medium: silk, metallic thread\nTechnique: plain compound cloth, brocaded. \nGift of Mrs. Robert Woods Bliss, Dumbarton Oaks Collection. 1943-46-9"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bcdbee",
-            "closest_css3":"#b0e0e6"
+            "color": "#636656",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#d4ccda",
-            "closest_css3":"#d3d3d3"
+            "color": "#828974",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#9eb4b8",
-            "closest_css3":"#a9a9a9"
+            "color": "#7a7746",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#92959e",
-            "closest_css3":"#778899"
+            "color": "#a9a475",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#e0cea3",
-            "closest_css3":"#eee8aa"
+            "color": "#6f5e40",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

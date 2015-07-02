@@ -1,57 +1,99 @@
 {
-    "id":"18673595",
-    "tms:id":"212240",
-    "accession_number":"1997-19-289",
-    "title":"Design",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18673595\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35249723",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1997",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Ken Friedman",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249723",
-        "name":"design"
+    "id": "18673595",
+    "tms:id": "212240",
+    "accession_number": "1997-19-289",
+    "title": "Drawing (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18673595\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68266943",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1997",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Pen and black ink, brush and watercolor, graphite, color crayon, collage, tape on white tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum",
+    "dimensions": "30.3 \u00d7 22.8 cm (11 15\/16 in. \u00d7 9 in.)",
+    "dimensions_raw": {
+        "height": [
+            "30.30",
+            "centimeters"
+        ],
+        "width": [
+            "22.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Ken Friedman",
+    "description": "Two colorful abstract square-shaped designs in red and blue. Other pen sketches surrounding.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
 
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049807",
-            "role_id":"35351535",
-            "person_name":"Ken Friedman",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049807\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049807",
+            "role_id": "35351535",
+            "person_name": "Ken Friedman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049807\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18041325",
-            "role_id":"35236655",
-            "person_name":"Dan Friedman",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041325\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041325",
+            "role_id": "35236655",
+            "person_name": "Dan Friedman",
+            "person_date": "American, 1945\u20131995",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Design.\nGift of Ken Friedman. 1997-19-289."
+    "tombstone": {
+        "epitaph": "Drawing (USA). Pen and black ink, brush and watercolor, graphite, color crayon, collage, tape on white tracing paper. \nGift of Ken Friedman. 1997-19-289"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#536893",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        },
+        {
+            "color": "#9a3a2f",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a52a2a",
+            "closest_css4": "#a52a2a"
+        },
+        {
+            "color": "#623934",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#bad5d9",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#add8e6",
+            "closest_css4": "#add8e6"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,64 +1,207 @@
 {
-    "id":"18494413",
-    "tms:id":"158097",
-    "accession_number":"1978-146-1320",
-    "title":"Matchsafe, \"Cowboy\", ca. 1900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18494413\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389463",
-    "type_id":"35287419",
-    "date":"ca. 1900",
-    "year_start":null,
-    "year_end":"1910",
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Silver",
-    "markings":"STERLING stamped on bezel.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"6.4 x 4.7 x 1.2 cm (2 1\/2 x 1 7\/8 x 1\/2 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"Rectangular, with rounded corners and sides, featuring raised decoration of cowboy on bucking horse, reins in his left hand, whip in raised right hand, to left is hat flying off his head. Reverse side undecorated. Hinge on side. Striker on bottom.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18494413",
+    "tms:id": "158097",
+    "accession_number": "1978-146-1320",
+    "title": "Cowboy Matchsafe, ca. 1900",
+    "title_raw": "Cowboy",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18494413\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35287419",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1910,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Silver",
+    "markings": "STERLING stamped on bezel.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "6.4 x 4.7 x 1.2 cm (2 1\/2 x 1 7\/8 x 1\/2 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.20",
+            "centimeters"
+        ],
+        "height": [
+            "6.40",
+            "centimeters"
+        ],
+        "width": [
+            "4.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "Rectangular, with rounded corners and sides, featuring raised decoration of cowboy on bucking horse, reins in his left hand, whip in raised right hand, to left is hat flying off his head. Reverse side undecorated. Hinge on side. Striker on bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8270_5914790eff21e4d1_b.jpg",
-                "width":1004,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102033_ece7f9f1dcfc32ca_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "102033"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8270_5914790eff21e4d1_n.jpg",
-                "width":314,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102033_ece7f9f1dcfc32ca_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "102033"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8270_5914790eff21e4d1_z.jpg",
-                "width":628,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102033_ece7f9f1dcfc32ca_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "102033"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102033_ece7f9f1dcfc32ca_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "102033"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102033_ece7f9f1dcfc32ca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "102033"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93959_47d29fc3067ced22_b.jpg",
+                "width": 781,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "93959"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93959_47d29fc3067ced22_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "93959"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93959_47d29fc3067ced22_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "93959"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93959_47d29fc3067ced22_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "93959"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93959_47d29fc3067ced22_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "93959"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8270_5914790eff21e4d1_b.jpg",
+                "width": 1004,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8270"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8270_5914790eff21e4d1_z.jpg",
+                "width": 628,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8270"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8270_5914790eff21e4d1_n.jpg",
+                "width": 314,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8270"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8270_5914790eff21e4d1_d.gif",
+                "width": 314,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8270"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8270_5914790eff21e4d1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8270"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Cowboy\", ca. 1900.\nca. 1900. Silver. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-1320."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c8c8c8",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Cowboy Matchsafe, ca. 1900. Silver. \nGift of Stephen W. Brener and Carol B. Brener. 1978-146-1320"
+    },
+    "colors": [
+        {
+            "color": "#a59d96",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#605753",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#807269",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

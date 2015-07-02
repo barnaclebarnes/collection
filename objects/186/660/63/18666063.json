@@ -1,42 +1,109 @@
 {
-    "id":"18666063",
-    "tms:id":"208410",
-    "accession_number":"1896-11-2",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18666063\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35418641",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1896",
-    "decade":null,
-    "woe:country":null,
-    "medium":"brocade",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. James O. Green",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18666063",
+    "tms:id": "208410",
+    "accession_number": "1896-11-2",
+    "title": "Fragment",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18666063\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35418641",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1896",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "brocade",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. James O. Green",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67732_2100ce13d2088d03_b.jpg",
+                "width": 955,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "67732"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67732_2100ce13d2088d03_z.jpg",
+                "width": 597,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "67732"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67732_2100ce13d2088d03_n.jpg",
+                "width": 298,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67732"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67732_2100ce13d2088d03_d.gif",
+                "width": 298,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "67732"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/67732_2100ce13d2088d03_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "67732"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18051351",
+            "role_id": "35351535",
+            "person_name": "Mrs. James O. Green",
+            "person_date": "American, 1856\u20131922",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nbrocade. Gift of Mrs. James O. Green. 1896-11-2."
+    "tombstone": {
+        "epitaph": "Fragment. brocade. \nGift of Mrs. James O. Green. 1896-11-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#525a62",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#272e30",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6d787c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

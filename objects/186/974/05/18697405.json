@@ -1,80 +1,225 @@
 {
-    "id":"18697405",
-    "tms:id":"224302",
-    "accession_number":"2003-14-33",
-    "title":"Sampler, 1734",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18697405\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394325",
-    "type_id":"35256439",
-    "date":"1734",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"2003",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: linen, silk\nTechnique: embroidery in cross, eyelet, and satin stitch with some looping stitches and detached needle looping",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Elizabeth Saggar aged 10 years October the 12 1734",
-    "provenance":"Ex. coll. Fraser-Martin. This sampler was purchased by Brentano's from Mrs. Charles Gee, a direct descendant of Elizabeth Saggar, who worked it in 1734. $40\n(MJL No. 40);  2002 appraisal #104",
-    "dimensions":"Frame H x W x D: 88.9 x 25.4 cm (35 x 10 in.)",
-    "creditline":"Gift of Myra and William H. Mathers",
-    "description":"Long sampler embroidered in brown, blue, green, yellow and red silks on a natural linen ground.  Alphabets in cross and eyelet stitch; birds, flowers, animals, and boxing figures in cross stitch with some satin stitch and detached needle looping; floral bands in cross stitch and satin stitch.  The ground fabric is pieced across the middle.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18697405",
+    "tms:id": "224302",
+    "accession_number": "2003-14-33",
+    "title": "Sampler (England), 1734",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18697405\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394325",
+    "type_id": "35256439",
+    "date": "1734",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "2003",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: linen, silk\nTechnique: embroidery in cross, eyelet, and satin stitch with some looping stitches and detached needle looping",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Elizabeth Saggar aged 10 years October the 12 1734",
+    "provenance": "Ex. coll. Fraser-Martin. This sampler was purchased by Brentano's from Mrs. Charles Gee, a direct descendant of Elizabeth Saggar, who worked it in 1734. $40\n(MJL No. 40);  2002 appraisal #104",
+    "dimensions": "Frame H x W x D: 88.9 x 25.4 cm (35 x 10 in.)",
+    "dimensions_raw": {
+        "height": [
+            "88.90",
+            "centimeters"
+        ],
+        "width": [
+            "25.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Myra and William H. Mathers",
+    "description": "Long sampler embroidered in brown, blue, green, yellow and red silks on a natural linen ground.  Alphabets in cross and eyelet stitch; birds, flowers, animals, and boxing figures in cross stitch with some satin stitch and detached needle looping; floral bands in cross stitch and satin stitch.  The ground fabric is pieced across the middle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28107_55d385d231f42bd4_b.jpg",
-                "width":281,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97133_a82197953dc6a64e_b.jpg",
+                "width": 305,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "97133"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28107_55d385d231f42bd4_n.jpg",
-                "width":88,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97133_a82197953dc6a64e_z.jpg",
+                "width": 191,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "97133"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28107_55d385d231f42bd4_z.jpg",
-                "width":175,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97133_a82197953dc6a64e_n.jpg",
+                "width": 95,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "97133"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97133_a82197953dc6a64e_d.gif",
+                "width": 95,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "97133"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97133_a82197953dc6a64e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "97133"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94731_b1bfba4463eaa983_b.jpg",
+                "width": 305,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "94731"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94731_b1bfba4463eaa983_z.jpg",
+                "width": 190,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "94731"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94731_b1bfba4463eaa983_n.jpg",
+                "width": 95,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94731"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94731_b1bfba4463eaa983_d.gif",
+                "width": 95,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "94731"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94731_b1bfba4463eaa983_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "94731"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28107_55d385d231f42bd4_b.jpg",
+                "width": 281,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "28107"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28107_55d385d231f42bd4_z.jpg",
+                "width": 175,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "28107"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28107_55d385d231f42bd4_n.jpg",
+                "width": 88,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28107"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28107_55d385d231f42bd4_d.gif",
+                "width": 88,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "28107"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28107_55d385d231f42bd4_sq.jpg",
+                "width": 281,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28107"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1734.\n1734. Medium: linen, silk\nTechnique: embroidery in cross, eyelet, and satin stitch with some looping stitches and detached needle looping. Gift of Myra and William H. Mathers. 2003-14-33."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#81744a",
-            "closest_css3":"#696969"
+            "person_id": "18055423",
+            "role_id": "35236685",
+            "person_name": "Elizabeth Saggar",
+            "person_date": "English",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055423\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         },
         {
-            "color":"#9b6726",
-            "closest_css3":"#a0522d"
+            "person_id": "18055367",
+            "role_id": "35351535",
+            "person_name": "Myra Mathers",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055367\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#b58648",
-            "closest_css3":"#cd853f"
-        },
-        {
-            "color":"#615a3d",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#714a2a",
-            "closest_css3":"#8b4513"
+            "person_id": "18055365",
+            "role_id": "35351535",
+            "person_name": "William H. Mathers",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (England), 1734. Medium: linen, silk\nTechnique: embroidery in cross, eyelet, and satin stitch with some looping stitches and detached needle looping. \nGift of Myra and William H. Mathers. 2003-14-33"
+    },
+    "colors": [
+        {
+            "color": "#94612f",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#b88148",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#67573d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#4a4c40",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#686d56",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,42 +1,107 @@
 {
-    "id":"18352017",
-    "tms:id":"59450",
-    "accession_number":"1938-58-1372",
-    "title":"Veil, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18352017\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35270787",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: machine made",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 37 x 64 cm (14 9\/16 x 25 3\/16 in.)",
-    "creditline":"Gift of Norvin Hewitt Green",
-    "description":"Veil of embroidered black net with a border of black Chantilly-type lace in a floral pattern on three sides and beading for ribbon on the fourth side.",
-    "justification":null,
-    "type":{
-        "id":"35270787",
-        "name":"Veil"
+    "id": "18352017",
+    "tms:id": "59450",
+    "accession_number": "1938-58-1372",
+    "title": "Bonnet Veil (France), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18352017\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35293141",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: machine made",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 37 x 64 cm (14 9\/16 x 25 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "37.00",
+            "centimeters"
+        ],
+        "width": [
+            "64.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Norvin Hewitt Green",
+    "description": "Veil of embroidered black net with a border of black Chantilly-type lace in a floral pattern on three sides and beading for ribbon on the fourth side.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Bonnet veil",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70170_01a1e54038a54459_b.jpg",
+                "width": 843,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "70170"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70170_01a1e54038a54459_z.jpg",
+                "width": 527,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "70170"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70170_01a1e54038a54459_n.jpg",
+                "width": 263,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "70170"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70170_01a1e54038a54459_d.gif",
+                "width": 263,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "70170"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/70170_01a1e54038a54459_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "70170"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18056845",
+            "role_id": "35351535",
+            "person_name": "Norvin Hewitt Green",
+            "person_date": "American, 1893\u20131955",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056845\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Veil, 19th century.\n19th century. Medium: silk\nTechnique: machine made. Gift of Norvin Hewitt Green. 1938-58-1372."
+    "tombstone": {
+        "epitaph": "Bonnet Veil (France), 19th century. Medium: silk\nTechnique: machine made. \nGift of Norvin Hewitt Green. 1938-58-1372"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8e8f90",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

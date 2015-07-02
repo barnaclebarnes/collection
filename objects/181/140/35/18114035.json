@@ -1,80 +1,113 @@
 {
-    "id":"18114035",
-    "tms:id":"8722",
-    "accession_number":"1901-39-2134",
-    "title":"Drawing, \"Painted decoration: view into a gallery\", ca. 1730",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18114035\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":"ca. 1730",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18114035",
+    "tms:id": "8722",
+    "accession_number": "1901-39-2134",
+    "title": "Drawing, Painted decoration: view into a gallery, ca. 1730",
+    "title_raw": "Painted decoration: view into a gallery",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18114035\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": "ca. 1730",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of various donors",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1182_ac7aa637c409842b_b.jpg",
-                "width":737,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1182_ac7aa637c409842b_b.jpg",
+                "width": 737,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "1182"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1182_ac7aa637c409842b_n.jpg",
-                "width":230,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1182_ac7aa637c409842b_z.jpg",
+                "width": 460,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "1182"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1182_ac7aa637c409842b_z.jpg",
-                "width":460,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1182_ac7aa637c409842b_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "1182"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1182_ac7aa637c409842b_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "1182"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1182_ac7aa637c409842b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "1182"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Painted decoration: view into a gallery\", ca. 1730.\nca. 1730. Museum purchase through gift of various donors. 1901-39-2134."
+    "tombstone": {
+        "epitaph": "Drawing, Painted decoration: view into a gallery, ca. 1730. \nMuseum purchase through gift of various donors. 1901-39-2134"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bd9da0",
-            "closest_css3":"#bc8f8f"
+            "color": "#c2a4ac",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#f4d6d8",
-            "closest_css3":"#ffe4e1"
+            "color": "#fddfe1",
+            "closest_crayola": "#fddde6",
+            "closest_css3": "#ffe4e1",
+            "closest_css4": "#ffe4e1"
         },
         {
-            "color":"#7a6775",
-            "closest_css3":"#696969"
+            "color": "#8f7980",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#9b7c81",
-            "closest_css3":"#808080"
+            "color": "#58454f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#584853",
-            "closest_css3":"#2f4f4f"
+            "color": "#b58983",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

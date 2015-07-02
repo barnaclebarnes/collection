@@ -1,42 +1,98 @@
 {
-    "id":"18397311",
-    "tms:id":"108820",
-    "accession_number":"1953-191-1",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18397311\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"silk",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of John Judkyn",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
+    "id": "18397311",
+    "tms:id": "108820",
+    "accession_number": "1953-191-1",
+    "title": "Textile (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18397311\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Judkyn",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113419_4f39ea9f63524d29_b.jpg",
+                "width": 571,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113419"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113419_4f39ea9f63524d29_z.jpg",
+                "width": 357,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113419"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113419_4f39ea9f63524d29_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113419"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113419_4f39ea9f63524d29_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113419"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113419_4f39ea9f63524d29_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113419"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18058119",
+            "role_id": "35351535",
+            "person_name": "John Judkyn",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058119\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nsilk. Gift of John Judkyn. 1953-191-1."
+    "tombstone": {
+        "epitaph": "Textile (France). silk. \nGift of John Judkyn. 1953-191-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b4bdb5",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

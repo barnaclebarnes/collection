@@ -1,80 +1,178 @@
 {
-    "id":"18481919",
-    "tms:id":"151816",
-    "accession_number":"1973-51-97",
-    "title":"Textile, 1750\u20131800",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481919\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1750\u20131800",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1973",
-    "decade":null,
-    "woe:country":"23424909",
-    "medium":"Medium: cotton\nTechnique: block printed on plain weave (black, two reds, two purples, two blues, and dark yellow)",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Martin scrapbook",
-    "dimensions":"Warp x Weft: 81 x 58 cm (31 7\/8 x 22 13\/16 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"Ribbon-like stripes in yellow and red alternate with intersecting s-curves of lace and floral chains.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18481919",
+    "tms:id": "151816",
+    "accession_number": "1973-51-97",
+    "title": "Textile (Netherlands), 1750\u20131800",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18481919\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1750\u20131800",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1973",
+    "decade": null,
+    "woe:country_id": "23424909",
+    "medium": "Medium: cotton\nTechnique: block printed on plain weave (black, two reds, two purples, two blues, and dark yellow)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Martin scrapbook",
+    "dimensions": "Warp x Weft: 81 x 58 cm (31 7\/8 x 22 13\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "81.00",
+            "centimeters"
+        ],
+        "weft": [
+            "58.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Josephine Howell",
+    "description": "Ribbon-like stripes in yellow and red alternate with intersecting s-curves of lace and floral chains.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424909",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31917_2fb285d08517fb26_b.jpg",
-                "width":719,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110282_3da19c955b7826f7_b.jpg",
+                "width": 800,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "110282"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31917_2fb285d08517fb26_n.jpg",
-                "width":225,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110282_3da19c955b7826f7_z.jpg",
+                "width": 500,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "110282"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31917_2fb285d08517fb26_z.jpg",
-                "width":449,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110282_3da19c955b7826f7_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110282"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110282_3da19c955b7826f7_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "110282"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110282_3da19c955b7826f7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110282"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31917_2fb285d08517fb26_b.jpg",
+                "width": 719,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "31917"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31917_2fb285d08517fb26_z.jpg",
+                "width": 449,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "31917"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31917_2fb285d08517fb26_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "31917"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31917_2fb285d08517fb26_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "31917"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31917_2fb285d08517fb26_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "31917"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1750\u20131800.\n1750\u20131800. Medium: cotton\nTechnique: block printed on plain weave (black, two reds, two purples, two blues, and dark yellow). Gift of Josephine Howell. 1973-51-97."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#4c3b3e",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#c2aead",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#460a07",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#72292a",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#868189",
-            "closest_css3":"#808080"
+            "person_id": "18047459",
+            "role_id": "35352245",
+            "person_name": "Gillian Moss",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Netherlands), 1750\u20131800. Medium: cotton\nTechnique: block printed on plain weave (black, two reds, two purples, two blues, and dark yellow). \nGift of Josephine Howell. 1973-51-97"
+    },
+    "colors": [
+        {
+            "color": "#f2efcd",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#b7b09b",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#968375",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6b5655",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#ba9d80",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Netherlands",
+    "is_loan_object": 0
 }

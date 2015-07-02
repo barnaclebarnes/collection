@@ -1,83 +1,180 @@
 {
-    "id":"18494543",
-    "tms:id":"158162",
-    "accession_number":"1978-146-138",
-    "title":"Matchsafe, \"Toad\", ca. 1890",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18494543\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389463",
-    "type_id":"35287419",
-    "date":"ca. 1890",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Silver",
-    "markings":"Illegible marks, GORHAM, and another illegible mark, all stamped on bezel, 98 stamped on interior at front and back.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Collection of Carol B. Brener and Stephen W. Brener",
-    "dimensions":"5.2 x 3.4 x 1.5 cm (2 1\/16 x 1 5\/16 x 9\/16 in. )",
-    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
-    "description":"In the shape of a toad, its feet folded up against body, its belly smooth, the back textured with bumps, some green patination in crevices. Hinge attached to top of head. Head (lid) flips backwards, hinge on back. Sides of thighs have hatch marks likely intended to serve as strikers.",
-    "justification":null,
-    "type":{
-        "id":"35287419",
-        "name":"Matchsafe"
+    "id": "18494543",
+    "tms:id": "158162",
+    "accession_number": "1978-146-138",
+    "title": "Toad Matchsafe, ca. 1890",
+    "title_raw": "Toad",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18494543\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35287419",
+    "date": "ca. 1890",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Silver",
+    "markings": "Illegible marks, GORHAM, and another illegible mark, all stamped on bezel, 98 stamped on interior at front and back.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Collection of Carol B. Brener and Stephen W. Brener",
+    "dimensions": "5.2 x 3.4 x 1.5 cm (2 1\/16 x 1 5\/16 x 9\/16 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "1.50",
+            "centimeters"
+        ],
+        "height": [
+            "5.20",
+            "centimeters"
+        ],
+        "width": [
+            "3.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stephen W. Brener and Carol B. Brener",
+    "description": "In the shape of a toad, its feet folded up against body, its belly smooth, the back textured with bumps, some green patination in crevices. Hinge attached to top of head. Head (lid) flips backwards, hinge on back. Sides of thighs have hatch marks likely intended to serve as strikers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Matchsafe",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8153_c78a49d6da740034_b.jpg",
-                "width":692,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98521_c96ce9da2f78d9c4_b.jpg",
+                "width": 1024,
+                "height": 820,
+                "is_primary": "1",
+                "image_id": "98521"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8153_c78a49d6da740034_n.jpg",
-                "width":216,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98521_c96ce9da2f78d9c4_z.jpg",
+                "width": 640,
+                "height": 512,
+                "is_primary": "1",
+                "image_id": "98521"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8153_c78a49d6da740034_z.jpg",
-                "width":433,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98521_c96ce9da2f78d9c4_n.jpg",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "98521"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98521_c96ce9da2f78d9c4_d.gif",
+                "width": 320,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "98521"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/98521_c96ce9da2f78d9c4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "98521"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8153_c78a49d6da740034_b.jpg",
+                "width": 692,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8153"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8153_c78a49d6da740034_z.jpg",
+                "width": 433,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8153"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8153_c78a49d6da740034_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8153"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8153_c78a49d6da740034_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8153"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8153_c78a49d6da740034_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8153"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043789",
-            "role_id":"35236657",
-            "person_name":"Gorham Manufacturing Company",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043789\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18043789",
+            "role_id": "35236657",
+            "person_name": "Gorham Manufacturing Company",
+            "person_date": "Providence, Rhode Island, USA, founded 1818",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043789\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18539175",
+            "role_id": "35351535",
+            "person_name": "Carol B. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539175\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18539171",
+            "role_id": "35351535",
+            "person_name": "Stephen W. Brener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539171\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Matchsafe, \"Toad\", ca. 1890.\nca. 1890. Silver. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-138."
+    "tombstone": {
+        "epitaph": "Toad Matchsafe, ca. 1890. Silver. \nGift of Stephen W. Brener and Carol B. Brener. 1978-146-138"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#6f6b65",
-            "closest_css3":"#696969"
+            "color": "#958d8b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#494744",
-            "closest_css3":"#2f4f4f"
+            "color": "#6c625e",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#d5cec6",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#8b7e7b",
-            "closest_css3":"#808080"
+            "color": "#4c4441",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

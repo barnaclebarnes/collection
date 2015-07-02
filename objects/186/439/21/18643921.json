@@ -1,107 +1,265 @@
 {
-    "id":"18643921",
-    "tms:id":"196828",
-    "accession_number":"1993-150-29",
-    "title":"Coffee Brewer, \"Chemex\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643921\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35294739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1993",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"21.4 x 10.5 diameter cm (8 7\/16 x 4 1\/8 in.)",
-    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
-    "description":"small",
-    "justification":null,
-    "type":{
-        "id":"35294739",
-        "name":"Coffee brewer"
+    "id": "18643921",
+    "tms:id": "196828",
+    "accession_number": "1993-150-29",
+    "title": "Chemex Coffee Brewer",
+    "title_raw": "Chemex",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18643921\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35294739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1993",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "21.4 x 10.5 diameter cm (8 7\/16 x 4 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "21.40",
+            "centimeters"
+        ],
+        "width": [
+            "10.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description": "small",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Coffee brewer",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12022_2db6153d357a2938_b.jpg",
-                "width":1024,
-                "height":892,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92885_72ad46addebe0f46_b.jpg",
+                "width": 571,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92885"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12022_2db6153d357a2938_n.jpg",
-                "width":320,
-                "height":279,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92885_72ad46addebe0f46_z.jpg",
+                "width": 357,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92885"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12022_2db6153d357a2938_z.jpg",
-                "width":640,
-                "height":558,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92885_72ad46addebe0f46_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92885"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92885_72ad46addebe0f46_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92885"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92885_72ad46addebe0f46_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92885"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12023_c175c9c031916979_b.jpg",
-                "width":677,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123689_2de5c37f4a820ce4_b.jpg",
+                "width": 766,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "123689"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12023_c175c9c031916979_n.jpg",
-                "width":211,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123689_2de5c37f4a820ce4_z.jpg",
+                "width": 478,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "123689"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12023_c175c9c031916979_z.jpg",
-                "width":423,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123689_2de5c37f4a820ce4_n.jpg",
+                "width": 239,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "123689"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123689_2de5c37f4a820ce4_d.gif",
+                "width": 239,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "123689"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123689_2de5c37f4a820ce4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "123689"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12023_c175c9c031916979_b.jpg",
+                "width": 677,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12023"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12023_c175c9c031916979_z.jpg",
+                "width": 423,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12023"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12023_c175c9c031916979_n.jpg",
+                "width": 211,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12023"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12023_c175c9c031916979_d.gif",
+                "width": 211,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12023"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12023_c175c9c031916979_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12023"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12022_2db6153d357a2938_b.jpg",
+                "width": 1024,
+                "height": 892,
+                "is_primary": "0",
+                "image_id": "12022"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12022_2db6153d357a2938_z.jpg",
+                "width": 640,
+                "height": 558,
+                "is_primary": "0",
+                "image_id": "12022"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12022_2db6153d357a2938_n.jpg",
+                "width": 320,
+                "height": 279,
+                "is_primary": "0",
+                "image_id": "12022"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12022_2db6153d357a2938_d.gif",
+                "width": 320,
+                "height": 279,
+                "is_primary": "0",
+                "image_id": "12022"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12022_2db6153d357a2938_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12022"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18051115",
-            "role_id":"35236657",
-            "person_name":"Chemex Corporation",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051115\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041461",
+            "role_id": "35352249",
+            "person_name": "Carole Krohn",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041461\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "person_id":"18051113",
-            "role_id":"35236655",
-            "person_name":"Peter Schlumbohm",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051113\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18051115",
+            "role_id": "35236657",
+            "person_name": "Chemex Corporation",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051115\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18051113",
+            "role_id": "35236655",
+            "person_name": "Peter Schlumbohm",
+            "person_date": "1896 \u2013 1962",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051113\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Coffee Brewer, \"Chemex\".\n21.4 x 10.5 diameter cm (8 7\/16 x 4 1\/8 in.). Museum purchase from Decorative Arts Association Acquisition Fund. 1993-150-29."
+    "tombstone": {
+        "epitaph": "Chemex Coffee Brewer. 21.4 x 10.5 diameter cm (8 7\/16 x 4 1\/8 in.). \nMuseum purchase from Decorative Arts Association Acquisition Fund. 1993-150-29"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#76715e",
-            "closest_css3":"#696969"
+            "color": "#d8d3cc",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#6e4e1b",
-            "closest_css3":"#8b4513"
+            "color": "#8a5834",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#968d6e",
-            "closest_css3":"#808080"
+            "color": "#a4815d",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b9a385",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

@@ -1,49 +1,76 @@
 {
-    "id":"18611999",
-    "tms:id":"99330",
-    "accession_number":"1948-71-2",
-    "title":"Print, \"Harlech Castle, North Wales\", 1882",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18611999\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35375965",
-    "type_id":"35236873",
-    "date":"1882",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Etching and aquatint on paper",
-    "markings":null,
-    "signed":"Signed in graphite in lower right margin: T. Moran; and signed and dated on the plate, at lower left: Moran 1882.",
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Platemark: 19.7 x 21.2 cm (7 3\/4 x 8 3\/8 in.)\nSheet: 21.2 x 31.8 cm (8 3\/8 x 12 1\/2 in.)",
-    "creditline":"Bequest of Ruth B. Moran",
-    "description":"Horizontal view of the medieval castle silhouetted agains the sky in the background, with a stone wall at right.",
-    "justification":null,
-    "type":{
-        "id":"35236873",
-        "name":"Print"
+    "id": "18611999",
+    "tms:id": "99330",
+    "accession_number": "1948-71-2",
+    "title": "Print, Harlech Castle, North Wales, 1882",
+    "title_raw": "Harlech Castle, North Wales",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18611999\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35375965",
+    "type_id": "35236873",
+    "date": "1882",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Etching and aquatint on paper",
+    "markings": null,
+    "signed": "Signed in graphite in lower right margin: T. Moran; and signed and dated on the plate, at lower left: Moran 1882.",
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Platemark: 19.7 x 21.2 cm (7 3\/4 x 8 3\/8 in.)\nSheet: 21.2 x 31.8 cm (8 3\/8 x 12 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "19.70",
+            "centimeters"
+        ],
+        "width": [
+            "21.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Ruth B. Moran",
+    "description": "Horizontal view of the medieval castle silhouetted agains the sky in the background, with a stone wall at right.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Print",
+    "images": [
 
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042237",
-            "role_id":"35236585",
-            "person_name":"Thomas Moran",
-            "role_name":"Etcher",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042237\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236585\/"
+            "person_id": "18058295",
+            "role_id": "35351537",
+            "person_name": "Miss Ruth B. Moran",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058295\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18042237",
+            "role_id": "35236585",
+            "person_name": "Thomas Moran",
+            "person_date": "American, b. Britain, 1837\u20131926",
+            "role_name": "Etcher",
+            "role_display_name": "Etched by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042237\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236585\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Print, \"Harlech Castle, North Wales\", 1882.\n1882. Etching and aquatint on paper. Bequest of Ruth B. Moran. 1948-71-2."
+    "tombstone": {
+        "epitaph": "Print, Harlech Castle, North Wales, 1882. Etching and aquatint on paper. \nBequest of Ruth B. Moran. 1948-71-2"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

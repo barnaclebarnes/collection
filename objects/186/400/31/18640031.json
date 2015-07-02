@@ -1,99 +1,210 @@
 {
-    "id":"18640031",
-    "tms:id":"194880",
-    "accession_number":"1992-4-10",
-    "title":"Bowl, \"\"Paivikki\" pattern\", 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18640031\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237197",
-    "date":"20th century",
-    "year_start":"1901",
-    "year_end":"2000",
-    "year_acquired":"1992",
-    "decade":"1900",
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 11.3 x 27.4 cm diameter (4 7\/16 x 10 13\/16 in.)",
-    "creditline":"Gift of iittala Crystal, Inc.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237197",
-        "name":"Bowl"
+    "id": "18640031",
+    "tms:id": "194880",
+    "accession_number": "1992-4-10",
+    "title": "\"Paivikki\" pattern Bowl, 20th century",
+    "title_raw": "\"Paivikki\" pattern",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18640031\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237197",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 2000,
+    "year_acquired": "1992",
+    "decade": "1900",
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 11.3 x 27.4 cm diameter (4 7\/16 x 10 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "11.30",
+            "centimeters"
+        ],
+        "width": [
+            "27.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of iittala Crystal, Inc.",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Bowl",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40365_285c078d6c408023_b.jpg",
-                "width":580,
-                "height":374,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92051_f3bd262a6ef4db70_b.jpg",
+                "width": 1024,
+                "height": 895,
+                "is_primary": "1",
+                "image_id": "92051"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40365_285c078d6c408023_n.jpg",
-                "width":320,
-                "height":206,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92051_f3bd262a6ef4db70_z.jpg",
+                "width": 640,
+                "height": 559,
+                "is_primary": "1",
+                "image_id": "92051"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/40365_285c078d6c408023_z.jpg",
-                "width":580,
-                "height":374,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92051_f3bd262a6ef4db70_n.jpg",
+                "width": 320,
+                "height": 280,
+                "is_primary": "1",
+                "image_id": "92051"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92051_f3bd262a6ef4db70_d.gif",
+                "width": 320,
+                "height": 280,
+                "is_primary": "1",
+                "image_id": "92051"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92051_f3bd262a6ef4db70_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92051"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117293_a71052ad08d2358d_b.jpg",
+                "width": 1024,
+                "height": 673,
+                "is_primary": "0",
+                "image_id": "117293"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117293_a71052ad08d2358d_z.jpg",
+                "width": 640,
+                "height": 421,
+                "is_primary": "0",
+                "image_id": "117293"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117293_a71052ad08d2358d_n.jpg",
+                "width": 320,
+                "height": 210,
+                "is_primary": "0",
+                "image_id": "117293"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117293_a71052ad08d2358d_d.gif",
+                "width": 320,
+                "height": 210,
+                "is_primary": "0",
+                "image_id": "117293"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/117293_a71052ad08d2358d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "117293"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40365_285c078d6c408023_b.jpg",
+                "width": 580,
+                "height": 374,
+                "is_primary": "0",
+                "image_id": "40365"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40365_285c078d6c408023_z.jpg",
+                "width": 580,
+                "height": 374,
+                "is_primary": "0",
+                "image_id": "40365"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40365_285c078d6c408023_n.jpg",
+                "width": 320,
+                "height": 206,
+                "is_primary": "0",
+                "image_id": "40365"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40365_285c078d6c408023_d.gif",
+                "width": 320,
+                "height": 206,
+                "is_primary": "0",
+                "image_id": "40365"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/40365_285c078d6c408023_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "40365"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044459",
-            "role_id":"35236655",
-            "person_name":"Markku Salo",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044459\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041337",
+            "role_id": "35351535",
+            "person_name": "IITTALA CRYSTAL",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041337\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18044457",
-            "role_id":"35236671",
-            "person_name":"iitala\/Nuutajarvi",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044457\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+            "person_id": "18044459",
+            "role_id": "35236655",
+            "person_name": "Markku Salo",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044459\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "person_id":"18048609",
-            "role_id":"35236655",
-            "person_name":"Marrku Salo",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048609\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18044457",
+            "role_id": "35236671",
+            "person_name": "iitala\/Nuutajarvi",
+            "person_date": "",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18048609",
+            "role_id": "35236655",
+            "person_name": "Marrku Salo",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048609\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Bowl, \"\"Paivikki\" pattern\", 20th century.\n20th century. glass. Gift of iittala Crystal, Inc.. 1992-4-10."
+    "tombstone": {
+        "epitaph": "\"Paivikki\" pattern Bowl, 20th century. glass. \nGift of iittala Crystal, Inc.. 1992-4-10"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#4b616d",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#abbbbf",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#27292b",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#809ca6",
-            "closest_css3":"#778899"
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

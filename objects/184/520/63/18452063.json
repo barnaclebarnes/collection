@@ -1,87 +1,176 @@
 {
-    "id":"18452063",
-    "tms:id":"136559",
-    "accession_number":"1964-46-3-a,b",
-    "title":"Sidewall, ca. 1850",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18452063\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35426827",
-    "type_id":"35256475",
-    "date":"ca. 1850",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1964",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Screen printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"First of designs on walls of John Jay House in Katonah, New York. Reproduction used in restoration.",
-    "dimensions":"100 x 76 cm (39 3\/8 x 29 15\/16 in.)",
-    "creditline":"Gift of New York State Department of Education, University of New York",
-    "description":"All-over design of white grape leaves on green ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18452063",
+    "tms:id": "136559",
+    "accession_number": "1964-46-3-a,b",
+    "title": "Sidewall (USA), 1963",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18452063\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35426827",
+    "type_id": "35256475",
+    "date": "1963",
+    "year_start": 1963,
+    "year_end": 1963,
+    "year_acquired": "1964",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "Screen printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "First of designs on walls of John Jay House in Katonah, New York. Reproduction used in restoration.",
+    "dimensions": "100 x 76 cm (39 3\/8 x 29 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "100.00",
+            "centimeters"
+        ],
+        "width": [
+            "76.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of New York State Department of Education, University of New York",
+    "description": "All-over design of white grape leaves on green ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6373_44355a65afee9ea3_b.jpg",
-                "width":571,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79859_2aaef3bf1d0090ac_b.jpg",
+                "width": 756,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "79859"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6373_44355a65afee9ea3_n.jpg",
-                "width":179,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79859_2aaef3bf1d0090ac_z.jpg",
+                "width": 473,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "79859"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/6373_44355a65afee9ea3_z.jpg",
-                "width":357,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79859_2aaef3bf1d0090ac_n.jpg",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "79859"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79859_2aaef3bf1d0090ac_d.gif",
+                "width": 236,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "79859"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79859_2aaef3bf1d0090ac_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "79859"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6373_44355a65afee9ea3_b.jpg",
+                "width": 571,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "6373"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6373_44355a65afee9ea3_z.jpg",
+                "width": 357,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "6373"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6373_44355a65afee9ea3_n.jpg",
+                "width": 179,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6373"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6373_44355a65afee9ea3_d.gif",
+                "width": 179,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "6373"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/6373_44355a65afee9ea3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "6373"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18047159",
-            "role_id":"35236657",
-            "person_name":"William J. Galligan",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047159\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18059915",
+            "role_id": "35351535",
+            "person_name": "New York State Dept. of Education",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059915\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048035",
+            "role_id": "35352245",
+            "person_name": "Hedy Backlin-Landman",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18047159",
+            "role_id": "35236657",
+            "person_name": "William J. Galligan",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047159\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, ca. 1850.\nca. 1850. Screen printed. Gift of New York State Department of Education, University of New York. 1964-46-3-a,b."
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1963. Screen printed. \nGift of New York State Department of Education, University of New York. 1964-46-3-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bbc6d6",
-            "closest_css3":"#b0c4de"
+            "color": "#88ad7f",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
         },
         {
-            "color":"#658d80",
-            "closest_css3":"#708090"
+            "color": "#a8b4a0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#728f95",
-            "closest_css3":"#778899"
-        },
-        {
-            "color":"#3b5255",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#d6eff5",
-            "closest_css3":"#e6e6fa"
+            "color": "#728e6e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

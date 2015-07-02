@@ -1,80 +1,141 @@
 {
-    "id":"18564025",
-    "tms:id":"75217",
-    "accession_number":"1941-69-155",
-    "title":"Sampler, 1806",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564025\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427167",
-    "type_id":"35256439",
-    "date":"1806",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: silk and cotton embroidery, linen foundation\nTechnique: embroidered in cross, stem and rococo stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Sarah Yeakel's Work 1806",
-    "provenance":"By 1941, Mrs. Henry E. Coe (Eva Johnston Coe)\n1941, Museum for the Arts of Decoration of the Cooper Union",
-    "dimensions":"H x W: 43 x 57 cm (16 15\/16 x 22 7\/16 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"A house on top of a hill which rises to the right, with weeping willow trees and other trees, a fence, sheep, a peacock, flying birds and an alphabet; surrounded by an angular strawberry vine border.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18564025",
+    "tms:id": "75217",
+    "accession_number": "1941-69-155",
+    "title": "Sampler (USA), 1806",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564025\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427167",
+    "type_id": "35256439",
+    "date": "1806",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: silk and cotton embroidery, linen foundation\nTechnique: embroidered in cross, stem and rococo stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Sarah Yeakel's Work 1806",
+    "provenance": "By 1941, Mrs. Henry E. Coe (Eva Johnston Coe)\n1941, Museum for the Arts of Decoration of the Cooper Union",
+    "dimensions": "H x W: 43 x 57 cm (16 15\/16 x 22 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "43.00",
+            "centimeters"
+        ],
+        "width": [
+            "57.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "A house on top of a hill which rises to the right, with weeping willow trees and other trees, a fence, sheep, a peacock, flying birds and an alphabet; surrounded by an angular strawberry vine border.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32415_a39e8d3664858d5f_b.jpg",
-                "width":1024,
-                "height":812,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32415_a39e8d3664858d5f_b.jpg",
+                "width": 1024,
+                "height": 812,
+                "is_primary": "1",
+                "image_id": "32415"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32415_a39e8d3664858d5f_n.jpg",
-                "width":320,
-                "height":254,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32415_a39e8d3664858d5f_z.jpg",
+                "width": 640,
+                "height": 508,
+                "is_primary": "1",
+                "image_id": "32415"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32415_a39e8d3664858d5f_z.jpg",
-                "width":640,
-                "height":508,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32415_a39e8d3664858d5f_n.jpg",
+                "width": 320,
+                "height": 254,
+                "is_primary": "1",
+                "image_id": "32415"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32415_a39e8d3664858d5f_d.gif",
+                "width": 320,
+                "height": 254,
+                "is_primary": "1",
+                "image_id": "32415"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32415_a39e8d3664858d5f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "32415"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1806.\n1806. Medium: silk and cotton embroidery, linen foundation\nTechnique: embroidered in cross, stem and rococo stitches on plain weave foundation. Bequest of Mrs. Henry E. Coe. 1941-69-155."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b39c73",
-            "closest_css3":"#bdb76b"
+            "person_id": "18061395",
+            "role_id": "35236583",
+            "person_name": "Sarah Yeakel, American",
+            "person_date": "",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061395\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         },
         {
-            "color":"#d3c8b2",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#32372b",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#817c57",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#59593c",
-            "closest_css3":"#556b2f"
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (USA), 1806. Medium: silk and cotton embroidery, linen foundation\nTechnique: embroidered in cross, stem and rococo stitches on plain weave foundation. \nBequest of Mrs. Henry E. Coe. 1941-69-155"
+    },
+    "colors": [
+        {
+            "color": "#b9a47f",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#d2c7b1",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#3b3f30",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7d7d57",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#5a583b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

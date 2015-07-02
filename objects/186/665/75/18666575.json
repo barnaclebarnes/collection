@@ -1,49 +1,149 @@
 {
-    "id":"18666575",
-    "tms:id":"208667",
-    "accession_number":"1902-1-681",
-    "title":"Fragment, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18666575\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35394285",
-    "type_id":"35254623",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk, metallic\nTechnique: woven",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Antonio Viv\u00e9s y Escudero",
-    "dimensions":"H x W: 42 x 52 cm (16 9\/16 x 20 1\/2 in.)",
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Diagonal green leaves on yellow background.\nSelvage on both sides.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18666575",
+    "tms:id": "208667",
+    "accession_number": "1902-1-681",
+    "title": "Fragment, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18666575\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35394285",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk, metallic\nTechnique: woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Antonio Viv\u00e9s y Escudero",
+    "dimensions": "H x W: 42 x 52 cm (16 9\/16 x 20 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "42.00",
+            "centimeters"
+        ],
+        "width": [
+            "52.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Diagonal green leaves on yellow background.\nSelvage on both sides.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92776_fed609e01b70e563_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92776"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92776_fed609e01b70e563_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92776"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92776_fed609e01b70e563_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92776"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92776_fed609e01b70e563_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92776"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92776_fed609e01b70e563_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92776"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68261_e6ab1a0a5fa2b3d5_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "68261"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68261_e6ab1a0a5fa2b3d5_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "68261"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68261_e6ab1a0a5fa2b3d5_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "68261"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68261_e6ab1a0a5fa2b3d5_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "68261"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68261_e6ab1a0a5fa2b3d5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68261"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 17th century.\n17th century. Medium: silk, metallic\nTechnique: woven. Gift of John Pierpont Morgan. 1902-1-681."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 17th century. Medium: silk, metallic\nTechnique: woven. \nGift of John Pierpont Morgan. 1902-1-681"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#3c4628",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#727041",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
 }

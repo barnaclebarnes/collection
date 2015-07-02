@@ -1,80 +1,141 @@
 {
-    "id":"18610011",
-    "tms:id":"98521",
-    "accession_number":"1948-40-49",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18610011\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Original album associated with this collection still exists.  See 1948-40-1 accessory",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18610011",
+    "tms:id": "98521",
+    "accession_number": "1948-40-49",
+    "title": "Drawing, Design for Wall with Doorway, possibly for Library, Royal Pavilion, Brighton, 1802",
+    "title_raw": "Design for Wall with Doorway, possibly for Library, Royal Pavilion, Brighton",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18610011\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35418513",
+    "type_id": "35237093",
+    "date": "1802",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Brush and watercolor, graphite on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1948: acquired by Museum (from Mrs. K. Gregory)",
+    "dimensions": "Mat: 35.6 x 45.7 cm (14 x 18 in.)\n10.8 x 22.2 cm (4 1\/4 x 8 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "45.72",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Elevation of a wall, with a doorway at left surmounted by a painted tablet bearing Chinese characters. Walls to left and right covered with a series of painted narrow panels with solid color fields.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59553_c82be791a405f31c_b.jpg",
-                "width":1024,
-                "height":513,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59553_d1c1e31c234f770b_b.jpg",
+                "width": 1024,
+                "height": 528,
+                "is_primary": "1",
+                "image_id": "59553"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59553_c82be791a405f31c_n.jpg",
-                "width":320,
-                "height":160,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59553_d1c1e31c234f770b_z.jpg",
+                "width": 640,
+                "height": 330,
+                "is_primary": "1",
+                "image_id": "59553"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/59553_c82be791a405f31c_z.jpg",
-                "width":640,
-                "height":321,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59553_d1c1e31c234f770b_n.jpg",
+                "width": 320,
+                "height": 165,
+                "is_primary": "1",
+                "image_id": "59553"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59553_d1c1e31c234f770b_d.gif",
+                "width": 320,
+                "height": 165,
+                "is_primary": "1",
+                "image_id": "59553"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/59553_d1c1e31c234f770b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "59553"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-49."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#e2d0a1",
-            "closest_css3":"#eee8aa"
+            "person_id": "18042069",
+            "role_id": "35236655",
+            "person_name": "Frederick Crace",
+            "person_date": "English, 1779\u20131859",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#f8f2d9",
-            "closest_css3":"#f5f5dc"
-        },
-        {
-            "color":"#acc4c1",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#bb9e69",
-            "closest_css3":"#bdb76b"
-        },
-        {
-            "color":"#d09fa0",
-            "closest_css3":"#d2b48c"
+            "person_id": "18539479",
+            "role_id": "35352249",
+            "person_name": "Mrs. K. Gregory",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539479\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Design for Wall with Doorway, possibly for Library, Royal Pavilion, Brighton, 1802. Brush and watercolor, graphite on paper. \nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-49"
+    },
+    "colors": [
+        {
+            "color": "#b4ad7c",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#dfddc4",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#bd9a93",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#958f73",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#6b625a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

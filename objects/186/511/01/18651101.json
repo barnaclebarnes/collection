@@ -1,42 +1,110 @@
 {
-    "id":"18651101",
-    "tms:id":"200489",
-    "accession_number":"1995-32-7",
-    "title":"Poster, \"La Decision V\", 1992\u201393",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18651101\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":"1992\u201393",
-    "year_start":"1992",
-    "year_end":"1993",
-    "year_acquired":"1995",
-    "decade":"1990",
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of the Department of Health, City of New York",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18651101",
+    "tms:id": "200489",
+    "accession_number": "1995-32-7",
+    "title": "Poster, La Decision V, 1992\u201393",
+    "title_raw": "La Decision V",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18651101\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1992\u201393",
+    "year_start": 1992,
+    "year_end": 1993,
+    "year_acquired": "1995",
+    "decade": "1990",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1995: acquired by Museum",
+    "dimensions": "27.9 x 70.6 cm (11 in. x 27 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.90",
+            "centimeters"
+        ],
+        "width": [
+            "70.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Department of Health, City of New York",
+    "description": "Comic book-style poster dealing with AIDS.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81520_ac3262052dd6fd0b_b.jpg",
+                "width": 1024,
+                "height": 403,
+                "is_primary": "1",
+                "image_id": "81520"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81520_ac3262052dd6fd0b_z.jpg",
+                "width": 640,
+                "height": 252,
+                "is_primary": "1",
+                "image_id": "81520"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81520_ac3262052dd6fd0b_n.jpg",
+                "width": 320,
+                "height": 126,
+                "is_primary": "1",
+                "image_id": "81520"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81520_ac3262052dd6fd0b_d.gif",
+                "width": 320,
+                "height": 126,
+                "is_primary": "1",
+                "image_id": "81520"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81520_ac3262052dd6fd0b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81520"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Poster, \"La Decision V\", 1992\u201393.\n1992\u201393. Gift of the Department of Health, City of New York. 1995-32-7."
+    "tombstone": {
+        "epitaph": "Poster, La Decision V, 1992\u201393. Lithograph on paper. \nGift of the Department of Health, City of New York. 1995-32-7"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2a2926",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#797570",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#5e5a55",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

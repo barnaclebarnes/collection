@@ -1,80 +1,178 @@
 {
-    "id":"18617055",
-    "tms:id":"177057",
-    "accession_number":"1981-28-441",
-    "title":"Sampler, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617055\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35397493",
-    "type_id":"35256439",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424900",
-    "medium":"Medium: silk and metal-wrapped silk embroidery on cotton foundation\nTechnique: embroidered in satin, stem, and couching stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 40.6 x 76.2 cm (16 x 30 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Bands of elaborate floral borders in polychrome silks and metal threads.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18617055",
+    "tms:id": "177057",
+    "accession_number": "1981-28-441",
+    "title": "Sampler (Mexico), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617055\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35397493",
+    "type_id": "35256439",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424900",
+    "medium": "Medium: silk and metal-wrapped silk embroidery on cotton foundation\nTechnique: embroidered in satin, stem, and couching stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 40.6 x 76.2 cm (16 x 30 in.)",
+    "dimensions_raw": {
+        "height": [
+            "40.64",
+            "centimeters"
+        ],
+        "width": [
+            "76.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Bands of elaborate floral borders in polychrome silks and metal threads.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424900",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28262_fd0eb3e6cf742280_b.jpg",
-                "width":1024,
-                "height":575,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92746_be27b64eedb80df7_b.jpg",
+                "width": 691,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92746"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28262_fd0eb3e6cf742280_n.jpg",
-                "width":320,
-                "height":180,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92746_be27b64eedb80df7_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92746"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28262_fd0eb3e6cf742280_z.jpg",
-                "width":640,
-                "height":360,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92746_be27b64eedb80df7_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92746"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92746_be27b64eedb80df7_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92746"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92746_be27b64eedb80df7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92746"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28262_fd0eb3e6cf742280_b.jpg",
+                "width": 1024,
+                "height": 575,
+                "is_primary": "0",
+                "image_id": "28262"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28262_fd0eb3e6cf742280_z.jpg",
+                "width": 640,
+                "height": 360,
+                "is_primary": "0",
+                "image_id": "28262"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28262_fd0eb3e6cf742280_n.jpg",
+                "width": 320,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "28262"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28262_fd0eb3e6cf742280_d.gif",
+                "width": 320,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "28262"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28262_fd0eb3e6cf742280_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28262"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 19th century.\n19th century. Medium: silk and metal-wrapped silk embroidery on cotton foundation\nTechnique: embroidered in satin, stem, and couching stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-441."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#594f40",
-            "closest_css3":"#556b2f"
+            "person_id": "18055143",
+            "role_id": "35352245",
+            "person_name": "Susan J. Brown",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055143\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#a6937c",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#2b2d28",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#8e6c57",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#555f5c",
-            "closest_css3":"#696969"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Mexico), 19th century. Medium: silk and metal-wrapped silk embroidery on cotton foundation\nTechnique: embroidered in satin, stem, and couching stitches on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-441"
+    },
+    "colors": [
+        {
+            "color": "#b9b394",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#8e8663",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#4f5240",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#9c764f",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#3a3529",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "Mexico",
+    "is_loan_object": 0
 }

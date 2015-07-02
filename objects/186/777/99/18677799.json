@@ -1,57 +1,150 @@
 {
-    "id":"18677799",
-    "tms:id":"214365",
-    "accession_number":"1969-165-63",
-    "title":"Sample, \"Ribbons\", 1957",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18677799\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35429735",
-    "type_id":"35268079",
-    "date":"1957",
-    "year_start":"1957",
-    "year_end":"1957",
-    "year_acquired":"1969",
-    "decade":"1950",
-    "woe:country":null,
-    "medium":"Medium: 81% cotton, 19% polyester\nTechnique: printed",
-    "markings":"2 Herman Miller Textiles paper labels attached to lower right corner.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 59 x 61 cm (23 1\/4 x 24 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Overlapping vertical rectangles printed in purple, yellow, green, orange and grey on white.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18677799",
+    "tms:id": "214365",
+    "accession_number": "1969-165-63",
+    "title": "Sample, Ribbons, 1957",
+    "title_raw": "Ribbons",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18677799\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35429735",
+    "type_id": "35268079",
+    "date": "1957",
+    "year_start": 1957,
+    "year_end": 1957,
+    "year_acquired": "1969",
+    "decade": "1950",
+    "woe:country_id": null,
+    "medium": "Medium: 81% cotton, 19% polyester\nTechnique: screen printed\nLabel: screen printed on 81% cotton, 19% polyester",
+    "markings": "2 Herman Miller Textiles paper labels attached to lower right corner.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 59.1 \u00d7 61 cm (23 1\/4 \u00d7 24 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "59.00",
+            "centimeters"
+        ],
+        "weft": [
+            "61.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Printed sample with overlapping vertical rectangles printed in gray, purple, green, yellow, and orange.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sample",
+    "images": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
-        },
-        {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61316_205a9ba54e882886_b.jpg",
+                "width": 895,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "61316"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61316_205a9ba54e882886_z.jpg",
+                "width": 559,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "61316"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61316_205a9ba54e882886_n.jpg",
+                "width": 280,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61316"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61316_205a9ba54e882886_d.gif",
+                "width": 280,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61316"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61316_205a9ba54e882886_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "61316"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Ribbons\", 1957.\n1957. Medium: 81% cotton, 19% polyester\nTechnique: printed. Gift of Alexander H. Girard. 1969-165-63."
+    "participants": [
+        {
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18049013",
+            "role_id": "35236657",
+            "person_name": "Herman Miller Furniture Company",
+            "person_date": "Zeeland, Michigan, USA, 1923\u20131960",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049013\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample, Ribbons, 1957. Medium: 81% cotton, 19% polyester\nTechnique: screen printed\nLabel: screen printed on 81% cotton, 19% polyester. \nGift of Alexander H. Girard. 1969-165-63"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#945e30",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#41462d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b0a148",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#484864",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#768c44",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
+        }
+    ],
+    "is_loan_object": 0
 }

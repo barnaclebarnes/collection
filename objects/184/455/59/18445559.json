@@ -1,72 +1,130 @@
 {
-    "id":"18445559",
-    "tms:id":"133276",
-    "accession_number":"1962-56-190-a",
-    "title":"Fragment, 17th\u201318th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445559\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"17th\u201318th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: 5-harness satin damask",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"from the Richard Cranch Greenleaf Collection.",
-    "dimensions":null,
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Short length of red damask.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
+    "id": "18445559",
+    "tms:id": "133276",
+    "accession_number": "1962-56-190-a",
+    "title": "Fragment (France), 17th\u201318th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445559\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "17th\u201318th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: 5-harness satin damask",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "from the Richard Cranch Greenleaf Collection.",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Short length of red damask in a symmetrical arrangement of flowers and leafy scrolls.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32929_a8d564e21ad5453f_b.jpg",
-                "width":569,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120843_25b663e67147d1fa_b.jpg",
+                "width": 658,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "120843"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32929_a8d564e21ad5453f_n.jpg",
-                "width":178,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120843_25b663e67147d1fa_z.jpg",
+                "width": 411,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "120843"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32929_a8d564e21ad5453f_z.jpg",
-                "width":356,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120843_25b663e67147d1fa_n.jpg",
+                "width": 206,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120843"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120843_25b663e67147d1fa_d.gif",
+                "width": 206,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "120843"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120843_25b663e67147d1fa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "120843"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32929_a8d564e21ad5453f_b.jpg",
+                "width": 569,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "32929"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32929_a8d564e21ad5453f_z.jpg",
+                "width": 356,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "32929"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32929_a8d564e21ad5453f_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32929"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32929_a8d564e21ad5453f_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32929"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32929_a8d564e21ad5453f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32929"
             }
         }
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), 17th\u201318th century. Medium: silk\nTechnique: 5-harness satin damask. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-190-a"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 17th\u201318th century.\n17th\u201318th century. Medium: silk\nTechnique: 5-harness satin damask. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-190-a."
-    },
-    "colors":[
-        {
-            "color":"#c04e51",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#8a2b2a",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#e07274",
-            "closest_css3":"#f08080"
-        }
-    ]
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

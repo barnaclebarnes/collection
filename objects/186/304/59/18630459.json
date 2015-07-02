@@ -1,87 +1,208 @@
 {
-    "id":"18630459",
-    "tms:id":"190070",
-    "accession_number":"1988-62-373",
-    "title":"Drawing, \"Fidelio: Green with Browns and Green\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18630459\/",
-    "department_id":"35347493",
-    "period_id":"35435467",
-    "media_id":"35421785",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":"1971",
-    "year_acquired":"1988",
-    "decade":null,
-    "woe:country":"23424750",
-    "medium":"Brush and gouache on paper",
-    "markings":"Stamp in red ink, lower right: WIENER\/WERK\/ST\u00c4TTE",
-    "signed":null,
-    "inscribed":"Inscribed in black ink, lower right: DESSIN: \"FIDELIO\"",
-    "provenance":null,
-    "dimensions":"13.9 x 21.4 cm (5 1\/2 x 8 7\/16 in.)\nMat: 32.9 x 46.2 cm (12 15\/16 x 18 3\/16 in.)",
-    "creditline":"Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds",
-    "description":"Graphic, abstract multicolored blossoms and leaves on a thin dark brown branch on green ground.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18630459",
+    "tms:id": "190070",
+    "accession_number": "1988-62-373",
+    "title": "Drawing, Fidelio: Green with Browns and Green, 1924",
+    "title_raw": "Fidelio: Green with Browns and Green",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18630459\/",
+    "department_id": "35347493",
+    "period_id": "35435467",
+    "media_id": "35421785",
+    "type_id": "35237093",
+    "date": "1924",
+    "year_start": 1924,
+    "year_end": 1924,
+    "year_acquired": "1988",
+    "decade": "1920",
+    "woe:country_id": "23424750",
+    "medium": "Brush and gouache on paper",
+    "markings": "Stamp in red ink, lower right: WIENER\/WERK\/ST\u00c4TTE",
+    "signed": null,
+    "inscribed": "Inscribed in black ink, lower right: DESSIN: \"FIDELIO\"",
+    "provenance": null,
+    "dimensions": "13.9 x 21.4 cm (5 1\/2 x 8 7\/16 in.)\nMat: 32.9 x 46.2 cm (12 15\/16 x 18 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "13.90",
+            "centimeters"
+        ],
+        "width": [
+            "21.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds",
+    "description": "Graphic, abstract multicolored blossoms and leaves on a thin dark brown branch on green ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": "Maria Likarz-Strauss was one of the most prolific designers for the Wiener Werkst\u00e4tte, creating her first design for them in 1912. Her designs frequently featured geometric patterns of stylized floral motifs rendered in vivid, saturated colors.",
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27124_4850b4c93365d866_b.jpg",
-                "width":1024,
-                "height":724,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109088_34f690912bc88bdd_b.jpg",
+                "width": 1024,
+                "height": 668,
+                "is_primary": "1",
+                "image_id": "109088"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27124_4850b4c93365d866_n.jpg",
-                "width":320,
-                "height":226,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109088_34f690912bc88bdd_z.jpg",
+                "width": 640,
+                "height": 417,
+                "is_primary": "1",
+                "image_id": "109088"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/27124_4850b4c93365d866_z.jpg",
-                "width":640,
-                "height":452,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109088_34f690912bc88bdd_n.jpg",
+                "width": 320,
+                "height": 209,
+                "is_primary": "1",
+                "image_id": "109088"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109088_34f690912bc88bdd_d.gif",
+                "width": 320,
+                "height": 209,
+                "is_primary": "1",
+                "image_id": "109088"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109088_34f690912bc88bdd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109088"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27124_4850b4c93365d866_b.jpg",
+                "width": 1024,
+                "height": 724,
+                "is_primary": "0",
+                "image_id": "27124"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27124_4850b4c93365d866_z.jpg",
+                "width": 640,
+                "height": 452,
+                "is_primary": "0",
+                "image_id": "27124"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27124_4850b4c93365d866_n.jpg",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "27124"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27124_4850b4c93365d866_d.gif",
+                "width": 320,
+                "height": 226,
+                "is_primary": "0",
+                "image_id": "27124"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/27124_4850b4c93365d866_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "27124"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18048101",
-            "role_id":"35236675",
-            "person_name":"Wiener Werkst\u00e4tte",
-            "role_name":"For",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048101\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18538455",
+            "role_id": "35352249",
+            "person_name": "Wolfgang Ruf",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538455\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18048101",
+            "role_id": "35236675",
+            "person_name": "Wiener Werkst\u00e4tte",
+            "person_date": "Vienna, Austria, 1903 - 1932",
+            "role_name": "For",
+            "role_display_name": "Made for",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048101\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id": "18052057",
+            "role_id": "35236655",
+            "person_name": "Maria Likarz Strauss",
+            "person_date": "Austrian, 1893\u20131971",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052057\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Fidelio: Green with Browns and Green\".\nBrush and gouache on paper. Museum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds. 1988-62-373."
+    "tombstone": {
+        "epitaph": "Drawing, Fidelio: Green with Browns and Green, 1924. Brush and gouache on paper. \nMuseum purchase from Smithsonian Collections Acquisition and Decorative Arts Association Acquisition Funds. 1988-62-373"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#262218",
-            "closest_css3":"#000000"
+            "color": "#427846",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#2e8b57",
+            "closest_css4": "#2e8b57"
         },
         {
-            "color":"#c14516",
-            "closest_css3":"#b22222"
+            "color": "#c4b9ab",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#365d2a",
-            "closest_css3":"#556b2f"
+            "color": "#9a7270",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#cab950",
-            "closest_css3":"#bdb76b"
+            "color": "#453137",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#cbb8b1",
-            "closest_css3":"#c0c0c0"
+            "color": "#639740",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#6b8e23",
+            "closest_css4": "#6b8e23"
         }
-    ]
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

@@ -1,87 +1,130 @@
 {
-    "id":"18758257",
-    "tms:id":"255413",
-    "accession_number":"2010-21-27",
-    "title":"Poster, 1967",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758257\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35431963",
-    "type_id":"35238163",
-    "date":"1967",
-    "year_start":"1967",
-    "year_end":"1967",
-    "year_acquired":"2010",
-    "decade":"1960",
-    "woe:country":null,
-    "medium":"Offset lithograph on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"78.2 x 56.4 cm (30 13\/16 x 22 3\/16 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":"Solarised, abstract, black-and-white photograph of people running down wide stairs, with a red vertical bar at upper left, and a red \"spill\" at lower center. \nInscriptions: the title \"PANCERNIK \/ POTIOMKIN\" at upper right, at upper left: \"slynny bunt \/ marynarzy \/ w wielkim filmie \/ SERGIUSZA \/ EISENSTEINA\", at upper center: \"Produkcja \"GOSKINO\" \/ WYCONAWCY: A. Antonow \/ W. Barski \/ G. Aleksandrow\".",
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758257",
+    "tms:id": "255413",
+    "accession_number": "2010-21-27",
+    "title": "Poster, Pancernik Potiomkin [Battleship Potiomkin], 1967",
+    "title_raw": "Pancernik Potiomkin [Battleship Potiomkin]",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758257\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35431963",
+    "type_id": "35238163",
+    "date": "1967",
+    "year_start": 1967,
+    "year_end": 1967,
+    "year_acquired": "2010",
+    "decade": "1960",
+    "woe:country_id": null,
+    "medium": "Offset lithograph on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
+    "dimensions": "78.2 x 56.4 cm (30 13\/16 x 22 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "78.20",
+            "centimeters"
+        ],
+        "width": [
+            "56.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "Solarised, abstract, black-and-white photograph of people running down wide stairs, with a red vertical bar at upper left, and a red \"spill\" at lower center. \nInscriptions: the title \"PANCERNIK \/ POTIOMKIN\" at upper right, at upper left: \"slynny bunt \/ marynarzy \/ w wielkim filmie \/ SERGIUSZA \/ EISENSTEINA\", at upper center: \"Produkcja \"GOSKINO\" \/ WYCONAWCY: A. Antonow \/ W. Barski \/ G. Aleksandrow\".",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46895_e07c923802fabac2_b.jpg",
-                "width":772,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46895_9ea225798826bcc1_b.jpg",
+                "width": 767,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "46895"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46895_e07c923802fabac2_n.jpg",
-                "width":241,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46895_9ea225798826bcc1_z.jpg",
+                "width": 479,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "46895"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/46895_e07c923802fabac2_z.jpg",
-                "width":482,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46895_9ea225798826bcc1_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46895"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46895_9ea225798826bcc1_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "46895"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/46895_9ea225798826bcc1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "46895"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18063503",
-            "role_id":"35236655",
-            "person_name":"Stanislaw Zamecznik",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18063503\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18063503",
+            "role_id": "35236655",
+            "person_name": "Stanislaw Zamecznik",
+            "person_date": "Polish, 1909 - 1971",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063503\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster, 1967.\n1967. Offset lithograph on wove paper. Gift of Sara and Marc Benda. 2010-21-27."
+    "tombstone": {
+        "epitaph": "Poster, Pancernik Potiomkin [Battleship Potiomkin], 1967. Offset lithograph on wove paper. \nGift of Sara and Marc Benda. 2010-21-27"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#eedeb6",
-            "closest_css3":"#f5deb3"
+            "color": "#d2c999",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#423f3b",
-            "closest_css3":"#2f4f4f"
+            "color": "#898467",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#ae9d7d",
-            "closest_css3":"#bc8f8f"
+            "color": "#aca47f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#8d8068",
-            "closest_css3":"#808080"
+            "color": "#686450",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#6f6554",
-            "closest_css3":"#696969"
+            "color": "#4a473b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

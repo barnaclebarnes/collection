@@ -1,42 +1,107 @@
 {
-    "id":"18349541",
-    "tms:id":"58425",
-    "accession_number":"1938-57-289",
-    "title":"Bowl",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18349541\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35237197",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424856",
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"6.8 x 10.2 cm (2 11\/16 x 4 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237197",
-        "name":"Bowl"
+    "id": "18349541",
+    "tms:id": "58425",
+    "accession_number": "1938-57-289",
+    "title": "Bowl (Japan)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18349541\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237197",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424856",
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "6.8 x 10.2 cm (2 11\/16 x 4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "6.80",
+            "centimeters"
+        ],
+        "width": [
+            "10.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424856",
+    "type": "Bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110105_bf623f6f78a7cb94_b.jpg",
+                "width": 1024,
+                "height": 812,
+                "is_primary": "1",
+                "image_id": "110105"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110105_bf623f6f78a7cb94_z.jpg",
+                "width": 640,
+                "height": 507,
+                "is_primary": "1",
+                "image_id": "110105"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110105_bf623f6f78a7cb94_n.jpg",
+                "width": 320,
+                "height": 254,
+                "is_primary": "1",
+                "image_id": "110105"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110105_bf623f6f78a7cb94_d.gif",
+                "width": 320,
+                "height": 254,
+                "is_primary": "1",
+                "image_id": "110105"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110105_bf623f6f78a7cb94_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110105"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Bowl.\nporcelain. Bequest of Erskine Hewitt. 1938-57-289."
+    "tombstone": {
+        "epitaph": "Bowl (Japan). porcelain. \nBequest of Erskine Hewitt. 1938-57-289"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a39b85",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Japan",
+    "is_loan_object": 0
 }

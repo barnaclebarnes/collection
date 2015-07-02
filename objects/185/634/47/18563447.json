@@ -1,42 +1,135 @@
 {
-    "id":"18563447",
-    "tms:id":"74927",
-    "accession_number":"1941-49-1",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18563447\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. William Greenough",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18563447",
+    "tms:id": "74927",
+    "accession_number": "1941-49-1",
+    "title": "Drawing, Study for the Fifth Avenue Elevation of the New York Public Library, 1897",
+    "title_raw": "Study for the Fifth Avenue Elevation of the New York Public Library",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18563447\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51683801",
+    "type_id": "35237093",
+    "date": "1897",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Graphite, brush and ink, pen and ink on tan paper",
+    "markings": null,
+    "signed": "Signed in graphite, lower right: Whitney Warren f.",
+    "inscribed": null,
+    "provenance": "Mrs. William Greenough; 1941: acquired by Museum",
+    "dimensions": "62.7 x 23.6 cm (24 11\/16 x 9 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "62.70",
+            "centimeters"
+        ],
+        "width": [
+            "23.60",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mrs. William Greenough",
+    "description": "Horizontal building with rows of windows and cornices. No lions are shown, but the word: Lion, is written at right in the steps.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61626_40dd4eb4801ed047_b.jpg",
+                "width": 1024,
+                "height": 389,
+                "is_primary": "1",
+                "image_id": "61626"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61626_40dd4eb4801ed047_z.jpg",
+                "width": 640,
+                "height": 243,
+                "is_primary": "1",
+                "image_id": "61626"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61626_40dd4eb4801ed047_n.jpg",
+                "width": 320,
+                "height": 122,
+                "is_primary": "1",
+                "image_id": "61626"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61626_40dd4eb4801ed047_d.gif",
+                "width": 320,
+                "height": 122,
+                "is_primary": "1",
+                "image_id": "61626"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61626_40dd4eb4801ed047_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "61626"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042021",
+            "role_id": "35236655",
+            "person_name": "Whitney Warren Jr.",
+            "person_date": "American, 1864\u20131943",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18051917",
+            "role_id": "35351535",
+            "person_name": "Mrs. William Greenough",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051917\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nGift of Mrs. William Greenough. 1941-49-1."
+    "tombstone": {
+        "epitaph": "Drawing, Study for the Fifth Avenue Elevation of the New York Public Library, 1897. Graphite, brush and ink, pen and ink on tan paper. \nGift of Mrs. William Greenough. 1941-49-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#92845a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#716647",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#484232",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#cec49e",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

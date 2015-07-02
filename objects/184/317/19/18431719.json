@@ -1,42 +1,92 @@
 {
-    "id":"18431719",
-    "tms:id":"126277",
-    "accession_number":"1960-164-6",
-    "title":"Shaker",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18431719\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402647",
-    "type_id":"35291237",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1960",
-    "decade":null,
-    "woe:country":null,
-    "medium":"earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"11 x 4.5 cm (4 5\/16 x 1 3\/4 in.)",
-    "creditline":"Gift of Mrs. Paul Moore",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35291237",
-        "name":"shaker"
+    "id": "18431719",
+    "tms:id": "126277",
+    "accession_number": "1960-164-6",
+    "title": "Shaker",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18431719\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402647",
+    "type_id": "35291237",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1960",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "11 x 4.5 cm (4 5\/16 x 1 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "11.00",
+            "centimeters"
+        ],
+        "width": [
+            "4.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. Paul Moore",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "shaker",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115619_e1b2020b355ddb30_b.jpg",
+                "width": 842,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "115619"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115619_e1b2020b355ddb30_z.jpg",
+                "width": 526,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115619"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115619_e1b2020b355ddb30_n.jpg",
+                "width": 263,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115619"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115619_e1b2020b355ddb30_d.gif",
+                "width": 263,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115619"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115619_e1b2020b355ddb30_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115619"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
+    "tombstone": {
+        "epitaph": "Shaker. earthenware. \nGift of Mrs. Paul Moore. 1960-164-6"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Shaker.\nearthenware. Gift of Mrs. Paul Moore. 1960-164-6."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

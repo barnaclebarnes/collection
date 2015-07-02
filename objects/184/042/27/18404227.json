@@ -1,80 +1,313 @@
 {
-    "id":"18404227",
-    "tms:id":"112298",
-    "accession_number":"1955-25-6-a\/d",
-    "title":"Textile, late 16th\u2013early 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18404227\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":"late 16th\u2013early 17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1955",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk\nTechnique: 5-harness satin damask",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 248 x 195 cm (8 ft. 1 5\/8 in. x 6 ft. 4 3\/4 in.); dimensions reflect size before separation of components",
-    "creditline":"Gift of L. Boyd and Annie McQuarrie Hatch",
-    "description":"Medium-scale classical urn and flowers in roughly ogival framework formed by stylized leaf sprays at angles and crowns at tangent points. Double cord selvages.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18404227",
+    "tms:id": "112298",
+    "accession_number": "1955-25-6-a\/d",
+    "title": "Textile, late 16th\u2013early 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18404227\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "late 16th\u2013early 17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1955",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk\nTechnique: 5-harness satin damask",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 248 x 195 cm (8 ft. 1 5\/8 in. x 6 ft. 4 3\/4 in.); dimensions reflect size before separation of components",
+    "dimensions_raw": {
+        "warp": [
+            "248.00",
+            "centimeters"
+        ],
+        "weft": [
+            "195.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of L. Boyd and Annie McQuarrie Hatch",
+    "description": "Medium-scale classical urn and flowers in roughly ogival framework formed by stylized leaf sprays at angles and crowns at tangent points. Double cord selvages.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_b.jpg",
-                "width":614,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63167_3b7bc95154392e50_b.jpg",
+                "width": 386,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63167"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_n.jpg",
-                "width":192,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63167_3b7bc95154392e50_z.jpg",
+                "width": 241,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63167"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_z.jpg",
-                "width":384,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63167_3b7bc95154392e50_n.jpg",
+                "width": 121,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63167"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63167_3b7bc95154392e50_d.gif",
+                "width": 121,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63167"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63167_3b7bc95154392e50_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63167"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120846_69023007afd632aa_b.jpg",
+                "width": 550,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120846"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120846_69023007afd632aa_z.jpg",
+                "width": 344,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120846"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120846_69023007afd632aa_n.jpg",
+                "width": 172,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120846"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120846_69023007afd632aa_d.gif",
+                "width": 172,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120846"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120846_69023007afd632aa_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120846"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121035_5d4665df87d9e024_b.jpg",
+                "width": 560,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "121035"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121035_5d4665df87d9e024_z.jpg",
+                "width": 350,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "121035"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121035_5d4665df87d9e024_n.jpg",
+                "width": 175,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "121035"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121035_5d4665df87d9e024_d.gif",
+                "width": 175,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "121035"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/121035_5d4665df87d9e024_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "121035"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120910_1211af4c8e5e639b_b.jpg",
+                "width": 571,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120910"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120910_1211af4c8e5e639b_z.jpg",
+                "width": 357,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120910"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120910_1211af4c8e5e639b_n.jpg",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120910"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120910_1211af4c8e5e639b_d.gif",
+                "width": 178,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120910"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120910_1211af4c8e5e639b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120910"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120912_182f21047c283200_b.jpg",
+                "width": 567,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "120912"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120912_182f21047c283200_z.jpg",
+                "width": 354,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "120912"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120912_182f21047c283200_n.jpg",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120912"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120912_182f21047c283200_d.gif",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "120912"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/120912_182f21047c283200_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "120912"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_b.jpg",
+                "width": 614,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "33366"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_z.jpg",
+                "width": 384,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "33366"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_n.jpg",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "33366"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_d.gif",
+                "width": 192,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "33366"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "33366"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, late 16th\u2013early 17th century.\nlate 16th\u2013early 17th century. Medium: silk\nTechnique: 5-harness satin damask. Gift of L. Boyd and Annie McQuarrie Hatch. 1955-25-6-a\/d."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#ad913e",
-            "closest_css3":"#cd853f"
+            "person_id": "18049411",
+            "role_id": "35351535",
+            "person_name": "L. Boyd Hatch",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049411\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#e5af47",
-            "closest_css3":"#f4a460"
-        },
-        {
-            "color":"#393d24",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#766a30",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#6b6561",
-            "closest_css3":"#696969"
+            "person_id": "18056351",
+            "role_id": "35351535",
+            "person_name": "Anne McQuarrie Hatch",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056351\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, late 16th\u2013early 17th century. Medium: silk\nTechnique: 5-harness satin damask. \nGift of L. Boyd and Annie McQuarrie Hatch. 1955-25-6-a\/d"
+    },
+    "colors": [
+        {
+            "color": "#a39948",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#726f34",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#4c5228",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
 }

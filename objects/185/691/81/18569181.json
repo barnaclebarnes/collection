@@ -1,49 +1,110 @@
 {
-    "id":"18569181",
-    "tms:id":"78291",
-    "accession_number":"1943-43-18-b",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18569181\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367167",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1943",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of W. and J. Sloane",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18569181",
+    "tms:id": "78291",
+    "accession_number": "1943-43-18-b",
+    "title": "Textile (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18569181\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367167",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1943",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of W. and J. Sloane",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18042255",
-            "role_id":"35351535",
-            "person_name":"W. and J. Sloane",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042255\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109002_a5d8b31d8da007a1_b.jpg",
+                "width": 639,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109002"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109002_a5d8b31d8da007a1_z.jpg",
+                "width": 399,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109002"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109002_a5d8b31d8da007a1_n.jpg",
+                "width": 200,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109002"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109002_a5d8b31d8da007a1_d.gif",
+                "width": 200,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109002"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109002_a5d8b31d8da007a1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109002"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nprinted. Gift of W. and J. Sloane. 1943-43-18-b."
+    "participants": [
+        {
+            "person_id": "18042255",
+            "role_id": "35351535",
+            "person_name": "W. and J. Sloane",
+            "person_date": "1843\u20131985",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042255\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France). printed. \nGift of W. and J. Sloane. 1943-43-18-b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a78981",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#8f6764",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#80464a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

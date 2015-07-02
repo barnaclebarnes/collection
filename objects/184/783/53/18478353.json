@@ -1,80 +1,188 @@
 {
-    "id":"18478353",
-    "tms:id":"149986",
-    "accession_number":"1972-75-42",
-    "title":"Sample, September 1947",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18478353\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35379383",
-    "type_id":"35268079",
-    "date":"September 1947",
-    "year_start":"1947",
-    "year_end":"1947",
-    "year_acquired":"1972",
-    "decade":"1940",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton, synthetic\nTechnique: 2\/2 twill weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"2320 Dorothy Liebes September 1947",
-    "provenance":null,
-    "dimensions":"Warp x Weft: 21.5 x 16 cm (8 7\/16 x 6 5\/16 in.)",
-    "creditline":"Gift of the Estate of Dorothy (Liebes) Morin",
-    "description":"Sample of 2\/2 twill with grouped and single warps in a shallow, vertical herringbone design. Warp is comprised of three black, 4-ply cotton yarns alternating with a group of black chenille and smooth white yarn.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18478353",
+    "tms:id": "149986",
+    "accession_number": "1972-75-42",
+    "title": "Sample (USA), September 1947",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18478353\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35379383",
+    "type_id": "35268079",
+    "date": "September 1947",
+    "year_start": 1947,
+    "year_end": 1947,
+    "year_acquired": "1972",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton, synthetic\nTechnique: 2\/2 twill woven",
+    "markings": null,
+    "signed": null,
+    "inscribed": "2320 Dorothy Liebes September 1947",
+    "provenance": "Estate of Dorothy (Liebes) Morin; 1972: acquired by Museum",
+    "dimensions": "Warp x Weft: 21.5 x 16 cm (8 7\/16 x 6 5\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "21.50",
+            "centimeters"
+        ],
+        "weft": [
+            "16.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of Dorothy (Liebes) Morin",
+    "description": "Sample of 2\/2 twill with grouped and single warps in a shallow, vertical herringbone design. Warp is comprised of three black, 4-ply cotton yarns alternating with a group of black chenille and smooth white yarn.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35928_20e97161aa34b058_b.jpg",
-                "width":1024,
-                "height":882,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81791_3955b3e82bd4c7c2_b.jpg",
+                "width": 918,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81791"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35928_20e97161aa34b058_n.jpg",
-                "width":320,
-                "height":276,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81791_3955b3e82bd4c7c2_z.jpg",
+                "width": 573,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81791"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35928_20e97161aa34b058_z.jpg",
-                "width":640,
-                "height":551,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81791_3955b3e82bd4c7c2_n.jpg",
+                "width": 287,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81791"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81791_3955b3e82bd4c7c2_d.gif",
+                "width": 287,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81791"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81791_3955b3e82bd4c7c2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81791"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35928_20e97161aa34b058_b.jpg",
+                "width": 1024,
+                "height": 882,
+                "is_primary": "0",
+                "image_id": "35928"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35928_20e97161aa34b058_z.jpg",
+                "width": 640,
+                "height": 551,
+                "is_primary": "0",
+                "image_id": "35928"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35928_20e97161aa34b058_n.jpg",
+                "width": 320,
+                "height": 276,
+                "is_primary": "0",
+                "image_id": "35928"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35928_20e97161aa34b058_d.gif",
+                "width": 320,
+                "height": 276,
+                "is_primary": "0",
+                "image_id": "35928"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35928_20e97161aa34b058_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35928"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sample, September 1947.\nSeptember 1947. Medium: cotton, synthetic\nTechnique: 2\/2 twill weave. Gift of the Estate of Dorothy (Liebes) Morin. 1972-75-42."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#aeb2bc",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18045817",
+            "role_id": "35236745",
+            "person_name": "Dorothy Wright Liebes",
+            "person_date": "American, 1897\u20131972",
+            "role_name": "Weaver",
+            "role_display_name": "Woven by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236745\/"
         },
         {
-            "color":"#a3a295",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18045817",
+            "role_id": "35236655",
+            "person_name": "Dorothy Wright Liebes",
+            "person_date": "American, 1897\u20131972",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#1c2516",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#791a0f",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#6d786c",
-            "closest_css3":"#696969"
+            "person_id": "18054731",
+            "role_id": "35351535",
+            "person_name": "Estate of Dorothy (Liebes) Morin",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054731\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sample (USA), September 1947. Medium: cotton, synthetic\nTechnique: 2\/2 twill woven. \nGift of the Estate of Dorothy (Liebes) Morin. 1972-75-42"
+    },
+    "colors": [
+        {
+            "color": "#bebbac",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#823b22",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#39241d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#737069",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#928476",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,42 +1,111 @@
 {
-    "id":"18458785",
-    "tms:id":"139966",
-    "accession_number":"1967-66-7-a,b",
-    "title":"Bowl",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18458785\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35237197",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1967",
-    "decade":null,
-    "woe:country":null,
-    "medium":"glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 17.1 x 14.5 cm (6 3\/4 x 5 11\/16 in.)",
-    "creditline":"Gift of Mr. and Mrs. Arthur Wiesenberger",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237197",
-        "name":"Bowl"
+    "id": "18458785",
+    "tms:id": "139966",
+    "accession_number": "1967-66-7-a,b",
+    "title": "Bowl",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18458785\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35237197",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1967",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 17.1 x 14.5 cm (6 3\/4 x 5 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "14.50",
+            "centimeters"
+        ],
+        "height": [
+            "17.10",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mr. and Mrs. Arthur Wiesenberger",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Bowl",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115897_23e99c1d4d2304c7_b.jpg",
+                "width": 875,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "115897"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115897_23e99c1d4d2304c7_z.jpg",
+                "width": 547,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "115897"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115897_23e99c1d4d2304c7_n.jpg",
+                "width": 273,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115897"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115897_23e99c1d4d2304c7_d.gif",
+                "width": 273,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "115897"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115897_23e99c1d4d2304c7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115897"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18054135",
+            "role_id": "35351535",
+            "person_name": "Mrs. Arthur Wiesenberger",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054135\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18053115",
+            "role_id": "35351535",
+            "person_name": "Arthur Wiesenberger",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053115\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Bowl. glass. \nGift of Mr. and Mrs. Arthur Wiesenberger. 1967-66-7-a,b"
+    },
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Bowl.\nglass. Gift of Mr. and Mrs. Arthur Wiesenberger. 1967-66-7-a,b."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

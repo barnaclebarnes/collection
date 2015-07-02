@@ -1,87 +1,167 @@
 {
-    "id":"18569349",
-    "tms:id":"78375",
-    "accession_number":"1943-43-84-e,f",
-    "title":"Textile, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18569349\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35251739",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1943",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: damask",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of W. and J. Sloane",
-    "description":"Fragments of a chasuble made from tan and blue damask with a baroque-style pattern.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
+    "id": "18569349",
+    "tms:id": "78375",
+    "accession_number": "1943-43-84-e,f",
+    "title": "Textile (possibly France), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18569349\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35251739",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1943",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: damask",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of W. and J. Sloane",
+    "description": "Fragments of a chasuble made from tan and blue damask with a baroque-style pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32907_cdae4c91d8ce24bb_b.jpg",
-                "width":527,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123998_046e03d386d80d62_b.jpg",
+                "width": 284,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "123998"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32907_cdae4c91d8ce24bb_n.jpg",
-                "width":165,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123998_046e03d386d80d62_z.jpg",
+                "width": 178,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "123998"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32907_cdae4c91d8ce24bb_z.jpg",
-                "width":329,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123998_046e03d386d80d62_n.jpg",
+                "width": 89,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123998"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123998_046e03d386d80d62_d.gif",
+                "width": 89,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123998"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123998_046e03d386d80d62_sq.jpg",
+                "width": 284,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123998"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124152_89db92279280c519_b.jpg",
+                "width": 290,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "124152"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124152_89db92279280c519_z.jpg",
+                "width": 181,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "124152"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124152_89db92279280c519_n.jpg",
+                "width": 91,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "124152"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124152_89db92279280c519_d.gif",
+                "width": 91,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "124152"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124152_89db92279280c519_sq.jpg",
+                "width": 290,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "124152"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32907_cdae4c91d8ce24bb_b.jpg",
+                "width": 527,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "32907"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32907_cdae4c91d8ce24bb_z.jpg",
+                "width": 329,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "32907"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32907_cdae4c91d8ce24bb_n.jpg",
+                "width": 165,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32907"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32907_cdae4c91d8ce24bb_d.gif",
+                "width": 165,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "32907"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32907_cdae4c91d8ce24bb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32907"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042255",
-            "role_id":"35351535",
-            "person_name":"W. and J. Sloane",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042255\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18042255",
+            "role_id": "35351535",
+            "person_name": "W. and J. Sloane",
+            "person_date": "1843\u20131985",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042255\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 19th century.\n19th century. Medium: silk\nTechnique: damask. Gift of W. and J. Sloane. 1943-43-84-e,f."
+    "tombstone": {
+        "epitaph": "Textile (possibly France), 19th century. Medium: silk\nTechnique: damask. \nGift of W. and J. Sloane. 1943-43-84-e,f"
     },
-    "colors":[
-        {
-            "color":"#2f6382",
-            "closest_css3":"#483d8b"
-        },
-        {
-            "color":"#4083ac",
-            "closest_css3":"#4682b4"
-        },
-        {
-            "color":"#1d4256",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#02142d",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#a19489",
-            "closest_css3":"#bc8f8f"
-        }
-    ]
+    "colors": [
+
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

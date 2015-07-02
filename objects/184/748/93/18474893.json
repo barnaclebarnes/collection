@@ -1,80 +1,122 @@
 {
-    "id":"18474893",
-    "tms:id":"148209",
-    "accession_number":"1971-50-517",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474893\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424802",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
+    "id": "18474893",
+    "tms:id": "148209",
+    "accession_number": "1971-50-517",
+    "title": "Fragment (Egypt)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474893\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35254623",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424802",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424802",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17051_b41fb8b7b9fc5edb_b.jpg",
-                "width":1024,
-                "height":859,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17051_b41fb8b7b9fc5edb_b.jpg",
+                "width": 1024,
+                "height": 859,
+                "is_primary": "1",
+                "image_id": "17051"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17051_b41fb8b7b9fc5edb_n.jpg",
-                "width":320,
-                "height":268,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17051_b41fb8b7b9fc5edb_z.jpg",
+                "width": 640,
+                "height": 537,
+                "is_primary": "1",
+                "image_id": "17051"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17051_b41fb8b7b9fc5edb_z.jpg",
-                "width":640,
-                "height":537,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17051_b41fb8b7b9fc5edb_n.jpg",
+                "width": 320,
+                "height": 268,
+                "is_primary": "1",
+                "image_id": "17051"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17051_b41fb8b7b9fc5edb_d.gif",
+                "width": 320,
+                "height": 268,
+                "is_primary": "1",
+                "image_id": "17051"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17051_b41fb8b7b9fc5edb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "17051"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fragment.\nBequest of Marian Hague. 1971-50-517."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bab293",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#735f32",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#732b15",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#978c63",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#814d2d",
-            "closest_css3":"#8b4513"
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (Egypt). \nBequest of Marian Hague. 1971-50-517"
+    },
+    "colors": [
+        {
+            "color": "#c0b99d",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#806e40",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#874a2a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#602511",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#800000",
+            "closest_css4": "#800000"
+        },
+        {
+            "color": "#9a8b60",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Egypt",
+    "is_loan_object": 0
 }

@@ -1,87 +1,161 @@
 {
-    "id":"18130285",
-    "tms:id":"11284",
-    "accession_number":"1902-1-144",
-    "title":"Square, 4th\u20135th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18130285\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"51510577",
-    "type_id":"35256017",
-    "date":"4th\u20135th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: linen warp and weft, wool weft\nTechnique: slit tapestry with supplementary weft wrapping",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 44.5 x 45.4 cm (17 1\/2 x 17 7\/8 in.)",
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Purple square with geometric pattern based on interlocking circles.",
-    "justification":null,
-    "type":{
-        "id":"35256017",
-        "name":"Square"
+    "id": "18130285",
+    "tms:id": "11284",
+    "accession_number": "1902-1-144",
+    "title": "Square, 4th\u20135th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18130285\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "51679653",
+    "type_id": "35256017",
+    "date": "4th\u20135th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: linen warp, linen and wool wefts \nTechnique: plain weave with discontinuous wefts (tapestry); open slits, supplementary weft wrapping",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 44.5 x 45.4 cm (17 1\/2 x 17 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "44.45",
+            "centimeters"
+        ],
+        "width": [
+            "45.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Square of purple tapestry cut from its linen foundation. Geometric pattern based on interlocking circles.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Square",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57214_d4e79a0cfd72181f_b.jpg",
-                "width":1024,
-                "height":1021,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63297_65efcfa9f94eb425_b.jpg",
+                "width": 934,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63297"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57214_d4e79a0cfd72181f_n.jpg",
-                "width":320,
-                "height":319,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63297_65efcfa9f94eb425_z.jpg",
+                "width": 583,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63297"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/57214_d4e79a0cfd72181f_z.jpg",
-                "width":640,
-                "height":638,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63297_65efcfa9f94eb425_n.jpg",
+                "width": 292,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63297"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63297_65efcfa9f94eb425_d.gif",
+                "width": 292,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63297"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63297_65efcfa9f94eb425_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63297"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57214_d4e79a0cfd72181f_b.jpg",
+                "width": 1024,
+                "height": 1021,
+                "is_primary": "0",
+                "image_id": "57214"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57214_d4e79a0cfd72181f_z.jpg",
+                "width": 640,
+                "height": 638,
+                "is_primary": "0",
+                "image_id": "57214"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57214_d4e79a0cfd72181f_n.jpg",
+                "width": 320,
+                "height": 319,
+                "is_primary": "0",
+                "image_id": "57214"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57214_d4e79a0cfd72181f_d.gif",
+                "width": 320,
+                "height": 319,
+                "is_primary": "0",
+                "image_id": "57214"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/57214_d4e79a0cfd72181f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "57214"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Square, 4th\u20135th century.\n4th\u20135th century. Medium: linen warp and weft, wool weft\nTechnique: slit tapestry with supplementary weft wrapping. Gift of John Pierpont Morgan. 1902-1-144."
+    "tombstone": {
+        "epitaph": "Square, 4th\u20135th century. Medium: linen warp, linen and wool wefts \nTechnique: plain weave with discontinuous wefts (tapestry); open slits, supplementary weft wrapping. \nGift of John Pierpont Morgan. 1902-1-144"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cecbc1",
-            "closest_css3":"#c0c0c0"
+            "color": "#46423c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#2b272a",
-            "closest_css3":"#2f4f4f"
+            "color": "#6a6351",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#484543",
-            "closest_css3":"#2f4f4f"
+            "color": "#b7ab7f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#98896a",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#676157",
-            "closest_css3":"#696969"
+            "color": "#8d8265",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

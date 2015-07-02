@@ -1,80 +1,218 @@
 {
-    "id":"18445687",
-    "tms:id":"133354",
-    "accession_number":"1962-56-69-a,b",
-    "title":"Fragment, mid\u2013late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445687\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"mid\u2013late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: 5-harness satin damask",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 118 x 78 cm (46 7\/16 x 30 11\/16 in.)",
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Panel of red silk damask with a pattern of ribbon festoons and clusters of flowers.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18445687",
+    "tms:id": "133354",
+    "accession_number": "1962-56-69-a,b",
+    "title": "Fragment (France), mid\u2013late 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445687\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "mid\u2013late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: 5-harness satin damask",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 118 x 78 cm (46 7\/16 x 30 11\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "118.00",
+            "centimeters"
+        ],
+        "weft": [
+            "78.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Panel of red silk damask with a pattern of ribbon festoons and clusters of flowers.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_b.jpg",
-                "width":522,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62618_2161f51b59674e52_b.jpg",
+                "width": 377,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "62618"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_n.jpg",
-                "width":163,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62618_2161f51b59674e52_z.jpg",
+                "width": 235,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "62618"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_z.jpg",
-                "width":326,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62618_2161f51b59674e52_n.jpg",
+                "width": 118,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "62618"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62618_2161f51b59674e52_d.gif",
+                "width": 118,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "62618"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/62618_2161f51b59674e52_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "62618"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124101_46e1106200c78891_b.jpg",
+                "width": 436,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "124101"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124101_46e1106200c78891_z.jpg",
+                "width": 272,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "124101"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124101_46e1106200c78891_n.jpg",
+                "width": 136,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "124101"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124101_46e1106200c78891_d.gif",
+                "width": 136,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "124101"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/124101_46e1106200c78891_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "124101"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123234_8de0b78b209ac290_b.jpg",
+                "width": 471,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "123234"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123234_8de0b78b209ac290_z.jpg",
+                "width": 294,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "123234"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123234_8de0b78b209ac290_n.jpg",
+                "width": 147,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "123234"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123234_8de0b78b209ac290_d.gif",
+                "width": 147,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "123234"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123234_8de0b78b209ac290_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "123234"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_b.jpg",
+                "width": 522,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "33062"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_z.jpg",
+                "width": 326,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "33062"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_n.jpg",
+                "width": 163,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "33062"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_d.gif",
+                "width": 163,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "33062"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "33062"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fragment, mid\u2013late 18th century.\nmid\u2013late 18th century. Medium: silk\nTechnique: 5-harness satin damask. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-69-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#682021",
-            "closest_css3":"#800000"
-        },
-        {
-            "color":"#b4423e",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#ea5049",
-            "closest_css3":"#ff6347"
-        },
-        {
-            "color":"#361c1e",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#6b7475",
-            "closest_css3":"#696969"
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), mid\u2013late 18th century. Medium: silk\nTechnique: 5-harness satin damask. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-69-a,b"
+    },
+    "colors": [
+        {
+            "color": "#c3afae",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

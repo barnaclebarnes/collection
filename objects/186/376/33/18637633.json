@@ -1,87 +1,194 @@
 {
-    "id":"18637633",
-    "tms:id":"193669",
-    "accession_number":"1991-89-12",
-    "title":"Sidewall, \"Cafe De La Paix\", ca. 1950",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18637633\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"ca. 1950",
-    "year_start":"1945",
-    "year_end":"1955",
-    "year_acquired":"1991",
-    "decade":"1940",
-    "woe:country":"23424977",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Printed on selvage: \"A RUN 2, JOIN HERE\"",
-    "provenance":null,
-    "dimensions":"56 cm (22 1\/16 in.)",
-    "creditline":"Gift of Suzanne Lipschutz",
-    "description":"Scenes of monuments, people at a cafe, a flower cart, and a horse and buggy. Printed in yellow, white, pink, green, and grey on a metallic silver ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18637633",
+    "tms:id": "193669",
+    "accession_number": "1991-89-12",
+    "title": "Sidewall, Cafe De La Paix, ca. 1950",
+    "title_raw": "Cafe De La Paix",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18637633\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "ca. 1950",
+    "year_start": 1945,
+    "year_end": 1955,
+    "year_acquired": "1991",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed on selvage: \"A RUN 2, JOIN HERE\"",
+    "provenance": null,
+    "dimensions": "56 cm (22 1\/16 in.)",
+    "dimensions_raw": {
+        "width": [
+            "56.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Suzanne Lipschutz",
+    "description": "Scenes of monuments, people at a cafe, a flower cart, and a horse and buggy. Printed in yellow, white, pink, green, and grey on a metallic silver ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11334_043796436c52dec0_b.jpg",
-                "width":683,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82157_6568e5359f8dc58f_b.jpg",
+                "width": 632,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "82157"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11334_043796436c52dec0_n.jpg",
-                "width":213,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82157_6568e5359f8dc58f_z.jpg",
+                "width": 395,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "82157"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11334_043796436c52dec0_z.jpg",
-                "width":427,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82157_6568e5359f8dc58f_n.jpg",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82157"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82157_6568e5359f8dc58f_d.gif",
+                "width": 198,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "82157"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/82157_6568e5359f8dc58f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "82157"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11334_043796436c52dec0_b.jpg",
+                "width": 683,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11334"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11334_043796436c52dec0_z.jpg",
+                "width": 427,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11334"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11334_043796436c52dec0_n.jpg",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11334"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11334_043796436c52dec0_d.gif",
+                "width": 213,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11334"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11334_043796436c52dec0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11334"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046421",
-            "role_id":"35236657",
-            "person_name":"United Wallpapers",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046421\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18538223",
+            "role_id": "35352245",
+            "person_name": "Molly Holst",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538223\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18537341",
+            "role_id": "35351535",
+            "person_name": "Suzanne Lipschutz",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537341\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048481",
+            "role_id": "35352245",
+            "person_name": "Rose Gottschalk",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046421",
+            "role_id": "35236657",
+            "person_name": "United Wallpaper, Inc.",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046421\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"Cafe De La Paix\", ca. 1950.\nca. 1950. Machine-printed. Gift of Suzanne Lipschutz. 1991-89-12."
+    "tombstone": {
+        "epitaph": "Sidewall, Cafe De La Paix, ca. 1950. Machine-printed. \nGift of Suzanne Lipschutz. 1991-89-12"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d2e6f2",
-            "closest_css3":"#e6e6fa"
+            "color": "#7a8f79",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#a8baca",
-            "closest_css3":"#b0c4de"
+            "color": "#364733",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#7e8e9f",
-            "closest_css3":"#778899"
+            "color": "#896758",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#1e0810",
-            "closest_css3":"#000000"
+            "color": "#6b3f3f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#646d79",
-            "closest_css3":"#696969"
+            "color": "#68766c",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

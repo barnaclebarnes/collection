@@ -1,87 +1,188 @@
 {
-    "id":"18491637",
-    "tms:id":"156699",
-    "accession_number":"1976-98-30",
-    "title":"Textile, 1930s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18491637\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1930s",
-    "year_start":"1930",
-    "year_end":"1939",
-    "year_acquired":"1976",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: hand screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"In pencil on back: R. Taibbi Age 11",
-    "provenance":null,
-    "dimensions":"H x W: 54.6 x 87.6 cm (21 1\/2 x 34 1\/2 in.)",
-    "creditline":"Gift of the Estate of Ella Ostrowsky",
-    "description":"Textile with printed design of two large native american indian figures with headdresses and braids sitting in canoe on a river. On land behind them are four tipis and other human figures. In the water below them are fish and other sea creatures. Printed in blue, yellow, pink, (yellow over blue for green and pink over blue for purple) on muslin ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18491637",
+    "tms:id": "156699",
+    "accession_number": "1976-98-30",
+    "title": "Textile (USA), 1930s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18491637\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1930s",
+    "year_start": 1930,
+    "year_end": 1939,
+    "year_acquired": "1976",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: hand screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "In pencil on back: R. Taibbi Age 11",
+    "provenance": null,
+    "dimensions": "H x W: 54.6 x 87.6 cm (21 1\/2 x 34 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "54.61",
+            "centimeters"
+        ],
+        "width": [
+            "87.63",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of Ella Ostrowsky",
+    "description": "Textile with printed design of two large native american indian figures with headdresses and braids sitting in canoe on a river. On land behind them are four tipis and other human figures. In the water below them are fish and other sea creatures. Printed in blue, yellow, pink, (yellow over blue for green and pink over blue for purple) on muslin ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45303_141af9d885233fcb_b.jpg",
-                "width":1024,
-                "height":642,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45303_90fdbbfe37145e78_b.jpg",
+                "width": 1024,
+                "height": 642,
+                "is_primary": "1",
+                "image_id": "45303"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45303_141af9d885233fcb_n.jpg",
-                "width":320,
-                "height":200,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45303_90fdbbfe37145e78_z.jpg",
+                "width": 640,
+                "height": 401,
+                "is_primary": "1",
+                "image_id": "45303"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45303_141af9d885233fcb_z.jpg",
-                "width":640,
-                "height":401,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45303_90fdbbfe37145e78_n.jpg",
+                "width": 320,
+                "height": 201,
+                "is_primary": "1",
+                "image_id": "45303"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45303_90fdbbfe37145e78_d.gif",
+                "width": 320,
+                "height": 201,
+                "is_primary": "1",
+                "image_id": "45303"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45303_90fdbbfe37145e78_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45303"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76914_be986ca2bca575bd_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "76914"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76914_be986ca2bca575bd_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "76914"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76914_be986ca2bca575bd_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "76914"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76914_be986ca2bca575bd_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "76914"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/76914_be986ca2bca575bd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "76914"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049575",
-            "role_id":"35236793",
-            "person_name":"The Educational Alliance",
-            "role_name":"Student at",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049575\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236793\/"
+            "person_id": "18049575",
+            "role_id": "35236793",
+            "person_name": "The Educational Alliance",
+            "person_date": "",
+            "role_name": "Student at",
+            "role_display_name": "Student at",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049575\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236793\/"
+        },
+        {
+            "person_id": "34624811",
+            "role_id": "35236685",
+            "person_name": "Rose Taibbi",
+            "person_date": "American",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/34624811\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18537843",
+            "role_id": "35351535",
+            "person_name": "Estate of Ella Ostrowsky",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537843\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1930s.\n1930s. Medium: cotton\nTechnique: hand screen printed on plain weave. Gift of the Estate of Ella Ostrowsky. 1976-98-30."
+    "tombstone": {
+        "epitaph": "Textile (USA), 1930s. Medium: cotton\nTechnique: hand screen printed on plain weave. \nGift of the Estate of Ella Ostrowsky. 1976-98-30"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#537ea6",
-            "closest_css3":"#4682b4"
+            "color": "#556691",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#e8ddc3",
-            "closest_css3":"#f5deb3"
+            "color": "#dad5b8",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#e3cb7b",
-            "closest_css3":"#deb887"
+            "color": "#536c6b",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#577f7c",
-            "closest_css3":"#708090"
+            "color": "#d1c97b",
+            "closest_crayola": "#c5e384",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
         },
         {
-            "color":"#5e4058",
-            "closest_css3":"#696969"
+            "color": "#493545",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

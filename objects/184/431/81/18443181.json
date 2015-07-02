@@ -1,72 +1,219 @@
 {
-    "id":"18443181",
-    "tms:id":"132073",
-    "accession_number":"1962-18-3",
-    "title":"Textile, 1920\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18443181\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1920\u201330",
-    "year_start":"1920",
-    "year_end":"1930",
-    "year_acquired":"1962",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Medium: cotton\nTechnique: screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"\"PROF. HILLERBRAND. DEWE. TEX. ENTW.\" printed in green within unpatterned stripe.",
-    "provenance":null,
-    "dimensions":"H x W: 181.6 x 127 cm (71 1\/2 x 50 in.)",
-    "creditline":"Gift of Bertha Schaefer",
-    "description":"Stripes of varying widths, some with a geometric pattern in shades of green. Non-directional. Four colors of screens: pale green, olive green, blue-green, green.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18443181",
+    "tms:id": "132073",
+    "accession_number": "1962-18-3",
+    "title": "Textile (Germany), 1920\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18443181\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1920\u201330",
+    "year_start": 1920,
+    "year_end": 1930,
+    "year_acquired": "1962",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Medium: cotton\nTechnique: screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "\"PROF. HILLERBRAND. DEWE. TEX. ENTW.\" printed in green within unpatterned stripe.",
+    "provenance": null,
+    "dimensions": "H x W: 181.6 x 127 cm (71 1\/2 x 50 in.)",
+    "dimensions_raw": {
+        "height": [
+            "181.61",
+            "centimeters"
+        ],
+        "width": [
+            "127.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Bertha Schaefer",
+    "description": "Stripes of varying widths, some with a geometric pattern in shades of green. Non-directional. Four colors of screens: pale green, olive green, blue-green, green.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42566_fdb7a7cadad43098_b.jpg",
-                "width":795,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42566_fdb7a7cadad43098_b.jpg",
+                "width": 795,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "42566"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42566_fdb7a7cadad43098_n.jpg",
-                "width":248,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42566_fdb7a7cadad43098_z.jpg",
+                "width": 497,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "42566"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42566_fdb7a7cadad43098_z.jpg",
-                "width":497,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42566_fdb7a7cadad43098_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42566"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42566_fdb7a7cadad43098_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42566"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42566_fdb7a7cadad43098_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42566"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74333_d99eeb479e9ff2f8_b.jpg",
+                "width": 669,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "74333"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74333_d99eeb479e9ff2f8_z.jpg",
+                "width": 418,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "74333"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74333_d99eeb479e9ff2f8_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "74333"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74333_d99eeb479e9ff2f8_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "74333"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74333_d99eeb479e9ff2f8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "74333"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74334_024b5f061d65b08c_b.jpg",
+                "width": 402,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "74334"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74334_024b5f061d65b08c_z.jpg",
+                "width": 251,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "74334"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74334_024b5f061d65b08c_n.jpg",
+                "width": 126,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "74334"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74334_024b5f061d65b08c_d.gif",
+                "width": 126,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "74334"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74334_024b5f061d65b08c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "74334"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1920\u201330.\n1920\u201330. Medium: cotton\nTechnique: screen printed on plain weave. Gift of Bertha Schaefer. 1962-18-3."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#6b7064",
-            "closest_css3":"#696969"
+            "person_id": "18045427",
+            "role_id": "35236655",
+            "person_name": "Josef Hillerbrand",
+            "person_date": "German, 1892 - 1981",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#728e6c",
-            "closest_css3":"#808080"
+            "person_id": "18046325",
+            "role_id": "35236657",
+            "person_name": "Deutsche Werkst\u00e4tten GmbH",
+            "person_date": "Hellerau, Germany, founded 1898",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046325\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#c2cdae",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (Germany), 1920\u201330. Medium: cotton\nTechnique: screen printed on plain weave. \nGift of Bertha Schaefer. 1962-18-3"
+    },
+    "colors": [
+        {
+            "color": "#61675c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#678675",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#c0cba9",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#91a78d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

@@ -1,87 +1,170 @@
 {
-    "id":"18407637",
-    "tms:id":"114009",
-    "accession_number":"1956-170-43",
-    "title":"Sidewall, 1950\u201355",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18407637\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1950\u201355",
-    "year_start":"1950",
-    "year_end":"1955",
-    "year_acquired":"1956",
-    "decade":"1950",
-    "woe:country":"23424829",
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"91 x 56 cm (35 13\/16 x 22 1\/16 in.)",
-    "creditline":"Gift of J. Forg",
-    "description":"Light ground with rough texture. Brown lines forming S-curves and angular spiral forms. Pink, yellow and green splotches and hatchings. Straight repeat, drop match. In margin: \"Lichtbestandig Hosel Tapete 5303\".",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18407637",
+    "tms:id": "114009",
+    "accession_number": "1956-170-43",
+    "title": "Sidewall (Germany), 1950\u201355",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18407637\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1950\u201355",
+    "year_start": 1950,
+    "year_end": 1955,
+    "year_acquired": "1956",
+    "decade": "1950",
+    "woe:country_id": "23424829",
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "91 x 56 cm (35 13\/16 x 22 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "91.00",
+            "centimeters"
+        ],
+        "width": [
+            "56.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of J. Forg",
+    "description": "Light ground with rough texture. Brown lines forming S-curves and angular spiral forms. Pink, yellow and green splotches and hatchings. Straight repeat, drop match. In margin: \"Lichtbestandig Hosel Tapete 5303\".",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5871_46263253f6ca68ad_b.jpg",
-                "width":677,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85016_7a3cd1eeb29cd499_b.jpg",
+                "width": 677,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "85016"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5871_46263253f6ca68ad_n.jpg",
-                "width":212,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85016_7a3cd1eeb29cd499_z.jpg",
+                "width": 423,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "85016"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/5871_46263253f6ca68ad_z.jpg",
-                "width":423,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85016_7a3cd1eeb29cd499_n.jpg",
+                "width": 212,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85016"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85016_7a3cd1eeb29cd499_d.gif",
+                "width": 212,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85016"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85016_7a3cd1eeb29cd499_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "85016"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5871_46263253f6ca68ad_b.jpg",
+                "width": 677,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "5871"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5871_46263253f6ca68ad_z.jpg",
+                "width": 423,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "5871"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5871_46263253f6ca68ad_n.jpg",
+                "width": 212,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "5871"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5871_46263253f6ca68ad_d.gif",
+                "width": 212,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "5871"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/5871_46263253f6ca68ad_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "5871"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18047133",
-            "role_id":"35236657",
-            "person_name":"Hosel Tapeten",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047133\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18058909",
+            "role_id": "35351535",
+            "person_name": "Mr. J. Forg",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058909\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18048035",
+            "role_id": "35352245",
+            "person_name": "Hedy Backlin-Landman",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048035\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18047133",
+            "role_id": "35236657",
+            "person_name": "Hosel Tapeten",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047133\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1950\u201355.\n1950\u201355. Machine-printed. Gift of J. Forg. 1956-170-43."
+    "tombstone": {
+        "epitaph": "Sidewall (Germany), 1950\u201355. Machine-printed. \nGift of J. Forg. 1956-170-43"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b9ccd2",
-            "closest_css3":"#b0c4de"
+            "color": "#c6baa7",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#90a3aa",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#768083",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#d6f9fa",
-            "closest_css3":"#e0ffff"
-        },
-        {
-            "color":"#71636b",
-            "closest_css3":"#696969"
+            "color": "#99856a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

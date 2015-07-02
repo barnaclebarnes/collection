@@ -1,80 +1,160 @@
 {
-    "id":"18623293",
-    "tms:id":"186483",
-    "accession_number":"1987-97-3",
-    "title":"Cane",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18623293\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402729",
-    "type_id":"35270645",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1987",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Mahogany",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 92.8 x 3.9 cm (36 9\/16 x 1 9\/16 in.)",
-    "creditline":"Gift of John B. Scholz in memory of Walter Scholz",
-    "description":"A dark mahogany cane with a metal and cream colored end piece.",
-    "justification":null,
-    "type":{
-        "id":"35270645",
-        "name":"Cane"
+    "id": "18623293",
+    "tms:id": "186483",
+    "accession_number": "1987-97-3",
+    "title": "Cane (USA), ca. 1980",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18623293\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51680779",
+    "type_id": "35270645",
+    "date": "ca. 1980",
+    "year_start": 1975,
+    "year_end": 1985,
+    "year_acquired": "1987",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Mahogany (turned rosewood?), inlaid japsper, silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "John B. Scholz; 1987: acquired by Museum",
+    "dimensions": "H x diam.: 92.8 x 3.9 cm (36 9\/16 x 1 9\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "3.90",
+            "centimeters"
+        ],
+        "height": [
+            "92.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of John B. Scholz in memory of Walter Scholz",
+    "description": "A dark wooden cane with a metal and cream colored end piece.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Cane",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10527_b691c0f7701f0ce7_b.jpg",
-                "width":702,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106575_673ae24e6815b50b_b.jpg",
+                "width": 1024,
+                "height": 309,
+                "is_primary": "1",
+                "image_id": "106575"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10527_b691c0f7701f0ce7_n.jpg",
-                "width":220,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106575_673ae24e6815b50b_z.jpg",
+                "width": 640,
+                "height": 193,
+                "is_primary": "1",
+                "image_id": "106575"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10527_b691c0f7701f0ce7_z.jpg",
-                "width":439,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106575_673ae24e6815b50b_n.jpg",
+                "width": 320,
+                "height": 97,
+                "is_primary": "1",
+                "image_id": "106575"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106575_673ae24e6815b50b_d.gif",
+                "width": 320,
+                "height": 97,
+                "is_primary": "1",
+                "image_id": "106575"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106575_673ae24e6815b50b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106575"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10527_b691c0f7701f0ce7_b.jpg",
+                "width": 702,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10527"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10527_b691c0f7701f0ce7_z.jpg",
+                "width": 439,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10527"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10527_b691c0f7701f0ce7_n.jpg",
+                "width": 220,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10527"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10527_b691c0f7701f0ce7_d.gif",
+                "width": 220,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10527"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10527_b691c0f7701f0ce7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10527"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Cane.\nMahogany. Gift of John B. Scholz in memory of Walter Scholz. 1987-97-3."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#7c5c25",
-            "closest_css3":"#8b4513"
+            "person_id": "51679625",
+            "role_id": "35236685",
+            "person_name": "Tom O'Donovan",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51679625\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         },
         {
-            "color":"#9e998a",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#424035",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#2f1e15",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#5e3e1e",
-            "closest_css3":"#8b4513"
+            "person_id": "18537893",
+            "role_id": "35351535",
+            "person_name": "John B. Scholz",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537893\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Cane (USA), ca. 1980. Mahogany (turned rosewood?), inlaid japsper, silver. \nGift of John B. Scholz in memory of Walter Scholz. 1987-97-3"
+    },
+    "colors": [
+        {
+            "color": "#423028",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#635752",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

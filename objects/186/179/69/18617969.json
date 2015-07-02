@@ -1,49 +1,119 @@
 {
-    "id":"18617969",
-    "tms:id":"177518",
-    "accession_number":"1981-29-419",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617969\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617969",
+    "tms:id": "177518",
+    "accession_number": "1981-29-419",
+    "title": "Poster, The Lone Eagle, 1976",
+    "title_raw": "The Lone Eagle",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617969\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1976",
+    "year_start": 1976,
+    "year_end": 1976,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Imprinted in white ink, lower right: Design: Miho. \u00a91976 Smithsonian Institution. Printed in USA.",
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "60.7 x 91.1 cm (23 7\/8 x 35 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "60.70",
+            "centimeters"
+        ],
+        "width": [
+            "91.10",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Various Donors",
+    "description": "On a bright red ground, a black and white image of an aircraft, Spirit of St. Louis. Text in white about Charles Lindbergh.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
         {
-            "person_id":"18042305",
-            "role_id":"35236655",
-            "person_name":"James Miho",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042305\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81917_f840a18c735aea27_b.jpg",
+                "width": 1024,
+                "height": 683,
+                "is_primary": "1",
+                "image_id": "81917"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81917_f840a18c735aea27_z.jpg",
+                "width": 640,
+                "height": 427,
+                "is_primary": "1",
+                "image_id": "81917"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81917_f840a18c735aea27_n.jpg",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "81917"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81917_f840a18c735aea27_d.gif",
+                "width": 320,
+                "height": 213,
+                "is_primary": "1",
+                "image_id": "81917"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81917_f840a18c735aea27_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81917"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Poster.\nGift of Various Donors. 1981-29-419."
+    "participants": [
+        {
+            "person_id": "18042305",
+            "role_id": "35236655",
+            "person_name": "James Miho",
+            "person_date": "American, b. 1933",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042305\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Poster, The Lone Eagle, 1976. Lithograph on paper. \nGift of Various Donors. 1981-29-419"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#6f6560",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#c48b70",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#743e28",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,49 +1,137 @@
 {
-    "id":"18464149",
-    "tms:id":"142680",
-    "accession_number":"1968-135-20-a,b",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464149\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1968",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Harvey Smith",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18464149",
+    "tms:id": "142680",
+    "accession_number": "1968-135-20-a,b",
+    "title": "Textile",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18464149\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35251739",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1968",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Harvey Smith",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "textile",
+    "images": [
         {
-            "person_id":"18049985",
-            "role_id":"35351535",
-            "person_name":"Harvey Smith",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86847_875a44cec9e18387_b.jpg",
+                "width": null,
+                "height": null,
+                "is_primary": "1",
+                "image_id": "86847"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/86847_875a44cec9e18387_z.jpg",
+                "width": 329,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "86847"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115773_f7b4152849b2f644_b.jpg",
+                "width": 292,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "115773"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115773_f7b4152849b2f644_z.jpg",
+                "width": 183,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "115773"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115773_f7b4152849b2f644_n.jpg",
+                "width": 91,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "115773"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115773_f7b4152849b2f644_d.gif",
+                "width": 91,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "115773"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115773_f7b4152849b2f644_sq.jpg",
+                "width": 292,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "115773"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nGift of Harvey Smith. 1968-135-20-a,b."
+    "participants": [
+        {
+            "person_id": "18049985",
+            "role_id": "35351535",
+            "person_name": "Harvey Smith",
+            "person_date": "1906\u20131994",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile. \nGift of Harvey Smith. 1968-135-20-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d7b3c2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d8bfd8",
+            "closest_css4": "#d8bfd8"
+        },
+        {
+            "color": "#ecd7db",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#a3a765",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#3a3a2c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#737b50",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

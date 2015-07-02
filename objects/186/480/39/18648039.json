@@ -1,80 +1,135 @@
 {
-    "id":"18648039",
-    "tms:id":"198926",
-    "accession_number":"1994-133-1",
-    "title":"Clip, \"Telstar\", ca. 1962",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18648039\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389421",
-    "type_id":"35252025",
-    "date":"ca. 1962",
-    "year_start":"1957",
-    "year_end":"1967",
-    "year_acquired":"1994",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Metal",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"2 diameter x 2.1 cm (13\/16 x 13\/16 in.)",
-    "creditline":"Gift of Russell A. Flinchum in memory of Ray Flinchum",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35252025",
-        "name":"clip"
+    "id": "18648039",
+    "tms:id": "198926",
+    "accession_number": "1994-133-1",
+    "title": "Telstar Clip, ca. 1962",
+    "title_raw": "Telstar",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18648039\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389421",
+    "type_id": "35252025",
+    "date": "ca. 1962",
+    "year_start": 1957,
+    "year_end": 1967,
+    "year_acquired": "1994",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "2 diameter x 2.1 cm (13\/16 x 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "2.00",
+            "centimeters"
+        ],
+        "width": [
+            "2.10",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Russell A. Flinchum in memory of Ray Flinchum",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "clip",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26494_f232bdb429de607c_b.jpg",
-                "width":1024,
-                "height":884,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26494_f232bdb429de607c_b.jpg",
+                "width": 1024,
+                "height": 884,
+                "is_primary": "1",
+                "image_id": "26494"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26494_f232bdb429de607c_n.jpg",
-                "width":320,
-                "height":276,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26494_f232bdb429de607c_z.jpg",
+                "width": 640,
+                "height": 553,
+                "is_primary": "1",
+                "image_id": "26494"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/26494_f232bdb429de607c_z.jpg",
-                "width":640,
-                "height":553,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26494_f232bdb429de607c_n.jpg",
+                "width": 320,
+                "height": 276,
+                "is_primary": "1",
+                "image_id": "26494"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26494_f232bdb429de607c_d.gif",
+                "width": 320,
+                "height": 276,
+                "is_primary": "1",
+                "image_id": "26494"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/26494_f232bdb429de607c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "26494"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Clip, \"Telstar\", ca. 1962.\nca. 1962. Metal. Gift of Russell A. Flinchum in memory of Ray Flinchum. 1994-133-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#645f59",
-            "closest_css3":"#696969"
+            "person_id": "18041699",
+            "role_id": "35351535",
+            "person_name": "Russell Flinchum",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041699\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#44423c",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#20242d",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#949083",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#cbd4ee",
-            "closest_css3":"#dcdcdc"
+            "person_id": "18048765",
+            "role_id": "35352245",
+            "person_name": "Cynthia Trope",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048765\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Telstar Clip, ca. 1962. Metal. \nGift of Russell A. Flinchum in memory of Ray Flinchum. 1994-133-1"
+    },
+    "colors": [
+        {
+            "color": "#575141",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#706f69",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#949083",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#ccd6f4",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

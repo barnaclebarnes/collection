@@ -1,107 +1,229 @@
 {
-    "id":"18679465",
-    "tms:id":"215205",
-    "accession_number":"1999-57-65",
-    "title":"Trivet, ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18679465\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35264341",
-    "date":"ca. 1930",
-    "year_start":"1925",
-    "year_end":"1935",
-    "year_acquired":"1999",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"2.2h x 14.6w x 14.5d cm (7\/8 x 5 3\/4 x 5 11\/16 in. )",
-    "creditline":"Gift of Victor Wiener",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35264341",
-        "name":"trivet"
+    "id": "18679465",
+    "tms:id": "215205",
+    "accession_number": "1999-57-65",
+    "title": "Trivet (Germany), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18679465\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35264341",
+    "date": "ca. 1930",
+    "year_start": 1925,
+    "year_end": 1935,
+    "year_acquired": "1999",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Victor Wiener; 1999: acquired by Museum",
+    "dimensions": "H x W x D: 2.2 x 14.6 x 14.5cm (7\/8 x 5 3\/4 x 5 11\/16in.)",
+    "dimensions_raw": {
+        "depth": [
+            "14.50",
+            "centimeters"
+        ],
+        "height": [
+            "2.20",
+            "centimeters"
+        ],
+        "width": [
+            "14.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Victor Wiener",
+    "description": "Trivet raised on four feet, white with red, blue and yellow geometric shapes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "trivet",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14170_339d229508b349ce_b.jpg",
-                "width":1024,
-                "height":804,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110001_025d6cebb6f7f486_b.jpg",
+                "width": 1024,
+                "height": 774,
+                "is_primary": "1",
+                "image_id": "110001"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14170_339d229508b349ce_n.jpg",
-                "width":320,
-                "height":251,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110001_025d6cebb6f7f486_z.jpg",
+                "width": 640,
+                "height": 484,
+                "is_primary": "1",
+                "image_id": "110001"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14170_339d229508b349ce_z.jpg",
-                "width":640,
-                "height":503,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110001_025d6cebb6f7f486_n.jpg",
+                "width": 320,
+                "height": 242,
+                "is_primary": "1",
+                "image_id": "110001"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110001_025d6cebb6f7f486_d.gif",
+                "width": 320,
+                "height": 242,
+                "is_primary": "1",
+                "image_id": "110001"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110001_025d6cebb6f7f486_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110001"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14169_3368d39e2d2b5b73_b.jpg",
-                "width":882,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14170_339d229508b349ce_b.jpg",
+                "width": 1024,
+                "height": 804,
+                "is_primary": "0",
+                "image_id": "14170"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14169_3368d39e2d2b5b73_n.jpg",
-                "width":276,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14170_339d229508b349ce_z.jpg",
+                "width": 640,
+                "height": 503,
+                "is_primary": "0",
+                "image_id": "14170"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14169_3368d39e2d2b5b73_z.jpg",
-                "width":551,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14170_339d229508b349ce_n.jpg",
+                "width": 320,
+                "height": 251,
+                "is_primary": "0",
+                "image_id": "14170"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14170_339d229508b349ce_d.gif",
+                "width": 320,
+                "height": 251,
+                "is_primary": "0",
+                "image_id": "14170"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14170_339d229508b349ce_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14170"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14169_3368d39e2d2b5b73_b.jpg",
+                "width": 882,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "14169"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14169_3368d39e2d2b5b73_z.jpg",
+                "width": 551,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "14169"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14169_3368d39e2d2b5b73_n.jpg",
+                "width": 276,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "14169"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14169_3368d39e2d2b5b73_d.gif",
+                "width": 276,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "14169"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14169_3368d39e2d2b5b73_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14169"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049133",
-            "role_id":"35236657",
-            "person_name":"Schramberg",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049133\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18043295",
+            "role_id": "35236711",
+            "person_name": "Eva Zeisel",
+            "person_date": "American, b. Hungary, 1906\u20132011",
+            "role_name": "Attributed to",
+            "role_display_name": "Attributed to",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043295\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236711\/"
+        },
+        {
+            "person_id": "18049133",
+            "role_id": "35236657",
+            "person_name": "Schramberg",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049133\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18041855",
+            "role_id": "35351535",
+            "person_name": "Victor Wiener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Trivet, ca. 1930.\nca. 1930. Glazed earthenware. Gift of Victor Wiener. 1999-57-65."
+    "tombstone": {
+        "epitaph": "Trivet (Germany), ca. 1930. Glazed earthenware. \nGift of Victor Wiener. 1999-57-65"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d3d0e3",
-            "closest_css3":"#d3d3d3"
+            "color": "#cd946a",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#e9967a",
+            "closest_css4": "#e9967a"
         },
         {
-            "color":"#ae452a",
-            "closest_css3":"#a0522d"
+            "color": "#f7e279",
+            "closest_crayola": "#fcd975",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
         },
         {
-            "color":"#dfbb3f",
-            "closest_css3":"#daa520"
+            "color": "#837b89",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#072977",
-            "closest_css3":"#191970"
+            "color": "#62605d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#e7d1bc",
-            "closest_css3":"#f5deb3"
+            "color": "#cbaf94",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

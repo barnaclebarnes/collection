@@ -1,42 +1,110 @@
 {
-    "id":"18312065",
-    "tms:id":"41923",
-    "accession_number":"1926-22-149-a,b",
-    "title":"Cover",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18312065\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35237165",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1926",
-    "decade":null,
-    "woe:country":null,
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"8 x 8.5 x 7.5 cm (3 1\/8 x 3 3\/8 x 2 15\/16 in.)",
-    "creditline":"Bequest of Mrs. John Innes Kane",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237165",
-        "name":"Cover"
+    "id": "18312065",
+    "tms:id": "41923",
+    "accession_number": "1926-22-149-a,b",
+    "title": "Cover",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18312065\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35237165",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1926",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "8 x 8.5 x 7.5 cm (3 1\/8 x 3 3\/8 x 2 15\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "7.50",
+            "centimeters"
+        ],
+        "height": [
+            "8.00",
+            "centimeters"
+        ],
+        "width": [
+            "8.50",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Mrs. John Innes Kane",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108118_817680d0fac85eeb_b.jpg",
+                "width": 1024,
+                "height": 860,
+                "is_primary": "1",
+                "image_id": "108118"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108118_817680d0fac85eeb_z.jpg",
+                "width": 640,
+                "height": 537,
+                "is_primary": "1",
+                "image_id": "108118"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108118_817680d0fac85eeb_n.jpg",
+                "width": 320,
+                "height": 269,
+                "is_primary": "1",
+                "image_id": "108118"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108118_817680d0fac85eeb_d.gif",
+                "width": 320,
+                "height": 269,
+                "is_primary": "1",
+                "image_id": "108118"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108118_817680d0fac85eeb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108118"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049373",
+            "role_id": "35351537",
+            "person_name": "Mrs. John Innes Kane",
+            "person_date": "American, d. 1926",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049373\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Cover.\nporcelain. Bequest of Mrs. John Innes Kane. 1926-22-149-a,b."
+    "tombstone": {
+        "epitaph": "Cover. porcelain. \nBequest of Mrs. John Innes Kane. 1926-22-149-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a79e87",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "is_loan_object": 0
 }

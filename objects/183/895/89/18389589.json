@@ -1,42 +1,123 @@
 {
-    "id":"18389589",
-    "tms:id":"104939",
-    "accession_number":"1951-84-62",
-    "title":"Door Knocker",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18389589\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35390047",
-    "type_id":"35267555",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1951",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"bronze",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 31 x 21 x 7 cm (12 3\/16 x 8 1\/4 x 2 3\/4 in.)",
-    "creditline":"Gift of the Estate of David Wolfe Bishop",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35267555",
-        "name":"door knocker"
+    "id": "18389589",
+    "tms:id": "104939",
+    "accession_number": "1951-84-62",
+    "title": "Door Knocker (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18389589\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35390047",
+    "type_id": "35267555",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1951",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "bronze",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 31 x 21 x 7 cm (12 3\/16 x 8 1\/4 x 2 3\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "7.00",
+            "centimeters"
+        ],
+        "height": [
+            "31.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of the Estate of David Wolfe Bishop",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "door knocker",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103719_4498cb41c44a1275_b.jpg",
+                "width": 1024,
+                "height": 921,
+                "is_primary": "1",
+                "image_id": "103719"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103719_4498cb41c44a1275_z.jpg",
+                "width": 640,
+                "height": 576,
+                "is_primary": "1",
+                "image_id": "103719"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103719_4498cb41c44a1275_n.jpg",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "103719"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103719_4498cb41c44a1275_d.gif",
+                "width": 320,
+                "height": 288,
+                "is_primary": "1",
+                "image_id": "103719"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103719_4498cb41c44a1275_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103719"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052847",
+            "role_id": "35351535",
+            "person_name": "Estate of David Wolfe Bishop",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052847\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Door Knocker.\nbronze. Gift of the Estate of David Wolfe Bishop. 1951-84-62."
+    "tombstone": {
+        "epitaph": "Door Knocker (Italy). bronze. \nGift of the Estate of David Wolfe Bishop. 1951-84-62"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#58524a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#2d251e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#83817b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

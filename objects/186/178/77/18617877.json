@@ -1,39 +1,131 @@
 {
-    "id":"18617877",
-    "tms:id":"177472",
-    "accession_number":"1981-29-378",
-    "title":"Poster\/calendar, \"A Hole In One\", 1980",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617877\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35293425",
-    "date":"1980",
-    "year_start":"1980",
-    "year_end":"1980",
-    "year_acquired":"1981",
-    "decade":"1980",
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35293425",
-        "name":"poster\/calendar"
+    "id": "18617877",
+    "tms:id": "177472",
+    "accession_number": "1981-29-378",
+    "title": "Poster, A Hole In One, 1980",
+    "title_raw": "A Hole In One",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617877\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35419317",
+    "type_id": "35238163",
+    "date": "1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "year_acquired": "1981",
+    "decade": "1980",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "68 x 148 cm (26 3\/4 x 58 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "68.00",
+            "centimeters"
+        ],
+        "width": [
+            "148.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Various Donors",
+    "description": "Horizontal calendar with image of a park filled with people, trees, houses, a fountain. Below are the months of the year. Lower left, in green: A Hole in One \/ A lot of things can happen between the tee and the hole.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88927_1c5d0a3d295cc615_b.jpg",
+                "width": 1024,
+                "height": 473,
+                "is_primary": "1",
+                "image_id": "88927"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88927_1c5d0a3d295cc615_z.jpg",
+                "width": 640,
+                "height": 296,
+                "is_primary": "1",
+                "image_id": "88927"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88927_1c5d0a3d295cc615_n.jpg",
+                "width": 320,
+                "height": 148,
+                "is_primary": "1",
+                "image_id": "88927"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88927_1c5d0a3d295cc615_d.gif",
+                "width": 320,
+                "height": 148,
+                "is_primary": "1",
+                "image_id": "88927"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88927_1c5d0a3d295cc615_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88927"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18535551",
+            "role_id": "35236655",
+            "person_name": "Lou Dorfsman",
+            "person_date": "American, 1918 - 2008",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18535551\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, A Hole In One, 1980. Lithograph on paper. \nGift of Various Donors. 1981-29-378"
+    },
+    "colors": [
+        {
+            "color": "#c8d886",
+            "closest_crayola": "#c5e384",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#97ae64",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#c1d7d2",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#76895a",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#8dab89",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

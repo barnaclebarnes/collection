@@ -1,64 +1,135 @@
 {
-    "id":"18128119",
-    "tms:id":"10898",
-    "accession_number":"1901-39-728",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18128119\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18128119",
+    "tms:id": "10898",
+    "accession_number": "1901-39-728",
+    "title": "Drawing, Design for a tarsia: Minerva standing under an arch, 1590\u20131610",
+    "title_raw": "Design for a tarsia: Minerva standing under an arch",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18128119\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35414555",
+    "type_id": "35237093",
+    "date": "1590\u20131610",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Red chalk on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Giovanni Piacastelli; 1901: acquired by Museum",
+    "dimensions": "14.4 x 6.3 cm (5 11\/16 x 2 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "14.40",
+            "centimeters"
+        ],
+        "width": [
+            "6.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "The statue and the right of the ornamentation is shown. The architecture is of stone. A canopy hangs over the statue. A putto holds the ends of a bowknot to which a trophy is fastened, in front of the pilaster. The lower right part of the framing of an ovoid is shown over the arch.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/775_1f65953b1d041ea4_b.jpg",
-                "width":472,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66262_0fbdceebbc1d63f6_b.jpg",
+                "width": 438,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "66262"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/775_1f65953b1d041ea4_n.jpg",
-                "width":147,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66262_0fbdceebbc1d63f6_z.jpg",
+                "width": 274,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "66262"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/775_1f65953b1d041ea4_z.jpg",
-                "width":295,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66262_0fbdceebbc1d63f6_n.jpg",
+                "width": 137,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66262"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66262_0fbdceebbc1d63f6_d.gif",
+                "width": 137,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66262"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66262_0fbdceebbc1d63f6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66262"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/775_1f65953b1d041ea4_b.jpg",
+                "width": 472,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "775"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/775_1f65953b1d041ea4_z.jpg",
+                "width": 295,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "775"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/775_1f65953b1d041ea4_n.jpg",
+                "width": 147,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "775"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/775_1f65953b1d041ea4_d.gif",
+                "width": 147,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "775"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/775_1f65953b1d041ea4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "775"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of various donors. 1901-39-728."
+    "tombstone": {
+        "epitaph": "Drawing, Design for a tarsia: Minerva standing under an arch, 1590\u20131610. Red chalk on paper. \nMuseum purchase through gift of various donors. 1901-39-728"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d79c8a",
-            "closest_css3":"#d2b48c"
+            "color": "#c0a97b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

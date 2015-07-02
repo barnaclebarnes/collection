@@ -1,71 +1,127 @@
 {
-    "id":"18448825",
-    "tms:id":"134928",
-    "accession_number":"1963-39-776",
-    "title":"Drawing, \"Classical Head\", ca. 1938",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18448825\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"51496687",
-    "type_id":"35237093",
-    "date":"ca. 1938",
-    "year_start":"1933",
-    "year_end":"1943",
-    "year_acquired":"1963",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Graphite on thin white paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"16.5 x 14.8 cm (6 1\/2 x 5 13\/16 in.)",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"Outline sketch of an Archaic Greek head of \u201cApollo\u201d in three-quarter profile; the hair edged in ripples.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18448825",
+    "tms:id": "134928",
+    "accession_number": "1963-39-776",
+    "title": "Drawing, Classical Head, ca. 1938",
+    "title_raw": "Classical Head",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18448825\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "51496687",
+    "type_id": "35237093",
+    "date": "ca. 1938",
+    "year_start": 1933,
+    "year_end": 1943,
+    "year_acquired": "1963",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Graphite on thin white paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer",
+    "dimensions": "16.5 x 14.8 cm (6 1\/2 x 5 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "16.50",
+            "centimeters"
+        ],
+        "width": [
+            "14.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Outline sketch of an Archaic Greek head of \u201cApollo\u201d in three-quarter profile; the hair edged in ripples.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55068_327323338dbb7b5d_b.jpg",
-                "width":925,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55068_fd499e821782aaca_b.jpg",
+                "width": 920,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "55068"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55068_327323338dbb7b5d_n.jpg",
-                "width":289,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55068_fd499e821782aaca_z.jpg",
+                "width": 575,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "55068"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/55068_327323338dbb7b5d_z.jpg",
-                "width":578,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55068_fd499e821782aaca_n.jpg",
+                "width": 288,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "55068"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55068_fd499e821782aaca_d.gif",
+                "width": 288,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "55068"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/55068_fd499e821782aaca_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "55068"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Classical Head\", ca. 1938.\nca. 1938. Graphite on thin white paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-776."
+    "tombstone": {
+        "epitaph": "Drawing, Classical Head, ca. 1938. Graphite on thin white paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-776"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bab39e",
-            "closest_css3":"#a9a9a9"
+            "color": "#a9a791",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

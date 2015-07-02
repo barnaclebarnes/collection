@@ -1,80 +1,180 @@
 {
-    "id":"18475695",
-    "tms:id":"148612",
-    "accession_number":"1971-92-2",
-    "title":"Stapler, \"Juwel Elastic Stapler\", ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18475695\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371487",
-    "type_id":"35292531",
-    "date":"ca. 1930",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1971",
-    "decade":"1920",
-    "woe:country":"23424977",
-    "medium":"Metal, enamel",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"1.1 x 14.6 x 6.7 cm (7\/16 x 5 3\/4 x 2 5\/8 in.)",
-    "creditline":"Gift of Rodman A. Heeren",
-    "description":"Narrow, rectilinear stapler with curved hand grips; sides decorated with overall geometric black and white enameled pattern.",
-    "justification":null,
-    "type":{
-        "id":"35292531",
-        "name":"Stapler"
+    "id": "18475695",
+    "tms:id": "148612",
+    "accession_number": "1971-92-2",
+    "title": "Juwel Stapler, ca. 1935",
+    "title_raw": "Juwel",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18475695\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "69119335",
+    "type_id": "35292531",
+    "date": "ca. 1935",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1971",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Enamelled metal",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Rodman A. Heeren; 1971: acquired by Museum",
+    "dimensions": "1.1 x 14.6 x 6.7 cm (7\/16 x 5 3\/4 x 2 5\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.70",
+            "centimeters"
+        ],
+        "height": [
+            "1.10",
+            "centimeters"
+        ],
+        "width": [
+            "14.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Rodman A. Heeren",
+    "description": "Narrow, rectilinear stapler with curved hand grips; sides decorated with overall geometric black and white enameled pattern.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Stapler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18850_e86650eef9cc0530_b.jpg",
-                "width":548,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93421_b73151b1050c2e1a_b.jpg",
+                "width": 604,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93421"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18850_e86650eef9cc0530_n.jpg",
-                "width":171,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93421_b73151b1050c2e1a_z.jpg",
+                "width": 377,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93421"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18850_e86650eef9cc0530_z.jpg",
-                "width":342,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93421_b73151b1050c2e1a_n.jpg",
+                "width": 189,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93421"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93421_b73151b1050c2e1a_d.gif",
+                "width": 189,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93421"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93421_b73151b1050c2e1a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93421"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18850_e86650eef9cc0530_b.jpg",
+                "width": 548,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "18850"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18850_e86650eef9cc0530_z.jpg",
+                "width": 342,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "18850"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18850_e86650eef9cc0530_n.jpg",
+                "width": 171,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18850"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18850_e86650eef9cc0530_d.gif",
+                "width": 171,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "18850"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18850_e86650eef9cc0530_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18850"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Stapler, \"Juwel Elastic Stapler\", ca. 1930.\nca. 1930. Metal, enamel. Gift of Rodman A. Heeren. 1971-92-2."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#a29696",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18053075",
+            "role_id": "35351535",
+            "person_name": "Rodman A. Heeren",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053075\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#c4bac0",
-            "closest_css3":"#c0c0c0"
+            "person_id": "69118549",
+            "role_id": "35236625",
+            "person_name": "Fridolin Polzer",
+            "person_date": "American, born Austria, 1878 - 1962",
+            "role_name": "Patentee",
+            "role_display_name": "Patentee:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/69118549\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236625\/"
         },
         {
-            "color":"#625c60",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#83797b",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#312c27",
-            "closest_css3":"#2f4f4f"
+            "person_id": "69118545",
+            "role_id": "35236657",
+            "person_name": "Elastic GmbH",
+            "person_date": "German",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/69118545\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Juwel Stapler, ca. 1935. Enamelled metal. \nGift of Rodman A. Heeren. 1971-92-2"
+    },
+    "colors": [
+        {
+            "color": "#b5aea0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#746958",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#90897f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

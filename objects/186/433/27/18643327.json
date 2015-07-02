@@ -1,80 +1,170 @@
 {
-    "id":"18643327",
-    "tms:id":"196530",
-    "accession_number":"1993-121-30",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643327\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"143991",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1993",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Technique: machine woven fabric, plain weave with floats",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 358.1 x 114.3 cm (11 ft. 9 in. x 45 in.)",
-    "creditline":"Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives",
-    "description":"Woven with short floats for texture, tan and black warp with tan and black weft.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18643327",
+    "tms:id": "196530",
+    "accession_number": "1993-121-30",
+    "title": "Textile (USA), mid-20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18643327\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "143991",
+    "type_id": "35251739",
+    "date": "mid-20th century",
+    "year_start": 1940,
+    "year_end": 1960,
+    "year_acquired": "1993",
+    "decade": "1940",
+    "woe:country_id": "23424977",
+    "medium": "Medium: \nTechnique: machine woven fabric, plain weave with floats",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Eric and Sylvia Elsesser; 1993: acquired by Museum",
+    "dimensions": "Warp x Weft: 358.1 x 114.3 cm (11 ft. 9 in. x 45 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "358.14",
+            "centimeters"
+        ],
+        "weft": [
+            "114.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives",
+    "description": "Woven with short floats for texture, tan and black warp with tan and black weft.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38446_c7b55b8f9d48aa78_b.jpg",
-                "width":1024,
-                "height":691,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111559_3c3a471b6c5284ae_b.jpg",
+                "width": 1024,
+                "height": 900,
+                "is_primary": "1",
+                "image_id": "111559"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38446_c7b55b8f9d48aa78_n.jpg",
-                "width":320,
-                "height":216,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111559_3c3a471b6c5284ae_z.jpg",
+                "width": 640,
+                "height": 563,
+                "is_primary": "1",
+                "image_id": "111559"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38446_c7b55b8f9d48aa78_z.jpg",
-                "width":640,
-                "height":432,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111559_3c3a471b6c5284ae_n.jpg",
+                "width": 320,
+                "height": 281,
+                "is_primary": "1",
+                "image_id": "111559"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111559_3c3a471b6c5284ae_d.gif",
+                "width": 320,
+                "height": 281,
+                "is_primary": "1",
+                "image_id": "111559"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111559_3c3a471b6c5284ae_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111559"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38446_c7b55b8f9d48aa78_b.jpg",
+                "width": 1024,
+                "height": 691,
+                "is_primary": "0",
+                "image_id": "38446"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38446_c7b55b8f9d48aa78_z.jpg",
+                "width": 640,
+                "height": 432,
+                "is_primary": "0",
+                "image_id": "38446"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38446_c7b55b8f9d48aa78_n.jpg",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "38446"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38446_c7b55b8f9d48aa78_d.gif",
+                "width": 320,
+                "height": 216,
+                "is_primary": "0",
+                "image_id": "38446"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38446_c7b55b8f9d48aa78_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "38446"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: machine woven fabric, plain weave with floats. Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives. 1993-121-30."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#ddd3c1",
-            "closest_css3":"#d3d3d3"
+            "person_id": "18041457",
+            "role_id": "35351535",
+            "person_name": "Eric and Sylvia Elsesser",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#aca49c",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18047457",
+            "role_id": "35352245",
+            "person_name": "Barbara Duggan",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#e8d1ce",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#89837e",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#715d5d",
-            "closest_css3":"#696969"
+            "person_id": "18046169",
+            "role_id": "35236655",
+            "person_name": "Trude Guermonprez",
+            "person_date": "American, b. Germany, 1910\u20131976",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046169\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (USA), mid-20th century. Medium: \nTechnique: machine woven fabric, plain weave with floats. \nGift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives. 1993-121-30"
+    },
+    "colors": [
+        {
+            "color": "#8e897e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#756f67",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

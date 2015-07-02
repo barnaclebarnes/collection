@@ -1,80 +1,129 @@
 {
-    "id":"18173623",
-    "tms:id":"18761",
-    "accession_number":"1911-7-1",
-    "title":"Fragment, 1820\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18173623\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35254623",
-    "date":"1820\u201330",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1911",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: cotton\nTechnique: roller printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. William D. Frismuth",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
+    "id": "18173623",
+    "tms:id": "18761",
+    "accession_number": "1911-7-1",
+    "title": "Fragment, 1820\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18173623\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35254623",
+    "date": "1820\u201330",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1911",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: cotton\nTechnique: roller printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. William D. Frismuth",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1576_3cd7b58e22ec3405_b.jpg",
-                "width":1024,
-                "height":569,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123848_d4bfa89f77636ae3_b.jpg",
+                "width": 1024,
+                "height": 585,
+                "is_primary": "1",
+                "image_id": "123848"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1576_3cd7b58e22ec3405_n.jpg",
-                "width":320,
-                "height":178,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123848_d4bfa89f77636ae3_z.jpg",
+                "width": 640,
+                "height": 366,
+                "is_primary": "1",
+                "image_id": "123848"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/1576_3cd7b58e22ec3405_z.jpg",
-                "width":640,
-                "height":356,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123848_d4bfa89f77636ae3_n.jpg",
+                "width": 320,
+                "height": 183,
+                "is_primary": "1",
+                "image_id": "123848"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123848_d4bfa89f77636ae3_d.gif",
+                "width": 320,
+                "height": 183,
+                "is_primary": "1",
+                "image_id": "123848"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123848_d4bfa89f77636ae3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123848"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1576_3cd7b58e22ec3405_b.jpg",
+                "width": 1024,
+                "height": 569,
+                "is_primary": "0",
+                "image_id": "1576"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1576_3cd7b58e22ec3405_z.jpg",
+                "width": 640,
+                "height": 356,
+                "is_primary": "0",
+                "image_id": "1576"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1576_3cd7b58e22ec3405_n.jpg",
+                "width": 320,
+                "height": 178,
+                "is_primary": "0",
+                "image_id": "1576"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1576_3cd7b58e22ec3405_d.gif",
+                "width": 320,
+                "height": 178,
+                "is_primary": "0",
+                "image_id": "1576"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/1576_3cd7b58e22ec3405_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "1576"
             }
         }
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18539545",
+            "role_id": "35351535",
+            "person_name": "Mrs. William D. Frismuth",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539545\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment, 1820\u201330. Medium: cotton\nTechnique: roller printed on plain weave. \nGift of Mrs. William D. Frismuth. 1911-7-1"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 1820\u201330.\n1820\u201330. Medium: cotton\nTechnique: roller printed on plain weave. Gift of Mrs. William D. Frismuth. 1911-7-1."
-    },
-    "colors":[
-        {
-            "color":"#836c66",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#999099",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#6a4647",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#b1babe",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#4e232a",
-            "closest_css3":"#2f4f4f"
-        }
-    ]
+    "is_loan_object": 0
 }

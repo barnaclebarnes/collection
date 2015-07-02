@@ -1,87 +1,141 @@
 {
-    "id":"18564411",
-    "tms:id":"75406",
-    "accession_number":"1941-69-91",
-    "title":"Sampler, 1779",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564411\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427169",
-    "type_id":"35256439",
-    "date":"1779",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk embroidery, wool foundation\nTechnique: tent, cross, satin, eyelet and stem stitches on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"H x W: 48.6 x 36.2 cm (19 1\/8 x 14 1\/4 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"In the center, a prayer with flowering sprays on either side; at the top, alphabets and verse; below scene with shepherd and shepherdess and animals on a lawn before a house.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18564411",
+    "tms:id": "75406",
+    "accession_number": "1941-69-91",
+    "title": "Sampler (England), 1779",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564411\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427169",
+    "type_id": "35256439",
+    "date": "1779",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk embroidery, wool foundation\nTechnique: tent, cross, satin, eyelet and stem stitches on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "H x W: 48.6 x 36.2 cm (19 1\/8 x 14 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "48.58",
+            "centimeters"
+        ],
+        "width": [
+            "36.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "In the center, a prayer with flowering sprays on either side; at the top, alphabets and verse; below scene with shepherd and shepherdess and animals on a lawn before a house.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42554_711eed675bf0166c_b.jpg",
-                "width":751,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42554_711eed675bf0166c_b.jpg",
+                "width": 751,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "42554"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42554_711eed675bf0166c_n.jpg",
-                "width":235,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42554_711eed675bf0166c_z.jpg",
+                "width": 469,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "42554"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42554_711eed675bf0166c_z.jpg",
-                "width":469,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42554_711eed675bf0166c_n.jpg",
+                "width": 235,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42554"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42554_711eed675bf0166c_d.gif",
+                "width": 235,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "42554"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42554_711eed675bf0166c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "42554"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18536445",
-            "role_id":"35236583",
-            "person_name":"Jane Yates",
-            "role_name":"Embroiderer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18536445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18536445",
+            "role_id": "35236583",
+            "person_name": "Jane Yates",
+            "person_date": "",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18536445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sampler, 1779.\n1779. Medium: silk embroidery, wool foundation\nTechnique: tent, cross, satin, eyelet and stem stitches on plain weave. Bequest of Mrs. Henry E. Coe. 1941-69-91."
+    "tombstone": {
+        "epitaph": "Sampler (England), 1779. Medium: silk embroidery, wool foundation\nTechnique: tent, cross, satin, eyelet and stem stitches on plain weave. \nBequest of Mrs. Henry E. Coe. 1941-69-91"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#836e46",
-            "closest_css3":"#696969"
+            "color": "#95804f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#333128",
-            "closest_css3":"#2f4f4f"
+            "color": "#7b6741",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#615338",
-            "closest_css3":"#556b2f"
+            "color": "#3e463b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#6c4433",
-            "closest_css3":"#8b4513"
+            "color": "#6d4d36",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#515845",
-            "closest_css3":"#556b2f"
+            "color": "#605f44",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

@@ -1,79 +1,190 @@
 {
-    "id":"18159417",
-    "tms:id":"16262",
-    "accession_number":"1908-26-130",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18159417\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1908",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18159417",
+    "tms:id": "16262",
+    "accession_number": "1908-26-130",
+    "title": "Drawing (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18159417\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1908",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21540_ab97a7d440aec783_b.jpg",
-                "width":396,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101393_72871ac61130f08e_b.jpg",
+                "width": 368,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "101393"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21540_ab97a7d440aec783_n.jpg",
-                "width":124,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101393_72871ac61130f08e_z.jpg",
+                "width": 230,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "101393"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21540_ab97a7d440aec783_z.jpg",
-                "width":247,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101393_72871ac61130f08e_n.jpg",
+                "width": 115,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "101393"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101393_72871ac61130f08e_d.gif",
+                "width": 115,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "101393"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101393_72871ac61130f08e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "101393"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95238_98e65c82793a6474_b.jpg",
+                "width": 362,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95238"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95238_98e65c82793a6474_z.jpg",
+                "width": 226,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95238"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95238_98e65c82793a6474_n.jpg",
+                "width": 113,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95238"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95238_98e65c82793a6474_d.gif",
+                "width": 113,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95238"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95238_98e65c82793a6474_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95238"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21540_ab97a7d440aec783_b.jpg",
+                "width": 396,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "21540"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21540_ab97a7d440aec783_z.jpg",
+                "width": 247,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "21540"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21540_ab97a7d440aec783_n.jpg",
+                "width": 124,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21540"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21540_ab97a7d440aec783_d.gif",
+                "width": 124,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21540"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21540_ab97a7d440aec783_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21540"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nPurchased for the Museum by the Advisory Council. 1908-26-130."
+    "tombstone": {
+        "epitaph": "Drawing (France). \nPurchased for the Museum by the Advisory Council. 1908-26-130"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#96958c",
-            "closest_css3":"#808080"
+            "color": "#9d8f76",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#2c3031",
-            "closest_css3":"#2f4f4f"
+            "color": "#f2efd7",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#f5f5dc",
+            "closest_css4": "#f5f5dc"
         },
         {
-            "color":"#483536",
-            "closest_css3":"#2f4f4f"
+            "color": "#7b725f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#514a41",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,75 +1,228 @@
 {
-    "id":"18383213",
-    "tms:id":"101730",
-    "accession_number":"1949-91-5",
-    "title":"Napkin, 1910",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383213\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35256421",
-    "date":"1910",
-    "year_start":"1910",
-    "year_end":"1910",
-    "year_acquired":"1949",
-    "decade":"1910",
-    "woe:country":"23424819",
-    "medium":"Medium: linen\nTechnique: cutwork with needle lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 71.5 x 68.5 cm (28 1\/8 x 26 15\/16 in.)",
-    "creditline":"Gift of Madame Hector Guimard",
-    "description":"Cream-colored napkin or tea cloth embroidered with initials and ornamented with cutwork and lace.",
-    "justification":null,
-    "type":{
-        "id":"35256421",
-        "name":"Napkin"
+    "id": "18383213",
+    "tms:id": "101730",
+    "accession_number": "1949-91-5",
+    "title": "Napkin (France), 1910",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18383213\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35256421",
+    "date": "1910",
+    "year_start": 1910,
+    "year_end": 1910,
+    "year_acquired": "1949",
+    "decade": "1910",
+    "woe:country_id": "23424819",
+    "medium": "Medium: linen\nTechnique: cutwork with needle lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 71.5 x 68.5 cm (28 1\/8 x 26 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "71.50",
+            "centimeters"
+        ],
+        "width": [
+            "68.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Madame Hector Guimard",
+    "description": "Cream-colored napkin or tea cloth embroidered with initials and ornamented with cutwork and lace.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Napkin",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47230_e76558b70f1f7980_b.jpg",
-                "width":1008,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47230_95f5052e86990c82_b.jpg",
+                "width": 1024,
+                "height": 931,
+                "is_primary": "1",
+                "image_id": "47230"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47230_e76558b70f1f7980_n.jpg",
-                "width":315,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47230_95f5052e86990c82_z.jpg",
+                "width": 640,
+                "height": 582,
+                "is_primary": "1",
+                "image_id": "47230"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/47230_e76558b70f1f7980_z.jpg",
-                "width":630,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47230_95f5052e86990c82_n.jpg",
+                "width": 320,
+                "height": 291,
+                "is_primary": "1",
+                "image_id": "47230"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47230_95f5052e86990c82_d.gif",
+                "width": 320,
+                "height": 291,
+                "is_primary": "1",
+                "image_id": "47230"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/47230_95f5052e86990c82_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "47230"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122402_6f76a644dc5c3901_b.jpg",
+                "width": 1024,
+                "height": 998,
+                "is_primary": "0",
+                "image_id": "122402"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122402_6f76a644dc5c3901_z.jpg",
+                "width": 640,
+                "height": 623,
+                "is_primary": "0",
+                "image_id": "122402"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122402_6f76a644dc5c3901_n.jpg",
+                "width": 320,
+                "height": 312,
+                "is_primary": "0",
+                "image_id": "122402"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122402_6f76a644dc5c3901_d.gif",
+                "width": 320,
+                "height": 312,
+                "is_primary": "0",
+                "image_id": "122402"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122402_6f76a644dc5c3901_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "122402"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72370_04c8572b007b117f_b.jpg",
+                "width": 1024,
+                "height": 1001,
+                "is_primary": "0",
+                "image_id": "72370"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72370_04c8572b007b117f_z.jpg",
+                "width": 640,
+                "height": 626,
+                "is_primary": "0",
+                "image_id": "72370"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72370_04c8572b007b117f_n.jpg",
+                "width": 320,
+                "height": 313,
+                "is_primary": "0",
+                "image_id": "72370"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72370_04c8572b007b117f_d.gif",
+                "width": 320,
+                "height": 313,
+                "is_primary": "0",
+                "image_id": "72370"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72370_04c8572b007b117f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "72370"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72371_d1c7602f9053a85c_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "72371"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72371_d1c7602f9053a85c_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "72371"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72371_d1c7602f9053a85c_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "72371"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72371_d1c7602f9053a85c_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "72371"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72371_d1c7602f9053a85c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "72371"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042569",
-            "role_id":"35236655",
-            "person_name":"Hector Guimard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042569\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
-        }
-    ],
-    "tombstone":{
-        "epitaph":"Napkin, 1910.\n1910. Medium: linen\nTechnique: cutwork with needle lace. Gift of Madame Hector Guimard. 1949-91-5."
-    },
-    "colors":[
-        {
-            "color":"#9a928f",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18538779",
+            "role_id": "35351535",
+            "person_name": "Mme. Hector Guimard",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538779\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#564e4a",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18042569",
+            "role_id": "35236655",
+            "person_name": "Hector Guimard",
+            "person_date": "French, 1867\u20131942, active Paris, France, 1885\u20131929",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042569\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Napkin (France), 1910. Medium: linen\nTechnique: cutwork with needle lace. \nGift of Madame Hector Guimard. 1949-91-5"
+    },
+    "colors": [
+        {
+            "color": "#3a3936",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

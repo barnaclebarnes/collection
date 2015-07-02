@@ -1,80 +1,170 @@
 {
-    "id":"18481923",
-    "tms:id":"151818",
-    "accession_number":"1973-51-99",
-    "title":"Textile, late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481923\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1973",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: block printed on plain weave with a resist medium; then immersion dyed in blue",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Martin scrapbook",
-    "dimensions":"Warp x Weft: 61 x 42 cm (24 x 16 9\/16 in.)\nRepeat H: 58.1 cm (22 7\/8 in.)",
-    "creditline":"Gift of Josephine Howell",
-    "description":"Fragment of a large scale vertically symmetrical pattern with an urn of flowers within a grid based upon an ogee.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18481923",
+    "tms:id": "151818",
+    "accession_number": "1973-51-99",
+    "title": "Textile (France), late 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18481923\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1973",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: block printed on plain weave with a resist medium; then immersion dyed in blue",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Martin scrapbook",
+    "dimensions": "Warp x Weft: 61 x 42 cm (24 x 16 9\/16 in.)\nRepeat H: 58.1 cm (22 7\/8 in.)",
+    "dimensions_raw": {
+        "length": [
+            "58.10",
+            "centimeters"
+        ],
+        "warp": [
+            "61.00",
+            "centimeters"
+        ],
+        "weft": [
+            "42.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Josephine Howell",
+    "description": "Fragment of a large scale vertically symmetrical pattern with an urn of flowers within a grid based upon an ogee.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35789_66b95a4d8dbbeeeb_b.jpg",
-                "width":721,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79970_0525d2d6988339fc_b.jpg",
+                "width": 726,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "79970"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35789_66b95a4d8dbbeeeb_n.jpg",
-                "width":225,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79970_0525d2d6988339fc_z.jpg",
+                "width": 454,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "79970"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35789_66b95a4d8dbbeeeb_z.jpg",
-                "width":450,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79970_0525d2d6988339fc_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "79970"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79970_0525d2d6988339fc_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "79970"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79970_0525d2d6988339fc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "79970"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35789_66b95a4d8dbbeeeb_b.jpg",
+                "width": 721,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "35789"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35789_66b95a4d8dbbeeeb_z.jpg",
+                "width": 450,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "35789"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35789_66b95a4d8dbbeeeb_n.jpg",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35789"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35789_66b95a4d8dbbeeeb_d.gif",
+                "width": 225,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "35789"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35789_66b95a4d8dbbeeeb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "35789"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, late 18th century.\nlate 18th century. Medium: cotton\nTechnique: block printed on plain weave with a resist medium; then immersion dyed in blue. Gift of Josephine Howell. 1973-51-99."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#09192a",
-            "closest_css3":"#000000"
+            "person_id": "18049387",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049387\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#152926",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#598284",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#274a31",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#274c4c",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), late 18th century. Medium: cotton\nTechnique: block printed on plain weave with a resist medium; then immersion dyed in blue. \nGift of Josephine Howell. 1973-51-99"
+    },
+    "colors": [
+        {
+            "color": "#d1cdab",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#4b4e59",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9a998a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,80 +1,182 @@
 {
-    "id":"18478391",
-    "tms:id":"150005",
-    "accession_number":"1972-75-6",
-    "title":"Textile, \"Balustrade\", 1956",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18478391\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1956",
-    "year_start":"1956",
-    "year_end":"1956",
-    "year_acquired":"1972",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: machine made on the Nottingham lace machine",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 195 x 46 cm (6 ft. 4 3\/4 in. x 18 1\/8 in.)",
-    "creditline":"Gift of the Estate of Dorothy (Liebes) Morin",
-    "description":"Casement textile with two bands of alternating openwork.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18478391",
+    "tms:id": "150005",
+    "accession_number": "1972-75-6",
+    "title": "Textile, Balustrade, 1956",
+    "title_raw": "Balustrade",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18478391\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1956",
+    "year_start": 1956,
+    "year_end": 1956,
+    "year_acquired": "1972",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: machine made on the Nottingham lace machine",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Estate of Dorothy (Liebes) Morin; 1972: acquired by Museum",
+    "dimensions": "Warp x Weft: 195 x 46 cm (6 ft. 4 3\/4 in. x 18 1\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "195.00",
+            "centimeters"
+        ],
+        "weft": [
+            "46.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of Dorothy (Liebes) Morin",
+    "description": "Casement textile with two bands of alternating openwork.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35821_d4471e1c9003cf23_b.jpg",
-                "width":580,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35821_d4471e1c9003cf23_b.jpg",
+                "width": 580,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "35821"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35821_d4471e1c9003cf23_n.jpg",
-                "width":181,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35821_d4471e1c9003cf23_z.jpg",
+                "width": 363,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "35821"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/35821_d4471e1c9003cf23_z.jpg",
-                "width":363,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35821_d4471e1c9003cf23_n.jpg",
+                "width": 181,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "35821"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35821_d4471e1c9003cf23_d.gif",
+                "width": 181,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "35821"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/35821_d4471e1c9003cf23_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "35821"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113487_da8cec6844707127_b.jpg",
+                "width": 556,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "113487"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113487_da8cec6844707127_z.jpg",
+                "width": 348,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "113487"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113487_da8cec6844707127_n.jpg",
+                "width": 174,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113487"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113487_da8cec6844707127_d.gif",
+                "width": 174,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "113487"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113487_da8cec6844707127_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "113487"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, \"Balustrade\", 1956.\n1956. Medium: cotton\nTechnique: machine made on the Nottingham lace machine. Gift of the Estate of Dorothy (Liebes) Morin. 1972-75-6."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#e8d9f5",
-            "closest_css3":"#e6e6fa"
+            "person_id": "18063889",
+            "role_id": "35236657",
+            "person_name": "Quaker Lace Company, founded 1889",
+            "person_date": "American",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063889\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#c3b8bc",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18045817",
+            "role_id": "35236655",
+            "person_name": "Dorothy Wright Liebes",
+            "person_date": "American, 1897\u20131972",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045817\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "color":"#5c5b55",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#8a9382",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#373a2d",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18054731",
+            "role_id": "35351535",
+            "person_name": "Estate of Dorothy (Liebes) Morin",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054731\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile, Balustrade, 1956. Medium: cotton\nTechnique: machine made on the Nottingham lace machine. \nGift of the Estate of Dorothy (Liebes) Morin. 1972-75-6"
+    },
+    "colors": [
+        {
+            "color": "#dad7e8",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#5a5953",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#37392d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#888e86",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

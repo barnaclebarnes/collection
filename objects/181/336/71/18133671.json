@@ -1,49 +1,279 @@
 {
-    "id":"18133671",
-    "tms:id":"12118",
-    "accession_number":"1902-1-875",
-    "title":"Fragment, 15th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18133671\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254623",
-    "date":"15th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":"23424781",
-    "medium":"Medium: silk\nTechnique: 4&1 satin damask",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 58 x 42 cm (22 13\/16 x 16 9\/16 in.)",
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Blue and white silk damask.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18133671",
+    "tms:id": "12118",
+    "accession_number": "1902-1-875",
+    "title": "Fragment (China), 15th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18133671\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "15th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": "23424781",
+    "medium": "Medium: silk\nTechnique: 4&1 satin damask",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (a): 70.5 \u00d7 41.9 cm (27 3\/4 \u00d7 16 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "58.00",
+            "centimeters"
+        ],
+        "width": [
+            "42.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Blue and white silk damask.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424781",
+    "type": "Fragment",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97943_10f39fa8b9bd0205_b.jpg",
+                "width": 631,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "97943"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97943_10f39fa8b9bd0205_z.jpg",
+                "width": 394,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "97943"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97943_10f39fa8b9bd0205_n.jpg",
+                "width": 197,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "97943"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97943_10f39fa8b9bd0205_d.gif",
+                "width": 197,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "97943"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/97943_10f39fa8b9bd0205_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "97943"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95322_3db3ee7d6d5a3a3b_b.jpg",
+                "width": 631,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "95322"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95322_3db3ee7d6d5a3a3b_z.jpg",
+                "width": 394,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "95322"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95322_3db3ee7d6d5a3a3b_n.jpg",
+                "width": 197,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95322"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95322_3db3ee7d6d5a3a3b_d.gif",
+                "width": 197,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "95322"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/95322_3db3ee7d6d5a3a3b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "95322"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68387_c3c08db1285069cd_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68387"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68387_c3c08db1285069cd_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68387"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68387_c3c08db1285069cd_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68387"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68387_c3c08db1285069cd_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68387"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68387_c3c08db1285069cd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68387"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68389_15e726fcaa7cf2cc_b.jpg",
+                "width": 1024,
+                "height": 456,
+                "is_primary": "0",
+                "image_id": "68389"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68389_15e726fcaa7cf2cc_z.jpg",
+                "width": 640,
+                "height": 285,
+                "is_primary": "0",
+                "image_id": "68389"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68389_15e726fcaa7cf2cc_n.jpg",
+                "width": 320,
+                "height": 143,
+                "is_primary": "0",
+                "image_id": "68389"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68389_15e726fcaa7cf2cc_d.gif",
+                "width": 320,
+                "height": 143,
+                "is_primary": "0",
+                "image_id": "68389"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68389_15e726fcaa7cf2cc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68389"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68388_425acb1f0ab2eb46_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "68388"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68388_425acb1f0ab2eb46_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "68388"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68388_425acb1f0ab2eb46_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68388"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68388_425acb1f0ab2eb46_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "68388"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68388_425acb1f0ab2eb46_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "68388"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 15th century.\n15th century. Medium: silk\nTechnique: 4&amp;1 satin damask. Gift of John Pierpont Morgan. 1902-1-875."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (China), 15th century. Medium: silk\nTechnique: 4&amp;1 satin damask. \nGift of John Pierpont Morgan. 1902-1-875"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#9e8252",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#8a6639",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#837f61",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#bba77b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#dcd4c1",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "China",
+    "is_loan_object": 0
 }

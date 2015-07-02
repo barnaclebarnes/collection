@@ -1,49 +1,167 @@
 {
-    "id":"18391091",
-    "tms:id":"105692",
-    "accession_number":"1952-161-209",
-    "title":"Fan",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18391091\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35252007",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1952",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Anonymous Donor",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35252007",
-        "name":"fan"
+    "id": "18391091",
+    "tms:id": "105692",
+    "accession_number": "1952-161-209",
+    "title": "Fan",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18391091\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35252007",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1952",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 19.1 x 36.2 cm (7 1\/2 x 14 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "19.05",
+            "centimeters"
+        ],
+        "width": [
+            "36.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Gift of Anonymous Donor",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "fan",
+    "images": [
         {
-            "person_id":"18049335",
-            "role_id":"35351535",
-            "person_name":"Anonymous",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87852_daebde1b2e3ecaee_b.jpg",
+                "width": 1024,
+                "height": 627,
+                "is_primary": "1",
+                "image_id": "87852"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87852_daebde1b2e3ecaee_z.jpg",
+                "width": 640,
+                "height": 392,
+                "is_primary": "1",
+                "image_id": "87852"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87852_daebde1b2e3ecaee_n.jpg",
+                "width": 320,
+                "height": 196,
+                "is_primary": "1",
+                "image_id": "87852"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87852_daebde1b2e3ecaee_d.gif",
+                "width": 320,
+                "height": 196,
+                "is_primary": "1",
+                "image_id": "87852"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87852_daebde1b2e3ecaee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "87852"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72771_8465128387f912ae_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "72771"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72771_8465128387f912ae_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "72771"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72771_8465128387f912ae_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "72771"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72771_8465128387f912ae_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "72771"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/72771_8465128387f912ae_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "72771"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fan.\nGift of Anonymous Donor. 1952-161-209."
+    "participants": [
+        {
+            "person_id": "18049335",
+            "role_id": "35351535",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fan. H x W: 19.1 x 36.2 cm (7 1\/2 x 14 1\/4 in.). \nGift of Anonymous Donor. 1952-161-209"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#c8bd85",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#a7884c",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#725939",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#d8d4bd",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#534030",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
 }

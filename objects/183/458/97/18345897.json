@@ -1,72 +1,164 @@
 {
-    "id":"18345897",
-    "tms:id":"56841",
-    "accession_number":"1938-12-2",
-    "title":"Tile, ca. 1760",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18345897\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"51585289",
-    "type_id":"35250645",
-    "date":"ca. 1760",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Tin-enameled earthenware, underglaze manganese, overglaze white slip decoration",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"1938: acquired by Museum (from Helen Bruce)",
-    "dimensions":"H x W x D (lying flat): 12.4 x 12.4 cm (4 7\/8 x 4 7\/8 in.)",
-    "creditline":"Museum purchase from Friends of the Museum Fund",
-    "description":"Square tile. Grayish white ground centered with manganese figures in the Chinese style, of a woman and boy holding parasol, both figures standing on a low mound. Bordered with crude floral ornament in overglaze white. Example of \"bianco sopra bianco\" technique.",
-    "justification":null,
-    "type":{
-        "id":"35250645",
-        "name":"tile"
+    "id": "18345897",
+    "tms:id": "56841",
+    "accession_number": "1938-12-2",
+    "title": "Tile (England), ca. 1760",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18345897\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51585289",
+    "type_id": "35250645",
+    "date": "ca. 1760",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Tin-enameled earthenware, underglaze manganese, overglaze white slip decoration",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1938: acquired by Museum (from Helen Bruce)",
+    "dimensions": "H x W x D (lying flat): 12.4 x 12.4 cm (4 7\/8 x 4 7\/8 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "12.40",
+            "centimeters"
+        ],
+        "width": [
+            "12.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Friends of the Museum Fund",
+    "description": "Square tile. Grayish white ground centered with manganese figures in the Chinese style, of a woman and boy holding parasol, both figures standing on a low mound. Bordered with crude floral ornament in overglaze white. Example of \"bianco sopra bianco\" technique.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "tile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43636_8f4b5cd166785047_b.jpg",
-                "width":1011,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102487_499ecbfef05c0db1_b.jpg",
+                "width": 1024,
+                "height": 1010,
+                "is_primary": "1",
+                "image_id": "102487"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43636_8f4b5cd166785047_n.jpg",
-                "width":316,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102487_499ecbfef05c0db1_z.jpg",
+                "width": 640,
+                "height": 631,
+                "is_primary": "1",
+                "image_id": "102487"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/43636_8f4b5cd166785047_z.jpg",
-                "width":632,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102487_499ecbfef05c0db1_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "1",
+                "image_id": "102487"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102487_499ecbfef05c0db1_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "1",
+                "image_id": "102487"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/102487_499ecbfef05c0db1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "102487"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43636_8e2261779ec9ef68_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "43636"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43636_8e2261779ec9ef68_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "43636"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43636_8e2261779ec9ef68_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "43636"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43636_8e2261779ec9ef68_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "43636"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/43636_8e2261779ec9ef68_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "43636"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Tile, ca. 1760.\nca. 1760. Tin-enameled earthenware, underglaze manganese, overglaze white slip decoration. Museum purchase from Friends of the Museum Fund. 1938-12-2."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#bdac9f",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18052341",
+            "role_id": "35352249",
+            "person_name": "Helen Bruce",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052341\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "color":"#957a82",
-            "closest_css3":"#808080"
+            "person_id": "18061803",
+            "role_id": "35236761",
+            "person_name": "Michael Edkins",
+            "person_date": "English, 1734 - 1811",
+            "role_name": "Painter",
+            "role_display_name": "Painted by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061803\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236761\/"
         },
         {
-            "color":"#6a5158",
-            "closest_css3":"#696969"
+            "person_id": "18061801",
+            "role_id": "35236685",
+            "person_name": "Joseph Fowler Factory",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061801\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Tile (England), ca. 1760. Tin-enameled earthenware, underglaze manganese, overglaze white slip decoration. \nMuseum purchase from Friends of the Museum Fund. 1938-12-2"
+    },
+    "colors": [
+        {
+            "color": "#7b665f",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

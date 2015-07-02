@@ -1,87 +1,188 @@
 {
-    "id":"18407119",
-    "tms:id":"113750",
-    "accession_number":"1956-125-1",
-    "title":"Textile, \"Tasserae\", 1950\u201355",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18407119\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1950\u201355",
-    "year_start":"1950",
-    "year_end":"1955",
-    "year_acquired":"1956",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: screen printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 180 x 131 cm (5 ft. 10 7\/8 in. x 51 9\/16 in.)",
-    "creditline":"Gift of L. Anton Maix, Inc.",
-    "description":"Groupings of small impressionistic squares suggesting mosaics; in shades of blue, mauve, vermilion, gold, brown, blacks on white batiste ground.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18407119",
+    "tms:id": "113750",
+    "accession_number": "1956-125-1",
+    "title": "Textile, Tasserae, 1950\u201355",
+    "title_raw": "Tasserae",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18407119\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1950\u201355",
+    "year_start": 1950,
+    "year_end": 1955,
+    "year_acquired": "1956",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: screen printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 180 x 131 cm (5 ft. 10 7\/8 in. x 51 9\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "180.00",
+            "centimeters"
+        ],
+        "weft": [
+            "131.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of L. Anton Maix, Inc.",
+    "description": "Groupings of small impressionistic squares suggesting mosaics; in shades of blue, mauve, vermilion, gold, brown, blacks on white batiste ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32435_0c1a23bd048d1f1c_b.jpg",
-                "width":1024,
-                "height":698,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105430_d719672c7dc2df2b_b.jpg",
+                "width": 1024,
+                "height": 758,
+                "is_primary": "1",
+                "image_id": "105430"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32435_0c1a23bd048d1f1c_n.jpg",
-                "width":320,
-                "height":218,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105430_d719672c7dc2df2b_z.jpg",
+                "width": 640,
+                "height": 474,
+                "is_primary": "1",
+                "image_id": "105430"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/32435_0c1a23bd048d1f1c_z.jpg",
-                "width":640,
-                "height":436,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105430_d719672c7dc2df2b_n.jpg",
+                "width": 320,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "105430"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105430_d719672c7dc2df2b_d.gif",
+                "width": 320,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "105430"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105430_d719672c7dc2df2b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105430"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32435_0c1a23bd048d1f1c_b.jpg",
+                "width": 1024,
+                "height": 698,
+                "is_primary": "0",
+                "image_id": "32435"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32435_0c1a23bd048d1f1c_z.jpg",
+                "width": 640,
+                "height": 436,
+                "is_primary": "0",
+                "image_id": "32435"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32435_0c1a23bd048d1f1c_n.jpg",
+                "width": 320,
+                "height": 218,
+                "is_primary": "0",
+                "image_id": "32435"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32435_0c1a23bd048d1f1c_d.gif",
+                "width": 320,
+                "height": 218,
+                "is_primary": "0",
+                "image_id": "32435"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/32435_0c1a23bd048d1f1c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "32435"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18056365",
-            "role_id":"35236655",
-            "person_name":"Jason Kirby",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056365\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046277",
+            "role_id": "35351535",
+            "person_name": "L. Anton Maix, Inc.",
+            "person_date": "New York, New York, USA, founded 1948",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046277\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046277",
+            "role_id": "35236685",
+            "person_name": "L. Anton Maix, Inc.",
+            "person_date": "New York, New York, USA, founded 1948",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046277\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        },
+        {
+            "person_id": "18056365",
+            "role_id": "35236655",
+            "person_name": "Jason Kirby",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, \"Tasserae\", 1950\u201355.\n1950\u201355. Medium: cotton\nTechnique: screen printed on plain weave. Gift of L. Anton Maix, Inc.. 1956-125-1."
+    "tombstone": {
+        "epitaph": "Textile, Tasserae, 1950\u201355. Medium: cotton\nTechnique: screen printed on plain weave. \nGift of L. Anton Maix, Inc.. 1956-125-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#76808e",
-            "closest_css3":"#708090"
+            "color": "#504a50",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#715d4f",
-            "closest_css3":"#696969"
+            "color": "#9fafb3",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#bd9bb2",
-            "closest_css3":"#a9a9a9"
+            "color": "#988886",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#a19a98",
-            "closest_css3":"#a9a9a9"
+            "color": "#b9a4b5",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#b28b71",
-            "closest_css3":"#bc8f8f"
+            "color": "#bca670",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

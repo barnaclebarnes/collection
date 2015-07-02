@@ -1,80 +1,167 @@
 {
-    "id":"18616793",
-    "tms:id":"176926",
-    "accession_number":"1981-28-323",
-    "title":"Sampler, 1814",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616793\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427737",
-    "type_id":"35256439",
-    "date":"1814",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: wool and cotton\nTechnique: embroidered in half cross and tent stitches on plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":"A.D.",
-    "provenance":null,
-    "dimensions":"H x W: 70.5 x 24.8 cm (27 3\/4 x 9 3\/4 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Isolated motifs including a parrot at bottom, houses at the top, and \"souvenir\" and \"Amitie\" within wreaths in the center.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616793",
+    "tms:id": "176926",
+    "accession_number": "1981-28-323",
+    "title": "Sampler, 1814",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616793\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427737",
+    "type_id": "35256439",
+    "date": "1814",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: wool and cotton\nTechnique: embroidered in half cross and tent stitches on plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": "A.D.",
+    "provenance": null,
+    "dimensions": "H x W: 70.5 x 24.8 cm (27 3\/4 x 9 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "70.49",
+            "centimeters"
+        ],
+        "width": [
+            "24.77",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Isolated motifs including a parrot at bottom, houses at the top, and \"souvenir\" and \"Amitie\" within wreaths in the center.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37247_a84522a21cdb7e1b_b.jpg",
-                "width":384,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94222_42ce626c27daf96b_b.jpg",
+                "width": 440,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "94222"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37247_a84522a21cdb7e1b_n.jpg",
-                "width":120,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94222_42ce626c27daf96b_z.jpg",
+                "width": 275,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "94222"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/37247_a84522a21cdb7e1b_z.jpg",
-                "width":240,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94222_42ce626c27daf96b_n.jpg",
+                "width": 138,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94222"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94222_42ce626c27daf96b_d.gif",
+                "width": 138,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "94222"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/94222_42ce626c27daf96b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "94222"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37247_a84522a21cdb7e1b_b.jpg",
+                "width": 384,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "37247"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37247_a84522a21cdb7e1b_z.jpg",
+                "width": 240,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "37247"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37247_a84522a21cdb7e1b_n.jpg",
+                "width": 120,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "37247"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37247_a84522a21cdb7e1b_d.gif",
+                "width": 120,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "37247"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/37247_a84522a21cdb7e1b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "37247"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1814.\n1814. Medium: wool and cotton\nTechnique: embroidered in half cross and tent stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-323."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c3c6df",
-            "closest_css3":"#b0c4de"
-        },
-        {
-            "color":"#94908b",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#a2bbcb",
-            "closest_css3":"#b0c4de"
-        },
-        {
-            "color":"#5f5942",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#405757",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler, 1814. Medium: wool and cotton\nTechnique: embroidered in half cross and tent stitches on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-323"
+    },
+    "colors": [
+        {
+            "color": "#92855e",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#464631",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#705e39",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#704627",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#656752",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

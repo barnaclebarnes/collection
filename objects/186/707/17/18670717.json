@@ -1,95 +1,188 @@
 {
-    "id":"18670717",
-    "tms:id":"210787",
-    "accession_number":"1998-59-2",
-    "title":"Vase, 1870s",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18670717\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35392471",
-    "type_id":"35237225",
-    "date":"1870s",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1998",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"glazed porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"24.8h x 12.4 diameter cm (9 3\/4 x 4 7\/8 in. )",
-    "creditline":"Museum purchase from The Charles E. Sampson Memorial Fund",
-    "description":"Circular mouth tapering into slender neck flaring to oval body on slightly flaring circular foot.  Glazed deep turquoise with black arabesque decoration.",
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18670717",
+    "tms:id": "210787",
+    "accession_number": "1998-59-2",
+    "title": "Vase (England), 1870s",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18670717\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35392471",
+    "type_id": "35237225",
+    "date": "1870s",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1998",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "glazed porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "24.8h x 12.4 diameter cm (9 3\/4 x 4 7\/8 in. )",
+    "dimensions_raw": {
+        "diameter": [
+            "12.40",
+            "centimeters"
+        ],
+        "height": [
+            "24.80",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from Charles E. Sampson Memorial Fund",
+    "description": "Circular mouth tapering into slender neck flaring to oval body on slightly flaring circular foot.  Glazed deep turquoise with black arabesque decoration.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Vase",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13182_b4a67a1c0247ad45_b.jpg",
-                "width":1024,
-                "height":856,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105851_06ec9bf6a2515079_b.jpg",
+                "width": 727,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "105851"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13182_b4a67a1c0247ad45_n.jpg",
-                "width":320,
-                "height":267,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105851_06ec9bf6a2515079_z.jpg",
+                "width": 454,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "105851"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/13182_b4a67a1c0247ad45_z.jpg",
-                "width":640,
-                "height":535,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105851_06ec9bf6a2515079_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105851"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105851_06ec9bf6a2515079_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105851"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105851_06ec9bf6a2515079_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105851"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13182_b4a67a1c0247ad45_b.jpg",
+                "width": 1024,
+                "height": 856,
+                "is_primary": "0",
+                "image_id": "13182"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13182_b4a67a1c0247ad45_z.jpg",
+                "width": 640,
+                "height": 535,
+                "is_primary": "0",
+                "image_id": "13182"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13182_b4a67a1c0247ad45_n.jpg",
+                "width": 320,
+                "height": 267,
+                "is_primary": "0",
+                "image_id": "13182"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13182_b4a67a1c0247ad45_d.gif",
+                "width": 320,
+                "height": 267,
+                "is_primary": "0",
+                "image_id": "13182"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/13182_b4a67a1c0247ad45_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "13182"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18043763",
-            "role_id":"35236711",
-            "person_name":"Christopher Dresser",
-            "role_name":"Attributed to",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043763\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236711\/"
+            "person_id": "18043763",
+            "role_id": "35236711",
+            "person_name": "Christopher Dresser",
+            "person_date": "English, 1834\u20131904",
+            "role_name": "Attributed to",
+            "role_display_name": "Attributed to",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043763\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236711\/"
         },
         {
-            "person_id":"18043861",
-            "role_id":"35236657",
-            "person_name":"Minton's Art Pottery Studio",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043861\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18051117",
+            "role_id": "35352249",
+            "person_name": "Margot Johnson, Inc.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051117\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18043861",
+            "role_id": "35236657",
+            "person_name": "Minton's Art Pottery Studio",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043861\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Vase, 1870s.\n1870s. glazed porcelain. Museum purchase from The Charles E. Sampson Memorial Fund. 1998-59-2."
+    "tombstone": {
+        "epitaph": "Vase (England), 1870s. glazed porcelain. \nMuseum purchase from Charles E. Sampson Memorial Fund. 1998-59-2"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#0770a9",
-            "closest_css3":"#008b8b"
+            "color": "#016b99",
+            "closest_crayola": "#0a7e8c",
+            "closest_css3": "#008080",
+            "closest_css4": "#008080"
         },
         {
-            "color":"#044a87",
-            "closest_css3":"#008080"
+            "color": "#508db3",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
         },
         {
-            "color":"#112846",
-            "closest_css3":"#191970"
+            "color": "#a3c3d5",
+            "closest_crayola": "#a2add0",
+            "closest_css3": "#b0c4de",
+            "closest_css4": "#b0c4de"
         },
         {
-            "color":"#848891",
-            "closest_css3":"#778899"
+            "color": "#16374b",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#5197be",
-            "closest_css3":"#4682b4"
+            "color": "#07192d",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         }
-    ]
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

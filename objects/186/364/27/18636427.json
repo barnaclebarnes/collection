@@ -1,107 +1,238 @@
 {
-    "id":"18636427",
-    "tms:id":"193064",
-    "accession_number":"1991-32-1",
-    "title":"Vase, ca. 1870",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18636427\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35237225",
-    "date":"ca. 1870",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1991",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"33.5 x 31 x 31 cm (13 3\/16 x 12 3\/16 x 12 3\/16 in. )",
-    "creditline":"Museum purchase through bequest of Ida McNeil Memorial in memory of Lincoln C. McNeil and Catherine McNeil",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237225",
-        "name":"Vase"
+    "id": "18636427",
+    "tms:id": "193064",
+    "accession_number": "1991-32-1",
+    "title": "Vase, ca. 1870",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18636427\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35237225",
+    "date": "ca. 1870",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1991",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "33.5 x 31 x 31 cm (13 3\/16 x 12 3\/16 x 12 3\/16 in. )",
+    "dimensions_raw": {
+        "depth": [
+            "31.00",
+            "centimeters"
+        ],
+        "height": [
+            "33.50",
+            "centimeters"
+        ],
+        "width": [
+            "31.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through bequest of Ida McNeil in memory of Lincoln C. McNeil and Catherine McNeil and from Decorative Arts Association Acquisition Fund",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Vase",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15684_50b5bc95d8d0161f_b.jpg",
-                "width":955,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111984_d1fc9acbedb3e3fd_b.jpg",
+                "width": 800,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "111984"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15684_50b5bc95d8d0161f_n.jpg",
-                "width":298,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111984_d1fc9acbedb3e3fd_z.jpg",
+                "width": 500,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "111984"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15684_50b5bc95d8d0161f_z.jpg",
-                "width":597,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111984_d1fc9acbedb3e3fd_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111984"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111984_d1fc9acbedb3e3fd_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "111984"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111984_d1fc9acbedb3e3fd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111984"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11569_38996730ba1a3f7d_b.jpg",
-                "width":887,
-                "height":1024,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11569_38996730ba1a3f7d_b.jpg",
+                "width": 887,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11569"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11569_38996730ba1a3f7d_n.jpg",
-                "width":277,
-                "height":320,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11569_38996730ba1a3f7d_z.jpg",
+                "width": 554,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11569"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11569_38996730ba1a3f7d_z.jpg",
-                "width":554,
-                "height":640,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11569_38996730ba1a3f7d_n.jpg",
+                "width": 277,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11569"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11569_38996730ba1a3f7d_d.gif",
+                "width": 277,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11569"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11569_38996730ba1a3f7d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11569"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15684_50b5bc95d8d0161f_b.jpg",
+                "width": 955,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "15684"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15684_50b5bc95d8d0161f_z.jpg",
+                "width": 597,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "15684"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15684_50b5bc95d8d0161f_n.jpg",
+                "width": 298,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15684"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15684_50b5bc95d8d0161f_d.gif",
+                "width": 298,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15684"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15684_50b5bc95d8d0161f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15684"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044281",
-            "role_id":"35236655",
-            "person_name":"Joseph-Th\u00e9odore Deck",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044281\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041485",
+            "role_id": "35352249",
+            "person_name": "H. BLAIRMAN & SONS, Ltd.",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041485\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18053179",
+            "role_id": "35352247",
+            "person_name": "Ida McNeil Memorial Fund",
+            "person_date": "",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053179\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18044281",
+            "role_id": "35236655",
+            "person_name": "Joseph-Th\u00e9odore Deck",
+            "person_date": "French, 1823 - 1891",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044281\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Vase, ca. 1870.\nca. 1870. Glazed earthenware. Museum purchase through bequest of Ida McNeil Memorial in memory of Lincoln C. McNeil and Catherine McNeil. 1991-32-1."
+    "tombstone": {
+        "epitaph": "Vase, ca. 1870. Glazed earthenware. \nMuseum purchase through bequest of Ida McNeil in memory of Lincoln C. McNeil and Catherine McNeil and from Decorative Arts Association Acquisition Fund. 1991-32-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cec5d4",
-            "closest_css3":"#d8bfd8"
+            "color": "#90897c",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#363d48",
-            "closest_css3":"#2f4f4f"
+            "color": "#92969a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
         },
         {
-            "color":"#575c6d",
-            "closest_css3":"#696969"
+            "color": "#665947",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#7b8196",
-            "closest_css3":"#778899"
+            "color": "#afaa9f",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#a6999d",
-            "closest_css3":"#a9a9a9"
+            "color": "#40595b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

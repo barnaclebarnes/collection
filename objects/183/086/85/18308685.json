@@ -1,49 +1,93 @@
 {
-    "id":"18308685",
-    "tms:id":"40601",
-    "accession_number":"1925-1-213",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18308685\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1925",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Purchased for the Museum by the Advisory Council",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18308685",
+    "tms:id": "40601",
+    "accession_number": "1925-1-213",
+    "title": "Drawing (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18308685\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1925",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Purchased for the Museum by the Advisory Council",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18049621",
-            "role_id":"35351535",
-            "person_name":"Advisory Council",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049621\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118599_ae702234b2a1beec_b.jpg",
+                "width": 801,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "118599"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118599_ae702234b2a1beec_z.jpg",
+                "width": 501,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "118599"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118599_ae702234b2a1beec_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118599"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118599_ae702234b2a1beec_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "118599"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/118599_ae702234b2a1beec_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "118599"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nPurchased for the Museum by the Advisory Council. 1925-1-213."
+    "participants": [
+        {
+            "person_id": "18049621",
+            "role_id": "35351535",
+            "person_name": "Advisory Council",
+            "person_date": "Founded 1907",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049621\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing (France). \nPurchased for the Museum by the Advisory Council. 1925-1-213"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

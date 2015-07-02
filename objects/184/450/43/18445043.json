@@ -1,76 +1,125 @@
 {
-    "id":"18445043",
-    "tms:id":"133013",
-    "accession_number":"1962-51-32",
-    "title":"Tassel, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445043\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35255087",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Medium: linen\nTechnique: braided and knotted",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 14 x 9 cm (5 1\/2 x 3 9\/16 in.)",
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Linen tassel, braided and knotted. Pear-shaped tassel suspended from double loop. Seven design elements, including center element, hang from bottom of tassel. Made of knotting.",
-    "justification":null,
-    "type":{
-        "id":"35255087",
-        "name":"Tassel"
+    "id": "18445043",
+    "tms:id": "133013",
+    "accession_number": "1962-51-32",
+    "title": "Tassel (Italy), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445043\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35255087",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Medium: linen\nTechnique: braided and knotted",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 14 x 9 cm (5 1\/2 x 3 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "14.00",
+            "centimeters"
+        ],
+        "width": [
+            "9.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Linen tassel, braided and knotted. Pear-shaped tassel suspended from double loop. Seven design elements, including center element, hang from bottom of tassel. Made of knotting.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Tassel",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44755_0ce7b82f582dd2cc_b.jpg",
-                "width":502,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44755_fc9962d10d9aa287_b.jpg",
+                "width": 406,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "44755"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44755_0ce7b82f582dd2cc_n.jpg",
-                "width":157,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44755_fc9962d10d9aa287_z.jpg",
+                "width": 253,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "44755"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/44755_0ce7b82f582dd2cc_z.jpg",
-                "width":313,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44755_fc9962d10d9aa287_n.jpg",
+                "width": 127,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "44755"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44755_fc9962d10d9aa287_d.gif",
+                "width": 127,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "44755"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/44755_fc9962d10d9aa287_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "44755"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Tassel, 17th century.\n17th century. Medium: linen\nTechnique: braided and knotted. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-51-32."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#f6ecd4",
-            "closest_css3":"#faebd7"
-        },
-        {
-            "color":"#d9c4a0",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#9b7751",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#b89c76",
-            "closest_css3":"#bc8f8f"
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Tassel (Italy), 17th century. Medium: linen\nTechnique: braided and knotted. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-51-32"
+    },
+    "colors": [
+        {
+            "color": "#f1edd3",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
+        },
+        {
+            "color": "#bfb492",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#8b7951",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#624e2e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

@@ -1,42 +1,121 @@
 {
-    "id":"18496831",
-    "tms:id":"159309",
-    "accession_number":"1978-169-2",
-    "title":"Tile\/tile Fragment, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18496831\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35293183",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1978",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Eleanor M. Delanoy",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35293183",
-        "name":"Tile\/tile fragment"
-    },
-    "images":[
-
+    "id": "18496831",
+    "tms:id": "159309",
+    "accession_number": "1978-169-2",
+    "title": "Tile\/tile Fragment, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18496831\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35293183",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1978",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Eleanor M. Delanoy",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Tile\/tile fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103002_c8fe9dd39114ca6c_b.jpg",
+                "width": 1024,
+                "height": 949,
+                "is_primary": "1",
+                "image_id": "103002"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103002_c8fe9dd39114ca6c_z.jpg",
+                "width": 640,
+                "height": 593,
+                "is_primary": "1",
+                "image_id": "103002"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103002_c8fe9dd39114ca6c_n.jpg",
+                "width": 320,
+                "height": 297,
+                "is_primary": "1",
+                "image_id": "103002"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103002_c8fe9dd39114ca6c_d.gif",
+                "width": 320,
+                "height": 297,
+                "is_primary": "1",
+                "image_id": "103002"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103002_c8fe9dd39114ca6c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103002"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18537141",
+            "role_id": "35351535",
+            "person_name": "Eleanor Marquand Delanoy",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537141\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Tile\/tile Fragment, 17th century.\n17th century. Glazed earthenware. Gift of Eleanor M. Delanoy. 1978-169-2."
+    "tombstone": {
+        "epitaph": "Tile\/tile Fragment, 17th century. Glazed earthenware. \nGift of Eleanor M. Delanoy. 1978-169-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8a8780",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#93754b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#ac997b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#352927",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#5b5748",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "is_loan_object": 0
 }

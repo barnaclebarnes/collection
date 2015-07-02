@@ -1,95 +1,188 @@
 {
-    "id":"18556899",
-    "tms:id":"71101",
-    "accession_number":"1939-5-4",
-    "title":"Sidewall, \"Red Mill\", 1938",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18556899\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35374641",
-    "type_id":"35256475",
-    "date":"1938",
-    "year_start":"1938",
-    "year_end":"1938",
-    "year_acquired":"1939",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Machine-printed, distemper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"50 x 50 cm (19 11\/16 x 19 11\/16 in.)",
-    "creditline":"Gift of Teresa Kilham",
-    "description":"Two scenic vistas, each containing red mill in background. Full width, with two large motifs showing boaters and skaters, and repeated small motif of nautiloid shell. Dark blue ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18556899",
+    "tms:id": "71101",
+    "accession_number": "1939-5-4",
+    "title": "Sidewall, Red Mill, 1938",
+    "title_raw": "Red Mill",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18556899\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35256475",
+    "date": "1938",
+    "year_start": 1938,
+    "year_end": 1938,
+    "year_acquired": "1939",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Teresa Kilham; 1939: acquired by Museum",
+    "dimensions": "50 x 50 cm (19 11\/16 x 19 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "50.00",
+            "centimeters"
+        ],
+        "width": [
+            "50.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Teresa Kilham",
+    "description": "Two scenic vistas, each containing red mill in background. Full width, with two large motifs showing boaters and skaters, and repeated small motif of nautiloid shell. Dark blue ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3849_56ceb7f64424b2c8_b.jpg",
-                "width":1000,
-                "height":996,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63228_f3524f3b2385793c_b.jpg",
+                "width": 1011,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63228"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3849_56ceb7f64424b2c8_n.jpg",
-                "width":320,
-                "height":319,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63228_f3524f3b2385793c_z.jpg",
+                "width": 632,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63228"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3849_56ceb7f64424b2c8_z.jpg",
-                "width":640,
-                "height":637,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63228_f3524f3b2385793c_n.jpg",
+                "width": 316,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63228"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63228_f3524f3b2385793c_d.gif",
+                "width": 316,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63228"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63228_f3524f3b2385793c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63228"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3849_56ceb7f64424b2c8_b.jpg",
+                "width": 1000,
+                "height": 996,
+                "is_primary": "0",
+                "image_id": "3849"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3849_56ceb7f64424b2c8_z.jpg",
+                "width": 640,
+                "height": 637,
+                "is_primary": "0",
+                "image_id": "3849"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3849_56ceb7f64424b2c8_n.jpg",
+                "width": 320,
+                "height": 319,
+                "is_primary": "0",
+                "image_id": "3849"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3849_56ceb7f64424b2c8_d.gif",
+                "width": 320,
+                "height": 319,
+                "is_primary": "0",
+                "image_id": "3849"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3849_56ceb7f64424b2c8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3849"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046827",
-            "role_id":"35351535",
-            "person_name":"Teresa Kilham",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046827\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046827",
+            "role_id": "35351535",
+            "person_name": "Teresa Kilham",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046827",
-            "role_id":"35236655",
-            "person_name":"Teresa Kilham",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046827\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18047875",
+            "role_id": "35352245",
+            "person_name": "chs",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047875\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18046827",
+            "role_id": "35236655",
+            "person_name": "Teresa Kilham",
+            "person_date": "",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"Red Mill\", 1938.\n1938. Machine-printed, distemper. Gift of Teresa Kilham. 1939-5-4."
+    "tombstone": {
+        "epitaph": "Sidewall, Red Mill, 1938. Machine-printed on paper. \nGift of Teresa Kilham. 1939-5-4"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bfddef",
-            "closest_css3":"#b0e0e6"
+            "color": "#8aa4bc",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#4b72a1",
-            "closest_css3":"#4682b4"
+            "color": "#7179a0",
+            "closest_crayola": "#7366bd",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
         },
         {
-            "color":"#95aed0",
-            "closest_css3":"#b0c4de"
+            "color": "#bbbecd",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#9cabaa",
-            "closest_css3":"#a9a9a9"
+            "color": "#c3ba96",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#44526c",
-            "closest_css3":"#2f4f4f"
+            "color": "#7a566a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

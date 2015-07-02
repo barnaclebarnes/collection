@@ -1,42 +1,104 @@
 {
-    "id":"18687817",
-    "tms:id":"219415",
-    "accession_number":"2007-30-6",
-    "title":"Drawing, \"Design for Wallcovering with Kitchen Still Life of Blue Jugs and Cups on Red Background with White Polka Dots\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18687817\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35412105",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":"1923",
-    "year_end":"2000",
-    "year_acquired":"2007",
-    "decade":"1920",
-    "woe:country":null,
-    "medium":"Gouache and graphite on heavy cream wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"46.2 x 44.3 cm (18 3\/16 x 17 7\/16 in. )",
-    "creditline":"Gift of the Estate of Robert Dozier",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18687817",
+    "tms:id": "219415",
+    "accession_number": "2007-30-6",
+    "title": "Drawing, Design for Wallcovering with Kitchen Still Life of Blue Jugs and Cups on Red Background with White Polka Dots",
+    "title_raw": "Design for Wallcovering with Kitchen Still Life of Blue Jugs and Cups on Red Background with White Polka Dots",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18687817\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35412105",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": 1923,
+    "year_end": 2000,
+    "year_acquired": "2007",
+    "decade": "1920",
+    "woe:country_id": null,
+    "medium": "Gouache and graphite on heavy cream wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "46.2 x 44.3 cm (18 3\/16 x 17 7\/16 in. )",
+    "dimensions_raw": {
+        "height": [
+            "46.20",
+            "centimeters"
+        ],
+        "width": [
+            "44.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of the Estate of Robert Dozier",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Drawing",
+    "images": [
 
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18053539",
+            "role_id": "35236655",
+            "person_name": "Robert Dozier",
+            "person_date": "American, 1923\u20132000",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18053469",
+            "role_id": "35351535",
+            "person_name": "George Biderman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for Wallcovering with Kitchen Still Life of Blue Jugs and Cups on Red Background with White Polka Dots\".\nGouache and graphite on heavy cream wove paper. Gift of the Estate of Robert Dozier. 2007-30-6."
+    "tombstone": {
+        "epitaph": "Drawing, Design for Wallcovering with Kitchen Still Life of Blue Jugs and Cups on Red Background with White Polka Dots. Gouache and graphite on heavy cream wove paper. \nGift of the Estate of Robert Dozier. 2007-30-6"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#bd5662",
+            "closest_crayola": "#bc5d58",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#6286b1",
+            "closest_crayola": "#5d76cb",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        },
+        {
+            "color": "#c1a244",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#e0777a",
+            "closest_crayola": "#de5d83",
+            "closest_css3": "#f08080",
+            "closest_css4": "#f08080"
+        },
+        {
+            "color": "#3069a7",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#4682b4",
+            "closest_css4": "#4682b4"
+        }
+    ],
+    "is_loan_object": 0
 }

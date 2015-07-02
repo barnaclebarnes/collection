@@ -1,87 +1,170 @@
 {
-    "id":"18666363",
-    "tms:id":"208561",
-    "accession_number":"1995-50-88",
-    "title":"Textile, 1785\u201390",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18666363\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1785\u201390",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton \nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 114 x 91 cm (44 7\/8 x 35 13\/16 in.)\nRepeat H: 95.6 cm (37 5\/8 in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Large tent with exotic figures, a shopping bazaar and a roadway over water. In red on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18666363",
+    "tms:id": "208561",
+    "accession_number": "1995-50-88",
+    "title": "Textile, La foire du Caire (The Cairo fair), 1785\u201390",
+    "title_raw": "La foire du Caire (The Cairo fair)",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18666363\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1785\u201390",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton \nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 114 x 91 cm (44 7\/8 x 35 13\/16 in.)\nRepeat H: 95.6 cm (37 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "95.57",
+            "centimeters"
+        ],
+        "warp": [
+            "114.00",
+            "centimeters"
+        ],
+        "weft": [
+            "91.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Large tent with exotic figures, a shopping bazaar and a roadway over water. In red on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12242_3bde706b75706428_b.jpg",
-                "width":794,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108036_93f6837aaaf862be_b.jpg",
+                "width": 827,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "108036"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12242_3bde706b75706428_n.jpg",
-                "width":248,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108036_93f6837aaaf862be_z.jpg",
+                "width": 517,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "108036"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12242_3bde706b75706428_z.jpg",
-                "width":496,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108036_93f6837aaaf862be_n.jpg",
+                "width": 258,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108036"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108036_93f6837aaaf862be_d.gif",
+                "width": 258,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "108036"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/108036_93f6837aaaf862be_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "108036"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12242_3bde706b75706428_b.jpg",
+                "width": 794,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12242"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12242_3bde706b75706428_z.jpg",
+                "width": 496,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12242"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12242_3bde706b75706428_n.jpg",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12242"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12242_3bde706b75706428_d.gif",
+                "width": 248,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12242"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12242_3bde706b75706428_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12242"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045481",
-            "role_id":"35236685",
-            "person_name":"Petitpierre et Cie",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045481\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        },
+        {
+            "person_id": "18045481",
+            "role_id": "35236685",
+            "person_name": "Petitpierre et Cie",
+            "person_date": "1770 \u2013 1848",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, 1785\u201390.\n1785\u201390. Medium: cotton \nTechnique: printed by engraved copper plate on plain weave. Bequest of Elinor Merrell. 1995-50-88."
+    "tombstone": {
+        "epitaph": "Textile, La foire du Caire (The Cairo fair), 1785\u201390. Medium: cotton \nTechnique: printed by engraved copper plate on plain weave. \nBequest of Elinor Merrell. 1995-50-88"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#e88f80",
-            "closest_css3":"#e9967a"
+            "color": "#b18279",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#fac4ab",
-            "closest_css3":"#ffb6c1"
+            "color": "#bfab98",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
         },
         {
-            "color":"#fee8cc",
-            "closest_css3":"#ffebcd"
-        },
-        {
-            "color":"#b66f5f",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#b48d80",
-            "closest_css3":"#bc8f8f"
+            "color": "#995354",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

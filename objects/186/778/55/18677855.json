@@ -1,95 +1,178 @@
 {
-    "id":"18677855",
-    "tms:id":"214393",
-    "accession_number":"1969-165-89",
-    "title":"Sample, \"Feathers\", 1957",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18677855\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35429735",
-    "type_id":"35268079",
-    "date":"1957",
-    "year_start":"1957",
-    "year_end":"1957",
-    "year_acquired":"1969",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Medium: 81% cotton, 19% polyester\nTechnique: printed on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"61.5 x 60.5 cm (24 3\/16 x 23 13\/16 in. )",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Diamonds with rounded corners overlapping each other in rows. Printed in blue, green, tan, pink, and orange on white. Selvedge on one side and cut on other sides.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18677855",
+    "tms:id": "214393",
+    "accession_number": "1969-165-89",
+    "title": "Sample, Feathers, 1957",
+    "title_raw": "Feathers",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18677855\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35429735",
+    "type_id": "35268079",
+    "date": "1957",
+    "year_start": 1957,
+    "year_end": 1957,
+    "year_acquired": "1969",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Medium: 81% cotton, 19% polyester\nTechnique: printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "61.5 x 60.5 cm (24 3\/16 x 23 13\/16 in. )",
+    "dimensions_raw": {
+        "height": [
+            "61.50",
+            "centimeters"
+        ],
+        "width": [
+            "60.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Diamonds with rounded corners overlapping each other in rows. Printed in blue, green, tan, pink, and orange on white. Selvedge on one side and cut on other sides.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7229_a077139892786bcd_b.jpg",
-                "width":814,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80273_5e4519e01a08afdb_b.jpg",
+                "width": 996,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "80273"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7229_a077139892786bcd_n.jpg",
-                "width":254,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80273_5e4519e01a08afdb_z.jpg",
+                "width": 622,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "80273"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7229_a077139892786bcd_z.jpg",
-                "width":509,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80273_5e4519e01a08afdb_n.jpg",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80273"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80273_5e4519e01a08afdb_d.gif",
+                "width": 311,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80273"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80273_5e4519e01a08afdb_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80273"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7229_a077139892786bcd_b.jpg",
+                "width": 814,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "7229"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7229_a077139892786bcd_z.jpg",
+                "width": 509,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "7229"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7229_a077139892786bcd_n.jpg",
+                "width": 254,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7229"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7229_a077139892786bcd_d.gif",
+                "width": 254,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7229"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7229_a077139892786bcd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7229"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Feathers\", 1957.\n1957. Medium: 81% cotton, 19% polyester\nTechnique: printed on plain weave. Gift of Alexander H. Girard. 1969-165-89."
+    "tombstone": {
+        "epitaph": "Sample, Feathers, 1957. Medium: 81% cotton, 19% polyester\nTechnique: printed on plain weave. \nGift of Alexander H. Girard. 1969-165-89"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bc1b15",
-            "closest_css3":"#b22222"
+            "color": "#ba5769",
+            "closest_crayola": "#bc5d58",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         },
         {
-            "color":"#baa08a",
-            "closest_css3":"#bc8f8f"
+            "color": "#a6683c",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#bb5566",
-            "closest_css3":"#cd5c5c"
+            "color": "#ab8b72",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#c46c2a",
-            "closest_css3":"#d2691e"
+            "color": "#f4a545",
+            "closest_crayola": "#ffa343",
+            "closest_css3": "#f4a460",
+            "closest_css4": "#f4a460"
         },
         {
-            "color":"#967558",
-            "closest_css3":"#808080"
+            "color": "#5a5e42",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

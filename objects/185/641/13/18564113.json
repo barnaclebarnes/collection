@@ -1,80 +1,178 @@
 {
-    "id":"18564113",
-    "tms:id":"75260",
-    "accession_number":"1941-69-195",
-    "title":"Sampler, 1836",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564113\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427223",
-    "type_id":"35256439",
-    "date":"1836",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424900",
-    "medium":"Medium: silk and glass beads on silk foundation\nTechnique: beadwork on satin weave",
-    "markings":null,
-    "signed":"\"Dolores Espo\u00f1a dedicates this to her mother, made at  the direction of....\"",
-    "inscribed":"\"Dolores Espo\u00f1a dedicates this to her mother, made at  the direction of....\"",
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"Warp x Weft: 35 x 39.5 cm (13 3\/4 x 15 9\/16 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"Moses in the Bulrushes.  Inscription in back stitch (?) reads \"Dolores Espo\u00f1a dedicates this to her mother, made at  the direction of....\"",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18564113",
+    "tms:id": "75260",
+    "accession_number": "1941-69-195",
+    "title": "Sampler (Mexico), 1836",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564113\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427223",
+    "type_id": "35256439",
+    "date": "1836",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424900",
+    "medium": "Medium: silk and glass beads on silk foundation\nTechnique: beadwork on satin weave",
+    "markings": null,
+    "signed": "\"Dolores Espo\u00f1a dedicates this to her mother, made at  the direction of....\"",
+    "inscribed": "\"Dolores Espo\u00f1a dedicates this to her mother, made at  the direction of....\"",
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "Warp x Weft: 35 x 39.5 cm (13 3\/4 x 15 9\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "35.00",
+            "centimeters"
+        ],
+        "weft": [
+            "39.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "Moses in the Bulrushes.  Inscription in back stitch (?) reads \"Dolores Espo\u00f1a dedicates this to her mother, made at  the direction of....\"",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424900",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28528_f3118abc9aaf6edc_b.jpg",
-                "width":1024,
-                "height":928,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66326_74cbb88cb705217e_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "66326"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28528_f3118abc9aaf6edc_n.jpg",
-                "width":320,
-                "height":290,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66326_74cbb88cb705217e_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "66326"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/28528_f3118abc9aaf6edc_z.jpg",
-                "width":640,
-                "height":580,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66326_74cbb88cb705217e_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66326"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66326_74cbb88cb705217e_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66326"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66326_74cbb88cb705217e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66326"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28528_f3118abc9aaf6edc_b.jpg",
+                "width": 1024,
+                "height": 928,
+                "is_primary": "0",
+                "image_id": "28528"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28528_f3118abc9aaf6edc_z.jpg",
+                "width": 640,
+                "height": 580,
+                "is_primary": "0",
+                "image_id": "28528"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28528_f3118abc9aaf6edc_n.jpg",
+                "width": 320,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "28528"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28528_f3118abc9aaf6edc_d.gif",
+                "width": 320,
+                "height": 290,
+                "is_primary": "0",
+                "image_id": "28528"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/28528_f3118abc9aaf6edc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "28528"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1836.\n1836. Medium: silk and glass beads on silk foundation\nTechnique: beadwork on satin weave. Bequest of Mrs. Henry E. Coe. 1941-69-195."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cdcabc",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         },
         {
-            "color":"#273024",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#a59d93",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#55341c",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#4a442f",
-            "closest_css3":"#556b2f"
+            "person_id": "68737417",
+            "role_id": "35236583",
+            "person_name": "Dolores Espo\u00f1a",
+            "person_date": "",
+            "role_name": "Embroiderer",
+            "role_display_name": "Embroidered by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/68737417\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Mexico), 1836. Medium: silk and glass beads on silk foundation\nTechnique: beadwork on satin weave. \nBequest of Mrs. Henry E. Coe. 1941-69-195"
+    },
+    "colors": [
+        {
+            "color": "#c7c09b",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#a4966c",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#7c8452",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#555a3f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#1c241a",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "Mexico",
+    "is_loan_object": 0
 }

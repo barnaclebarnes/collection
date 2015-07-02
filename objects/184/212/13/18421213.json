@@ -1,91 +1,166 @@
 {
-    "id":"18421213",
-    "tms:id":"120847",
-    "accession_number":"1958-13-1",
-    "title":"Drawing, \"Design for Pendant: La Po\u00e9sie\", 1900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18421213\/",
-    "department_id":"35347493",
-    "period_id":"35417231",
-    "media_id":"35420083",
-    "type_id":"35237093",
-    "date":"1900",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1958",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Brush and watercolor, gouache, graphite on gray-green wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Gift of Anonymous Donor",
-    "dimensions":"32.5 x 25 cm (12 13\/16 x 9 13\/16 in.)",
-    "creditline":"Gift of Anonymous Donor",
-    "description":"Head of a female figure, possibly a personification of the nymph Flora, playing a harp, with leaves and clover surrounding her.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18421213",
+    "tms:id": "120847",
+    "accession_number": "1958-13-1",
+    "title": "Drawing, Design for Pendant: La Po\u00e9sie, 1900",
+    "title_raw": "Design for Pendant: La Po\u00e9sie",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18421213\/",
+    "department_id": "35347493",
+    "period_id": "35417231",
+    "media_id": "35420083",
+    "type_id": "35237093",
+    "date": "1900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1958",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Brush and watercolor, gouache, graphite on gray-green wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1958: acquired by Museum from Anonymous donor",
+    "dimensions": "32.5 x 25 cm (12 13\/16 x 9 13\/16 in.)\nMat: 45.7 x 35.6 cm (18 x 14 in.)",
+    "dimensions_raw": {
+        "height": [
+            "45.70",
+            "centimeters"
+        ],
+        "width": [
+            "35.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Anonymous Donor",
+    "description": "Head of a female figure, possibly a personification of the nymph Flora, playing a harp, with leaves and clover surrounding her.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23986_84e7b0b725f9ff54_b.jpg",
-                "width":800,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90072_16336bbb69cb8f33_b.jpg",
+                "width": 738,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90072"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23986_84e7b0b725f9ff54_n.jpg",
-                "width":250,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90072_16336bbb69cb8f33_z.jpg",
+                "width": 461,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90072"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/23986_84e7b0b725f9ff54_z.jpg",
-                "width":500,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90072_16336bbb69cb8f33_n.jpg",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90072"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90072_16336bbb69cb8f33_d.gif",
+                "width": 231,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90072"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90072_16336bbb69cb8f33_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90072"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23986_84e7b0b725f9ff54_b.jpg",
+                "width": 800,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "23986"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23986_84e7b0b725f9ff54_z.jpg",
+                "width": 500,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "23986"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23986_84e7b0b725f9ff54_n.jpg",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "23986"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23986_84e7b0b725f9ff54_d.gif",
+                "width": 250,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "23986"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/23986_84e7b0b725f9ff54_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "23986"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049335",
-            "role_id":"35351535",
-            "person_name":"Anonymous",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049335",
+            "role_id": "35351535",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18042605",
-            "role_id":"35236655",
-            "person_name":"Eug\u00e8ne Samuel Grasset",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042605\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18042605",
+            "role_id": "35236655",
+            "person_name": "Eug\u00e8ne Samuel Grasset",
+            "person_date": "Swiss, 1841 \u2013 1917; active Paris, France 1871\u20131917",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042605\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Design for Pendant: La Po\u00e9sie\", 1900.\n1900. Brush and watercolor, gouache, graphite on gray-green wove paper. Gift of Anonymous Donor. 1958-13-1."
+    "tombstone": {
+        "epitaph": "Drawing, Design for Pendant: La Po\u00e9sie, 1900. Brush and watercolor, gouache, graphite on gray-green wove paper. \nGift of Anonymous Donor. 1958-13-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#786339",
-            "closest_css3":"#556b2f"
+            "color": "#ebe9d3",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
         },
         {
-            "color":"#a69264",
-            "closest_css3":"#bdb76b"
+            "color": "#605839",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#524e34",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#84805f",
-            "closest_css3":"#808080"
+            "color": "#8b7f55",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

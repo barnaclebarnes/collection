@@ -1,95 +1,168 @@
 {
-    "id":"18705565",
-    "tms:id":"228588",
-    "accession_number":"2006-8-6",
-    "title":"Pasta Server, \"Padova\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18705565\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389463",
-    "type_id":"35303275",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"2006",
-    "decade":null,
-    "woe:country":null,
-    "medium":"silver",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Tiffany & Co.",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35303275",
-        "name":"Pasta server"
+    "id": "18705565",
+    "tms:id": "228588",
+    "accession_number": "2006-8-6",
+    "title": "Padova Pasta Server, ca. 1984",
+    "title_raw": "Padova",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18705565\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35303275",
+    "date": "ca. 1984",
+    "year_start": 1979,
+    "year_end": 1989,
+    "year_acquired": "2006",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Tiffany and Co., New York; 2006: acquired by Museum",
+    "dimensions": "H x W x D: 28.5 x 5 x 3.2 cm (11 1\/4 x 1 15\/16 x 1 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "3.20",
+            "centimeters"
+        ],
+        "height": [
+            "28.50",
+            "centimeters"
+        ],
+        "width": [
+            "5.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Tiffany & Co.",
+    "description": "Silver pasta server with closed loop at end of handle.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Pasta server",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22371_0595072c2a0567dc_b.jpg",
-                "width":412,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89136_d78a8dcc0ffdd614_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89136"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22371_0595072c2a0567dc_n.jpg",
-                "width":129,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89136_d78a8dcc0ffdd614_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89136"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/22371_0595072c2a0567dc_z.jpg",
-                "width":258,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89136_d78a8dcc0ffdd614_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89136"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89136_d78a8dcc0ffdd614_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89136"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89136_d78a8dcc0ffdd614_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89136"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22371_0595072c2a0567dc_b.jpg",
+                "width": 412,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "22371"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22371_0595072c2a0567dc_z.jpg",
+                "width": 258,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "22371"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22371_0595072c2a0567dc_n.jpg",
+                "width": 129,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "22371"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22371_0595072c2a0567dc_d.gif",
+                "width": 129,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "22371"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/22371_0595072c2a0567dc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "22371"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044203",
-            "role_id":"35236655",
-            "person_name":"Elsa Peretti",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044203\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18044203",
+            "role_id": "35236655",
+            "person_name": "Elsa Peretti",
+            "person_date": "Italian, b. 1940",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044203\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         },
         {
-            "person_id":"18052955",
-            "role_id":"35351535",
-            "person_name":"Tiffany and Co., New York",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18052955\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18052955",
+            "role_id": "35351535",
+            "person_name": "Tiffany and Co., New York",
+            "person_date": "Corona, New York, USA",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052955\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18052955",
-            "role_id":"35236657",
-            "person_name":"Tiffany and Co., New York",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18052955\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18052955",
+            "role_id": "35236657",
+            "person_name": "Tiffany and Co., New York",
+            "person_date": "Corona, New York, USA",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052955\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Pasta Server, \"Padova\".\nsilver. Gift of Tiffany &amp; Co.. 2006-8-6."
+    "tombstone": {
+        "epitaph": "Padova Pasta Server, ca. 1984. Silver. \nGift of Tiffany &amp; Co.. 2006-8-6"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#46443b",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#74725c",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#9a998c",
-            "closest_css3":"#bc8f8f"
+            "color": "#71716e",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

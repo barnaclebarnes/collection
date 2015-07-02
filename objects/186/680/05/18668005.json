@@ -1,80 +1,160 @@
 {
-    "id":"18668005",
-    "tms:id":"209406",
-    "accession_number":"1995-50-164",
-    "title":"Textile, early 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18668005\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"early 19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 83 cm (32 1\/2 in.)\nWeft: 81 cm (34 3\/4 in.) (Edges cut).\nHeight of repeat: 47 cm (18 1\/2 in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Scenes illustrating a story of a lost young woman. In purple on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18668005",
+    "tms:id": "209406",
+    "accession_number": "1995-50-164",
+    "title": "Textile (France), early 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18668005\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "early 19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 83 x 81 cm (32 11\/16 x 31 7\/8 in.)\nRepeat H: 47 cm (18 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "47.00",
+            "centimeters"
+        ],
+        "warp": [
+            "83.00",
+            "centimeters"
+        ],
+        "weft": [
+            "81.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Scenes illustrating a story of a lost young woman. In purple on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12869_c1930c1a5ab22e33_b.jpg",
-                "width":684,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110176_5af1b61bf6d96ae3_b.jpg",
+                "width": 1024,
+                "height": 1002,
+                "is_primary": "1",
+                "image_id": "110176"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12869_c1930c1a5ab22e33_n.jpg",
-                "width":214,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110176_5af1b61bf6d96ae3_z.jpg",
+                "width": 640,
+                "height": 626,
+                "is_primary": "1",
+                "image_id": "110176"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12869_c1930c1a5ab22e33_z.jpg",
-                "width":428,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110176_5af1b61bf6d96ae3_n.jpg",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "110176"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110176_5af1b61bf6d96ae3_d.gif",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "110176"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110176_5af1b61bf6d96ae3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110176"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12869_c1930c1a5ab22e33_b.jpg",
+                "width": 684,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12869"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12869_c1930c1a5ab22e33_z.jpg",
+                "width": 428,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12869"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12869_c1930c1a5ab22e33_n.jpg",
+                "width": 214,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12869"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12869_c1930c1a5ab22e33_d.gif",
+                "width": 214,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12869"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12869_c1930c1a5ab22e33_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12869"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, early 19th century.\nearly 19th century. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. Bequest of Elinor Merrell. 1995-50-164."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#e7b78f",
-            "closest_css3":"#deb887"
-        },
-        {
-            "color":"#e8a694",
-            "closest_css3":"#deb887"
-        },
-        {
-            "color":"#bdb1a3",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#c38d70",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#ad685a",
-            "closest_css3":"#cd5c5c"
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), early 19th century. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave. \nBequest of Elinor Merrell. 1995-50-164"
+    },
+    "colors": [
+        {
+            "color": "#a18e85",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7c5a5c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#927470",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

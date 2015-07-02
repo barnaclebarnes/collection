@@ -1,42 +1,107 @@
 {
-    "id":"18621153",
-    "tms:id":"185392",
-    "accession_number":"1986-61-133",
-    "title":"Sweetmeat Glass",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18621153\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35293901",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1986",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"W. G. T. Burns, London; 1959 WPW",
-    "dimensions":"H x W: 10.1 x 5.9cm (4 x 2 5\/16in.)",
-    "creditline":"Bequest of Walter Phelps Warren",
-    "description":"Pan-topped bowl engraved with cross-hatched swags and floral drops between;stepped base, wide flat circular foot; slightly pinkish color to glass; pontil mark on bottom.",
-    "justification":null,
-    "type":{
-        "id":"35293901",
-        "name":"sweetmeat glass"
+    "id": "18621153",
+    "tms:id": "185392",
+    "accession_number": "1986-61-133",
+    "title": "Sweetmeat Glass (possibly England)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18621153\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35293901",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1986",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "W. G. T. Burns, London; 1959 WPW",
+    "dimensions": "H x W: 10.1 x 5.9cm (4 x 2 5\/16in.)",
+    "dimensions_raw": {
+        "height": [
+            "10.10",
+            "centimeters"
+        ],
+        "width": [
+            "5.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Walter Phelps Warren",
+    "description": "Pan-topped bowl engraved with cross-hatched swags and floral drops between;stepped base, wide flat circular foot; slightly pinkish color to glass; pontil mark on bottom.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "sweetmeat glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113101_4aa64791d8cc160a_b.jpg",
+                "width": 839,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113101"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113101_4aa64791d8cc160a_z.jpg",
+                "width": 524,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113101"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113101_4aa64791d8cc160a_n.jpg",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113101"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113101_4aa64791d8cc160a_d.gif",
+                "width": 262,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113101"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113101_4aa64791d8cc160a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113101"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18539539",
+            "role_id": "35351537",
+            "person_name": "Walter Phelps Warren",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539539\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Sweetmeat Glass.\nGlass. Bequest of Walter Phelps Warren. 1986-61-133."
+    "tombstone": {
+        "epitaph": "Sweetmeat Glass (possibly England). Glass. \nBequest of Walter Phelps Warren. 1986-61-133"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

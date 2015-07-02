@@ -1,87 +1,150 @@
 {
-    "id":"18569229",
-    "tms:id":"78315",
-    "accession_number":"1943-43-32",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18569229\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"117145",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1943",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Technique: roller printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of W. and J. Sloane",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18569229",
+    "tms:id": "78315",
+    "accession_number": "1943-43-32",
+    "title": "Textile (France), 1825",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18569229\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1825",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1943",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: roller printed on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 46 x 37 cm (18 1\/8 x 14 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "46.00",
+            "centimeters"
+        ],
+        "width": [
+            "37.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of W. and J. Sloane",
+    "description": "Small-patterned design of a man with a bowling ball and three pins. Printed in red on a white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15608_cfa398ba59057683_b.jpg",
-                "width":670,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64004_de3e7c06890ce026_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "64004"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15608_cfa398ba59057683_n.jpg",
-                "width":209,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64004_de3e7c06890ce026_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "64004"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15608_cfa398ba59057683_z.jpg",
-                "width":419,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64004_de3e7c06890ce026_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64004"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64004_de3e7c06890ce026_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "64004"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/64004_de3e7c06890ce026_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "64004"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15608_cfa398ba59057683_b.jpg",
+                "width": 670,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "15608"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15608_cfa398ba59057683_z.jpg",
+                "width": 419,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "15608"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15608_cfa398ba59057683_n.jpg",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15608"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15608_cfa398ba59057683_d.gif",
+                "width": 209,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "15608"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15608_cfa398ba59057683_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "15608"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18042255",
-            "role_id":"35351535",
-            "person_name":"W. and J. Sloane",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042255\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18042255",
+            "role_id": "35351535",
+            "person_name": "W. and J. Sloane",
+            "person_date": "1843\u20131985",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042255\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nTechnique: roller printed. Gift of W. and J. Sloane. 1943-43-32."
+    "tombstone": {
+        "epitaph": "Textile (France), 1825. Medium: cotton\nTechnique: roller printed on plain weave. \nGift of W. and J. Sloane. 1943-43-32"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#cfc7e4",
-            "closest_css3":"#d8bfd8"
+            "color": "#aa7155",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         },
         {
-            "color":"#d6e3f7",
-            "closest_css3":"#e6e6fa"
-        },
-        {
-            "color":"#a8a1c2",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#b04d5a",
-            "closest_css3":"#cd5c5c"
-        },
-        {
-            "color":"#bf8aa8",
-            "closest_css3":"#bc8f8f"
+            "color": "#b99077",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

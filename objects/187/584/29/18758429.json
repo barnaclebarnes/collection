@@ -1,58 +1,141 @@
 {
-    "id":"18758429",
-    "tms:id":"255500",
-    "accession_number":"2010-21-110",
-    "title":"Poster, \"Hoffnung und Widerstand\", ca. 1998",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18758429\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35434623",
-    "type_id":"35238163",
-    "date":"ca. 1998",
-    "year_start":"1998",
-    "year_end":"1998",
-    "year_acquired":"2010",
-    "decade":"1990",
-    "woe:country":null,
-    "medium":"Offset lithograph, stencil and black spray paint on wove paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.",
-    "dimensions":"127.9 x 89.6 cm (50 3\/8 x 35 1\/4 in.)",
-    "creditline":"Gift of Sara and Marc Benda",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18758429",
+    "tms:id": "255500",
+    "accession_number": "2010-21-110",
+    "title": "Poster, Hoffnung und Widerstand, ca. 1998",
+    "title_raw": "Hoffnung und Widerstand",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18758429\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35434623",
+    "type_id": "35238163",
+    "date": "ca. 1998",
+    "year_start": 1998,
+    "year_end": 1998,
+    "year_acquired": "2010",
+    "decade": "1990",
+    "woe:country_id": "23424957",
+    "medium": "Offset lithograph, stencil and black spray paint on wove paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Sara and Marc Benda (acquired new and directly from designer, Cornel Windlin); 2010: acquired by Museum",
+    "dimensions": "127.9 \u00d7 89.7 cm (50 3\/8 \u00d7 35 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "127.90",
+            "centimeters"
+        ],
+        "width": [
+            "89.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sara and Marc Benda",
+    "description": "In yellow and red, a photo of Che Guevara; with 4 black spray painted circles and the letter B. In lower margin: HOFFNUNG UND WIDERSTAND \/ Plakate der internationalen Arbeiter- und Friedensbewegung \/ 2. September bis 18. Oktober MUSEUM FUR GESTALTUNG ZURICH \/ D-Fr. 10-18 Mi 10-21 Sa\/So 11-18.",
+    "justification": null,
+    "gallery_text": "This series of posters displays headshots of Che Guevara, a celebrated Marxist figure, printed in red and yellow (colors of the Soviet Communist flag) with a black stenciled overlay. Cornel Windlin uses street art techniques and highlights their placement within the highbrow setting of a museum. The immediacy associated with street art and activism calls for low-tech methods of design. This juxtaposition raises questions on the nature of Marxism within a normally bourgeois setting.",
+    "label_text": "These posters, created for an exhibition about the history of political posters, feature a screenprinted image of Ernesto \u201cChe\u201d Guevara, the Argentine revolutionary whose face became synonymous with leftist opposition movements in the 20th century. Variations of the poster were produced by directly spray painting different messages and marks over Guevara\u2019s portrait.",
+    "videos": null,
+    "on_display": "1",
+    "woe:country": "23424957",
+    "type": "poster",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45563_3a937ddbba8e1121_b.jpg",
-                "width":720,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45563_3b1201b642c156c0_b.jpg",
+                "width": 716,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "45563"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45563_3a937ddbba8e1121_n.jpg",
-                "width":225,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45563_3b1201b642c156c0_z.jpg",
+                "width": 448,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "45563"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45563_3a937ddbba8e1121_z.jpg",
-                "width":450,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45563_3b1201b642c156c0_n.jpg",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45563"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45563_3b1201b642c156c0_d.gif",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "45563"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45563_3b1201b642c156c0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45563"
             }
         }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18063557",
+            "role_id": "35236667",
+            "person_name": "Museum f\u00fcr Gestaltung, Z\u00fcrich",
+            "person_date": "Z\u00fcrich, Switzerland",
+            "role_name": "Client",
+            "role_display_name": "Client:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063557\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        },
+        {
+            "person_id": "18063543",
+            "role_id": "35236655",
+            "person_name": "Cornel Windlin",
+            "person_date": "Swiss, b. 1964",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063543\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "exhibitions":[
-
-    ]
+    "tombstone": {
+        "epitaph": "Poster, Hoffnung und Widerstand, ca. 1998. Offset lithograph, stencil and black spray paint on wove paper. \nGift of Sara and Marc Benda. 2010-21-110"
+    },
+    "colors": [
+        {
+            "color": "#fcde00",
+            "closest_crayola": "#fefe22",
+            "closest_css3": "#ffd700",
+            "closest_css4": "#ffd700"
+        },
+        {
+            "color": "#c8302a",
+            "closest_crayola": "#cd4a4c",
+            "closest_css3": "#b22222",
+            "closest_css4": "#b22222"
+        },
+        {
+            "color": "#e25f28",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#d2691e",
+            "closest_css4": "#d2691e"
+        },
+        {
+            "color": "#ea8525",
+            "closest_crayola": "#ff7538",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#f4b91b",
+            "closest_crayola": "#ffae42",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        }
+    ],
+    "woe:country_name": "Switzerland",
+    "is_loan_object": 0
 }

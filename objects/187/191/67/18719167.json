@@ -1,42 +1,102 @@
 {
-    "id":"18719167",
-    "tms:id":"235493",
-    "accession_number":"1991-81-1193",
-    "title":"Handle, \"Heritage\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18719167\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389779",
-    "type_id":"35249071",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1991",
-    "decade":null,
-    "woe:country":null,
-    "medium":"wood",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of David and Gregory Wallance",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249071",
-        "name":"handle"
+    "id": "18719167",
+    "tms:id": "235493",
+    "accession_number": "1991-81-1193",
+    "title": "Heritage Handle",
+    "title_raw": "Heritage",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18719167\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389779",
+    "type_id": "35249071",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1991",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "wood",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of David and Gregory Wallance",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "handle",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123823_eb4b69db1a920f78_b.jpg",
+                "width": 593,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "123823"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123823_eb4b69db1a920f78_z.jpg",
+                "width": 370,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "123823"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123823_eb4b69db1a920f78_n.jpg",
+                "width": 185,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123823"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123823_eb4b69db1a920f78_d.gif",
+                "width": 185,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "123823"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/123823_eb4b69db1a920f78_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "123823"
+            }
+        }
+    ],
+    "participants": [
+        {
+            "person_id": "18054673",
+            "role_id": "35351535",
+            "person_name": "Gregory J. Wallance",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054673\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18054675",
+            "role_id": "35351535",
+            "person_name": "David M. Wallance",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054675\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Heritage Handle. wood. \nGift of David and Gregory Wallance. 1991-81-1193"
     },
-    "images":[
+    "colors": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Handle, \"Heritage\".\nwood. Gift of David and Gregory Wallance. 1991-81-1193."
-    },
-    "colors":[
-
-    ]
+    "is_loan_object": 0
 }

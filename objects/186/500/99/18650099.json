@@ -1,80 +1,168 @@
 {
-    "id":"18650099",
-    "tms:id":"199974",
-    "accession_number":"1995-142-3",
-    "title":"Textile, 1950\u201357",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18650099\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1950\u201357",
-    "year_start":"1950",
-    "year_end":"1957",
-    "year_acquired":"1995",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: screen printed on a textured woven foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 69.2 x 105.4 cm (27 1\/4 x 41 1\/2 in.)",
-    "creditline":"Gift of David Dutra",
-    "description":"Design of boomerang-like shapes in two greens, grey, red, black, and metallic silver.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18650099",
+    "tms:id": "199974",
+    "accession_number": "1995-142-3",
+    "title": "Textile (USA), 1950\u201357",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18650099\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1950\u201357",
+    "year_start": 1950,
+    "year_end": 1957,
+    "year_acquired": "1995",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: screen printed on a textured woven foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 69.2 x 105.4 cm (27 1\/4 x 41 1\/2 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "69.20",
+            "centimeters"
+        ],
+        "weft": [
+            "105.40",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of David Dutra",
+    "description": "Design of boomerang-like shapes in two greens, grey, red, black, and metallic silver.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45313_92dd706a4c6dac59_b.jpg",
-                "width":1024,
-                "height":685,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45313_0cb5d7a130ac8de8_b.jpg",
+                "width": 1024,
+                "height": 664,
+                "is_primary": "1",
+                "image_id": "45313"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45313_92dd706a4c6dac59_n.jpg",
-                "width":320,
-                "height":214,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45313_0cb5d7a130ac8de8_z.jpg",
+                "width": 640,
+                "height": 415,
+                "is_primary": "1",
+                "image_id": "45313"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/45313_92dd706a4c6dac59_z.jpg",
-                "width":640,
-                "height":428,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45313_0cb5d7a130ac8de8_n.jpg",
+                "width": 320,
+                "height": 208,
+                "is_primary": "1",
+                "image_id": "45313"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45313_0cb5d7a130ac8de8_d.gif",
+                "width": 320,
+                "height": 208,
+                "is_primary": "1",
+                "image_id": "45313"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/45313_0cb5d7a130ac8de8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "45313"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79127_fb3f541900c8ec24_b.jpg",
+                "width": 1024,
+                "height": 663,
+                "is_primary": "0",
+                "image_id": "79127"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79127_fb3f541900c8ec24_z.jpg",
+                "width": 640,
+                "height": 414,
+                "is_primary": "0",
+                "image_id": "79127"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79127_fb3f541900c8ec24_n.jpg",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79127"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79127_fb3f541900c8ec24_d.gif",
+                "width": 320,
+                "height": 207,
+                "is_primary": "0",
+                "image_id": "79127"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79127_fb3f541900c8ec24_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79127"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1950\u201357.\n1950\u201357. Medium: cotton\nTechnique: screen printed on a textured woven foundation. Gift of David Dutra. 1995-142-3."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#aea18f",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#475f45",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#a72724",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#372c2e",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#b2b033",
-            "closest_css3":"#9acd32"
+            "person_id": "18041745",
+            "role_id": "35351535",
+            "person_name": "David Dutra",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041745\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (USA), 1950\u201357. Medium: cotton\nTechnique: screen printed on a textured woven foundation. \nGift of David Dutra. 1995-142-3"
+    },
+    "colors": [
+        {
+            "color": "#ddd4b3",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#364a35",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#873a20",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#969476",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#989c50",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

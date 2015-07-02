@@ -1,49 +1,232 @@
 {
-    "id":"18133309",
-    "tms:id":"12058",
-    "accession_number":"1902-1-822-a\/d",
-    "title":"Fragments, late 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18133309\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35254679",
-    "date":"late 17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1902",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: silk\nTechnique: 7&1 satin with discontinuous supplementary wefts",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Antonio Viv\u00e9s y Escudero",
-    "dimensions":null,
-    "creditline":"Gift of John Pierpont Morgan",
-    "description":"Floral forms on brown ground.",
-    "justification":null,
-    "type":{
-        "id":"35254679",
-        "name":"Fragments"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18133309",
+    "tms:id": "12058",
+    "accession_number": "1902-1-822-a\/d",
+    "title": "Fragments, late 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18133309\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254679",
+    "date": "late 17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1902",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk\nTechnique: 7&1 satin with discontinuous supplementary wefts",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Antonio Viv\u00e9s y Escudero",
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of John Pierpont Morgan",
+    "description": "Floral forms on brown ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragments",
+    "images": [
         {
-            "person_id":"18049445",
-            "role_id":"35351535",
-            "person_name":"John Pierpont Morgan",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90581_a39e5e3129bc6519_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "90581"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90581_a39e5e3129bc6519_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "90581"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90581_a39e5e3129bc6519_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90581"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90581_a39e5e3129bc6519_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "90581"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90581_a39e5e3129bc6519_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "90581"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90582_c350288cd71f980d_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "90582"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90582_c350288cd71f980d_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "90582"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90582_c350288cd71f980d_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90582"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90582_c350288cd71f980d_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "90582"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/90582_c350288cd71f980d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "90582"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85673_acfb7094882acc9f_b.jpg",
+                "width": 1024,
+                "height": 669,
+                "is_primary": "0",
+                "image_id": "85673"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85673_acfb7094882acc9f_z.jpg",
+                "width": 640,
+                "height": 418,
+                "is_primary": "0",
+                "image_id": "85673"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85673_acfb7094882acc9f_n.jpg",
+                "width": 320,
+                "height": 209,
+                "is_primary": "0",
+                "image_id": "85673"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85673_acfb7094882acc9f_d.gif",
+                "width": 320,
+                "height": 209,
+                "is_primary": "0",
+                "image_id": "85673"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85673_acfb7094882acc9f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "85673"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85674_bb63e949dbcc5d4d_b.jpg",
+                "width": 1024,
+                "height": 669,
+                "is_primary": "0",
+                "image_id": "85674"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85674_bb63e949dbcc5d4d_z.jpg",
+                "width": 640,
+                "height": 418,
+                "is_primary": "0",
+                "image_id": "85674"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85674_bb63e949dbcc5d4d_n.jpg",
+                "width": 320,
+                "height": 209,
+                "is_primary": "0",
+                "image_id": "85674"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85674_bb63e949dbcc5d4d_d.gif",
+                "width": 320,
+                "height": 209,
+                "is_primary": "0",
+                "image_id": "85674"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85674_bb63e949dbcc5d4d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "85674"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Fragments, late 17th century.\nlate 17th century. Medium: silk\nTechnique: 7&amp;1 satin with discontinuous supplementary wefts. Gift of John Pierpont Morgan. 1902-1-822-a\/d."
+    "participants": [
+        {
+            "person_id": "18049445",
+            "role_id": "35351535",
+            "person_name": "John Pierpont Morgan",
+            "person_date": "American, 1837\u20131913",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Fragments, late 17th century. Medium: silk\nTechnique: 7&amp;1 satin with discontinuous supplementary wefts. \nGift of John Pierpont Morgan. 1902-1-822-a\/d"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#594e31",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#6d683b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a9a37b",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#7a5436",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#977f5b",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

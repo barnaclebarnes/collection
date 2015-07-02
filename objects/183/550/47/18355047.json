@@ -1,87 +1,150 @@
 {
-    "id":"18355047",
-    "tms:id":"60930",
-    "accession_number":"1938-82-28",
-    "title":"Textile Sample, ca. 1925",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18355047\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35287899",
-    "date":"ca. 1925",
-    "year_start":"1920",
-    "year_end":"1930",
-    "year_acquired":"1938",
-    "decade":"1920",
-    "woe:country":"23424819",
-    "medium":"Medium: silk\nTechnique: printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 27.6 x 88.3 cm (10 7\/8 x 34 3\/4 in.)",
-    "creditline":"Anonymous bequest in memory of Albert and Rebecca Elsberg",
-    "description":"Broad vertical stripes of alternately loosely and closely woven plain cloth, separated by narrow satin stripes. Orchid ground. Over the sheer stripes is printed a serpentine vine with exotic foliage. Both selvedges present.",
-    "justification":null,
-    "type":{
-        "id":"35287899",
-        "name":"Textile sample"
+    "id": "18355047",
+    "tms:id": "60930",
+    "accession_number": "1938-82-28",
+    "title": "Textile Sample (France), ca. 1925",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18355047\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35287899",
+    "date": "ca. 1925",
+    "year_start": 1920,
+    "year_end": 1930,
+    "year_acquired": "1938",
+    "decade": "1920",
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk\nTechnique: printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 27.6 x 88.3 cm (10 7\/8 x 34 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.62",
+            "centimeters"
+        ],
+        "width": [
+            "88.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Anonymous bequest in memory of Albert and Rebecca Elsberg",
+    "description": "Broad vertical stripes of alternately loosely and closely woven plain cloth, separated by narrow satin stripes. Orchid ground. Over the sheer stripes is printed a serpentine vine with exotic foliage. Both selvedges present.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Textile sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3700_9fc34699db05f0f9_b.jpg",
-                "width":1024,
-                "height":371,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109271_190a4797500e6bf7_b.jpg",
+                "width": 1024,
+                "height": 409,
+                "is_primary": "1",
+                "image_id": "109271"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3700_9fc34699db05f0f9_n.jpg",
-                "width":320,
-                "height":116,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109271_190a4797500e6bf7_z.jpg",
+                "width": 640,
+                "height": 256,
+                "is_primary": "1",
+                "image_id": "109271"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3700_9fc34699db05f0f9_z.jpg",
-                "width":640,
-                "height":232,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109271_190a4797500e6bf7_n.jpg",
+                "width": 320,
+                "height": 128,
+                "is_primary": "1",
+                "image_id": "109271"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109271_190a4797500e6bf7_d.gif",
+                "width": 320,
+                "height": 128,
+                "is_primary": "1",
+                "image_id": "109271"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109271_190a4797500e6bf7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109271"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3700_9fc34699db05f0f9_b.jpg",
+                "width": 1024,
+                "height": 371,
+                "is_primary": "0",
+                "image_id": "3700"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3700_9fc34699db05f0f9_z.jpg",
+                "width": 640,
+                "height": 232,
+                "is_primary": "0",
+                "image_id": "3700"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3700_9fc34699db05f0f9_n.jpg",
+                "width": 320,
+                "height": 116,
+                "is_primary": "0",
+                "image_id": "3700"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3700_9fc34699db05f0f9_d.gif",
+                "width": 320,
+                "height": 116,
+                "is_primary": "0",
+                "image_id": "3700"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3700_9fc34699db05f0f9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3700"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049335",
-            "role_id":"35351537",
-            "person_name":"Anonymous",
-            "role_name":"Bequestor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+            "person_id": "18049335",
+            "role_id": "35351537",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile Sample, ca. 1925.\nca. 1925. Medium: silk\nTechnique: printed. Anonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-28."
+    "tombstone": {
+        "epitaph": "Textile Sample (France), ca. 1925. Medium: silk\nTechnique: printed. \nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-28"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#b8abca",
-            "closest_css3":"#c0c0c0"
+            "color": "#ae998a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#786e83",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#9890a1",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#e4d9f2",
-            "closest_css3":"#e6e6fa"
-        },
-        {
-            "color":"#8e8882",
-            "closest_css3":"#808080"
+            "color": "#917e79",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,87 +1,188 @@
 {
-    "id":"18353613",
-    "tms:id":"60097",
-    "accession_number":"1938-62-22",
-    "title":"Border, 1810\u201315",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18353613\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414645",
-    "type_id":"35237285",
-    "date":"1810\u201315",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed and flocked on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"20.5 x 35 cm (8 1\/16 x 13 3\/4 in.)",
-    "creditline":"Gift of Grace Lincoln Temple",
-    "description":"Vertical rectangle. Portion of a frieze with simulated carved architectural moldings across bottom. Above, portion of two floral wreaths through which passes white satin drapery shaded in greys and green. The top edge of the drapery has been cut out.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18353613",
+    "tms:id": "60097",
+    "accession_number": "1938-62-22",
+    "title": "Border (France), 1810\u201315",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18353613\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414645",
+    "type_id": "35237285",
+    "date": "1810\u201315",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed and flocked on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "20.5 x 35 cm (8 1\/16 x 13 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "20.50",
+            "centimeters"
+        ],
+        "width": [
+            "35.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Grace Lincoln Temple",
+    "description": "Vertical rectangle. Portion of a frieze with simulated carved architectural moldings across bottom. Above, portion of two floral wreaths through which passes white satin drapery shaded in greys and green. The top edge of the drapery has been cut out.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3492_256f43351f002fea_b.jpg",
-                "width":565,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92357_6a725baef84259d9_b.jpg",
+                "width": 1024,
+                "height": 594,
+                "is_primary": "1",
+                "image_id": "92357"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3492_256f43351f002fea_n.jpg",
-                "width":177,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92357_6a725baef84259d9_z.jpg",
+                "width": 640,
+                "height": 371,
+                "is_primary": "1",
+                "image_id": "92357"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3492_256f43351f002fea_z.jpg",
-                "width":353,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92357_6a725baef84259d9_n.jpg",
+                "width": 320,
+                "height": 186,
+                "is_primary": "1",
+                "image_id": "92357"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92357_6a725baef84259d9_d.gif",
+                "width": 320,
+                "height": 186,
+                "is_primary": "1",
+                "image_id": "92357"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92357_6a725baef84259d9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92357"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3492_256f43351f002fea_b.jpg",
+                "width": 565,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "3492"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3492_256f43351f002fea_z.jpg",
+                "width": 353,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "3492"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3492_256f43351f002fea_n.jpg",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "3492"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3492_256f43351f002fea_d.gif",
+                "width": 177,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "3492"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3492_256f43351f002fea_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3492"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046441",
-            "role_id":"35236657",
-            "person_name":"Dufour et Leroy",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046441\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18046441",
+            "role_id": "35236657",
+            "person_name": "Dufour et Leroy",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046441\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id": "18046661",
+            "role_id": "35351535",
+            "person_name": "Grace Lincoln Temple",
+            "person_date": "1865\u20131953",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18047875",
+            "role_id": "35352245",
+            "person_name": "chs",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047875\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Border, 1810\u201315.\n1810\u201315. Block-printed and flocked on handmade paper. Gift of Grace Lincoln Temple. 1938-62-22."
+    "tombstone": {
+        "epitaph": "Border (France), 1810\u201315. Block-printed and flocked on handmade paper. \nGift of Grace Lincoln Temple. 1938-62-22"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#a5c6cf",
-            "closest_css3":"#b0c4de"
+            "color": "#b9baaf",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#715b57",
-            "closest_css3":"#696969"
+            "color": "#8f753a",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#4c5b52",
-            "closest_css3":"#2f4f4f"
+            "color": "#c5bd6f",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
         },
         {
-            "color":"#ccc9a7",
-            "closest_css3":"#c0c0c0"
+            "color": "#474f31",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#bda588",
-            "closest_css3":"#bc8f8f"
+            "color": "#765635",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

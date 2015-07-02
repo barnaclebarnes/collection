@@ -1,87 +1,150 @@
 {
-    "id":"18435473",
-    "tms:id":"128157",
-    "accession_number":"1960-88-6",
-    "title":"Rebozo, 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18435473\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35289637",
-    "date":"20th century",
-    "year_start":"1901",
-    "year_end":"1960",
-    "year_acquired":"1960",
-    "decade":"1900",
-    "woe:country":"23424900",
-    "medium":"Medium: cotton\nTechnique: warp resist dyed before weaving (jaspe); warp-face plain weave; warp fringe with knotting",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 260 x 79 cm (8 ft. 6 3\/8 in. x 31 1\/8 in.)",
-    "creditline":"Gift of International Business Machines Corp.",
-    "description":"Between close-set narrow stripes, small geometric shapes make horizontal bands, all in indigo blue and white. Dark blue warp fringe, 15 inches deep in elaborate knotting, pattern of bands and rosettes.",
-    "justification":null,
-    "type":{
-        "id":"35289637",
-        "name":"Rebozo"
+    "id": "18435473",
+    "tms:id": "128157",
+    "accession_number": "1960-88-6",
+    "title": "Rebozo (Mexico), 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18435473\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35289637",
+    "date": "20th century",
+    "year_start": 1901,
+    "year_end": 1960,
+    "year_acquired": "1960",
+    "decade": "1900",
+    "woe:country_id": "23424900",
+    "medium": "Medium: cotton\nTechnique: warp resist dyed before weaving (jaspe); warp-face plain weave; warp fringe with knotting",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 260 x 79 cm (8 ft. 6 3\/8 in. x 31 1\/8 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "260.00",
+            "centimeters"
+        ],
+        "weft": [
+            "79.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of International Business Machines Corp.",
+    "description": "Between close-set narrow stripes, small geometric shapes make horizontal bands, all in indigo blue and white. Dark blue warp fringe, 15 inches deep in elaborate knotting, pattern of bands and rosettes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424900",
+    "type": "Rebozo",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24935_844166383ed4b2db_b.jpg",
-                "width":700,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106569_22686a2b061fc50d_b.jpg",
+                "width": 714,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "106569"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24935_844166383ed4b2db_n.jpg",
-                "width":219,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106569_22686a2b061fc50d_z.jpg",
+                "width": 446,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "106569"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/24935_844166383ed4b2db_z.jpg",
-                "width":438,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106569_22686a2b061fc50d_n.jpg",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106569"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106569_22686a2b061fc50d_d.gif",
+                "width": 223,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "106569"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106569_22686a2b061fc50d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106569"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24935_844166383ed4b2db_b.jpg",
+                "width": 700,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "24935"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24935_844166383ed4b2db_z.jpg",
+                "width": 438,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "24935"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24935_844166383ed4b2db_n.jpg",
+                "width": 219,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "24935"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24935_844166383ed4b2db_d.gif",
+                "width": 219,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "24935"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/24935_844166383ed4b2db_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "24935"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049147",
-            "role_id":"35351535",
-            "person_name":"International Business Machines Corp. (IBM)",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049147\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049147",
+            "role_id": "35351535",
+            "person_name": "International Business Machines Corp. (IBM)",
+            "person_date": "founded 1911",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049147\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Rebozo, 20th century.\n20th century. Medium: cotton\nTechnique: warp resist dyed before weaving (jaspe); warp-face plain weave; warp fringe with knotting. Gift of International Business Machines Corp.. 1960-88-6."
+    "tombstone": {
+        "epitaph": "Rebozo (Mexico), 20th century. Medium: cotton\nTechnique: warp resist dyed before weaving (jaspe); warp-face plain weave; warp fringe with knotting. \nGift of International Business Machines Corp.. 1960-88-6"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#272b31",
-            "closest_css3":"#2f4f4f"
+            "color": "#434649",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#b0c7b2",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#90a5a7",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#817377",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#7e8897",
-            "closest_css3":"#778899"
+            "color": "#20252c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "Mexico",
+    "is_loan_object": 0
 }

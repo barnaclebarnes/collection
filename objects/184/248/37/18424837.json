@@ -1,80 +1,178 @@
 {
-    "id":"18424837",
-    "tms:id":"122794",
-    "accession_number":"1959-160-1",
-    "title":"Sidewall, 1810\u201320",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18424837\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414641",
-    "type_id":"35256475",
-    "date":"1810\u201320",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1959",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed on handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"82 x 55 cm (32 5\/16 x 21 5\/8 in.)",
-    "creditline":"Gift of Josephine Howell, Inc.",
-    "description":"Wide area of all-over pattern of gray lines on gray satin ground, flanked by two vertical bands of white and lavender flowers and green flock leaves,and one band of brown rope on flocked maroon ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18424837",
+    "tms:id": "122794",
+    "accession_number": "1959-160-1",
+    "title": "Sidewall (France), 1810\u201320",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18424837\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414641",
+    "type_id": "35256475",
+    "date": "1810\u201320",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1959",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "82 x 55 cm (32 5\/16 x 21 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "82.00",
+            "centimeters"
+        ],
+        "width": [
+            "55.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Josephine Howell, Inc.",
+    "description": "Wide area of all-over pattern of gray lines on gray satin ground, flanked by two vertical bands of white and lavender flowers and green flock leaves,and one band of brown rope on flocked maroon ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21612_14c48b79fecb33ed_b.jpg",
-                "width":708,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63399_4a3489c7f91adab5_b.jpg",
+                "width": 700,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63399"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21612_14c48b79fecb33ed_n.jpg",
-                "width":221,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63399_4a3489c7f91adab5_z.jpg",
+                "width": 438,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63399"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/21612_14c48b79fecb33ed_z.jpg",
-                "width":442,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63399_4a3489c7f91adab5_n.jpg",
+                "width": 219,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63399"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63399_4a3489c7f91adab5_d.gif",
+                "width": 219,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63399"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63399_4a3489c7f91adab5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63399"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21612_14c48b79fecb33ed_b.jpg",
+                "width": 708,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "21612"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21612_14c48b79fecb33ed_z.jpg",
+                "width": 442,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "21612"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21612_14c48b79fecb33ed_n.jpg",
+                "width": 221,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21612"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21612_14c48b79fecb33ed_d.gif",
+                "width": 221,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "21612"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/21612_14c48b79fecb33ed_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "21612"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1810\u201320.\n1810\u201320. Block-printed on handmade paper. Gift of Josephine Howell, Inc.. 1959-160-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#7c7c72",
-            "closest_css3":"#808080"
+            "person_id": "18053069",
+            "role_id": "35351535",
+            "person_name": "Josephine Howell, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18053069\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#606455",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#c6d0c0",
-            "closest_css3":"#c0c0c0"
-        },
-        {
-            "color":"#381311",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#2b3d23",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18048087",
+            "role_id": "35352245",
+            "person_name": "cv",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048087\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (France), 1810\u201320. Block-printed on handmade paper. \nGift of Josephine Howell, Inc.. 1959-160-1"
+    },
+    "colors": [
+        {
+            "color": "#61381f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        },
+        {
+            "color": "#475233",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#baa978",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#8d6d40",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#2f261e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,80 +1,170 @@
 {
-    "id":"18637729",
-    "tms:id":"193718",
-    "accession_number":"1991-89-163",
-    "title":"Sidewall, 1930\u201358",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18637729\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35406385",
-    "type_id":"35256475",
-    "date":"1930\u201358",
-    "year_start":"1930",
-    "year_end":"1958",
-    "year_acquired":"1991",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Lithograph printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Printed on selvage: \"UNION MADE, JOIN HERE, U.W.P.C. OF N.A.\"",
-    "provenance":null,
-    "dimensions":"78 x 49.5 cm (30 11\/16 x 19 1\/2 in. )",
-    "creditline":"Gift of Suzanne Lipschutz",
-    "description":"Pink and yellow lilies with mossy green leaves on a darker green background on an ivory ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18637729",
+    "tms:id": "193718",
+    "accession_number": "1991-89-163",
+    "title": "Sidewall (USA), 1930\u201358",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18637729\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35406385",
+    "type_id": "35256475",
+    "date": "1930\u201358",
+    "year_start": 1930,
+    "year_end": 1958,
+    "year_acquired": "1991",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Lithograph printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Printed on selvage: \"UNION MADE, JOIN HERE, U.W.P.C. OF N.A.\"",
+    "provenance": null,
+    "dimensions": "78 x 49.5 cm (30 11\/16 x 19 1\/2 in. )",
+    "dimensions_raw": {
+        "height": [
+            "78.00",
+            "centimeters"
+        ],
+        "width": [
+            "49.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Suzanne Lipschutz",
+    "description": "Pink and yellow lilies with mossy green leaves on a darker green background on an ivory ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11389_188ccf2b3e092092_b.jpg",
-                "width":672,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81887_e65833913e373489_b.jpg",
+                "width": 687,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81887"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11389_188ccf2b3e092092_n.jpg",
-                "width":210,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81887_e65833913e373489_z.jpg",
+                "width": 429,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81887"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11389_188ccf2b3e092092_z.jpg",
-                "width":420,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81887_e65833913e373489_n.jpg",
+                "width": 215,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81887"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81887_e65833913e373489_d.gif",
+                "width": 215,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81887"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81887_e65833913e373489_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81887"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11389_188ccf2b3e092092_b.jpg",
+                "width": 672,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11389"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11389_188ccf2b3e092092_z.jpg",
+                "width": 420,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11389"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11389_188ccf2b3e092092_n.jpg",
+                "width": 210,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11389"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11389_188ccf2b3e092092_d.gif",
+                "width": 210,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11389"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11389_188ccf2b3e092092_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11389"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1930\u201358.\n1930\u201358. Lithograph printed. Gift of Suzanne Lipschutz. 1991-89-163."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#90897c",
-            "closest_css3":"#808080"
+            "person_id": "18538223",
+            "role_id": "35352245",
+            "person_name": "Molly Holst",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538223\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#b8b0a0",
-            "closest_css3":"#a9a9a9"
+            "person_id": "18537341",
+            "role_id": "35351535",
+            "person_name": "Suzanne Lipschutz",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537341\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "color":"#a79795",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#e9d8cd",
-            "closest_css3":"#dcdcdc"
-        },
-        {
-            "color":"#646558",
-            "closest_css3":"#696969"
+            "person_id": "18048481",
+            "role_id": "35352245",
+            "person_name": "Rose Gottschalk",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048481\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sidewall (USA), 1930\u201358. Lithograph printed. \nGift of Suzanne Lipschutz. 1991-89-163"
+    },
+    "colors": [
+        {
+            "color": "#827c54",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#d2c999",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

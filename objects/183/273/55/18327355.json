@@ -1,42 +1,167 @@
 {
-    "id":"18327355",
-    "tms:id":"48093",
-    "accession_number":"1931-66-29",
-    "title":"Fan",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18327355\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35252007",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Sarah Cooper Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35252007",
-        "name":"fan"
+    "id": "18327355",
+    "tms:id": "48093",
+    "accession_number": "1931-66-29",
+    "title": "Fan",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18327355\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35252007",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 28.6 x 50.8 cm (11 1\/4 in. x 20 in.)",
+    "dimensions_raw": {
+        "height": [
+            "28.58",
+            "centimeters"
+        ],
+        "width": [
+            "50.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Sarah Cooper Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "fan",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87838_e9470e91688daf97_b.jpg",
+                "width": 1024,
+                "height": 688,
+                "is_primary": "1",
+                "image_id": "87838"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87838_e9470e91688daf97_z.jpg",
+                "width": 640,
+                "height": 430,
+                "is_primary": "1",
+                "image_id": "87838"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87838_e9470e91688daf97_n.jpg",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "87838"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87838_e9470e91688daf97_d.gif",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "87838"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/87838_e9470e91688daf97_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "87838"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69531_954988e0beba0642_b.jpg",
+                "width": 1024,
+                "height": 620,
+                "is_primary": "0",
+                "image_id": "69531"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69531_954988e0beba0642_z.jpg",
+                "width": 640,
+                "height": 388,
+                "is_primary": "0",
+                "image_id": "69531"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69531_954988e0beba0642_n.jpg",
+                "width": 320,
+                "height": 194,
+                "is_primary": "0",
+                "image_id": "69531"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69531_954988e0beba0642_d.gif",
+                "width": 320,
+                "height": 194,
+                "is_primary": "0",
+                "image_id": "69531"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/69531_954988e0beba0642_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "69531"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fan.\nGift of Sarah Cooper Hewitt. 1931-66-29."
+    "tombstone": {
+        "epitaph": "Fan. H x W: 28.6 x 50.8 cm (11 1\/4 in. x 20 in.). \nGift of Sarah Cooper Hewitt. 1931-66-29"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d8d1af",
+            "closest_crayola": "#efcdb8",
+            "closest_css3": "#f5deb3",
+            "closest_css4": "#f5deb3"
+        },
+        {
+            "color": "#b0a479",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#968564",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#413a34",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6d5e4a",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

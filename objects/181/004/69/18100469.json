@@ -1,87 +1,205 @@
 {
-    "id":"18100469",
-    "tms:id":"6317",
-    "accession_number":"1897-1-1",
-    "title":"Textile, ca. 1790",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18100469\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1790",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1897",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave with further color added by brush",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W (Dimensions in frame, folded top and bottom ): 105 x 65 cm (41 5\/16 x 25 9\/16 in.)",
-    "creditline":"Gift of Elsie de Wolfe",
-    "description":"Alternation of four scenes; birds in rushes approached by a dog, pair of lovers, man picking fruit with farm animals at the base of a tree, three women and a boy raking hay.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18100469",
+    "tms:id": "6317",
+    "accession_number": "1897-1-1",
+    "title": "Textile (France), ca. 1790",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18100469\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1897",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved copper plate on plain weave with further color added by brush",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W (Dimensions in frame, folded top and bottom ): 105 x 65 cm (41 5\/16 x 25 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "105.00",
+            "centimeters"
+        ],
+        "width": [
+            "65.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Elsie de Wolfe",
+    "description": "Alternation of four scenes; birds in rushes approached by a dog, pair of lovers, man picking fruit with farm animals at the base of a tree, three women and a boy raking hay.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31292_4baa5d3180528014_b.jpg",
-                "width":643,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109211_44e078f0fa617df3_b.jpg",
+                "width": 589,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "109211"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31292_4baa5d3180528014_n.jpg",
-                "width":201,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109211_44e078f0fa617df3_z.jpg",
+                "width": 368,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "109211"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31292_4baa5d3180528014_z.jpg",
-                "width":402,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109211_44e078f0fa617df3_n.jpg",
+                "width": 184,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109211"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109211_44e078f0fa617df3_d.gif",
+                "width": 184,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "109211"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109211_44e078f0fa617df3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109211"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/0__b.jpg",
+                "width": 643,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "0"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/0__z.jpg",
+                "width": 402,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "0"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/0__n.jpg",
+                "width": 201,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "0"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/0__d.gif",
+                "width": 201,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "0"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/0__sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "0"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31292_4baa5d3180528014_b.jpg",
+                "width": 643,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "31292"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31292_4baa5d3180528014_z.jpg",
+                "width": 402,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "31292"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31292_4baa5d3180528014_n.jpg",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "31292"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31292_4baa5d3180528014_d.gif",
+                "width": 201,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "31292"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31292_4baa5d3180528014_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "31292"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18050371",
-            "role_id":"35351535",
-            "person_name":"Elsie de Wolfe",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050371\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18050371",
+            "role_id": "35351535",
+            "person_name": "Elsie de Wolfe",
+            "person_date": "American, 1865\u20131950",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1790.\nca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave with further color added by brush. Gift of Elsie de Wolfe. 1897-1-1."
+    "tombstone": {
+        "epitaph": "Textile (France), ca. 1790. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave with further color added by brush. \nGift of Elsie de Wolfe. 1897-1-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#4b5754",
-            "closest_css3":"#2f4f4f"
+            "color": "#a9a494",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#877667",
-            "closest_css3":"#808080"
+            "color": "#867d71",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#71553f",
-            "closest_css3":"#556b2f"
+            "color": "#625851",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#5e3023",
-            "closest_css3":"#8b4513"
+            "color": "#875d5d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#36281f",
-            "closest_css3":"#2f4f4f"
+            "color": "#a58477",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

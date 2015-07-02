@@ -1,42 +1,135 @@
 {
-    "id":"18339885",
-    "tms:id":"53751",
-    "accession_number":"1935-16-5",
-    "title":"Tile, 16th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18339885\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35405969",
-    "type_id":"35250645",
-    "date":"16th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1935",
-    "decade":null,
-    "woe:country":"23424950",
-    "medium":"Glazed moulded earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 2.5 x 13.4 x 13.4 cm (1 x 5 1\/4 x 5 1\/4 in.)",
-    "creditline":"Gift of A. Algara R. de Terreros",
-    "description":"White, yellow, green, blue and brown glazes, in low relief. Gepmetrical design.",
-    "justification":null,
-    "type":{
-        "id":"35250645",
-        "name":"tile"
+    "id": "18339885",
+    "tms:id": "53751",
+    "accession_number": "1935-16-5",
+    "title": "Tile (Spain), 16th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18339885\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35405969",
+    "type_id": "35250645",
+    "date": "16th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1935",
+    "decade": null,
+    "woe:country_id": "23424950",
+    "medium": "Glazed moulded earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 2.5 x 13.4 x 13.4 cm (1 x 5 1\/4 x 5 1\/4 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "13.40",
+            "centimeters"
+        ],
+        "height": [
+            "2.50",
+            "centimeters"
+        ],
+        "width": [
+            "13.40",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of A. Algara R. de Terreros",
+    "description": "White, yellow, green, blue and brown glazes, in low relief. Gepmetrical design.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424950",
+    "type": "tile",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100211_7c75227521e78156_b.jpg",
+                "width": 1024,
+                "height": 1003,
+                "is_primary": "1",
+                "image_id": "100211"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100211_7c75227521e78156_z.jpg",
+                "width": 640,
+                "height": 627,
+                "is_primary": "1",
+                "image_id": "100211"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100211_7c75227521e78156_n.jpg",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "100211"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100211_7c75227521e78156_d.gif",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "100211"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/100211_7c75227521e78156_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "100211"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18051711",
+            "role_id": "35351535",
+            "person_name": "A. Algara R. de Terreros",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051711\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Tile, 16th century.\n16th century. Glazed moulded earthenware. Gift of A. Algara R. de Terreros. 1935-16-5."
+    "tombstone": {
+        "epitaph": "Tile (Spain), 16th century. Glazed moulded earthenware. \nGift of A. Algara R. de Terreros. 1935-16-5"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#94928a",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b0a286",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#576a75",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#422c26",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9b772d",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "Spain",
+    "is_loan_object": 0
 }

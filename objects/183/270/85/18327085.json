@@ -1,72 +1,123 @@
 {
-    "id":"18327085",
-    "tms:id":"47988",
-    "accession_number":"1931-66-1",
-    "title":"Necklace, \"\"Squash Blossom\"\", late 19th\u2013early 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18327085\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389463",
-    "type_id":"35237147",
-    "date":"late 19th\u2013early 20th century",
-    "year_start":null,
-    "year_end":"1920",
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Silver",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 29 x 23 x 1.5 cm (11 7\/16 x 9 1\/16 x 9\/16 in.)",
-    "creditline":"Gift of Sarah Cooper Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237147",
-        "name":"Necklace"
+    "id": "18327085",
+    "tms:id": "47988",
+    "accession_number": "1931-66-1",
+    "title": "\"Squash Blossom\" Necklace, late 19th\u2013early 20th century",
+    "title_raw": "\"Squash Blossom\"",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18327085\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389463",
+    "type_id": "35237147",
+    "date": "late 19th\u2013early 20th century",
+    "year_start": null,
+    "year_end": 1920,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Silver",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 29 x 23 x 1.5 cm (11 7\/16 x 9 1\/16 x 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "1.50",
+            "centimeters"
+        ],
+        "height": [
+            "29.00",
+            "centimeters"
+        ],
+        "width": [
+            "23.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Sarah Cooper Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Necklace",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25865_67a49eedd6773545_b.jpg",
-                "width":975,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25865_67a49eedd6773545_b.jpg",
+                "width": 975,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "25865"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25865_67a49eedd6773545_n.jpg",
-                "width":305,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25865_67a49eedd6773545_z.jpg",
+                "width": 609,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "25865"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/25865_67a49eedd6773545_z.jpg",
-                "width":609,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25865_67a49eedd6773545_n.jpg",
+                "width": 305,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "25865"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25865_67a49eedd6773545_d.gif",
+                "width": 305,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "25865"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/25865_67a49eedd6773545_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "25865"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Necklace, \"\"Squash Blossom\"\", late 19th\u2013early 20th century.\nlate 19th\u2013early 20th century. Silver. Gift of Sarah Cooper Hewitt. 1931-66-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#8b7e64",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#5b5442",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#cfc5ac",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18049321",
+            "role_id": "35351535",
+            "person_name": "Sarah Cooper Hewitt",
+            "person_date": "American, 1859\u20131930",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049321\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "\"Squash Blossom\" Necklace, late 19th\u2013early 20th century. Silver. \nGift of Sarah Cooper Hewitt. 1931-66-1"
+    },
+    "colors": [
+        {
+            "color": "#877b61",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#575040",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#cbc0a8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

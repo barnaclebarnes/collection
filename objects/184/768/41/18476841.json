@@ -1,42 +1,155 @@
 {
-    "id":"18476841",
-    "tms:id":"149199",
-    "accession_number":"1972-5-15-a,b",
-    "title":"Plate",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476841\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35236833",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1972",
-    "decade":null,
-    "woe:country":null,
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam. (a): 2.4 x 20.4 cm (15\/16 x 8 1\/16 in.)\nH x diam. (b): 1.9 x 20.6 cm (3\/4 x 8 1\/8 in.)",
-    "creditline":"Bequest of Julian Clarence Levi",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18476841",
+    "tms:id": "149199",
+    "accession_number": "1972-5-15-a,b",
+    "title": "Plate",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18476841\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35236833",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1972",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam. (a): 2.4 x 20.4 cm (15\/16 x 8 1\/16 in.)\nH x diam. (b): 1.9 x 20.6 cm (3\/4 x 8 1\/8 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "20.40",
+            "centimeters"
+        ],
+        "height": [
+            "2.40",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Julian Clarence Levi",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "plate",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105877_9095e59b426d998f_b.jpg",
+                "width": 1024,
+                "height": 754,
+                "is_primary": "1",
+                "image_id": "105877"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105877_9095e59b426d998f_z.jpg",
+                "width": 640,
+                "height": 471,
+                "is_primary": "1",
+                "image_id": "105877"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105877_9095e59b426d998f_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "105877"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105877_9095e59b426d998f_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "105877"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105877_9095e59b426d998f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105877"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105741_658f966261e05990_b.jpg",
+                "width": 1024,
+                "height": 809,
+                "is_primary": "0",
+                "image_id": "105741"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105741_658f966261e05990_z.jpg",
+                "width": 640,
+                "height": 506,
+                "is_primary": "0",
+                "image_id": "105741"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105741_658f966261e05990_n.jpg",
+                "width": 320,
+                "height": 253,
+                "is_primary": "0",
+                "image_id": "105741"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105741_658f966261e05990_d.gif",
+                "width": 320,
+                "height": 253,
+                "is_primary": "0",
+                "image_id": "105741"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105741_658f966261e05990_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "105741"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18056787",
+            "role_id": "35351537",
+            "person_name": "Julian Clarence Levi",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056787\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Plate.\nporcelain. Bequest of Julian Clarence Levi. 1972-5-15-a,b."
+    "tombstone": {
+        "epitaph": "Plate. porcelain. \nBequest of Julian Clarence Levi. 1972-5-15-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#8687a4",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        },
+        {
+            "color": "#545688",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#332b6a",
+            "closest_crayola": "#1a4876",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        }
+    ],
+    "is_loan_object": 0
 }

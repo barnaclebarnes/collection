@@ -1,80 +1,168 @@
 {
-    "id":"18445587",
-    "tms:id":"133292",
-    "accession_number":"1962-56-26-c",
-    "title":"Fragment, late 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445587\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35518827",
-    "type_id":"35254623",
-    "date":"late 18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: silk; paint\nTechnique: painted",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 18.5 x 13.5 cm (7 5\/16 x 5 5\/16 in.)",
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Four painted panels for sides of pocketbooks. Cream white taffeta painted in light colors. A and B) Show center of frame with wreath above, basket of flowers, below. Border of swags and curves. C and D) show centre medallions with cupids, crossed quiver and torch below and emblems. Border of flowers and broken curves.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18445587",
+    "tms:id": "133292",
+    "accession_number": "1962-56-26-c",
+    "title": "Fragment (France), late 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445587\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35518827",
+    "type_id": "35254623",
+    "date": "late 18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk; paint\nTechnique: painted",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 18.5 x 13.5 cm (7 5\/16 x 5 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "18.50",
+            "centimeters"
+        ],
+        "width": [
+            "13.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Four painted panels for sides of pocketbooks. Cream white taffeta painted in light colors. A and B) Show center of frame with wreath above, basket of flowers, below. Border of swags and curves. C and D) show centre medallions with cupids, crossed quiver and torch below and emblems. Border of flowers and broken curves.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Fragment",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38154_cc0925daea9f2025_b.jpg",
-                "width":684,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81991_7c4a3dc0f7441480_b.jpg",
+                "width": 718,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81991"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38154_cc0925daea9f2025_n.jpg",
-                "width":214,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81991_7c4a3dc0f7441480_z.jpg",
+                "width": 449,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81991"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/38154_cc0925daea9f2025_z.jpg",
-                "width":428,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81991_7c4a3dc0f7441480_n.jpg",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81991"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81991_7c4a3dc0f7441480_d.gif",
+                "width": 224,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81991"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81991_7c4a3dc0f7441480_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81991"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38154_cc0925daea9f2025_b.jpg",
+                "width": 684,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "38154"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38154_cc0925daea9f2025_z.jpg",
+                "width": 428,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "38154"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38154_cc0925daea9f2025_n.jpg",
+                "width": 214,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "38154"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38154_cc0925daea9f2025_d.gif",
+                "width": 214,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "38154"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/38154_cc0925daea9f2025_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "38154"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Fragment, late 18th century.\nlate 18th century. Medium: silk; paint\nTechnique: painted. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-26-c."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c7a686",
-            "closest_css3":"#d2b48c"
-        },
-        {
-            "color":"#896450",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#d4857c",
-            "closest_css3":"#e9967a"
-        },
-        {
-            "color":"#a38778",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#2f2e22",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Fragment (France), late 18th century. Medium: silk; paint\nTechnique: painted. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-26-c"
+    },
+    "colors": [
+        {
+            "color": "#bdb683",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#9f9263",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#726341",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a37c5b",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#754b32",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

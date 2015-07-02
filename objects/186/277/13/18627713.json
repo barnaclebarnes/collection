@@ -1,80 +1,178 @@
 {
-    "id":"18627713",
-    "tms:id":"188693",
-    "accession_number":"1988-105-4",
-    "title":"Border, ca. 1825",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18627713\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35237285",
-    "date":"ca. 1825",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1988",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"23.5 x 24.5 cm (9 1\/4 x 9 5\/8 in.)",
-    "creditline":"Gift of Cora Ginsberg",
-    "description":"Yellow flower beneath black acanthus foliage, alternating with branch of leaves which change from green to gray. Band of anthemia-like motifs run along bottom edge. Printed on deep red ground.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18627713",
+    "tms:id": "188693",
+    "accession_number": "1988-105-4",
+    "title": "Border (France), ca. 1825",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18627713\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35237285",
+    "date": "ca. 1825",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1988",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "23.5 x 24.5 cm (9 1\/4 x 9 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "23.50",
+            "centimeters"
+        ],
+        "width": [
+            "24.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Cora Ginsberg",
+    "description": "Yellow flower beneath black acanthus foliage, alternating with branch of leaves which change from green to gray. Band of anthemia-like motifs run along bottom edge. Printed on deep red ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10987_f2224655c0d31db0_b.jpg",
-                "width":982,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92334_2339d9af791e985f_b.jpg",
+                "width": 1007,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92334"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10987_f2224655c0d31db0_n.jpg",
-                "width":307,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92334_2339d9af791e985f_z.jpg",
+                "width": 629,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92334"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/10987_f2224655c0d31db0_z.jpg",
-                "width":614,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92334_2339d9af791e985f_n.jpg",
+                "width": 315,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92334"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92334_2339d9af791e985f_d.gif",
+                "width": 315,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92334"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92334_2339d9af791e985f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92334"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10987_f2224655c0d31db0_b.jpg",
+                "width": 982,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "10987"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10987_f2224655c0d31db0_z.jpg",
+                "width": 614,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "10987"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10987_f2224655c0d31db0_n.jpg",
+                "width": 307,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10987"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10987_f2224655c0d31db0_d.gif",
+                "width": 307,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "10987"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/10987_f2224655c0d31db0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "10987"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, ca. 1825.\nca. 1825. Block-printed. Gift of Cora Ginsberg. 1988-105-4."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#e6c369",
-            "closest_css3":"#deb887"
+            "person_id": "18040967",
+            "role_id": "51571159",
+            "person_name": "Titi Halle",
+            "person_date": "",
+            "role_name": "Agent",
+            "role_display_name": "Agent:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18040967\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571159\/"
         },
         {
-            "color":"#a66346",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#fcf171",
-            "closest_css3":"#f0e68c"
-        },
-        {
-            "color":"#91e2bf",
-            "closest_css3":"#7fffd4"
-        },
-        {
-            "color":"#cfe0fa",
-            "closest_css3":"#e6e6fa"
+            "person_id": "18041123",
+            "role_id": "35351535",
+            "person_name": "Cora Ginsburg, LLC",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041123\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border (France), ca. 1825. Block-printed. \nGift of Cora Ginsberg. 1988-105-4"
+    },
+    "colors": [
+        {
+            "color": "#d1a759",
+            "closest_crayola": "#d68a59",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#a45b43",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#e5cd67",
+            "closest_crayola": "#f8d568",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        },
+        {
+            "color": "#98ba90",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#302f2d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

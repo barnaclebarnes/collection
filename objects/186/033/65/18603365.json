@@ -1,80 +1,131 @@
 {
-    "id":"18603365",
-    "tms:id":"95118",
-    "accession_number":"1946-25-1",
-    "title":"Textile, 1818",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18603365\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"1818",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1946",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved roller on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 35.5 x 24.9 cm (14 in. x 9 13\/16 in.)",
-    "creditline":"Gift of Mary S.M. Gibson",
-    "description":"Architectural scene with trees and clouds. Printed in mauve on tan background. Signed MAADER SCULP.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18603365",
+    "tms:id": "95118",
+    "accession_number": "1946-25-1",
+    "title": "Textile (France), 1818",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18603365\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "1818",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1946",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved roller on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 35.5 x 24.9 cm (14 in. x 9 13\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.50",
+            "centimeters"
+        ],
+        "width": [
+            "24.90",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mary S.M. Gibson",
+    "description": "Architectural scene with trees and clouds. Printed in mauve on tan background. Signed MAADER SCULP.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15662_ad331852f185f86e_b.jpg",
-                "width":735,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15662_ad331852f185f86e_b.jpg",
+                "width": 735,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "15662"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15662_ad331852f185f86e_n.jpg",
-                "width":230,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15662_ad331852f185f86e_z.jpg",
+                "width": 460,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "15662"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/15662_ad331852f185f86e_z.jpg",
-                "width":460,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15662_ad331852f185f86e_n.jpg",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "15662"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15662_ad331852f185f86e_d.gif",
+                "width": 230,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "15662"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/15662_ad331852f185f86e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "15662"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, 1818.\n1818. Medium: cotton\nTechnique: printed by engraved roller on plain weave. Gift of Mary S.M. Gibson. 1946-25-1."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d7c8da",
-            "closest_css3":"#d8bfd8"
-        },
-        {
-            "color":"#a69ba5",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#281d1f",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#605162",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#7d6865",
-            "closest_css3":"#696969"
+            "person_id": "18052689",
+            "role_id": "35351535",
+            "person_name": "Mary S. M. Gibson",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052689\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), 1818. Medium: cotton\nTechnique: printed by engraved roller on plain weave. \nGift of Mary S.M. Gibson. 1946-25-1"
+    },
+    "colors": [
+        {
+            "color": "#857784",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#b1a0aa",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#d3cbd7",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#2b1e21",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#664d48",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

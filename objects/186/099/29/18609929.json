@@ -1,42 +1,117 @@
 {
-    "id":"18609929",
-    "tms:id":"98486",
-    "accession_number":"1948-40-20",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18609929\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1948",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mrs. John Innes Kane",
-    "description":"Original album associated with this collection still exists.  See 1948-40-1 accessory",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18609929",
+    "tms:id": "98486",
+    "accession_number": "1948-40-20",
+    "title": "Drawing, Design for North wall, Yellow Drawing Room, Royal Pavilion, Brighton, 1817\u201318",
+    "title_raw": "Design for North wall, Yellow Drawing Room, Royal Pavilion, Brighton",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18609929\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35414367",
+    "type_id": "35237093",
+    "date": "1817\u201318",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1948",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Graphite on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in graphite, lower margin: Gallery next the Music Room, Lalic \/ [numbers and marks]",
+    "provenance": "1948: acquired by Museum (from Mrs. K. Gregory)",
+    "dimensions": "Mat: 35.6 x 45.7 cm (14 x 18 in.)\n24.8 x 29.3 cm (9 3\/4 x 11 9\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.56",
+            "centimeters"
+        ],
+        "width": [
+            "45.72",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Museum purchase through gift of Mrs. John Innes Kane",
+    "description": "Elevation of a wall. A large central panel of large flowering plants and containers with flowers is flanked by two narrow panels of birds and plants. These are enclosed in frames which terminate at top in cusped arches in the Indian style, the entire decoration reflecting this taste.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63093_149a375d52e83ff8_b.jpg",
+                "width": 1024,
+                "height": 854,
+                "is_primary": "1",
+                "image_id": "63093"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63093_149a375d52e83ff8_z.jpg",
+                "width": 640,
+                "height": 534,
+                "is_primary": "1",
+                "image_id": "63093"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63093_149a375d52e83ff8_n.jpg",
+                "width": 320,
+                "height": 267,
+                "is_primary": "1",
+                "image_id": "63093"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63093_149a375d52e83ff8_d.gif",
+                "width": 320,
+                "height": 267,
+                "is_primary": "1",
+                "image_id": "63093"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63093_149a375d52e83ff8_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63093"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18043469",
+            "role_id": "35236633",
+            "person_name": "Robert Jones",
+            "person_date": "British, active, early 19th century",
+            "role_name": "Possibly",
+            "role_display_name": "Possibly by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043469\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236633\/"
+        },
+        {
+            "person_id": "18539479",
+            "role_id": "35352249",
+            "person_name": "Mrs. K. Gregory",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539479\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-20."
+    "tombstone": {
+        "epitaph": "Drawing, Design for North wall, Yellow Drawing Room, Royal Pavilion, Brighton, 1817\u201318. Graphite on paper. \nMuseum purchase through gift of Mrs. John Innes Kane. 1948-40-20"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#acaa9b",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

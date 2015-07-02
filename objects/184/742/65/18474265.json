@@ -1,42 +1,109 @@
 {
-    "id":"18474265",
-    "tms:id":"147892",
-    "accession_number":"1971-50-233",
-    "title":"Withdrawn Element",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474265\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35256037",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35256037",
-        "name":"Withdrawn element"
-    },
-    "images":[
-
+    "id": "18474265",
+    "tms:id": "147892",
+    "accession_number": "1971-50-233",
+    "title": "Withdrawn Element",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474265\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35256037",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Marian Hague",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Withdrawn element",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75904_e64e43622b0e12d7_b.jpg",
+                "width": 1024,
+                "height": 409,
+                "is_primary": "1",
+                "image_id": "75904"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75904_e64e43622b0e12d7_z.jpg",
+                "width": 640,
+                "height": 255,
+                "is_primary": "1",
+                "image_id": "75904"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75904_e64e43622b0e12d7_n.jpg",
+                "width": 320,
+                "height": 128,
+                "is_primary": "1",
+                "image_id": "75904"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75904_e64e43622b0e12d7_d.gif",
+                "width": 320,
+                "height": 128,
+                "is_primary": "1",
+                "image_id": "75904"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75904_e64e43622b0e12d7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75904"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Withdrawn Element.\nBequest of Marian Hague. 1971-50-233."
+    "tombstone": {
+        "epitaph": "Withdrawn Element. \nBequest of Marian Hague. 1971-50-233"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d0d0c4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#9e9a94",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#2e2c38",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

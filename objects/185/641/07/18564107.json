@@ -1,80 +1,168 @@
 {
-    "id":"18564107",
-    "tms:id":"75257",
-    "accession_number":"1941-69-192",
-    "title":"Sampler, ca. 1835",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564107\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427169",
-    "type_id":"35256439",
-    "date":"ca. 1835",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424803",
-    "medium":"Medium: silk embroidery, wool foundation\nTechnique: cross, half-cross and satin stitches on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":"\"National Model Female School\"",
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"21.5 x 17 cm (8 7\/16 x 6 11\/16 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"Alphabets, numerals, floral cross border and text.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18564107",
+    "tms:id": "75257",
+    "accession_number": "1941-69-192",
+    "title": "Sampler (Ireland), ca. 1835",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564107\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427169",
+    "type_id": "35256439",
+    "date": "ca. 1835",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424803",
+    "medium": "Medium: silk embroidery, wool foundation\nTechnique: cross, half-cross and satin stitches on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": "\"National Model Female School\"",
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "21.5 x 17 cm (8 7\/16 x 6 11\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "21.50",
+            "centimeters"
+        ],
+        "width": [
+            "17.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "Alphabets, numerals, floral cross border and text.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424803",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29138_7603c7e564824de5_b.jpg",
-                "width":733,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81420_c735b08ace55e442_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "81420"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29138_7603c7e564824de5_n.jpg",
-                "width":229,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81420_c735b08ace55e442_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "81420"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29138_7603c7e564824de5_z.jpg",
-                "width":458,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81420_c735b08ace55e442_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81420"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81420_c735b08ace55e442_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "81420"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/81420_c735b08ace55e442_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "81420"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29138_7603c7e564824de5_b.jpg",
+                "width": 733,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "29138"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29138_7603c7e564824de5_z.jpg",
+                "width": 458,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "29138"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29138_7603c7e564824de5_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "29138"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29138_7603c7e564824de5_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "29138"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29138_7603c7e564824de5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29138"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, ca. 1835.\nca. 1835. Medium: silk embroidery, wool foundation\nTechnique: cross, half-cross and satin stitches on plain weave. Bequest of Mrs. Henry E. Coe. 1941-69-192."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#8c7a6b",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#4d5c59",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#283333",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#b19c93",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#665647",
-            "closest_css3":"#556b2f"
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Ireland), ca. 1835. Medium: silk embroidery, wool foundation\nTechnique: cross, half-cross and satin stitches on plain weave. \nBequest of Mrs. Henry E. Coe. 1941-69-192"
+    },
+    "colors": [
+        {
+            "color": "#beb284",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#9d8f63",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#756743",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#51493b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#d8d5ca",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        }
+    ],
+    "woe:country_name": "Ireland",
+    "is_loan_object": 0
 }

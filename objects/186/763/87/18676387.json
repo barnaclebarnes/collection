@@ -1,83 +1,159 @@
 {
-    "id":"18676387",
-    "tms:id":"213642",
-    "accession_number":"1998-75-56",
-    "title":"Sidewall, 1957\u201358",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18676387\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367331",
-    "type_id":"35256475",
-    "date":"1957\u201358",
-    "year_start":"1957",
-    "year_end":"1958",
-    "year_acquired":"1998",
-    "decade":"1950",
-    "woe:country":"23424819",
-    "medium":"Block-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of The Museum at The Fashion Institute of Technology",
-    "description":"Floral sprigs alternating with floral bosses, printed in red on white ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
-    },
-    "images":[
+    "id": "18676387",
+    "tms:id": "213642",
+    "accession_number": "1998-75-56",
+    "title": "Sidewall, Jeune Fille, 1957\u201358",
+    "title_raw": "Jeune Fille",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18676387\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367331",
+    "type_id": "35256475",
+    "date": "1957\u201358",
+    "year_start": 1957,
+    "year_end": 1958,
+    "year_acquired": "1998",
+    "decade": "1950",
+    "woe:country_id": "23424819",
+    "medium": "Block-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of The Museum at The Fashion Institute of Technology",
+    "description": "Floral sprigs alternating with floral bosses, printed in red on white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14308_c3969fdfbeb27de3_b.jpg",
-                "width":768,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93654_0b5e17e7062e3c8b_b.jpg",
+                "width": 550,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "93654"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14308_c3969fdfbeb27de3_n.jpg",
-                "width":240,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93654_0b5e17e7062e3c8b_z.jpg",
+                "width": 343,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "93654"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14308_c3969fdfbeb27de3_z.jpg",
-                "width":480,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93654_0b5e17e7062e3c8b_n.jpg",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93654"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93654_0b5e17e7062e3c8b_d.gif",
+                "width": 172,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "93654"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93654_0b5e17e7062e3c8b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93654"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14308_c3969fdfbeb27de3_b.jpg",
+                "width": 768,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "14308"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14308_c3969fdfbeb27de3_z.jpg",
+                "width": 480,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "14308"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14308_c3969fdfbeb27de3_n.jpg",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "14308"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14308_c3969fdfbeb27de3_d.gif",
+                "width": 240,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "14308"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14308_c3969fdfbeb27de3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14308"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041743",
-            "role_id":"35351535",
-            "person_name":"The Museum at The Fashion Institute of Technology",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041743\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18041743",
+            "role_id": "35351535",
+            "person_name": "The Museum at The Fashion Institute of Technology",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041743\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1957\u201358.\n1957\u201358. Block-printed. Gift of The Museum at The Fashion Institute of Technology. 1998-75-56."
+    "tombstone": {
+        "epitaph": "Sidewall, Jeune Fille, 1957\u201358. Block-printed. \nGift of The Museum at The Fashion Institute of Technology. 1998-75-56"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#945243",
-            "closest_css3":"#a0522d"
+            "color": "#e2e1d0",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
         },
         {
-            "color":"#baa9aa",
-            "closest_css3":"#a9a9a9"
+            "color": "#72382c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#b38683",
-            "closest_css3":"#bc8f8f"
+            "color": "#bda595",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#988a89",
-            "closest_css3":"#808080"
+            "color": "#916253",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#a37d6e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

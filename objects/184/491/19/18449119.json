@@ -1,87 +1,141 @@
 {
-    "id":"18449119",
-    "tms:id":"135075",
-    "accession_number":"1963-39-906",
-    "title":"Drawing, \"R\", ca. 1935",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18449119\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35519477",
-    "type_id":"35237093",
-    "date":"ca. 1935",
-    "year_start":"1930",
-    "year_end":"1940",
-    "year_acquired":"1963",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Brush and gouache on thick paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Mrs. E. McKnight Kauffer",
-    "dimensions":"15.2 x 19.1 cm (6 in. x 7 1\/2 in.)",
-    "creditline":"Gift of Mrs. E. McKnight Kauffer",
-    "description":"Possibly for the Roman School and Studios in London. The letter R, in red, rests on the edge of a drafting triangle made of graph paper, with a blue pennant above the R. In the background, a palette amongst clouds.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18449119",
+    "tms:id": "135075",
+    "accession_number": "1963-39-906",
+    "title": "Drawing, R, ca. 1935",
+    "title_raw": "R",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18449119\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35519477",
+    "type_id": "35237093",
+    "date": "ca. 1935",
+    "year_start": 1930,
+    "year_end": 1940,
+    "year_acquired": "1963",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Brush and gouache on thick paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Mrs. E. McKnight Kauffer",
+    "dimensions": "15.2 x 19.1 cm (6 in. x 7 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "15.20",
+            "centimeters"
+        ],
+        "width": [
+            "19.10",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. E. McKnight Kauffer",
+    "description": "Possibly for the Roman School and Studios in London. The letter R, in red, rests on the edge of a drafting triangle made of graph paper, with a blue pennant above the R. In the background, a palette amongst clouds.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50832_ab17a1083e45c7d6_b.jpg",
-                "width":1024,
-                "height":814,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50832_eb5531cff784ef0e_b.jpg",
+                "width": 1024,
+                "height": 811,
+                "is_primary": "1",
+                "image_id": "50832"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50832_ab17a1083e45c7d6_n.jpg",
-                "width":320,
-                "height":254,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50832_eb5531cff784ef0e_z.jpg",
+                "width": 640,
+                "height": 507,
+                "is_primary": "1",
+                "image_id": "50832"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/50832_ab17a1083e45c7d6_z.jpg",
-                "width":640,
-                "height":508,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50832_eb5531cff784ef0e_n.jpg",
+                "width": 320,
+                "height": 253,
+                "is_primary": "1",
+                "image_id": "50832"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50832_eb5531cff784ef0e_d.gif",
+                "width": 320,
+                "height": 253,
+                "is_primary": "1",
+                "image_id": "50832"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/50832_eb5531cff784ef0e_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "50832"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18041923",
-            "role_id":"35236655",
-            "person_name":"Edward McKnight Kauffer",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18041923",
+            "role_id": "35236655",
+            "person_name": "Edward McKnight Kauffer",
+            "person_date": "American, active England, 1890\u20131954",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18061849",
+            "role_id": "35351535",
+            "person_name": "Mrs. Edward McKnight Kauffer",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18061849\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"R\", ca. 1935.\nca. 1935. Brush and gouache on thick paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-906."
+    "tombstone": {
+        "epitaph": "Drawing, R, ca. 1935. Brush and gouache on thick paper. \nGift of Mrs. E. McKnight Kauffer. 1963-39-906"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#2e2d2b",
-            "closest_css3":"#2f4f4f"
+            "color": "#b46332",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#da5a35",
-            "closest_css3":"#d2691e"
+            "color": "#6e90bb",
+            "closest_crayola": "#6699cc",
+            "closest_css3": "#5f9ea0",
+            "closest_css4": "#5f9ea0"
         },
         {
-            "color":"#63a6c9",
-            "closest_css3":"#6495ed"
+            "color": "#afb8bb",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#afbfbf",
-            "closest_css3":"#c0c0c0"
+            "color": "#7c563c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#7b4939",
-            "closest_css3":"#a0522d"
+            "color": "#937a6e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

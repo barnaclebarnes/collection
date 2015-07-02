@@ -1,80 +1,143 @@
 {
-    "id":"18668065",
-    "tms:id":"209436",
-    "accession_number":"1995-50-194",
-    "title":"Textile, ca. 1840",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18668065\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35251739",
-    "date":"ca. 1840",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1995",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Medium: cotton\nTechnique: printed by engraved roller on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp: 235 cm (92 1\/2 in.)\nWeft: 75 cm (29 1\/2 in.) Both selvedges present.\nHeight of repeat: 42.5 cm (16 3\/4 in.)",
-    "creditline":"Bequest of Elinor Merrell",
-    "description":"Scenes of children with their grandparents separated by floral swags. Designed to be sewn together as a straight repeat. In purple on white.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18668065",
+    "tms:id": "209436",
+    "accession_number": "1995-50-194",
+    "title": "Textile (France), ca. 1840",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18668065\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35251739",
+    "date": "ca. 1840",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1995",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Medium: cotton\nTechnique: printed by engraved roller on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp: 235 cm (92 1\/2 in.)\nWeft: 75 cm (29 1\/2 in.) Both selvedges present.\nHeight of repeat: 42.5 cm (16 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "42.50",
+            "centimeters"
+        ],
+        "warp": [
+            "235.00",
+            "centimeters"
+        ],
+        "weft": [
+            "75.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Elinor Merrell",
+    "description": "Scenes of children with their grandparents separated by floral swags. Designed to be sewn together as a straight repeat. In purple on white.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12732_56962d03a56a7a70_b.jpg",
-                "width":692,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79206_a0940d612f259f85_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "79206"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12732_56962d03a56a7a70_n.jpg",
-                "width":216,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79206_a0940d612f259f85_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "79206"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12732_56962d03a56a7a70_z.jpg",
-                "width":433,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79206_a0940d612f259f85_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79206"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79206_a0940d612f259f85_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "79206"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/79206_a0940d612f259f85_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "79206"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12732_56962d03a56a7a70_b.jpg",
+                "width": 692,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "12732"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12732_56962d03a56a7a70_z.jpg",
+                "width": 433,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "12732"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12732_56962d03a56a7a70_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12732"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12732_56962d03a56a7a70_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "12732"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12732_56962d03a56a7a70_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12732"
             }
         }
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18049427",
+            "role_id": "35351537",
+            "person_name": "Elinor Merrell",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049427\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), ca. 1840. Medium: cotton\nTechnique: printed by engraved roller on plain weave. \nBequest of Elinor Merrell. 1995-50-194"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1840.\nca. 1840. Medium: cotton\nTechnique: printed by engraved roller on plain weave. Bequest of Elinor Merrell. 1995-50-194."
-    },
-    "colors":[
-        {
-            "color":"#c8928e",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#ac7173",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#844c45",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#664d4e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#f2b0a1",
-            "closest_css3":"#deb887"
-        }
-    ]
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

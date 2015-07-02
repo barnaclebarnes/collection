@@ -1,80 +1,168 @@
 {
-    "id":"18616629",
-    "tms:id":"176844",
-    "accession_number":"1981-28-25",
-    "title":"Sampler, early 20th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616629\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35432169",
-    "type_id":"35256439",
-    "date":"early 20th century",
-    "year_start":"1901",
-    "year_end":"1925",
-    "year_acquired":"1981",
-    "decade":"1900",
-    "woe:country":"23424893",
-    "medium":"Medium: silk and cotton embroidery on cotton foundation\nTechnique: embroidered in satin, back and double running stitches on plain weave foundation",
-    "markings":null,
-    "signed":"Dealer's number 446\/180 inked in upper right. Another indecipherable number in upper left.",
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 58.7 x 50.5cm (23 1\/8 x 19 7\/8in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Scattered motifs of geometrical forms and corners.  Inked on dealer's number: 446\/180 upper right.  Another undecipherable number in upper left.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616629",
+    "tms:id": "176844",
+    "accession_number": "1981-28-25",
+    "title": "Sampler (Morocco), early 20th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616629\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432169",
+    "type_id": "35256439",
+    "date": "early 20th century",
+    "year_start": 1901,
+    "year_end": 1925,
+    "year_acquired": "1981",
+    "decade": "1900",
+    "woe:country_id": "23424893",
+    "medium": "Medium: silk and cotton embroidery on cotton foundation\nTechnique: embroidered in satin, back and double running stitches on plain weave foundation",
+    "markings": null,
+    "signed": "Dealer's number 446\/180 inked in upper right. Another indecipherable number in upper left.",
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 58.7 x 50.5cm (23 1\/8 x 19 7\/8in.)",
+    "dimensions_raw": {
+        "height": [
+            "58.70",
+            "centimeters"
+        ],
+        "width": [
+            "50.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Scattered motifs of geometrical forms and corners.  Inked on dealer's number: 446\/180 upper right.  Another undecipherable number in upper left.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424893",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18146_dcf119b1088243a3_b.jpg",
-                "width":1024,
-                "height":904,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88270_812f48dee5073cd6_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "88270"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18146_dcf119b1088243a3_n.jpg",
-                "width":320,
-                "height":282,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88270_812f48dee5073cd6_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "88270"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18146_dcf119b1088243a3_z.jpg",
-                "width":640,
-                "height":565,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88270_812f48dee5073cd6_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88270"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88270_812f48dee5073cd6_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "88270"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/88270_812f48dee5073cd6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "88270"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18146_dcf119b1088243a3_b.jpg",
+                "width": 1024,
+                "height": 904,
+                "is_primary": "0",
+                "image_id": "18146"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18146_dcf119b1088243a3_z.jpg",
+                "width": 640,
+                "height": 565,
+                "is_primary": "0",
+                "image_id": "18146"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18146_dcf119b1088243a3_n.jpg",
+                "width": 320,
+                "height": 282,
+                "is_primary": "0",
+                "image_id": "18146"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18146_dcf119b1088243a3_d.gif",
+                "width": 320,
+                "height": 282,
+                "is_primary": "0",
+                "image_id": "18146"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18146_dcf119b1088243a3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "18146"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, early 20th century.\nearly 20th century. Medium: silk and cotton embroidery on cotton foundation\nTechnique: embroidered in satin, back and double running stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-25."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d6cbc6",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#6e636c",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#bbad97",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#a2847b",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#975047",
-            "closest_css3":"#a0522d"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Morocco), early 20th century. Medium: silk and cotton embroidery on cotton foundation\nTechnique: embroidered in satin, back and double running stitches on plain weave foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-25"
+    },
+    "colors": [
+        {
+            "color": "#c4bb98",
+            "closest_crayola": "#deaa88",
+            "closest_css3": "#d2b48c",
+            "closest_css4": "#d2b48c"
+        },
+        {
+            "color": "#959062",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#a68554",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#422726",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#827055",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Morocco",
+    "is_loan_object": 0
 }

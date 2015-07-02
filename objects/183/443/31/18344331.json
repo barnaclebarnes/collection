@@ -1,49 +1,114 @@
 {
-    "id":"18344331",
-    "tms:id":"56017",
-    "accession_number":"1937-28-23",
-    "title":"Figure Group, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18344331\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35393045",
-    "type_id":"35284229",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1937",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"biscuit",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. A. Murray Young",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35284229",
-        "name":"Figure group"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18344331",
+    "tms:id": "56017",
+    "accession_number": "1937-28-23",
+    "title": "Figure Group (France), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18344331\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35393045",
+    "type_id": "35284229",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1937",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "biscuit",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. A. Murray Young",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Figure group",
+    "images": [
         {
-            "person_id":"18537773",
-            "role_id":"35236565",
-            "person_name":"Etienne-Maurice Falconet",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537773\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106644_6148851702859358_b.jpg",
+                "width": 1024,
+                "height": 945,
+                "is_primary": "1",
+                "image_id": "106644"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106644_6148851702859358_z.jpg",
+                "width": 640,
+                "height": 590,
+                "is_primary": "1",
+                "image_id": "106644"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106644_6148851702859358_n.jpg",
+                "width": 320,
+                "height": 295,
+                "is_primary": "1",
+                "image_id": "106644"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106644_6148851702859358_d.gif",
+                "width": 320,
+                "height": 295,
+                "is_primary": "1",
+                "image_id": "106644"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/106644_6148851702859358_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "106644"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Figure Group, 18th century.\n18th century. biscuit. Gift of Mrs. A. Murray Young. 1937-28-23."
+    "participants": [
+        {
+            "person_id": "18049439",
+            "role_id": "35351535",
+            "person_name": "Mrs. A. Murray Young",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049439\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18537773",
+            "role_id": "35236565",
+            "person_name": "Etienne-Maurice Falconet",
+            "person_date": "1716 \u2013 1791",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537773\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Figure Group (France), 18th century. biscuit. \nGift of Mrs. A. Murray Young. 1937-28-23"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#b2ac9a",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#736b5a",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

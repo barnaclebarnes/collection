@@ -1,42 +1,121 @@
 {
-    "id":"18394819",
-    "tms:id":"107567",
-    "accession_number":"1953-143-19",
-    "title":"Fan",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394819\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35252007",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1953",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. Max Farrand",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35252007",
-        "name":"fan"
-    },
-    "images":[
-
+    "id": "18394819",
+    "tms:id": "107567",
+    "accession_number": "1953-143-19",
+    "title": "Fan",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18394819\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35252007",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1953",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. Max Farrand",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "fan",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93020_ab3806c929afe1fc_b.jpg",
+                "width": 1024,
+                "height": 747,
+                "is_primary": "1",
+                "image_id": "93020"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93020_ab3806c929afe1fc_z.jpg",
+                "width": 640,
+                "height": 467,
+                "is_primary": "1",
+                "image_id": "93020"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93020_ab3806c929afe1fc_n.jpg",
+                "width": 320,
+                "height": 233,
+                "is_primary": "1",
+                "image_id": "93020"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93020_ab3806c929afe1fc_d.gif",
+                "width": 320,
+                "height": 233,
+                "is_primary": "1",
+                "image_id": "93020"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/93020_ab3806c929afe1fc_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "93020"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049971",
+            "role_id": "35351535",
+            "person_name": "Mrs. Max Farrand",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049971\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fan.\nGift of Mrs. Max Farrand. 1953-143-19."
+    "tombstone": {
+        "epitaph": "Fan. \nGift of Mrs. Max Farrand. 1953-143-19"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#dbd7cb",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#c99e83",
+            "closest_crayola": "#cd9575",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#986d5e",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#999c8d",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#66604f",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "is_loan_object": 0
 }

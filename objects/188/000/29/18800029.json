@@ -1,42 +1,113 @@
 {
-    "id":"18800029",
-    "tms:id":"180177",
-    "accession_number":"1982-52-19",
-    "title":"Souvenir",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18800029\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35293535",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1982",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mr. and Mrs. Boris Kroll",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35293535",
-        "name":"souvenir"
-    },
-    "images":[
+    "id": "18800029",
+    "tms:id": "180177",
+    "accession_number": "1982-52-19",
+    "title": "Souvenir (USA)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18800029\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293535",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1982",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. Boris Kroll",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "souvenir",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77327_16838b80c2bd78cf_b.jpg",
+                "width": 663,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "77327"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77327_16838b80c2bd78cf_z.jpg",
+                "width": 414,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "77327"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77327_16838b80c2bd78cf_n.jpg",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "77327"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77327_16838b80c2bd78cf_d.gif",
+                "width": 207,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "77327"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77327_16838b80c2bd78cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77327"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Souvenir.\nGift of Mr. and Mrs. Boris Kroll. 1982-52-19."
+    "tombstone": {
+        "epitaph": "Souvenir (USA). \nGift of Mr. and Mrs. Boris Kroll. 1982-52-19"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#1e2832",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#b8bdc9",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#414951",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#626872",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#9094a0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

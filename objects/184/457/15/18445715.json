@@ -1,42 +1,121 @@
 {
-    "id":"18445715",
-    "tms:id":"133368",
-    "accession_number":"1962-56-83",
-    "title":"Fragment",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445715\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367101",
-    "type_id":"35254623",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Velvet",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18445715",
+    "tms:id": "133368",
+    "accession_number": "1962-56-83",
+    "title": "Fragment, 16th\u201317th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18445715\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35254623",
+    "date": "16th\u201317th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: silk\nTechnique: cut and uncut supplementary warp pile (velvet)",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74582_71c167c9134d309d_b.jpg",
+                "width": 429,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "74582"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74582_71c167c9134d309d_z.jpg",
+                "width": 268,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "74582"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74582_71c167c9134d309d_n.jpg",
+                "width": 134,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "74582"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74582_71c167c9134d309d_d.gif",
+                "width": 134,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "74582"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/74582_71c167c9134d309d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "74582"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment.\nVelvet. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-83."
+    "tombstone": {
+        "epitaph": "Fragment, 16th\u201317th century. Medium: silk\nTechnique: cut and uncut supplementary warp pile (velvet). \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-83"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#4f7c44",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#485233",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#a18b5e",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#2c3429",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#6ca464",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

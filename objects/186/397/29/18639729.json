@@ -1,103 +1,198 @@
 {
-    "id":"18639729",
-    "tms:id":"194728",
-    "accession_number":"1992-191-1",
-    "title":"Sidewall, \"Nana\", 1972",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18639729\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35426827",
-    "type_id":"35256475",
-    "date":"1972",
-    "year_start":"1972",
-    "year_end":"1972",
-    "year_acquired":"1992",
-    "decade":"1970",
-    "woe:country":"23424829",
-    "medium":"Screen printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 81 x 53 cm (31 7\/8 x 20 7\/8 in.)",
-    "creditline":"Gift of Marilyn Hapgood",
-    "description":"Children's wallpaper with a large-scale Nana figure, snake, sun and telephone illustrated in colors on a pink ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18639729",
+    "tms:id": "194728",
+    "accession_number": "1992-191-1",
+    "title": "Sidewall, Nana, 1972",
+    "title_raw": "Nana",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18639729\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35376447",
+    "type_id": "35256475",
+    "date": "1972",
+    "year_start": 1972,
+    "year_end": 1972,
+    "year_acquired": "1992",
+    "decade": "1970",
+    "woe:country_id": "23424829",
+    "medium": "Screen-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Marilyn Hapgood; 1992: acquired by Museum",
+    "dimensions": "Overall: 81 x 53 cm (31 7\/8 x 20 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "81.00",
+            "centimeters"
+        ],
+        "width": [
+            "53.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Marilyn Hapgood",
+    "description": "Children's wallpaper with a large-scale Nana figure, snake, sun and telephone illustrated in colors on a pink ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11862_16710355e38202e0_b.jpg",
-                "width":692,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85053_2e0468184bd395e7_b.jpg",
+                "width": 671,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "85053"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11862_16710355e38202e0_n.jpg",
-                "width":216,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85053_2e0468184bd395e7_z.jpg",
+                "width": 419,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "85053"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11862_16710355e38202e0_z.jpg",
-                "width":432,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85053_2e0468184bd395e7_n.jpg",
+                "width": 210,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85053"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85053_2e0468184bd395e7_d.gif",
+                "width": 210,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85053"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85053_2e0468184bd395e7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "85053"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11862_16710355e38202e0_b.jpg",
+                "width": 692,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11862"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11862_16710355e38202e0_z.jpg",
+                "width": 432,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11862"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11862_16710355e38202e0_n.jpg",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11862"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11862_16710355e38202e0_d.gif",
+                "width": 216,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11862"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11862_16710355e38202e0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11862"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046731",
-            "role_id":"35236657",
-            "person_name":"Xartwall",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046731\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18041277",
+            "role_id": "35351535",
+            "person_name": "Ms. Marilyn Hapgood",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041277\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046547",
-            "role_id":"35236655",
-            "person_name":"Niki de St. Phalle",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046547\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046731",
+            "role_id": "35236685",
+            "person_name": "Xartwall",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046731\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         },
         {
-            "person_id":"18048585",
-            "role_id":"35236565",
-            "person_name":"Niki de Saint-Phalle",
-            "role_name":"Artist",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048585\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+            "person_id": "18046547",
+            "role_id": "35236655",
+            "person_name": "Niki de Saint Phalle",
+            "person_date": "French, 1930\u20132002",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046547\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18048585",
+            "role_id": "35236565",
+            "person_name": "Niki de Saint-Phalle",
+            "person_date": "",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18048585\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"Nana\", 1972.\n1972. Screen printed. Gift of Marilyn Hapgood. 1992-191-1."
+    "tombstone": {
+        "epitaph": "Sidewall, Nana, 1972. Screen-printed on paper. \nGift of Marilyn Hapgood. 1992-191-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#e3badb",
-            "closest_css3":"#d8bfd8"
+            "color": "#d6aac5",
+            "closest_crayola": "#e6a8d7",
+            "closest_css3": "#dda0dd",
+            "closest_css4": "#dda0dd"
         },
         {
-            "color":"#b08db3",
-            "closest_css3":"#a9a9a9"
+            "color": "#41363e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#190817",
-            "closest_css3":"#000000"
+            "color": "#8cbd3a",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#9acd32",
+            "closest_css4": "#9acd32"
         },
         {
-            "color":"#846d8a",
-            "closest_css3":"#808080"
+            "color": "#dd7836",
+            "closest_crayola": "#ff7538",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#3e2a2a",
-            "closest_css3":"#2f4f4f"
+            "color": "#6a427f",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#663399"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

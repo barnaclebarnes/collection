@@ -1,80 +1,168 @@
 {
-    "id":"18319149",
-    "tms:id":"44767",
-    "accession_number":"1931-45-104",
-    "title":"Border, 1815\u201330",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18319149\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35393507",
-    "type_id":"35237285",
-    "date":"1815\u201330",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1931",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Block-printed, flocked, handmade paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"22.5 x 26 cm (8 7\/8 x 10 1\/4 in.)",
-    "creditline":"Gift of Eleanor and Sarah Hewitt",
-    "description":"Horizontal rectangle. Band of roses, tulips and morning glories in naturalistic colors against field of dark red flock; across top, leaf molding and bead and reel, across bottom, cable molding, in yellows.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18319149",
+    "tms:id": "44767",
+    "accession_number": "1931-45-104",
+    "title": "Border (France), 1815\u201330",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18319149\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414645",
+    "type_id": "35237285",
+    "date": "1815\u201330",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1931",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Block-printed and flocked on handmade paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "22.5 x 26 cm (8 7\/8 x 10 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "22.50",
+            "centimeters"
+        ],
+        "width": [
+            "26.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Eleanor and Sarah Hewitt",
+    "description": "Horizontal rectangle. Band of roses, tulips and morning glories in naturalistic colors against field of dark red flock; across top, leaf molding and bead and reel, across bottom, cable molding, in yellows.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2601_69682acf71caf490_b.jpg",
-                "width":895,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92240_43a87e94ad9c7c4d_b.jpg",
+                "width": 833,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "92240"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2601_69682acf71caf490_n.jpg",
-                "width":280,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92240_43a87e94ad9c7c4d_z.jpg",
+                "width": 520,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "92240"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2601_69682acf71caf490_z.jpg",
-                "width":559,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92240_43a87e94ad9c7c4d_n.jpg",
+                "width": 260,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92240"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92240_43a87e94ad9c7c4d_d.gif",
+                "width": 260,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "92240"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/92240_43a87e94ad9c7c4d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "92240"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2601_69682acf71caf490_b.jpg",
+                "width": 895,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2601"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2601_69682acf71caf490_z.jpg",
+                "width": 559,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2601"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2601_69682acf71caf490_n.jpg",
+                "width": 280,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2601"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2601_69682acf71caf490_d.gif",
+                "width": 280,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2601"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2601_69682acf71caf490_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2601"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, 1815\u201330.\n1815\u201330. Block-printed, flocked, handmade paper. Gift of Eleanor and Sarah Hewitt. 1931-45-104."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#42312e",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#9c815d",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#7c5741",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#506971",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#7f4f65",
-            "closest_css3":"#696969"
+            "person_id": "18052661",
+            "role_id": "35352245",
+            "person_name": "Elizabeth Haynes",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border (France), 1815\u201330. Block-printed and flocked on handmade paper. \nGift of Eleanor and Sarah Hewitt. 1931-45-104"
+    },
+    "colors": [
+        {
+            "color": "#311e18",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#bda958",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#cacbbf",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#5c7760",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#906938",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,87 +1,178 @@
 {
-    "id":"18653365",
-    "tms:id":"201641",
-    "accession_number":"1996-18-93-a,b",
-    "title":"Covered Dish, 1920\u201340",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18653365\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35380247",
-    "type_id":"35262079",
-    "date":"1920\u201340",
-    "year_start":"1920",
-    "year_end":"1940",
-    "year_acquired":"1996",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"Glazed earthenware, gilding",
-    "markings":"On bottom of box in black, a shield containing a tree-shape with bracing \"C\" and \"G\" and with \"Carstens\" at the top.  On top of the shield is \"Grafenroda\" and below sits \"Handmalerai\".  Also, \"Dec. 1201\".",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"height 6.5, diameter 11.8 centimeters",
-    "creditline":"Gift of Victor Wiener",
-    "description":"Circular bowl with inward curving lip.  White background with horizontal lines of red, green, and gold on the top half of the surface.  Dome-shaped lid with concentric circles of yellow, red, and green alternating with white circles highlighted with gold.",
-    "justification":null,
-    "type":{
-        "id":"35262079",
-        "name":"Covered dish"
+    "id": "18653365",
+    "tms:id": "201641",
+    "accession_number": "1996-18-93-a,b",
+    "title": "Covered Dish (Germany), 1920\u201340",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18653365\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35380247",
+    "type_id": "35262079",
+    "date": "1920\u201340",
+    "year_start": 1920,
+    "year_end": 1940,
+    "year_acquired": "1996",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "Glazed earthenware, gilding",
+    "markings": "On bottom of box in black, a shield containing a tree-shape with bracing \"C\" and \"G\" and with \"Carstens\" at the top.  On top of the shield is \"Grafenroda\" and below sits \"Handmalerai\".  Also, \"Dec. 1201\".",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "height 6.5, diameter 11.8 centimeters",
+    "dimensions_raw": {
+        "diameter": [
+            "11.80",
+            "centimeters"
+        ],
+        "height": [
+            "6.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Victor Wiener",
+    "description": "Circular bowl with inward curving lip.  White background with horizontal lines of red, green, and gold on the top half of the surface.  Dome-shaped lid with concentric circles of yellow, red, and green alternating with white circles highlighted with gold.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Covered dish",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12964_3cd03fb1d4d24291_b.jpg",
-                "width":1024,
-                "height":836,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109790_263cb00c8a73bc59_b.jpg",
+                "width": 1024,
+                "height": 759,
+                "is_primary": "1",
+                "image_id": "109790"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12964_3cd03fb1d4d24291_n.jpg",
-                "width":320,
-                "height":261,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109790_263cb00c8a73bc59_z.jpg",
+                "width": 640,
+                "height": 474,
+                "is_primary": "1",
+                "image_id": "109790"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/12964_3cd03fb1d4d24291_z.jpg",
-                "width":640,
-                "height":522,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109790_263cb00c8a73bc59_n.jpg",
+                "width": 320,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "109790"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109790_263cb00c8a73bc59_d.gif",
+                "width": 320,
+                "height": 237,
+                "is_primary": "1",
+                "image_id": "109790"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109790_263cb00c8a73bc59_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109790"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12964_3cd03fb1d4d24291_b.jpg",
+                "width": 1024,
+                "height": 836,
+                "is_primary": "0",
+                "image_id": "12964"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12964_3cd03fb1d4d24291_z.jpg",
+                "width": 640,
+                "height": 522,
+                "is_primary": "0",
+                "image_id": "12964"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12964_3cd03fb1d4d24291_n.jpg",
+                "width": 320,
+                "height": 261,
+                "is_primary": "0",
+                "image_id": "12964"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12964_3cd03fb1d4d24291_d.gif",
+                "width": 320,
+                "height": 261,
+                "is_primary": "0",
+                "image_id": "12964"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/12964_3cd03fb1d4d24291_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "12964"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049763",
-            "role_id":"35236685",
-            "person_name":"Carstens-Graefenroda",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049763\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18041855",
+            "role_id": "35351535",
+            "person_name": "Victor Wiener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049763",
+            "role_id": "35236685",
+            "person_name": "Carstens-Graefenroda",
+            "person_date": "",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049763\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Covered Dish, 1920\u201340.\n1920\u201340. Glazed earthenware, gilding. Gift of Victor Wiener. 1996-18-93-a,b."
+    "tombstone": {
+        "epitaph": "Covered Dish (Germany), 1920\u201340. Glazed earthenware, gilding. \nGift of Victor Wiener. 1996-18-93-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#9e9dad",
-            "closest_css3":"#a9a9a9"
+            "color": "#86ab81",
+            "closest_crayola": "#87a96b",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
         },
         {
-            "color":"#5b846e",
-            "closest_css3":"#696969"
+            "color": "#9c6558",
+            "closest_crayola": "#a5694f",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#62100a",
-            "closest_css3":"#800000"
+            "color": "#a69283",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#bf955a",
-            "closest_css3":"#cd853f"
+            "color": "#80392c",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         },
         {
-            "color":"#763937",
-            "closest_css3":"#8b4513"
+            "color": "#b3bdac",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         }
-    ]
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

@@ -1,80 +1,178 @@
 {
-    "id":"18562627",
-    "tms:id":"74518",
-    "accession_number":"1941-28-3",
-    "title":"Textile, ca. 1790",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18562627\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35427065",
-    "type_id":"35251739",
-    "date":"ca. 1790",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"Printed by wooden block or roller on cotton\nMedium: cotton \nTechnique: printed by woodblock or relief rollers; plain weave foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 57.9 x 74.9 cm (22 13\/16 x 29 1\/2 in.)",
-    "creditline":"Museum purchase in memory of Eleanor and Sarah Hewitt",
-    "description":"Design of curving floral stripes.  The broadest stripe is composed of bouquets tied with blue ribbons on lavender ground.  This stripe alternates with narrower stripes made of small bouquets on a white ground with yellow bars.",
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18562627",
+    "tms:id": "74518",
+    "accession_number": "1941-28-3",
+    "title": "Textile (France), ca. 1790",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18562627\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35427065",
+    "type_id": "35251739",
+    "date": "ca. 1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "Printed by wooden block or roller on cotton\nMedium: cotton \nTechnique: printed by woodblock or relief rollers; plain weave foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 57.9 x 74.9 cm (22 13\/16 x 29 1\/2 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "57.94",
+            "centimeters"
+        ],
+        "weft": [
+            "74.93",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase in memory of Eleanor and Sarah Hewitt",
+    "description": "Design of curving floral stripes.  The broadest stripe is composed of bouquets tied with blue ribbons on lavender ground.  This stripe alternates with narrower stripes made of small bouquets on a white ground with yellow bars.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "textile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4003_c78abb4c278e2054_b.jpg",
-                "width":1024,
-                "height":788,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110579_c74da10224d21127_b.jpg",
+                "width": 1024,
+                "height": 801,
+                "is_primary": "1",
+                "image_id": "110579"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4003_c78abb4c278e2054_n.jpg",
-                "width":320,
-                "height":246,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110579_c74da10224d21127_z.jpg",
+                "width": 640,
+                "height": 500,
+                "is_primary": "1",
+                "image_id": "110579"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/4003_c78abb4c278e2054_z.jpg",
-                "width":640,
-                "height":492,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110579_c74da10224d21127_n.jpg",
+                "width": 320,
+                "height": 250,
+                "is_primary": "1",
+                "image_id": "110579"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110579_c74da10224d21127_d.gif",
+                "width": 320,
+                "height": 250,
+                "is_primary": "1",
+                "image_id": "110579"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110579_c74da10224d21127_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110579"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4003_c78abb4c278e2054_b.jpg",
+                "width": 1024,
+                "height": 788,
+                "is_primary": "0",
+                "image_id": "4003"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4003_c78abb4c278e2054_z.jpg",
+                "width": 640,
+                "height": 492,
+                "is_primary": "0",
+                "image_id": "4003"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4003_c78abb4c278e2054_n.jpg",
+                "width": 320,
+                "height": 246,
+                "is_primary": "0",
+                "image_id": "4003"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4003_c78abb4c278e2054_d.gif",
+                "width": 320,
+                "height": 246,
+                "is_primary": "0",
+                "image_id": "4003"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/4003_c78abb4c278e2054_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "4003"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Textile, ca. 1790.\nca. 1790. Printed by wooden block or roller on cotton\nMedium: cotton \nTechnique: printed by woodblock or relief rollers; plain weave foundation. Museum purchase in memory of Eleanor and Sarah Hewitt. 1941-28-3."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#db5779",
-            "closest_css3":"#cd5c5c"
+            "person_id": "18052661",
+            "role_id": "35352245",
+            "person_name": "Elizabeth Haynes",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052661\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "color":"#a2223f",
-            "closest_css3":"#a52a2a"
-        },
-        {
-            "color":"#f3c5b2",
-            "closest_css3":"#ffb6c1"
-        },
-        {
-            "color":"#e4999a",
-            "closest_css3":"#e9967a"
-        },
-        {
-            "color":"#ca684b",
-            "closest_css3":"#cd5c5c"
+            "person_id": "18538369",
+            "role_id": "35352249",
+            "person_name": "Amy Pleadwell",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538369\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Textile (France), ca. 1790. Printed by wooden block or roller on cotton\nMedium: cotton \nTechnique: printed by woodblock or relief rollers; plain weave foundation. \nMuseum purchase in memory of Eleanor and Sarah Hewitt. 1941-28-3"
+    },
+    "colors": [
+        {
+            "color": "#a0646a",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
+        },
+        {
+            "color": "#ac9169",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#88776b",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#ab8f87",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7c6059",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

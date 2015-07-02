@@ -1,42 +1,131 @@
 {
-    "id":"18617993",
-    "tms:id":"177530",
-    "accession_number":"1981-29-43",
-    "title":"Poster",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617993\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35238163",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Various Donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35238163",
-        "name":"poster"
+    "id": "18617993",
+    "tms:id": "177530",
+    "accession_number": "1981-29-43",
+    "title": "Poster, Dick Vanderveen for United States Senate, ca. 1978",
+    "title_raw": "Dick Vanderveen for United States Senate",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18617993\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "68249155",
+    "type_id": "35238163",
+    "date": "ca. 1978",
+    "year_start": 1973,
+    "year_end": 1983,
+    "year_acquired": "1981",
+    "decade": "1970",
+    "woe:country_id": "23424977",
+    "medium": "Screenprint, gloss ink (possibly transfer type) on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1981: acquired by Museum",
+    "dimensions": "H x W: 95.3 x 63.7 cm (37 1\/2 x 25 1\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "95.30",
+            "centimeters"
+        ],
+        "width": [
+            "63.70",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Various Donors",
+    "description": "Colorful map of the United States\u2019 Great Lakes region. Text in black: DICK VANDERVEEN FOR United States Senate. Visible are towns in Michigan, which is colored red.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "poster",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80009_732193d8c1ce3763_b.jpg",
+                "width": 685,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "80009"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80009_732193d8c1ce3763_z.jpg",
+                "width": 428,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "80009"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80009_732193d8c1ce3763_n.jpg",
+                "width": 214,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80009"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80009_732193d8c1ce3763_d.gif",
+                "width": 214,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "80009"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/80009_732193d8c1ce3763_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "80009"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18042365",
+            "role_id": "35236655",
+            "person_name": "Stephen Frykholm",
+            "person_date": "American, b. 1942",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Poster.\nGift of Various Donors. 1981-29-43."
+    "tombstone": {
+        "epitaph": "Poster, Dick Vanderveen for United States Senate, ca. 1978. Screenprint, gloss ink (possibly transfer type) on paper. \nGift of Various Donors. 1981-29-43"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#3c3791",
+            "closest_crayola": "#2e5894",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
+        },
+        {
+            "color": "#dfd43c",
+            "closest_crayola": "#ffcf48",
+            "closest_css3": "#daa520",
+            "closest_css4": "#daa520"
+        },
+        {
+            "color": "#a44225",
+            "closest_crayola": "#9c2542",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
+        },
+        {
+            "color": "#c67e2a",
+            "closest_crayola": "#c46210",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
+        },
+        {
+            "color": "#74321f",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

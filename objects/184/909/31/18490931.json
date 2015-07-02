@@ -1,95 +1,140 @@
 {
-    "id":"18490931",
-    "tms:id":"156344",
-    "accession_number":"1976-48-18",
-    "title":"Sidewall, 1879\u201387",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18490931\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35414653",
-    "type_id":"35256475",
-    "date":"1879\u201387",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Machine-printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"27.5 x 46.5 cm (10 13\/16 x 18 5\/16 in.)",
-    "creditline":"Gift of Thomas Strahan Company",
-    "description":"Aesthetic style design. Divided into quadrants with circular medallions separating. Printed in lavender, olive green and light yellow on tan ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18490931",
+    "tms:id": "156344",
+    "accession_number": "1976-48-18",
+    "title": "Sidewall, 1879\u201387",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18490931\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35414653",
+    "type_id": "35256475",
+    "date": "1879\u201387",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Machine-printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "27.5 x 46.5 cm (10 13\/16 x 18 5\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "27.50",
+            "centimeters"
+        ],
+        "width": [
+            "46.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Thomas Strahan Company",
+    "description": "Aesthetic style design. Divided into quadrants with circular medallions separating. Printed in lavender, olive green and light yellow on tan ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8105_fe3b0b404a90f27b_b.jpg",
-                "width":1024,
-                "height":916,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8105_fe3b0b404a90f27b_b.jpg",
+                "width": 1024,
+                "height": 916,
+                "is_primary": "1",
+                "image_id": "8105"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8105_fe3b0b404a90f27b_n.jpg",
-                "width":320,
-                "height":286,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8105_fe3b0b404a90f27b_z.jpg",
+                "width": 640,
+                "height": 573,
+                "is_primary": "1",
+                "image_id": "8105"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8105_fe3b0b404a90f27b_z.jpg",
-                "width":640,
-                "height":573,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8105_fe3b0b404a90f27b_n.jpg",
+                "width": 320,
+                "height": 286,
+                "is_primary": "1",
+                "image_id": "8105"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8105_fe3b0b404a90f27b_d.gif",
+                "width": 320,
+                "height": 286,
+                "is_primary": "1",
+                "image_id": "8105"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8105_fe3b0b404a90f27b_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "8105"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046371",
-            "role_id":"35351535",
-            "person_name":"Thomas Strahan & Co., Manufactory",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046371\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046371",
+            "role_id": "35351535",
+            "person_name": "Thomas Strahan & Co., Manufactory",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046709",
-            "role_id":"35236685",
-            "person_name":"American Wall Paper Manufacturers' Association",
-            "role_name":"Maker",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046709\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+            "person_id": "18046709",
+            "role_id": "35236685",
+            "person_name": "American Wall Paper Manufacturers' Association",
+            "person_date": "1879\u20131887",
+            "role_name": "Maker",
+            "role_display_name": "Made by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046709\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, 1879\u201387.\n1879\u201387. Machine-printed. Gift of Thomas Strahan Company. 1976-48-18."
+    "tombstone": {
+        "epitaph": "Sidewall, 1879\u201387. Machine-printed. \nGift of Thomas Strahan Company. 1976-48-18"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d2b57b",
-            "closest_css3":"#d2b48c"
+            "color": "#e4c67f",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
         },
         {
-            "color":"#f9dd93",
-            "closest_css3":"#f0e68c"
+            "color": "#a4803e",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#a48540",
-            "closest_css3":"#cd853f"
+            "color": "#251e28",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
         },
         {
-            "color":"#270f14",
-            "closest_css3":"#000000"
+            "color": "#fbf3a8",
+            "closest_crayola": "#fae7b5",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
         },
         {
-            "color":"#270e2e",
-            "closest_css3":"#000000"
+            "color": "#e0aeaf",
+            "closest_crayola": "#ef98aa",
+            "closest_css3": "#ffb6c1",
+            "closest_css4": "#ffb6c1"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

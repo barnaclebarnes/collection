@@ -1,42 +1,122 @@
 {
-    "id":"18558609",
-    "tms:id":"72505",
-    "accession_number":"1940-120-51",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18558609\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1940",
-    "decade":null,
-    "woe:country":"23424750",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of Mary Hearn Greims",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18558609",
+    "tms:id": "72505",
+    "accession_number": "1940-120-51",
+    "title": "Drawing, Wallpaper Design, 1835\u201350",
+    "title_raw": "Wallpaper Design",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18558609\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35421791",
+    "type_id": "35237093",
+    "date": "1835\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1940",
+    "decade": null,
+    "woe:country_id": "23424750",
+    "medium": "Brush and gouache, graphite on white paper",
+    "markings": "Lower margin, in graphite: NTL N2 Mittere; in ink, upper left: 2tenZ [?] F. R\u00fchl [?]; lower left: W; in graphite, upper right: GW",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1940: acquired by Museum",
+    "dimensions": "33.2 x 24.5 cm (13 1\/16 x 9 5\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "33.20",
+            "centimeters"
+        ],
+        "width": [
+            "24.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of Mary Hearn Greims",
+    "description": "A dado is shown at the bottom, and a high entablature on top. The panel is rose, and divided into stripes by vertical rows of palmettes. Two alternative suggestions are made for the white motifs decorating the stripes: lozenge motifs connected by curved boughs and complicated motifs consisting of rosettes, halves of petals, leaf boughs. On top is an oak garland, the upper part of which is shown against a dark background.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "Drawing",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63521_3dc9a53c993633cf_b.jpg",
+                "width": 764,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "63521"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63521_3dc9a53c993633cf_z.jpg",
+                "width": 477,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "63521"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63521_3dc9a53c993633cf_n.jpg",
+                "width": 239,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63521"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63521_3dc9a53c993633cf_d.gif",
+                "width": 239,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "63521"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63521_3dc9a53c993633cf_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63521"
+            }
+        }
+    ],
+    "participants": [
 
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of Mary Hearn Greims. 1940-120-51."
+    "tombstone": {
+        "epitaph": "Drawing, Wallpaper Design, 1835\u201350. Brush and gouache, graphite on white paper. \nMuseum purchase through gift of Mary Hearn Greims. 1940-120-51"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#d0c1c3",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
+        },
+        {
+            "color": "#d2d5c1",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
+        },
+        {
+            "color": "#926c62",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#413e39",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#9e8f83",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

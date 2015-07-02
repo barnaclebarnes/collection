@@ -1,72 +1,156 @@
 {
-    "id":"18113755",
-    "tms:id":"8679",
-    "accession_number":"1901-39-2096",
-    "title":"Drawing, \"Head of a dolphin\", ca. 1775",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18113755\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35365943",
-    "type_id":"35237093",
-    "date":"ca. 1775",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and ink, brush and gray water color, on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"At right, pen and ink: 138 180 193 226",
-    "provenance":"Ex-collection: Giovanni Piancastelli",
-    "dimensions":"16.5 x 22.5 cm (6 1\/2 x 8 7\/8 in.)",
-    "creditline":"Museum purchase through gift of various donors",
-    "description":"Head of a dolphin with an open mouth, turned to the left, looking ferocious.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18113755",
+    "tms:id": "8679",
+    "accession_number": "1901-39-2096",
+    "title": "Drawing, Head of a dolphin, ca. 1775",
+    "title_raw": "Head of a dolphin",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18113755\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "68264243",
+    "type_id": "35237093",
+    "date": "ca. 1775",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and ink, brush and gray watercolor on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "At right, pen and ink: 138 180 193 226",
+    "provenance": "Giovanni Piancastelli; 1901: acquired by Museum",
+    "dimensions": "16.5 x 22.5 cm (6 1\/2 x 8 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "16.50",
+            "centimeters"
+        ],
+        "width": [
+            "22.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Head of a dolphin with an open mouth, turned to the left, looking ferocious.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/412_4e8cee619a90ae98_b.jpg",
-                "width":1024,
-                "height":739,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91648_a47ab2ec26dc3c95_b.jpg",
+                "width": 1024,
+                "height": 756,
+                "is_primary": "1",
+                "image_id": "91648"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/412_4e8cee619a90ae98_n.jpg",
-                "width":320,
-                "height":231,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91648_a47ab2ec26dc3c95_z.jpg",
+                "width": 640,
+                "height": 473,
+                "is_primary": "1",
+                "image_id": "91648"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/412_4e8cee619a90ae98_z.jpg",
-                "width":640,
-                "height":462,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91648_a47ab2ec26dc3c95_n.jpg",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "91648"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91648_a47ab2ec26dc3c95_d.gif",
+                "width": 320,
+                "height": 236,
+                "is_primary": "1",
+                "image_id": "91648"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/91648_a47ab2ec26dc3c95_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "91648"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/412_4e8cee619a90ae98_b.jpg",
+                "width": 1024,
+                "height": 739,
+                "is_primary": "0",
+                "image_id": "412"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/412_4e8cee619a90ae98_z.jpg",
+                "width": 640,
+                "height": 462,
+                "is_primary": "0",
+                "image_id": "412"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/412_4e8cee619a90ae98_n.jpg",
+                "width": 320,
+                "height": 231,
+                "is_primary": "0",
+                "image_id": "412"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/412_4e8cee619a90ae98_d.gif",
+                "width": 320,
+                "height": 231,
+                "is_primary": "0",
+                "image_id": "412"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/412_4e8cee619a90ae98_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "412"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Head of a dolphin\", ca. 1775.\nca. 1775. Pen and ink, brush and gray water color, on paper. Museum purchase through gift of various donors. 1901-39-2096."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b6a2a1",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#957d7c",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#6b595b",
-            "closest_css3":"#696969"
+            "person_id": "18042677",
+            "role_id": "35236565",
+            "person_name": "Filippo Marchionni",
+            "person_date": "Italian, 1732\u20131805",
+            "role_name": "Artist",
+            "role_display_name": "",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042677\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Head of a dolphin, ca. 1775. Pen and ink, brush and gray watercolor on paper. \nMuseum purchase through gift of various donors. 1901-39-2096"
+    },
+    "colors": [
+        {
+            "color": "#a79880",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#6b5d4d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#887863",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

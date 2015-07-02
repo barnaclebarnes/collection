@@ -1,42 +1,127 @@
 {
-    "id":"18474495",
-    "tms:id":"148008",
-    "accession_number":"1971-50-337",
-    "title":"Fragment, 16th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474495\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35397769",
-    "type_id":"35254623",
-    "date":"16th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1971",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Medium: linen lace and fabric\nTechnique: continuous braid bobbin lace, dyed green and sewn to plain weave fabric",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Width: 3\/8 of an inch",
-    "creditline":"Bequest of Marian Hague",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
+    "id": "18474495",
+    "tms:id": "148008",
+    "accession_number": "1971-50-337",
+    "title": "Fragment (Italy), 16th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18474495\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35397769",
+    "type_id": "35254623",
+    "date": "16th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1971",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Medium: linen lace and fabric\nTechnique: continuous braid like bobbin lace, plain weave fabric",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "probably oldest piece of lace in the collection",
+    "dimensions": "Width: 3\/8 of an inch",
+    "dimensions_raw": {
+        "width": [
+            "0.95",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Marian Hague",
+    "description": "Continuous braid like bobbin lace, dyed green and sewn to plain weave fabric.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75954_bfd69491fda4a3b5_b.jpg",
+                "width": 1024,
+                "height": 468,
+                "is_primary": "1",
+                "image_id": "75954"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75954_bfd69491fda4a3b5_z.jpg",
+                "width": 640,
+                "height": 293,
+                "is_primary": "1",
+                "image_id": "75954"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75954_bfd69491fda4a3b5_n.jpg",
+                "width": 320,
+                "height": 146,
+                "is_primary": "1",
+                "image_id": "75954"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75954_bfd69491fda4a3b5_d.gif",
+                "width": 320,
+                "height": 146,
+                "is_primary": "1",
+                "image_id": "75954"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/75954_bfd69491fda4a3b5_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "75954"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18052465",
+            "role_id": "35351537",
+            "person_name": "Marian Hague",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052465\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 16th century.\n16th century. Medium: linen lace and fabric\nTechnique: continuous braid bobbin lace, dyed green and sewn to plain weave fabric. Bequest of Marian Hague. 1971-50-337."
+    "tombstone": {
+        "epitaph": "Fragment (Italy), 16th century. Medium: linen lace and fabric\nTechnique: continuous braid like bobbin lace, plain weave fabric. \nBequest of Marian Hague. 1971-50-337"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#211317",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#1c282f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#dae5d7",
+            "closest_crayola": "#dbd7d2",
+            "closest_css3": "#dcdcdc",
+            "closest_css4": "#dcdcdc"
+        },
+        {
+            "color": "#4d2e2c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#7d9c98",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#778899",
+            "closest_css4": "#778899"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

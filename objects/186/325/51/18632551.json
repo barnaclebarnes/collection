@@ -1,65 +1,90 @@
 {
-    "id":"18632551",
-    "tms:id":"191118",
-    "accession_number":"1989-22-1",
-    "title":"Secretaire, \"Face to Face\", 1987",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18632551\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35398155",
-    "type_id":"35294223",
-    "date":"1987",
-    "year_start":"1987",
-    "year_end":"1987",
-    "year_acquired":"1989",
-    "decade":"1980",
-    "woe:country":"23424819",
-    "medium":"steel, enameled",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Overall: 132.3 x 13 x 67.5 cm (52 1\/16 x 5 1\/8 x 26 9\/16 in.)",
-    "creditline":"Gift of Fermob",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35294223",
-        "name":"secretaire"
+    "id": "18632551",
+    "tms:id": "191118",
+    "accession_number": "1989-22-1",
+    "title": "Face to Face Secretaire, 1987",
+    "title_raw": "Face to Face",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18632551\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35398155",
+    "type_id": "35294223",
+    "date": "1987",
+    "year_start": 1987,
+    "year_end": 1987,
+    "year_acquired": "1989",
+    "decade": "1980",
+    "woe:country_id": "23424819",
+    "medium": "steel, enameled",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Overall: 132.3 x 13 x 67.5 cm (52 1\/16 x 5 1\/8 x 26 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "67.50",
+            "centimeters"
+        ],
+        "height": [
+            "132.30",
+            "centimeters"
+        ],
+        "width": [
+            "13.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Fermob",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "secretaire",
+    "images": [
 
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18537793",
-            "role_id":"35351535",
-            "person_name":"Fermob",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537793\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18537793",
+            "role_id": "35351535",
+            "person_name": "Fermob",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537793\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18537793",
-            "role_id":"35236657",
-            "person_name":"Fermob",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537793\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18537793",
+            "role_id": "35236657",
+            "person_name": "Fermob",
+            "person_date": "",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537793\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "person_id":"18537791",
-            "role_id":"35236655",
-            "person_name":"Pascal Mourgue",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537791\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18537791",
+            "role_id": "35236655",
+            "person_name": "Pascal Mourgue",
+            "person_date": "b. 1943",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537791\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Secretaire, \"Face to Face\", 1987.\n1987. steel, enameled. Gift of Fermob. 1989-22-1."
+    "tombstone": {
+        "epitaph": "Face to Face Secretaire, 1987. steel, enameled. \nGift of Fermob. 1989-22-1"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

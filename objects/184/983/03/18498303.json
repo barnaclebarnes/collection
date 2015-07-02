@@ -1,42 +1,112 @@
 {
-    "id":"18498303",
-    "tms:id":"160050",
-    "accession_number":"1979-65-13",
-    "title":"Cup",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18498303\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35249795",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1979",
-    "decade":null,
-    "woe:country":null,
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x diam.: 4.8 x 8.8 cm (1 7\/8 x 3 7\/16 in.)",
-    "creditline":"Gift of Stanley Herzman",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35249795",
-        "name":"cup"
+    "id": "18498303",
+    "tms:id": "160050",
+    "accession_number": "1979-65-13",
+    "title": "Cup",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18498303\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35249795",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1979",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x diam.: 4.8 x 8.8 cm (1 7\/8 x 3 7\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "8.80",
+            "centimeters"
+        ],
+        "height": [
+            "4.80",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Stanley Herzman",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "cup",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110142_3f46fe7e2c0b402d_b.jpg",
+                "width": 1024,
+                "height": 801,
+                "is_primary": "1",
+                "image_id": "110142"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110142_3f46fe7e2c0b402d_z.jpg",
+                "width": 640,
+                "height": 500,
+                "is_primary": "1",
+                "image_id": "110142"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110142_3f46fe7e2c0b402d_n.jpg",
+                "width": 320,
+                "height": 250,
+                "is_primary": "1",
+                "image_id": "110142"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110142_3f46fe7e2c0b402d_d.gif",
+                "width": 320,
+                "height": 250,
+                "is_primary": "1",
+                "image_id": "110142"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/110142_3f46fe7e2c0b402d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "110142"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18059723",
+            "role_id": "35351535",
+            "person_name": "Stanley Herzman",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059723\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Cup.\nporcelain. Gift of Stanley Herzman. 1979-65-13."
+    "tombstone": {
+        "epitaph": "Cup. porcelain. \nGift of Stanley Herzman. 1979-65-13"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#9f9f94",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#897a68",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

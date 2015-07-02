@@ -1,100 +1,215 @@
 {
-    "id":"18679445",
-    "tms:id":"215194",
-    "accession_number":"1999-57-42",
-    "title":"Plate, ca. 1930",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18679445\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35236833",
-    "date":"ca. 1930",
-    "year_start":"1925",
-    "year_end":"1935",
-    "year_acquired":"1999",
-    "decade":"1920",
-    "woe:country":"23424829",
-    "medium":"glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"2.2h x 19.5 diameter cm (7\/8 x 7 11\/16 in. )",
-    "creditline":"Gift of Victor Wiener",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18679445",
+    "tms:id": "215194",
+    "accession_number": "1999-57-42",
+    "title": "Plate (Germany), ca. 1930",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18679445\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35236833",
+    "date": "ca. 1930",
+    "year_start": 1925,
+    "year_end": 1935,
+    "year_acquired": "1999",
+    "decade": "1920",
+    "woe:country_id": "23424829",
+    "medium": "glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "2.2h x 19.5 diameter cm (7\/8 x 7 11\/16 in. )",
+    "dimensions_raw": {
+        "diameter": [
+            "19.50",
+            "centimeters"
+        ],
+        "height": [
+            "2.20",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Victor Wiener",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14151_344952ce0c830090_b.jpg",
-                "width":1024,
-                "height":964,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111289_3a13924f3aa12dd4_b.jpg",
+                "width": 1024,
+                "height": 702,
+                "is_primary": "1",
+                "image_id": "111289"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14151_344952ce0c830090_n.jpg",
-                "width":320,
-                "height":301,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111289_3a13924f3aa12dd4_z.jpg",
+                "width": 640,
+                "height": 439,
+                "is_primary": "1",
+                "image_id": "111289"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14151_344952ce0c830090_z.jpg",
-                "width":640,
-                "height":602,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111289_3a13924f3aa12dd4_n.jpg",
+                "width": 320,
+                "height": 219,
+                "is_primary": "1",
+                "image_id": "111289"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111289_3a13924f3aa12dd4_d.gif",
+                "width": 320,
+                "height": 219,
+                "is_primary": "1",
+                "image_id": "111289"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/111289_3a13924f3aa12dd4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "111289"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14150_ee8d980fb46d32b1_b.jpg",
-                "width":1024,
-                "height":581,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14151_344952ce0c830090_b.jpg",
+                "width": 1024,
+                "height": 964,
+                "is_primary": "0",
+                "image_id": "14151"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14150_ee8d980fb46d32b1_n.jpg",
-                "width":320,
-                "height":182,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14151_344952ce0c830090_z.jpg",
+                "width": 640,
+                "height": 602,
+                "is_primary": "0",
+                "image_id": "14151"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/14150_ee8d980fb46d32b1_z.jpg",
-                "width":640,
-                "height":363,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14151_344952ce0c830090_n.jpg",
+                "width": 320,
+                "height": 301,
+                "is_primary": "0",
+                "image_id": "14151"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14151_344952ce0c830090_d.gif",
+                "width": 320,
+                "height": 301,
+                "is_primary": "0",
+                "image_id": "14151"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14151_344952ce0c830090_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14151"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14150_ee8d980fb46d32b1_b.jpg",
+                "width": 1024,
+                "height": 581,
+                "is_primary": "0",
+                "image_id": "14150"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14150_ee8d980fb46d32b1_z.jpg",
+                "width": 640,
+                "height": 363,
+                "is_primary": "0",
+                "image_id": "14150"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14150_ee8d980fb46d32b1_n.jpg",
+                "width": 320,
+                "height": 182,
+                "is_primary": "0",
+                "image_id": "14150"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14150_ee8d980fb46d32b1_d.gif",
+                "width": 320,
+                "height": 182,
+                "is_primary": "0",
+                "image_id": "14150"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/14150_ee8d980fb46d32b1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "14150"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Plate, ca. 1930.\nca. 1930. glazed earthenware. Gift of Victor Wiener. 1999-57-42."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cd3a2e",
-            "closest_css3":"#b22222"
+            "person_id": "18043913",
+            "role_id": "35236657",
+            "person_name": "Rosenthal Glas Und Porzellan Aktiengesellschaft",
+            "person_date": "founded 1891",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18043913\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         },
         {
-            "color":"#4c949e",
-            "closest_css3":"#5f9ea0"
-        },
-        {
-            "color":"#f46340",
-            "closest_css3":"#ff6347"
-        },
-        {
-            "color":"#477583",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#324f54",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18041855",
+            "role_id": "35351535",
+            "person_name": "Victor Wiener",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041855\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Plate (Germany), ca. 1930. glazed earthenware. \nGift of Victor Wiener. 1999-57-42"
+    },
+    "colors": [
+        {
+            "color": "#eb7a41",
+            "closest_crayola": "#ff8243",
+            "closest_css3": "#ff7f50",
+            "closest_css4": "#ff7f50"
+        },
+        {
+            "color": "#96c5b7",
+            "closest_crayola": "#9fe2bf",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#929f93",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#8fbc8f",
+            "closest_css4": "#8fbc8f"
+        },
+        {
+            "color": "#a9856b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#e0bf99",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#deb887",
+            "closest_css4": "#deb887"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

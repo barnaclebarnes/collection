@@ -1,49 +1,102 @@
 {
-    "id":"18122125",
-    "tms:id":"9961",
-    "accession_number":"1901-39-3247",
-    "title":"Drawing, \"Prudence\", 1816",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18122125\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35366297",
-    "type_id":"35237093",
-    "date":"1816",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and brown ink, brown wash over traces of graphite on cream laid paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Inscribed in pen and brown ink: Prudenza.",
-    "provenance":"Giovanni Piancastelli, Rome",
-    "dimensions":"16.8 x 25.2 cm (6 5\/8 x 9 15\/16 in.)",
-    "creditline":"Museum purchase through gift of various donors",
-    "description":"Woman with helmet shown seated and peering in looking glass at which putto beside her points. Another putto looks at snake which surrounds her left arm.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18122125",
+    "tms:id": "9961",
+    "accession_number": "1901-39-3247",
+    "title": "Drawing, Prudence, 1816",
+    "title_raw": "Prudence",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18122125\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "35366297",
+    "type_id": "35237093",
+    "date": "1816",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and brown ink, brown wash over traces of graphite on cream laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Inscribed in pen and brown ink: Prudenza.",
+    "provenance": "Giovanni Piancastelli, Rome",
+    "dimensions": "16.8 x 25.2 cm (6 5\/8 x 9 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "16.80",
+            "centimeters"
+        ],
+        "width": [
+            "25.20",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Museum purchase through gift of various donors",
+    "description": "Woman with helmet shown seated and peering in looking glass at which putto beside her points. Another putto looks at snake which surrounds her left arm.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "person_id":"18042405",
-            "role_id":"35236655",
-            "person_name":"Felice Giani",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042405\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122057_c961a7afa99091b3_b.jpg",
+                "width": 1024,
+                "height": 694,
+                "is_primary": "1",
+                "image_id": "122057"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122057_c961a7afa99091b3_z.jpg",
+                "width": 640,
+                "height": 433,
+                "is_primary": "1",
+                "image_id": "122057"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122057_c961a7afa99091b3_n.jpg",
+                "width": 320,
+                "height": 217,
+                "is_primary": "1",
+                "image_id": "122057"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122057_c961a7afa99091b3_d.gif",
+                "width": 320,
+                "height": 217,
+                "is_primary": "1",
+                "image_id": "122057"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/122057_c961a7afa99091b3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "122057"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Prudence\", 1816.\n1816. Pen and brown ink, brown wash over traces of graphite on cream laid paper. Museum purchase through gift of various donors. 1901-39-3247."
+    "participants": [
+        {
+            "person_id": "18042405",
+            "role_id": "35236655",
+            "person_name": "Felice Giani",
+            "person_date": "Italian, 1758\u20131823",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18042405\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Prudence, 1816. Pen and brown ink, brown wash over traces of graphite on cream laid paper. \nMuseum purchase through gift of various donors. 1901-39-3247"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

@@ -1,103 +1,198 @@
 {
-    "id":"18677495",
-    "tms:id":"214212",
-    "accession_number":"1969-165-270",
-    "title":"Collage, \"Design for Printed Textile - Clothespins\", 1957\u201359",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18677495\/",
-    "department_id":"35347493",
-    "period_id":"35417393",
-    "media_id":"35429653",
-    "type_id":"35291251",
-    "date":"1957\u201359",
-    "year_start":"1957",
-    "year_end":"1959",
-    "year_acquired":"1969",
-    "decade":"1950",
-    "woe:country":"23424977",
-    "medium":"Colored tissue paper attached to white tracing paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Verso: in graphite, upper left corner: XV-2",
-    "provenance":"Alexander Girard",
-    "dimensions":"62.9 x 45.7cm (24 3\/4 x 18in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Alternating arch-shaped pieces of lavender, blue, purple and red colored tissue papers, slightly overlapped to create an all over striped pattern. The design possibly relates to Design Series #541-547, Ribbons.",
-    "justification":null,
-    "type":{
-        "id":"35291251",
-        "name":"collage"
+    "id": "18677495",
+    "tms:id": "214212",
+    "accession_number": "1969-165-270",
+    "title": "Collage, Design for Printed Textile-Clothespins, 1957\u201359",
+    "title_raw": "Design for Printed Textile-Clothespins",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18677495\/",
+    "department_id": "35347493",
+    "period_id": "35417393",
+    "media_id": "35429653",
+    "type_id": "35291251",
+    "date": "1957\u201359",
+    "year_start": 1957,
+    "year_end": 1959,
+    "year_acquired": "1969",
+    "decade": "1950",
+    "woe:country_id": "23424977",
+    "medium": "Colored tissue paper attached to white tracing paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Verso: in graphite, upper left corner: XV-2",
+    "provenance": "Alexander H. Girard; 1969: acquired by Museum",
+    "dimensions": "62.9 x 45.7cm (24 3\/4 x 18in.)",
+    "dimensions_raw": {
+        "height": [
+            "62.90",
+            "centimeters"
+        ],
+        "width": [
+            "45.70",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Alternating arch-shaped pieces of lavender, blue, purple and red colored tissue papers, slightly overlapped to create an all over striped pattern. The design possibly relates to Design Series #541-547, Ribbons.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "collage",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7664_47016409de3e60f2_b.jpg",
-                "width":741,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85073_92a16f3505c6e0f3_b.jpg",
+                "width": 734,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "85073"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7664_47016409de3e60f2_n.jpg",
-                "width":232,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85073_92a16f3505c6e0f3_z.jpg",
+                "width": 459,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "85073"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7664_47016409de3e60f2_z.jpg",
-                "width":463,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85073_92a16f3505c6e0f3_n.jpg",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85073"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85073_92a16f3505c6e0f3_d.gif",
+                "width": 229,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "85073"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/85073_92a16f3505c6e0f3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "85073"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7664_47016409de3e60f2_b.jpg",
+                "width": 741,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "7664"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7664_47016409de3e60f2_z.jpg",
+                "width": 463,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "7664"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7664_47016409de3e60f2_n.jpg",
+                "width": 232,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7664"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7664_47016409de3e60f2_d.gif",
+                "width": 232,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "7664"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7664_47016409de3e60f2_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7664"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18049013",
-            "role_id":"35236703",
-            "person_name":"Herman Miller Furniture Company",
-            "role_name":"Office of",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049013\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+            "person_id": "51676457",
+            "role_id": "35352245",
+            "person_name": "Karin Zonis",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/51676457\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18049013",
+            "role_id": "35236703",
+            "person_name": "Herman Miller Furniture Company",
+            "person_date": "Zeeland, Michigan, USA, 1923\u20131960",
+            "role_name": "Office of",
+            "role_display_name": "Office of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049013\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Collage, \"Design for Printed Textile - Clothespins\", 1957\u201359.\n1957\u201359. Colored tissue paper attached to white tracing paper. Gift of Alexander H. Girard. 1969-165-270."
+    "tombstone": {
+        "epitaph": "Collage, Design for Printed Textile-Clothespins, 1957\u201359. Colored tissue paper attached to white tracing paper. \nGift of Alexander H. Girard. 1969-165-270"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#1e1128",
-            "closest_css3":"#000000"
+            "color": "#4a4b6a",
+            "closest_crayola": "#58427c",
+            "closest_css3": "#483d8b",
+            "closest_css4": "#483d8b"
         },
         {
-            "color":"#85274a",
-            "closest_css3":"#a52a2a"
+            "color": "#c6c2b8",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#8d6a6b",
-            "closest_css3":"#808080"
+            "color": "#a87a9d",
+            "closest_crayola": "#926eae",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#b8a2a8",
-            "closest_css3":"#a9a9a9"
+            "color": "#c16d35",
+            "closest_crayola": "#b4674d",
+            "closest_css3": "#cd853f",
+            "closest_css4": "#cd853f"
         },
         {
-            "color":"#a40907",
-            "closest_css3":"#8b0000"
+            "color": "#eae5cb",
+            "closest_crayola": "#efdecd",
+            "closest_css3": "#faebd7",
+            "closest_css4": "#faebd7"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

@@ -1,87 +1,178 @@
 {
-    "id":"18345133",
-    "tms:id":"56430",
-    "accession_number":"1937-62-3",
-    "title":"Tile, \"\"Persian Antelope\"\", 1937",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18345133\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414521",
-    "type_id":"35250645",
-    "date":"1937",
-    "year_start":"1937",
-    "year_end":"1937",
-    "year_acquired":"1937",
-    "decade":"1930",
-    "woe:country":"23424977",
-    "medium":"Glazed earthenware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"18 x 15 cm (7 1\/16 x 5 7\/8 in. )",
-    "creditline":"Museum purchase from the Misses Hewitt Fund",
-    "description":"Vertical rectangle with molded decoration of leaping antelope against a dense floral and floliate pattern branching from a central stem.  Terra-cotta colored glaze heightened with blue.",
-    "justification":null,
-    "type":{
-        "id":"35250645",
-        "name":"tile"
+    "id": "18345133",
+    "tms:id": "56430",
+    "accession_number": "1937-62-3",
+    "title": "Persian Antelope Tile, 1937",
+    "title_raw": "Persian Antelope",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18345133\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414521",
+    "type_id": "35250645",
+    "date": "1937",
+    "year_start": 1937,
+    "year_end": 1937,
+    "year_acquired": "1937",
+    "decade": "1930",
+    "woe:country_id": "23424977",
+    "medium": "Glazed earthenware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "1937: acquired by Museum",
+    "dimensions": "18 x 15 cm (7 1\/16 x 5 7\/8 in. )",
+    "dimensions_raw": {
+        "height": [
+            "18.00",
+            "centimeters"
+        ],
+        "width": [
+            "15.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase from the Misses Hewitt Fund",
+    "description": "Vertical rectangle with molded decoration of leaping antelope against a dense floral and foliate pattern branching from a central stem.  Terra-cotta colored glaze heightened with blue.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "tile",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3235_cde9d95818e6a46a_b.jpg",
-                "width":847,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101127_b4e05d2c88cbd893_b.jpg",
+                "width": 886,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "101127"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3235_cde9d95818e6a46a_n.jpg",
-                "width":265,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101127_b4e05d2c88cbd893_z.jpg",
+                "width": 553,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "101127"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/3235_cde9d95818e6a46a_z.jpg",
-                "width":529,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101127_b4e05d2c88cbd893_n.jpg",
+                "width": 277,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "101127"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101127_b4e05d2c88cbd893_d.gif",
+                "width": 277,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "101127"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/101127_b4e05d2c88cbd893_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "101127"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3235_cde9d95818e6a46a_b.jpg",
+                "width": 847,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "3235"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3235_cde9d95818e6a46a_z.jpg",
+                "width": 529,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "3235"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3235_cde9d95818e6a46a_n.jpg",
+                "width": 265,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "3235"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3235_cde9d95818e6a46a_d.gif",
+                "width": 265,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "3235"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/3235_cde9d95818e6a46a_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "3235"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18044371",
-            "role_id":"35236657",
-            "person_name":"Moravian Pottery and Tile Works",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044371\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18537037",
+            "role_id": "35352245",
+            "person_name": "Carl C. Dauterman",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537037\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18044371",
+            "role_id": "35236657",
+            "person_name": "Moravian Pottery and Tile Works",
+            "person_date": "Doylestown, Pennsylvania",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044371\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Tile, \"\"Persian Antelope\"\", 1937.\n1937. Glazed earthenware. Museum purchase from the Misses Hewitt Fund. 1937-62-3."
+    "tombstone": {
+        "epitaph": "Persian Antelope Tile, 1937. Glazed earthenware. \nMuseum purchase from the Misses Hewitt Fund. 1937-62-3"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#d3541e",
-            "closest_css3":"#d2691e"
+            "color": "#b6b2ab",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#97401d",
-            "closest_css3":"#8b4513"
+            "color": "#9a5826",
+            "closest_crayola": "#9c7c38",
+            "closest_css3": "#a0522d",
+            "closest_css4": "#a0522d"
         },
         {
-            "color":"#563421",
-            "closest_css3":"#556b2f"
+            "color": "#554137",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         },
         {
-            "color":"#e6895f",
-            "closest_css3":"#fa8072"
+            "color": "#8e8c86",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#6d4d47",
-            "closest_css3":"#696969"
+            "color": "#71472a",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

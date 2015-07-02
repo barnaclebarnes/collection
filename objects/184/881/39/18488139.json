@@ -1,95 +1,158 @@
 {
-    "id":"18488139",
-    "tms:id":"154937",
-    "accession_number":"1975-32-2-a,b",
-    "title":"Lamp, ca. 1925",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18488139\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371677",
-    "type_id":"35237335",
-    "date":"ca. 1925",
-    "year_start":"1915",
-    "year_end":"1935",
-    "year_acquired":"1975",
-    "decade":"1910",
-    "woe:country":"23424819",
-    "medium":"Bronze, alabaster",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"Stanley Siegel Collection",
-    "dimensions":"Overall height: 75.3 cm (68 1\/4\")\nOverall Base: 32.3 cm (12 3\/4 in)\nStand H: 61.5 cm (63 1\/2\")\nGlobe: 43 cm (15 7\/8 in)",
-    "creditline":"Gift of Stanley Siegel, from the Stanley Siegel Collection",
-    "description":"Eight bronze square tubings forming vertical shaft, held together visually by cluster of four wreathes two-thirds of way up, tubing tapers ending in scrolled supports to hold alabaster globe.  Footed base of four flat legs ending in scrolled feet.",
-    "justification":null,
-    "type":{
-        "id":"35237335",
-        "name":"lamp"
+    "id": "18488139",
+    "tms:id": "154937",
+    "accession_number": "1975-32-2-a,b",
+    "title": "Lamp (France), ca. 1925",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18488139\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371677",
+    "type_id": "35237335",
+    "date": "ca. 1925",
+    "year_start": 1915,
+    "year_end": 1935,
+    "year_acquired": "1975",
+    "decade": "1910",
+    "woe:country_id": "23424819",
+    "medium": "Bronze, alabaster",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "Stanley Siegel Collection; 1975: acquired by Museum",
+    "dimensions": "H x diam. (a,b: overall): 75.3 x 43 cm (29 5\/8 x 16 15\/16 in.)\nH x W (stand, base): 61.5 x 32.3 cm (24 3\/16 x 12 11\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "43.00",
+            "centimeters"
+        ],
+        "height": [
+            "61.50",
+            "centimeters"
+        ],
+        "width": [
+            "32.30",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Stanley Siegel, from the Stanley Siegel Collection",
+    "description": "Eight bronze square tubings forming vertical shaft, held together visually by cluster of four wreathes two-thirds of way up, tubing tapers ending in scrolled supports to hold alabaster globe.  Footed base of four flat legs ending in scrolled feet.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "lamp",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8045_86175793ae1f5457_b.jpg",
-                "width":272,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105110_8cc57861b7c1f280_b.jpg",
+                "width": 483,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "105110"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8045_86175793ae1f5457_n.jpg",
-                "width":85,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105110_8cc57861b7c1f280_z.jpg",
+                "width": 302,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "105110"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/8045_86175793ae1f5457_z.jpg",
-                "width":170,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105110_8cc57861b7c1f280_n.jpg",
+                "width": 151,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105110"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105110_8cc57861b7c1f280_d.gif",
+                "width": 151,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105110"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105110_8cc57861b7c1f280_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105110"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8045_86175793ae1f5457_b.jpg",
+                "width": 272,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "8045"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8045_86175793ae1f5457_z.jpg",
+                "width": 170,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "8045"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8045_86175793ae1f5457_n.jpg",
+                "width": 85,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8045"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8045_86175793ae1f5457_d.gif",
+                "width": 85,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "8045"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/8045_86175793ae1f5457_sq.jpg",
+                "width": 272,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "8045"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18056389",
-            "role_id":"35351535",
-            "person_name":"Stanley Siegel",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056389\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18056389",
+            "role_id": "35351535",
+            "person_name": "Stanley Siegel",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18056389\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18051611",
-            "role_id":"35236655",
-            "person_name":"Edgar Brandt",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051611\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18051611",
+            "role_id": "35236655",
+            "person_name": "Edgar Brandt",
+            "person_date": "1880 \u2013 1960",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18051611\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Lamp, ca. 1925.\nca. 1925. Bronze, alabaster. Gift of Stanley Siegel, from the Stanley Siegel Collection. 1975-32-2-a,b."
+    "tombstone": {
+        "epitaph": "Lamp (France), ca. 1925. Bronze, alabaster. \nGift of Stanley Siegel, from the Stanley Siegel Collection. 1975-32-2-a,b"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bb761a",
-            "closest_css3":"#b8860b"
-        },
-        {
-            "color":"#674423",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#322a23",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#f0c765",
-            "closest_css3":"#f4a460"
-        },
-        {
-            "color":"#b54c11",
-            "closest_css3":"#a0522d"
+            "color": "#45413b",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         }
-    ]
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

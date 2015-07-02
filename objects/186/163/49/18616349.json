@@ -1,80 +1,168 @@
 {
-    "id":"18616349",
-    "tms:id":"176704",
-    "accession_number":"1981-28-123",
-    "title":"Embroidered Panel For Casket, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616349\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35432151",
-    "type_id":"35293403",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Medium: silk, metal-wrapped silk, and silk-wrapped metal metal embroidery on silk foundation\nTechnique: embroidered in satin, stem, couching, looping, and knot stitches on 7\/1 satin foundation",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 15.9 x 22.2 cm (6 1\/4 x 8 3\/4 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"At top, two seated women, one holding a palm, the other a branch of fruit.  Frieze at bottom with flowers and a squirrel.",
-    "justification":null,
-    "type":{
-        "id":"35293403",
-        "name":"Embroidered panel for casket"
+    "id": "18616349",
+    "tms:id": "176704",
+    "accession_number": "1981-28-123",
+    "title": "Embroidered Panel For Casket (England), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616349\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432151",
+    "type_id": "35293403",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Medium: silk, metal-wrapped silk, and silk-wrapped metal metal embroidery on silk foundation\nTechnique: embroidered in satin, stem, couching, looping, and knot stitches on 7\/1 satin foundation",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 15.9 x 22.2 cm (6 1\/4 x 8 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "15.88",
+            "centimeters"
+        ],
+        "width": [
+            "22.23",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "At top, two seated women, one holding a palm, the other a branch of fruit.  Frieze at bottom with flowers and a squirrel.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "Embroidered panel for casket",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36690_01c5e89f76f7cf93_b.jpg",
-                "width":1024,
-                "height":805,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65457_2809c599062e23cd_b.jpg",
+                "width": 1024,
+                "height": 740,
+                "is_primary": "1",
+                "image_id": "65457"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36690_01c5e89f76f7cf93_n.jpg",
-                "width":320,
-                "height":252,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65457_2809c599062e23cd_z.jpg",
+                "width": 640,
+                "height": 462,
+                "is_primary": "1",
+                "image_id": "65457"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/36690_01c5e89f76f7cf93_z.jpg",
-                "width":640,
-                "height":503,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65457_2809c599062e23cd_n.jpg",
+                "width": 320,
+                "height": 231,
+                "is_primary": "1",
+                "image_id": "65457"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65457_2809c599062e23cd_d.gif",
+                "width": 320,
+                "height": 231,
+                "is_primary": "1",
+                "image_id": "65457"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/65457_2809c599062e23cd_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "65457"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36690_01c5e89f76f7cf93_b.jpg",
+                "width": 1024,
+                "height": 805,
+                "is_primary": "0",
+                "image_id": "36690"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36690_01c5e89f76f7cf93_z.jpg",
+                "width": 640,
+                "height": 503,
+                "is_primary": "0",
+                "image_id": "36690"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36690_01c5e89f76f7cf93_n.jpg",
+                "width": 320,
+                "height": 252,
+                "is_primary": "0",
+                "image_id": "36690"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36690_01c5e89f76f7cf93_d.gif",
+                "width": 320,
+                "height": 252,
+                "is_primary": "0",
+                "image_id": "36690"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/36690_01c5e89f76f7cf93_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "36690"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Embroidered Panel For Casket, 17th century.\n17th century. Medium: silk, metal-wrapped silk, and silk-wrapped metal metal embroidery on silk foundation\nTechnique: embroidered in satin, stem, couching, looping, and knot stitches on 7\/1 satin foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-123."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#212f23",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#565339",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#14272f",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#644731",
-            "closest_css3":"#556b2f"
-        },
-        {
-            "color":"#868269",
-            "closest_css3":"#808080"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Embroidered Panel For Casket (England), 17th century. Medium: silk, metal-wrapped silk, and silk-wrapped metal metal embroidery on silk foundation\nTechnique: embroidered in satin, stem, couching, looping, and knot stitches on 7\/1 satin foundation. \nBequest of Gertrude M. Oppenheimer. 1981-28-123"
+    },
+    "colors": [
+        {
+            "color": "#a2996b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bdb76b",
+            "closest_css4": "#bdb76b"
+        },
+        {
+            "color": "#d5d0a6",
+            "closest_crayola": "#e7c697",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#817343",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#4e5645",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#333123",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

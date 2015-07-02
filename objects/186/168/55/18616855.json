@@ -1,80 +1,168 @@
 {
-    "id":"18616855",
-    "tms:id":"176957",
-    "accession_number":"1981-28-351",
-    "title":"Sampler, 19th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616855\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35432265",
-    "type_id":"35256439",
-    "date":"19th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424900",
-    "medium":"Medium: glass beads, cotton\nTechnique: embroidery with beads",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 8.9 x 28 cm (3 1\/2 x 11 in.)",
-    "creditline":"Bequest of Gertrude M. Oppenheimer",
-    "description":"Unfinished beadwork sampler with five patterns: two floral borders, one stylized and one naturalistic; two confronted birds; a wreath with the initial M; and an agnus dei.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18616855",
+    "tms:id": "176957",
+    "accession_number": "1981-28-351",
+    "title": "Sampler (Mexico), 19th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18616855\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35432265",
+    "type_id": "35256439",
+    "date": "19th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424900",
+    "medium": "Medium: glass beads, cotton\nTechnique: embroidery with beads",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 8.9 x 28 cm (3 1\/2 x 11 in.)",
+    "dimensions_raw": {
+        "height": [
+            "8.89",
+            "centimeters"
+        ],
+        "width": [
+            "28.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Gertrude M. Oppenheimer",
+    "description": "Unfinished beadwork sampler with five patterns: two floral borders, one stylized and one naturalistic; two confronted birds; a wreath with the initial M; and an agnus dei.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424900",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29001_29bf31a70464afb7_b.jpg",
-                "width":1024,
-                "height":354,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66358_17a61ea609418723_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "66358"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29001_29bf31a70464afb7_n.jpg",
-                "width":320,
-                "height":111,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66358_17a61ea609418723_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "66358"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29001_29bf31a70464afb7_z.jpg",
-                "width":640,
-                "height":221,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66358_17a61ea609418723_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66358"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66358_17a61ea609418723_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "66358"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/66358_17a61ea609418723_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "66358"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29001_29bf31a70464afb7_b.jpg",
+                "width": 1024,
+                "height": 354,
+                "is_primary": "0",
+                "image_id": "29001"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29001_29bf31a70464afb7_z.jpg",
+                "width": 640,
+                "height": 221,
+                "is_primary": "0",
+                "image_id": "29001"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29001_29bf31a70464afb7_n.jpg",
+                "width": 320,
+                "height": 111,
+                "is_primary": "0",
+                "image_id": "29001"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29001_29bf31a70464afb7_d.gif",
+                "width": 320,
+                "height": 111,
+                "is_primary": "0",
+                "image_id": "29001"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29001_29bf31a70464afb7_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "29001"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 19th century.\n19th century. Medium: glass beads, cotton\nTechnique: embroidery with beads. Bequest of Gertrude M. Oppenheimer. 1981-28-351."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#d5cdc1",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#10212b",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#cad7e1",
-            "closest_css3":"#d3d3d3"
-        },
-        {
-            "color":"#11568f",
-            "closest_css3":"#008080"
-        },
-        {
-            "color":"#a0bbdd",
-            "closest_css3":"#b0c4de"
+            "person_id": "18050567",
+            "role_id": "35351537",
+            "person_name": "Gertrude M. Oppenheimer",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Mexico), 19th century. Medium: glass beads, cotton\nTechnique: embroidery with beads. \nBequest of Gertrude M. Oppenheimer. 1981-28-351"
+    },
+    "colors": [
+        {
+            "color": "#d7d0ab",
+            "closest_crayola": "#edd19c",
+            "closest_css3": "#eee8aa",
+            "closest_css4": "#eee8aa"
+        },
+        {
+            "color": "#b1ada7",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#978b6f",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#272f2d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#4b637f",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Mexico",
+    "is_loan_object": 0
 }

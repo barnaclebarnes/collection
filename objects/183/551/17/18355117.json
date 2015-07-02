@@ -1,49 +1,125 @@
 {
-    "id":"18355117",
-    "tms:id":"60965",
-    "accession_number":"1938-82-32-h",
-    "title":"Textile",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18355117\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35367167",
-    "type_id":"35251739",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":"printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 24.4 x 89.5 cm (9 5\/8 x 35 1\/4 in.)",
-    "creditline":"Anonymous bequest in memory of Albert and Rebecca Elsberg",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251739",
-        "name":"textile"
+    "id": "18355117",
+    "tms:id": "60965",
+    "accession_number": "1938-82-32-h",
+    "title": "Sample (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18355117\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35367167",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": "printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 24.4 x 89.5 cm (9 5\/8 x 35 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "24.40",
+            "centimeters"
+        ],
+        "width": [
+            "89.54",
+            "centimeters"
+        ]
     },
-    "images":[
-
-    ],
-    "participants":[
+    "creditline": "Anonymous bequest in memory of Albert and Rebecca Elsberg",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Sample",
+    "images": [
         {
-            "person_id":"18049335",
-            "role_id":"35351537",
-            "person_name":"Anonymous",
-            "role_name":"Bequestor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049335\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109224_85ec8c533e381a46_b.jpg",
+                "width": 1024,
+                "height": 366,
+                "is_primary": "1",
+                "image_id": "109224"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109224_85ec8c533e381a46_z.jpg",
+                "width": 640,
+                "height": 229,
+                "is_primary": "1",
+                "image_id": "109224"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109224_85ec8c533e381a46_n.jpg",
+                "width": 320,
+                "height": 114,
+                "is_primary": "1",
+                "image_id": "109224"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109224_85ec8c533e381a46_d.gif",
+                "width": 320,
+                "height": 114,
+                "is_primary": "1",
+                "image_id": "109224"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109224_85ec8c533e381a46_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109224"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Textile.\nprinted. Anonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-32-h."
+    "participants": [
+        {
+            "person_id": "18049335",
+            "role_id": "35351537",
+            "person_name": "Unknown",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049335\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample (France). printed. \nAnonymous bequest in memory of Albert and Rebecca Elsberg. 1938-82-32-h"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a29c82",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#7e7c71",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#9c6663",
+            "closest_crayola": "#a57164",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#736864",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

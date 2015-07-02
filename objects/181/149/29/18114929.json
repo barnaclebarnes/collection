@@ -1,80 +1,113 @@
 {
-    "id":"18114929",
-    "tms:id":"8860",
-    "accession_number":"1901-39-2259",
-    "title":"Drawing",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18114929\/",
-    "department_id":"35347493",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237093",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1901",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Museum purchase through gift of various donors",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
-    },
-    "images":[
+    "id": "18114929",
+    "tms:id": "8860",
+    "accession_number": "1901-39-2259",
+    "title": "Drawing (Italy)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18114929\/",
+    "department_id": "35347493",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237093",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1901",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Museum purchase through gift of various donors",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/990_2b9e78b0cd147d61_b.jpg",
-                "width":706,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/990_2b9e78b0cd147d61_b.jpg",
+                "width": 706,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "990"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/990_2b9e78b0cd147d61_n.jpg",
-                "width":221,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/990_2b9e78b0cd147d61_z.jpg",
+                "width": 441,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "990"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/990_2b9e78b0cd147d61_z.jpg",
-                "width":441,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/990_2b9e78b0cd147d61_n.jpg",
+                "width": 221,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "990"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/990_2b9e78b0cd147d61_d.gif",
+                "width": 221,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "990"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/990_2b9e78b0cd147d61_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "990"
             }
         }
     ],
-    "participants":[
+    "participants": [
 
     ],
-    "tombstone":{
-        "epitaph":"Drawing.\nMuseum purchase through gift of various donors. 1901-39-2259."
+    "tombstone": {
+        "epitaph": "Drawing (Italy). \nMuseum purchase through gift of various donors. 1901-39-2259"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#dab8e6",
-            "closest_css3":"#d8bfd8"
+            "color": "#4b3648",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#2f1422",
-            "closest_css3":"#000000"
+            "color": "#aa92ae",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
         },
         {
-            "color":"#775056",
-            "closest_css3":"#696969"
+            "color": "#a3757a",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#c68f8f",
-            "closest_css3":"#bc8f8f"
+            "color": "#74484b",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#7d6b84",
-            "closest_css3":"#808080"
+            "color": "#847087",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         }
-    ]
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

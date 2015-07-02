@@ -1,42 +1,123 @@
 {
-    "id":"18731693",
-    "tms:id":"241944",
-    "accession_number":"1967-85-4-r",
-    "title":"Creamer, 1930\u201335",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731693\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35421709",
-    "type_id":"35251887",
-    "date":"1930\u201335",
-    "year_start":"1930",
-    "year_end":"1935",
-    "year_acquired":"1967",
-    "decade":"1930",
-    "woe:country":"23424750",
-    "medium":"Plated metal, wood",
-    "markings":"\"Austria\" marked on saucers, sugar bowl, creamer, pot, and plates.",
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 7.5 x 14.6 x 8.1 cm (2 15\/16 x 5 3\/4 x 3 3\/16 in.)",
-    "creditline":"Gift of Mr. and Mrs. Gustave Gilbert",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35251887",
-        "name":"creamer"
+    "id": "18731693",
+    "tms:id": "241944",
+    "accession_number": "1967-85-4-r",
+    "title": "Creamer (Austria), 1930\u201335",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18731693\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35421709",
+    "type_id": "35251887",
+    "date": "1930\u201335",
+    "year_start": 1930,
+    "year_end": 1935,
+    "year_acquired": "1967",
+    "decade": "1930",
+    "woe:country_id": "23424750",
+    "medium": "Plated metal, wood",
+    "markings": "\"Austria\" marked on saucers, sugar bowl, creamer, pot, and plates.",
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 7.5 x 14.6 x 8.1 cm (2 15\/16 x 5 3\/4 x 3 3\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "8.10",
+            "centimeters"
+        ],
+        "height": [
+            "7.50",
+            "centimeters"
+        ],
+        "width": [
+            "14.60",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Mr. and Mrs. Gustave Gilbert",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424750",
+    "type": "creamer",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103414_768b203a73ff8583_b.jpg",
+                "width": 1024,
+                "height": 851,
+                "is_primary": "1",
+                "image_id": "103414"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103414_768b203a73ff8583_z.jpg",
+                "width": 640,
+                "height": 532,
+                "is_primary": "1",
+                "image_id": "103414"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103414_768b203a73ff8583_n.jpg",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "103414"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103414_768b203a73ff8583_d.gif",
+                "width": 320,
+                "height": 266,
+                "is_primary": "1",
+                "image_id": "103414"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103414_768b203a73ff8583_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103414"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18059403",
+            "role_id": "35351535",
+            "person_name": "Mr. and Mrs. Gustave Gilbert",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059403\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Creamer, 1930\u201335.\n1930\u201335. Plated metal, wood. Gift of Mr. and Mrs. Gustave Gilbert. 1967-85-4-r."
+    "tombstone": {
+        "epitaph": "Creamer (Austria), 1930\u201335. Plated metal, wood. \nGift of Mr. and Mrs. Gustave Gilbert. 1967-85-4-r"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#968f7f",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#453418",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#665d4d",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Austria",
+    "is_loan_object": 0
 }

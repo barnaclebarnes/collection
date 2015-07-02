@@ -1,76 +1,150 @@
 {
-    "id":"18188451",
-    "tms:id":"21415",
-    "accession_number":"1916-33-230",
-    "title":"Square, 1850\u20131900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18188451\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35256017",
-    "date":"1850\u20131900",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1916",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: printed",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 68.5 x 64 cm (26 15\/16 x 25 3\/16 in.)",
-    "creditline":"Gift of Mrs. William P. Treadwell",
-    "description":"Gray fringed square kerchief with an allover pattern of conventionalized flowers in red with a border of flowers in green and red.",
-    "justification":null,
-    "type":{
-        "id":"35256017",
-        "name":"Square"
+    "id": "18188451",
+    "tms:id": "21415",
+    "accession_number": "1916-33-230",
+    "title": "Square (USA), 1850\u20131900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18188451\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35256017",
+    "date": "1850\u20131900",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1916",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: printed",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 68.5 x 64 cm (26 15\/16 x 25 3\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "68.50",
+            "centimeters"
+        ],
+        "width": [
+            "64.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Mrs. William P. Treadwell",
+    "description": "Gray fringed square kerchief with an allover pattern of conventionalized flowers in red with a border of flowers in green and red.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Square",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2133_953d3233a27021f0_b.jpg",
-                "width":977,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105314_45cc96e781912741_b.jpg",
+                "width": 1024,
+                "height": 988,
+                "is_primary": "1",
+                "image_id": "105314"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2133_953d3233a27021f0_n.jpg",
-                "width":305,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105314_45cc96e781912741_z.jpg",
+                "width": 640,
+                "height": 617,
+                "is_primary": "1",
+                "image_id": "105314"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/2133_953d3233a27021f0_z.jpg",
-                "width":611,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105314_45cc96e781912741_n.jpg",
+                "width": 320,
+                "height": 309,
+                "is_primary": "1",
+                "image_id": "105314"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105314_45cc96e781912741_d.gif",
+                "width": 320,
+                "height": 309,
+                "is_primary": "1",
+                "image_id": "105314"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105314_45cc96e781912741_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105314"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2133_953d3233a27021f0_b.jpg",
+                "width": 977,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "2133"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2133_953d3233a27021f0_z.jpg",
+                "width": 611,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "2133"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2133_953d3233a27021f0_n.jpg",
+                "width": 305,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2133"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2133_953d3233a27021f0_d.gif",
+                "width": 305,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "2133"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/2133_953d3233a27021f0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "2133"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Square, 1850\u20131900.\n1850\u20131900. Medium: cotton\nTechnique: printed. Gift of Mrs. William P. Treadwell. 1916-33-230."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#b89998",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#a26e75",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#8a7f8c",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#86484f",
-            "closest_css3":"#a0522d"
+            "person_id": "18049893",
+            "role_id": "35351535",
+            "person_name": "Mrs. William P. Treadwell",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049893\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Square (USA), 1850\u20131900. Medium: cotton\nTechnique: printed. \nGift of Mrs. William P. Treadwell. 1916-33-230"
+    },
+    "colors": [
+        {
+            "color": "#95887e",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#7b6b65",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

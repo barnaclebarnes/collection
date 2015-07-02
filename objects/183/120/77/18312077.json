@@ -1,42 +1,110 @@
 {
-    "id":"18312077",
-    "tms:id":"41929",
-    "accession_number":"1926-22-154-a,b",
-    "title":"Cup And Cover",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18312077\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35389891",
-    "type_id":"35284091",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1926",
-    "decade":null,
-    "woe:country":null,
-    "medium":"porcelain",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"5.5 x 8.9 x 6.5 cm (2 3\/16 x 3 1\/2 x 2 9\/16 in.)",
-    "creditline":"Bequest of Mrs. John Innes Kane",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35284091",
-        "name":"Cup and cover"
+    "id": "18312077",
+    "tms:id": "41929",
+    "accession_number": "1926-22-154-a,b",
+    "title": "Cup And Cover",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18312077\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35389891",
+    "type_id": "35284091",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1926",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "porcelain",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "5.5 x 8.9 x 6.5 cm (2 3\/16 x 3 1\/2 x 2 9\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "6.50",
+            "centimeters"
+        ],
+        "height": [
+            "5.50",
+            "centimeters"
+        ],
+        "width": [
+            "8.90",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Mrs. John Innes Kane",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Cup and cover",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109166_b31411530b09a3b6_b.jpg",
+                "width": 1024,
+                "height": 862,
+                "is_primary": "1",
+                "image_id": "109166"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109166_b31411530b09a3b6_z.jpg",
+                "width": 640,
+                "height": 539,
+                "is_primary": "1",
+                "image_id": "109166"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109166_b31411530b09a3b6_n.jpg",
+                "width": 320,
+                "height": 269,
+                "is_primary": "1",
+                "image_id": "109166"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109166_b31411530b09a3b6_d.gif",
+                "width": 320,
+                "height": 269,
+                "is_primary": "1",
+                "image_id": "109166"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109166_b31411530b09a3b6_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109166"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18049373",
+            "role_id": "35351537",
+            "person_name": "Mrs. John Innes Kane",
+            "person_date": "American, d. 1926",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049373\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Cup And Cover.\nporcelain. Bequest of Mrs. John Innes Kane. 1926-22-154-a,b."
+    "tombstone": {
+        "epitaph": "Cup And Cover. porcelain. \nBequest of Mrs. John Innes Kane. 1926-22-154-a,b"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#a29e90",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        }
+    ],
+    "is_loan_object": 0
 }

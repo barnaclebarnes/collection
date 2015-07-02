@@ -1,42 +1,98 @@
 {
-    "id":"18733645",
-    "tms:id":"242966",
-    "accession_number":"1979-62-1",
-    "title":"Wine Glass, 18th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18733645\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35402723",
-    "type_id":"35259317",
-    "date":"18th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1979",
-    "decade":null,
-    "woe:country":"23424975",
-    "medium":"Glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mr. and Mrs. Thomas L. Wolf",
-    "description":"spiral twist",
-    "justification":null,
-    "type":{
-        "id":"35259317",
-        "name":"wine glass"
-    },
-    "images":[
-
+    "id": "18733645",
+    "tms:id": "242966",
+    "accession_number": "1979-62-1",
+    "title": "Wine Glass (probably England), 18th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18733645\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35402723",
+    "type_id": "35259317",
+    "date": "18th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1979",
+    "decade": null,
+    "woe:country_id": "23424975",
+    "medium": "Glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mr. and Mrs. Thomas L. Wolf",
+    "description": "spiral twist",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424975",
+    "type": "wine glass",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113036_32391fddb609bdc4_b.jpg",
+                "width": 727,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "113036"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113036_32391fddb609bdc4_z.jpg",
+                "width": 454,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "113036"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113036_32391fddb609bdc4_n.jpg",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113036"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113036_32391fddb609bdc4_d.gif",
+                "width": 227,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "113036"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/113036_32391fddb609bdc4_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "113036"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18058947",
+            "role_id": "35351535",
+            "person_name": "Mr. and Mrs. Thomas L. Wolf",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18058947\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Wine Glass, 18th century.\n18th century. Glass. Gift of Mr. and Mrs. Thomas L. Wolf. 1979-62-1."
+    "tombstone": {
+        "epitaph": "Wine Glass (probably England), 18th century. Glass. \nGift of Mr. and Mrs. Thomas L. Wolf. 1979-62-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#ffffff",
+            "closest_crayola": "#ffffff",
+            "closest_css3": "#ffffff",
+            "closest_css4": "#ffffff"
+        }
+    ],
+    "woe:country_name": "United Kingdom",
+    "is_loan_object": 0
 }

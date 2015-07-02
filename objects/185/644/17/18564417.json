@@ -1,80 +1,131 @@
 {
-    "id":"18564417",
-    "tms:id":"75409",
-    "accession_number":"1941-69-94",
-    "title":"Sampler, 1700",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564417\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35410879",
-    "type_id":"35256439",
-    "date":"1700",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1941",
-    "decade":null,
-    "woe:country":"23424829",
-    "medium":"Medium: silk embroidery, linen foundation \nTechnique: tent, cross, eyelet, rococo and satin stitches on plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
-    "dimensions":"Warp x Weft: 35 x 25 cm (13 3\/4 x 9 13\/16 in.)",
-    "creditline":"Bequest of Mrs. Henry E. Coe",
-    "description":"Alphabet and numerals arranged as cross borders at top and bottom; central panel with initials, date and flowers arranged by compartments with geometric and floral design.",
-    "justification":null,
-    "type":{
-        "id":"35256439",
-        "name":"Sampler"
+    "id": "18564417",
+    "tms:id": "75409",
+    "accession_number": "1941-69-94",
+    "title": "Sampler (Germany), 1700",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18564417\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35410879",
+    "type_id": "35256439",
+    "date": "1700",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1941",
+    "decade": null,
+    "woe:country_id": "23424829",
+    "medium": "Medium: silk embroidery, linen foundation \nTechnique: tent, cross, eyelet, rococo and satin stitches on plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions": "Warp x Weft: 35 x 25 cm (13 3\/4 x 9 13\/16 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "35.00",
+            "centimeters"
+        ],
+        "weft": [
+            "25.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Mrs. Henry E. Coe",
+    "description": "Alphabet and numerals arranged as cross borders at top and bottom; central panel with initials, date and flowers arranged by compartments with geometric and floral design.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424829",
+    "type": "Sampler",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29080_94957edd4b6a8cee_b.jpg",
-                "width":723,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29080_94957edd4b6a8cee_b.jpg",
+                "width": 723,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "29080"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29080_94957edd4b6a8cee_n.jpg",
-                "width":226,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29080_94957edd4b6a8cee_z.jpg",
+                "width": 452,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "29080"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/29080_94957edd4b6a8cee_z.jpg",
-                "width":452,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29080_94957edd4b6a8cee_n.jpg",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "29080"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29080_94957edd4b6a8cee_d.gif",
+                "width": 226,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "29080"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/29080_94957edd4b6a8cee_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "29080"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Sampler, 1700.\n1700. Medium: silk embroidery, linen foundation \nTechnique: tent, cross, eyelet, rococo and satin stitches on plain weave. Bequest of Mrs. Henry E. Coe. 1941-69-94."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#4a3a36",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#93664e",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#947873",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#72665e",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#81463a",
-            "closest_css3":"#a0522d"
+            "person_id": "18052567",
+            "role_id": "35351537",
+            "person_name": "Mrs. Henry E. Coe",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18052567\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Sampler (Germany), 1700. Medium: silk embroidery, linen foundation \nTechnique: tent, cross, eyelet, rococo and satin stitches on plain weave. \nBequest of Mrs. Henry E. Coe. 1941-69-94"
+    },
+    "colors": [
+        {
+            "color": "#694b3e",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#3b3131",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#846660",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a17d7d",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#5e5c6a",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Germany",
+    "is_loan_object": 0
 }

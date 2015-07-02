@@ -1,42 +1,130 @@
 {
-    "id":"18489197",
-    "tms:id":"155470",
-    "accession_number":"1976-1-130",
-    "title":"Lamp",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489197\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371569",
-    "type_id":"35237335",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1976",
-    "decade":null,
-    "woe:country":null,
-    "medium":"metal, glass",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 57 x 21 x 17 cm (22 7\/16 x 8 1\/4 x 6 11\/16 in.)",
-    "creditline":"Gift of the C. Helme and Alice B. Strater Collection",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237335",
-        "name":"lamp"
+    "id": "18489197",
+    "tms:id": "155470",
+    "accession_number": "1976-1-130",
+    "title": "Lamp",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18489197\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371569",
+    "type_id": "35237335",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1976",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "metal, glass",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 57 x 21 x 17 cm (22 7\/16 x 8 1\/4 x 6 11\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "17.00",
+            "centimeters"
+        ],
+        "height": [
+            "57.00",
+            "centimeters"
+        ],
+        "width": [
+            "21.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of the C. Helme and Alice B. Strater Collection",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "lamp",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105122_3f33f6afc7b893c9_b.jpg",
+                "width": 617,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "105122"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105122_3f33f6afc7b893c9_z.jpg",
+                "width": 386,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "105122"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105122_3f33f6afc7b893c9_n.jpg",
+                "width": 193,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105122"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105122_3f33f6afc7b893c9_d.gif",
+                "width": 193,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "105122"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/105122_3f33f6afc7b893c9_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "105122"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18538283",
+            "role_id": "35351535",
+            "person_name": "Margaret S. Robinson",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538283\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538281",
+            "role_id": "35351535",
+            "person_name": "John B. Strater",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538281\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18538279",
+            "role_id": "35351535",
+            "person_name": "C. Helme Strater Jr.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18538279\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Lamp.\nmetal, glass. Gift of the C. Helme and Alice B. Strater Collection. 1976-1-130."
+    "tombstone": {
+        "epitaph": "Lamp. metal, glass. \nGift of the C. Helme and Alice B. Strater Collection. 1976-1-130"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#372e2a",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        }
+    ],
+    "is_loan_object": 0
 }

@@ -1,100 +1,215 @@
 {
-    "id":"18479817",
-    "tms:id":"150741",
-    "accession_number":"1973-11-1-a,b",
-    "title":"Frieze, ca. 1900",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18479817\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35397923",
-    "type_id":"35259269",
-    "date":"ca. 1900",
-    "year_start":null,
-    "year_end":"1905",
-    "year_acquired":"1973",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Oatmeal paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"115 x 45.5 cm (45 1\/4 x 17 15\/16 in.)",
-    "creditline":"Gift of Charles R. Gracie & Sons, Inc.",
-    "description":"Large-scale pink and white poppy flowers printed on top half of brown \"oatmeal\" or \"ingrain\" paper.",
-    "justification":null,
-    "type":{
-        "id":"35259269",
-        "name":"Frieze"
+    "id": "18479817",
+    "tms:id": "150741",
+    "accession_number": "1973-11-1-a,b",
+    "title": "Frieze (possibly USA), ca. 1900",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18479817\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35397923",
+    "type_id": "35259269",
+    "date": "ca. 1900",
+    "year_start": null,
+    "year_end": 1905,
+    "year_acquired": "1973",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Oatmeal paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "115 x 45.5 cm (45 1\/4 x 17 15\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "115.00",
+            "centimeters"
+        ],
+        "width": [
+            "45.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Charles R. Gracie & Sons, Inc.",
+    "description": "Large-scale pink and white poppy flowers printed on top half of brown \"oatmeal\" or \"ingrain\" paper.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Frieze",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42888_e484fcea86f73c66_b.jpg",
-                "width":1024,
-                "height":288,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89565_6cd33a428508cf46_b.jpg",
+                "width": 1024,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "89565"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42888_e484fcea86f73c66_n.jpg",
-                "width":320,
-                "height":90,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89565_6cd33a428508cf46_z.jpg",
+                "width": 640,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "89565"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/42888_e484fcea86f73c66_z.jpg",
-                "width":640,
-                "height":180,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89565_6cd33a428508cf46_n.jpg",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89565"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89565_6cd33a428508cf46_d.gif",
+                "width": 320,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "89565"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/89565_6cd33a428508cf46_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "89565"
             }
         },
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7927_23d66cb927cecea1_b.jpg",
-                "width":1024,
-                "height":478,
-                "is_primary":"0"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42888_e484fcea86f73c66_b.jpg",
+                "width": 1024,
+                "height": 288,
+                "is_primary": "0",
+                "image_id": "42888"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7927_23d66cb927cecea1_n.jpg",
-                "width":320,
-                "height":149,
-                "is_primary":"0"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42888_e484fcea86f73c66_z.jpg",
+                "width": 640,
+                "height": 180,
+                "is_primary": "0",
+                "image_id": "42888"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7927_23d66cb927cecea1_z.jpg",
-                "width":640,
-                "height":299,
-                "is_primary":"0"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42888_e484fcea86f73c66_n.jpg",
+                "width": 320,
+                "height": 90,
+                "is_primary": "0",
+                "image_id": "42888"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42888_e484fcea86f73c66_d.gif",
+                "width": 320,
+                "height": 90,
+                "is_primary": "0",
+                "image_id": "42888"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/42888_e484fcea86f73c66_sq.jpg",
+                "width": 300,
+                "height": 288,
+                "is_primary": "0",
+                "image_id": "42888"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7927_23d66cb927cecea1_b.jpg",
+                "width": 1024,
+                "height": 478,
+                "is_primary": "0",
+                "image_id": "7927"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7927_23d66cb927cecea1_z.jpg",
+                "width": 640,
+                "height": 299,
+                "is_primary": "0",
+                "image_id": "7927"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7927_23d66cb927cecea1_n.jpg",
+                "width": 320,
+                "height": 149,
+                "is_primary": "0",
+                "image_id": "7927"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7927_23d66cb927cecea1_d.gif",
+                "width": 320,
+                "height": 149,
+                "is_primary": "0",
+                "image_id": "7927"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7927_23d66cb927cecea1_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "7927"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Frieze, ca. 1900.\nca. 1900. Oatmeal paper. Gift of Charles R. Gracie &amp; Sons, Inc.. 1973-11-1-a,b."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#c6c397",
-            "closest_css3":"#d2b48c"
+            "person_id": "18539499",
+            "role_id": "51571159",
+            "person_name": "Brian Gracie",
+            "person_date": "",
+            "role_name": "Agent",
+            "role_display_name": "Agent:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18539499\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/51571159\/"
         },
         {
-            "color":"#9d8b67",
-            "closest_css3":"#808080"
-        },
-        {
-            "color":"#9c7057",
-            "closest_css3":"#a0522d"
-        },
-        {
-            "color":"#823d34",
-            "closest_css3":"#8b4513"
-        },
-        {
-            "color":"#5b4d33",
-            "closest_css3":"#556b2f"
+            "person_id": "18059473",
+            "role_id": "35351535",
+            "person_name": "Charles R. Gracie & Sons, Inc.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059473\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Frieze (possibly USA), ca. 1900. Oatmeal paper. \nGift of Charles R. Gracie &amp; Sons, Inc.. 1973-11-1-a,b"
+    },
+    "colors": [
+        {
+            "color": "#4e492d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#9a936b",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#876d4f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#b8ba98",
+            "closest_crayola": "#bab86c",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#603826",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#8b4513",
+            "closest_css4": "#8b4513"
+        }
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

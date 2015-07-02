@@ -1,87 +1,140 @@
 {
-    "id":"18482295",
-    "tms:id":"152004",
-    "accession_number":"1973-70-1",
-    "title":"Sidewall, \"The Roselands\", ca. 1940",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18482295\/",
-    "department_id":"35347503",
-    "period_id":null,
-    "media_id":"35367333",
-    "type_id":"35256475",
-    "date":"ca. 1940",
-    "year_start":"1935",
-    "year_end":"1945",
-    "year_acquired":"1973",
-    "decade":"1930",
-    "woe:country":null,
-    "medium":"Machine-printed on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"122.5 x 57 cm (48 1\/4 x 22 7\/16 in.)",
-    "creditline":"Gift of D.M.C. Hopping",
-    "description":"Large-scale vining rose design. Printed in red and green on a white ground.",
-    "justification":null,
-    "type":{
-        "id":"35256475",
-        "name":"Sidewall"
+    "id": "18482295",
+    "tms:id": "152004",
+    "accession_number": "1973-70-1",
+    "title": "Sidewall, The Roselands, ca. 1940",
+    "title_raw": "The Roselands",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18482295\/",
+    "department_id": "35347503",
+    "period_id": null,
+    "media_id": "35367333",
+    "type_id": "35256475",
+    "date": "ca. 1940",
+    "year_start": 1935,
+    "year_end": 1945,
+    "year_acquired": "1973",
+    "decade": "1930",
+    "woe:country_id": null,
+    "medium": "Machine-printed on paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "122.5 x 57 cm (48 1\/4 x 22 7\/16 in.)",
+    "dimensions_raw": {
+        "height": [
+            "122.50",
+            "centimeters"
+        ],
+        "width": [
+            "57.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of D.M.C. Hopping",
+    "description": "Large-scale vining rose design. Printed in red and green on a white ground.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Sidewall",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7963_b92e5a923615d353_b.jpg",
-                "width":604,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7963_b92e5a923615d353_b.jpg",
+                "width": 604,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "7963"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7963_b92e5a923615d353_n.jpg",
-                "width":189,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7963_b92e5a923615d353_z.jpg",
+                "width": 378,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "7963"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/7963_b92e5a923615d353_z.jpg",
-                "width":378,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7963_b92e5a923615d353_n.jpg",
+                "width": 189,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "7963"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7963_b92e5a923615d353_d.gif",
+                "width": 189,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "7963"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/7963_b92e5a923615d353_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "7963"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18063925",
-            "role_id":"35351535",
-            "person_name":"Virginia Hamill Johnson",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18063925\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18063925",
+            "role_id": "35351535",
+            "person_name": "Virginia Hamill Johnson",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18063925\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18059801",
+            "role_id": "35351535",
+            "person_name": "Mr. D.M.C. Hopping",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059801\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sidewall, \"The Roselands\", ca. 1940.\nca. 1940. Machine-printed on paper. Gift of D.M.C. Hopping. 1973-70-1."
+    "tombstone": {
+        "epitaph": "Sidewall, The Roselands, ca. 1940. Machine-printed on paper. \nGift of D.M.C. Hopping. 1973-70-1"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#bcc0ca",
-            "closest_css3":"#c0c0c0"
+            "color": "#cdd4de",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#d3d3d3",
+            "closest_css4": "#d3d3d3"
         },
         {
-            "color":"#9b8c66",
-            "closest_css3":"#808080"
+            "color": "#c0bea2",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#b28b90",
-            "closest_css3":"#bc8f8f"
+            "color": "#b58188",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         },
         {
-            "color":"#bebc99",
-            "closest_css3":"#d2b48c"
+            "color": "#897e55",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#ddc0c1",
-            "closest_css3":"#d8bfd8"
+            "color": "#d2b1b4",
+            "closest_crayola": "#cdc5c2",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

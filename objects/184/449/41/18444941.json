@@ -1,80 +1,131 @@
 {
-    "id":"18444941",
-    "tms:id":"132962",
-    "accession_number":"1962-50-79",
-    "title":"Border, 1801\u201350",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18444941\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35237285",
-    "date":"1801\u201350",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424757",
-    "medium":"Medium: linen\nTechnique: bobbin net with appliqu\u00e9",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 10.5 x 262 cm (4 1\/8 in. x 8 ft. 7 1\/8 in.)\nRepeat H: 3.2 cm (1 1\/4 in.)",
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Design consists of a floral spray edged by repeated blossoms. Fond: r\u00e9seau dotted with sem\u00e9 de larmes.",
-    "justification":null,
-    "type":{
-        "id":"35237285",
-        "name":"Border"
+    "id": "18444941",
+    "tms:id": "132962",
+    "accession_number": "1962-50-79",
+    "title": "Border (Belgium), 1801\u201350",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18444941\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35237285",
+    "date": "1801\u201350",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424757",
+    "medium": "Medium: linen\nTechnique: bobbin net with appliqu\u00e9",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 10.5 x 262 cm (4 1\/8 in. x 8 ft. 7 1\/8 in.)\nRepeat H: 3.2 cm (1 1\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "3.18",
+            "centimeters"
+        ],
+        "width": [
+            "262.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Design consists of a floral spray edged by repeated blossoms. Fond: r\u00e9seau dotted with sem\u00e9 de larmes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424757",
+    "type": "Border",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31410_2d74040ca9e25046_b.jpg",
-                "width":1024,
-                "height":491,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31410_2d74040ca9e25046_b.jpg",
+                "width": 1024,
+                "height": 491,
+                "is_primary": "1",
+                "image_id": "31410"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31410_2d74040ca9e25046_n.jpg",
-                "width":320,
-                "height":153,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31410_2d74040ca9e25046_z.jpg",
+                "width": 640,
+                "height": 307,
+                "is_primary": "1",
+                "image_id": "31410"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31410_2d74040ca9e25046_z.jpg",
-                "width":640,
-                "height":307,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31410_2d74040ca9e25046_n.jpg",
+                "width": 320,
+                "height": 153,
+                "is_primary": "1",
+                "image_id": "31410"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31410_2d74040ca9e25046_d.gif",
+                "width": 320,
+                "height": 153,
+                "is_primary": "1",
+                "image_id": "31410"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31410_2d74040ca9e25046_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "31410"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Border, 1801\u201350.\n1801\u201350. Medium: linen\nTechnique: bobbin net with appliqu\u00e9. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-50-79."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#717b84",
-            "closest_css3":"#708090"
-        },
-        {
-            "color":"#495259",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#464138",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#80a4b1",
-            "closest_css3":"#5f9ea0"
-        },
-        {
-            "color":"#1f3139",
-            "closest_css3":"#2f4f4f"
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Border (Belgium), 1801\u201350. Medium: linen\nTechnique: bobbin net with appliqu\u00e9. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-50-79"
+    },
+    "colors": [
+        {
+            "color": "#3c4849",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#303029",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#606667",
+            "closest_crayola": "#4a646c",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#554c46",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#261509",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "Belgium",
+    "is_loan_object": 0
 }

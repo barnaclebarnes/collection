@@ -1,87 +1,160 @@
 {
-    "id":"18678355",
-    "tms:id":"214643",
-    "accession_number":"1969-165-547",
-    "title":"Sample, \"Mexicotton Solid\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18678355\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402927",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: cotton\nTechnique: plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 30.5 x 31.8 cm (12 x 12 1\/2 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Plain-woven cotton in olive green. Slight variations in the color of the warp threads give a subtle stripe effect. Number 1213.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18678355",
+    "tms:id": "214643",
+    "accession_number": "1969-165-547",
+    "title": "Sample, Mexicotton Solid, 1961",
+    "title_raw": "Mexicotton Solid",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18678355\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402927",
+    "type_id": "35268079",
+    "date": "1961",
+    "year_start": 1961,
+    "year_end": 1961,
+    "year_acquired": "1969",
+    "decade": "1960",
+    "woe:country_id": "23424977",
+    "medium": "Medium: cotton\nTechnique: plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 30.5 x 31.8 cm (12 x 12 1\/2 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "30.48",
+            "centimeters"
+        ],
+        "weft": [
+            "31.75",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Plain-woven cotton in olive green. Slight variations in the color of the warp threads give a subtle stripe effect. Number 1213.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17675_58e1c8c6ac3dc080_b.jpg",
-                "width":1024,
-                "height":1011,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61322_1f5fafa7cc8da596_b.jpg",
+                "width": 973,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "61322"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17675_58e1c8c6ac3dc080_n.jpg",
-                "width":320,
-                "height":316,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61322_1f5fafa7cc8da596_z.jpg",
+                "width": 608,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "61322"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/17675_58e1c8c6ac3dc080_z.jpg",
-                "width":640,
-                "height":632,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61322_1f5fafa7cc8da596_n.jpg",
+                "width": 304,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61322"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61322_1f5fafa7cc8da596_d.gif",
+                "width": 304,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "61322"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/61322_1f5fafa7cc8da596_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "61322"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17675_58e1c8c6ac3dc080_b.jpg",
+                "width": 1024,
+                "height": 1011,
+                "is_primary": "0",
+                "image_id": "17675"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17675_58e1c8c6ac3dc080_z.jpg",
+                "width": 640,
+                "height": 632,
+                "is_primary": "0",
+                "image_id": "17675"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17675_58e1c8c6ac3dc080_n.jpg",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "17675"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17675_58e1c8c6ac3dc080_d.gif",
+                "width": 320,
+                "height": 316,
+                "is_primary": "0",
+                "image_id": "17675"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/17675_58e1c8c6ac3dc080_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "17675"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Mexicotton Solid\".\nMedium: cotton\nTechnique: plain weave. Gift of Alexander H. Girard. 1969-165-547."
+    "tombstone": {
+        "epitaph": "Sample, Mexicotton Solid, 1961. Medium: cotton\nTechnique: plain weave. \nGift of Alexander H. Girard. 1969-165-547"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#677112",
-            "closest_css3":"#6b8e23"
+            "color": "#bcbab1",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#4c4f40",
-            "closest_css3":"#2f4f4f"
-        },
-        {
-            "color":"#858573",
-            "closest_css3":"#808080"
+            "color": "#6a6f36",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

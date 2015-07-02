@@ -1,42 +1,124 @@
 {
-    "id":"18349501",
-    "tms:id":"58409",
-    "accession_number":"1938-57-275",
-    "title":"Figure",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18349501\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35367413",
-    "type_id":"35237189",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Terra-cotta",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"17.2 x 12 cm (6 3\/4 x 4 3\/4 in.)",
-    "creditline":"Bequest of Erskine Hewitt",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18349501",
+    "tms:id": "58409",
+    "accession_number": "1938-57-275",
+    "title": "Figure",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18349501\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35367413",
+    "type_id": "35237189",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Terra-cotta",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "17.2 x 12 cm (6 3\/4 x 4 3\/4 in.)",
+    "dimensions_raw": {
+        "height": [
+            "17.20",
+            "centimeters"
+        ],
+        "width": [
+            "12.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Bequest of Erskine Hewitt",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Figure",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112970_5b53dd24afd61ec0_b.jpg",
+                "width": 782,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "112970"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112970_5b53dd24afd61ec0_z.jpg",
+                "width": 488,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "112970"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112970_5b53dd24afd61ec0_n.jpg",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112970"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112970_5b53dd24afd61ec0_d.gif",
+                "width": 244,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "112970"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/112970_5b53dd24afd61ec0_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "112970"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18050021",
+            "role_id": "35351537",
+            "person_name": "Erskine Hewitt",
+            "person_date": "American, 1871\u20131938",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050021\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Figure.\nTerra-cotta. Bequest of Erskine Hewitt. 1938-57-275."
+    "tombstone": {
+        "epitaph": "Figure. Terra-cotta. \nBequest of Erskine Hewitt. 1938-57-275"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#927e62",
+            "closest_crayola": "#8a795d",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#51402d",
+            "closest_crayola": "#714b23",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#7a644b",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#a29a8b",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        }
+    ],
+    "is_loan_object": 0
 }

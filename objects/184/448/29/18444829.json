@@ -1,80 +1,162 @@
 {
-    "id":"18444829",
-    "tms:id":"132900",
-    "accession_number":"1962-50-32",
-    "title":"Chalice Cover, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18444829\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35266821",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1962",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Medium: linen\nTechnique: needle lace",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":"ex-collection: Ikl\u00e9",
-    "dimensions":"H x W: 16.5 x 16.5 cm (6 1\/2 x 6 1\/2 in.)",
-    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
-    "description":"Design consists of a figure of a bishop, surrounded by floral scrolls terminating in angel heads at each of the four corners. Border is comprised of stylized floral forms. Pattern connected by brides, outlined by cordonnet, interspersed by portes.",
-    "justification":null,
-    "type":{
-        "id":"35266821",
-        "name":"Chalice cover"
+    "id": "18444829",
+    "tms:id": "132900",
+    "accession_number": "1962-50-32",
+    "title": "Chalice Cover (Italy), 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18444829\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35266821",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1962",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Medium: linen\nTechnique: needle lace",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": "ex-collection: Ikl\u00e9",
+    "dimensions": "H x W: 16.5 x 16.5 cm (6 1\/2 x 6 1\/2 in.)",
+    "dimensions_raw": {
+        "height": [
+            "16.51",
+            "centimeters"
+        ],
+        "width": [
+            "16.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description": "Design consists of a figure of a bishop, surrounded by floral scrolls terminating in angel heads at each of the four corners. Border is comprised of stylized floral forms. Pattern connected by brides, outlined by cordonnet, interspersed by portes.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Chalice cover",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_b.jpg",
-                "width":1024,
-                "height":1006,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63276_ad734a00f583456f_b.jpg",
+                "width": 1024,
+                "height": 866,
+                "is_primary": "1",
+                "image_id": "63276"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_n.jpg",
-                "width":320,
-                "height":314,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63276_ad734a00f583456f_z.jpg",
+                "width": 640,
+                "height": 541,
+                "is_primary": "1",
+                "image_id": "63276"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_z.jpg",
-                "width":640,
-                "height":629,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63276_ad734a00f583456f_n.jpg",
+                "width": 320,
+                "height": 271,
+                "is_primary": "1",
+                "image_id": "63276"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63276_ad734a00f583456f_d.gif",
+                "width": 320,
+                "height": 271,
+                "is_primary": "1",
+                "image_id": "63276"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/63276_ad734a00f583456f_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "63276"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_b.jpg",
+                "width": 1024,
+                "height": 1006,
+                "is_primary": "0",
+                "image_id": "31881"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_z.jpg",
+                "width": 640,
+                "height": 629,
+                "is_primary": "0",
+                "image_id": "31881"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_n.jpg",
+                "width": 320,
+                "height": 314,
+                "is_primary": "0",
+                "image_id": "31881"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_d.gif",
+                "width": 320,
+                "height": 314,
+                "is_primary": "0",
+                "image_id": "31881"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "31881"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Chalice Cover, 17th century.\n17th century. Medium: linen\nTechnique: needle lace. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-50-32."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#cabfce",
-            "closest_css3":"#d8bfd8"
-        },
-        {
-            "color":"#26210f",
-            "closest_css3":"#000000"
-        },
-        {
-            "color":"#b29689",
-            "closest_css3":"#bc8f8f"
-        },
-        {
-            "color":"#b2ada5",
-            "closest_css3":"#a9a9a9"
-        },
-        {
-            "color":"#a8bdc7",
-            "closest_css3":"#c0c0c0"
+            "person_id": "18049377",
+            "role_id": "35351537",
+            "person_name": "Richard Cranch Greenleaf",
+            "person_date": "",
+            "role_name": "Bequestor",
+            "role_display_name": "Bequest of",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049377\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351537\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Chalice Cover (Italy), 17th century. Medium: linen\nTechnique: needle lace. \nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-50-32"
+    },
+    "colors": [
+        {
+            "color": "#998d70",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        },
+        {
+            "color": "#544a33",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#556b2f",
+            "closest_css4": "#556b2f"
+        },
+        {
+            "color": "#776b4f",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#2d2615",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }

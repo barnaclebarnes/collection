@@ -1,49 +1,132 @@
 {
-    "id":"18615825",
-    "tms:id":"176439",
-    "accession_number":"1981-1-15",
-    "title":"Scarf Sample",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18615825\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35293367",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1981",
-    "decade":null,
-    "woe:country":"23424819",
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Barbara Rogoff",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35293367",
-        "name":"Scarf sample"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18615825",
+    "tms:id": "176439",
+    "accession_number": "1981-1-15",
+    "title": "Scarf Sample (France)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18615825\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35293367",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1981",
+    "decade": null,
+    "woe:country_id": "23424819",
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Barbara Rogoff",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "Scarf sample",
+    "images": [
         {
-            "person_id":"18055619",
-            "role_id":"35351535",
-            "person_name":"Barbara Rogoff",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18055619\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77168_4f6c3fc9ac998a8d_b.jpg",
+                "width": 1024,
+                "height": 1001,
+                "is_primary": "1",
+                "image_id": "77168"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77168_4f6c3fc9ac998a8d_z.jpg",
+                "width": 640,
+                "height": 626,
+                "is_primary": "1",
+                "image_id": "77168"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77168_4f6c3fc9ac998a8d_n.jpg",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "77168"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77168_4f6c3fc9ac998a8d_d.gif",
+                "width": 320,
+                "height": 313,
+                "is_primary": "1",
+                "image_id": "77168"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/77168_4f6c3fc9ac998a8d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "77168"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Scarf Sample.\nGift of Barbara Rogoff. 1981-1-15."
+    "participants": [
+        {
+            "person_id": "18047497",
+            "role_id": "35352245",
+            "person_name": "Milton Sonday",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047497\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18055619",
+            "role_id": "35351535",
+            "person_name": "Barbara Rogoff",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18055619\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Scarf Sample (France). \nGift of Barbara Rogoff. 1981-1-15"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#2a193e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#191970",
+            "closest_css4": "#191970"
+        },
+        {
+            "color": "#a68e81",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
+        },
+        {
+            "color": "#796454",
+            "closest_crayola": "#85754e",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        },
+        {
+            "color": "#242e32",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#704768",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

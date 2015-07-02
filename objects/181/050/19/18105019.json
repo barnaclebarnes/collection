@@ -1,42 +1,121 @@
 {
-    "id":"18105019",
-    "tms:id":"7063",
-    "accession_number":"1899-6-2",
-    "title":"Fragment, 17th century",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18105019\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35414465",
-    "type_id":"35254623",
-    "date":"17th century",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1899",
-    "decade":null,
-    "woe:country":null,
-    "medium":"Medium: linen\nTechnique: bobbin lace, continuous tape with bars added",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Mrs. E.L. Godkin",
-    "description":"Leaf forms in alternating directions.",
-    "justification":null,
-    "type":{
-        "id":"35254623",
-        "name":"Fragment"
-    },
-    "images":[
-
+    "id": "18105019",
+    "tms:id": "7063",
+    "accession_number": "1899-6-2",
+    "title": "Fragment, 17th century",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18105019\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35414465",
+    "type_id": "35254623",
+    "date": "17th century",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1899",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": "Medium: linen\nTechnique: bobbin lace, continuous tape with connections",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Mrs. E.L. Godkin",
+    "description": "Leaf forms in alternating directions.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Fragment",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68022_a467e8401fbae8f3_b.jpg",
+                "width": 1024,
+                "height": 687,
+                "is_primary": "1",
+                "image_id": "68022"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68022_a467e8401fbae8f3_z.jpg",
+                "width": 640,
+                "height": 430,
+                "is_primary": "1",
+                "image_id": "68022"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68022_a467e8401fbae8f3_n.jpg",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "68022"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68022_a467e8401fbae8f3_d.gif",
+                "width": 320,
+                "height": 215,
+                "is_primary": "1",
+                "image_id": "68022"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/68022_a467e8401fbae8f3_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "68022"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18059433",
+            "role_id": "35351535",
+            "person_name": "Mrs. E.L. Godkin",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18059433\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Fragment, 17th century.\n17th century. Medium: linen\nTechnique: bobbin lace, continuous tape with bars added. Gift of Mrs. E.L. Godkin. 1899-6-2."
+    "tombstone": {
+        "epitaph": "Fragment, 17th century. Medium: linen\nTechnique: bobbin lace, continuous tape with connections. \nGift of Mrs. E.L. Godkin. 1899-6-2"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#bfd8dd",
+            "closest_crayola": "#c5d0e6",
+            "closest_css3": "#b0e0e6",
+            "closest_css4": "#b0e0e6"
+        },
+        {
+            "color": "#15192e",
+            "closest_crayola": "#000000",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#95a7b0",
+            "closest_crayola": "#979aaa",
+            "closest_css3": "#a9a9a9",
+            "closest_css4": "#a9a9a9"
+        },
+        {
+            "color": "#394a5f",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#687987",
+            "closest_crayola": "#757575",
+            "closest_css3": "#708090",
+            "closest_css4": "#708090"
+        }
+    ],
+    "is_loan_object": 0
 }

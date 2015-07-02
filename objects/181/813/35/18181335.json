@@ -1,42 +1,66 @@
 {
-    "id":"18181335",
-    "tms:id":"20001",
-    "accession_number":"1914-22-3",
-    "title":"Sample Book, 1913",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18181335\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35402827",
-    "type_id":"35247403",
-    "date":"1913",
-    "year_start":"1913",
-    "year_end":"1913",
-    "year_acquired":"1914",
-    "decade":"1910",
-    "woe:country":"23424819",
-    "medium":"Medium: silk",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W: 32 x 46 cm (12 5\/8 x 18 1\/8 in.)",
-    "creditline":"Gift of John G. Neeser",
-    "description":"2,500 pieces of plaids, stripes, and small patterns woven in silk.",
-    "justification":null,
-    "type":{
-        "id":"35247403",
-        "name":"sample book"
+    "id": "18181335",
+    "tms:id": "20001",
+    "accession_number": "1914-22-3",
+    "title": "Sample Book (France), 1913",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18181335\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35402827",
+    "type_id": "35247403",
+    "date": "1913",
+    "year_start": 1913,
+    "year_end": 1913,
+    "year_acquired": "1914",
+    "decade": "1910",
+    "woe:country_id": "23424819",
+    "medium": "Medium: silk",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W: 32 x 46 cm (12 5\/8 x 18 1\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "46.00",
+            "centimeters"
+        ],
+        "width": [
+            "32.00",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of John G. Neeser",
+    "description": "2,500 pieces of plaids, stripes, and small patterns woven in silk.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424819",
+    "type": "sample book",
+    "images": [
 
     ],
-    "participants":[
+    "participants": [
+        {
+            "person_id": "18050487",
+            "role_id": "35351535",
+            "person_name": "John G. Neeser",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18050487\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Sample Book (France), 1913. Medium: silk. \nGift of John G. Neeser. 1914-22-3"
+    },
+    "colors": [
 
     ],
-    "tombstone":{
-        "epitaph":"Sample Book, 1913.\n1913. Medium: silk. Gift of John G. Neeser. 1914-22-3."
-    },
-    "colors":[
-
-    ]
+    "woe:country_name": "France",
+    "is_loan_object": 0
 }

@@ -1,42 +1,122 @@
 {
-    "id":"18613077",
-    "tms:id":"99855",
-    "accession_number":"1949-143-1",
-    "title":"Figure, \"Bird\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18613077\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35371135",
-    "type_id":"35237189",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1949",
-    "decade":null,
-    "woe:country":null,
-    "medium":null,
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"H x W x D: 18.8 x 14 x 7.8 cm (7 3\/8 x 5 1\/2 x 3 1\/16 in.)",
-    "creditline":"Gift of Irwin Untermyer",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35237189",
-        "name":"Figure"
+    "id": "18613077",
+    "tms:id": "99855",
+    "accession_number": "1949-143-1",
+    "title": "Bird Figure",
+    "title_raw": "Bird",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18613077\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35371135",
+    "type_id": "35237189",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1949",
+    "decade": null,
+    "woe:country_id": null,
+    "medium": null,
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "H x W x D: 18.8 x 14 x 7.8 cm (7 3\/8 x 5 1\/2 x 3 1\/16 in.)",
+    "dimensions_raw": {
+        "depth": [
+            "7.80",
+            "centimeters"
+        ],
+        "height": [
+            "18.80",
+            "centimeters"
+        ],
+        "width": [
+            "14.00",
+            "centimeters"
+        ]
     },
-    "images":[
-
+    "creditline": "Gift of Irwin Untermyer",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "Figure",
+    "images": [
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103741_b92da68e65428120_b.jpg",
+                "width": 951,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "103741"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103741_b92da68e65428120_z.jpg",
+                "width": 594,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "103741"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103741_b92da68e65428120_n.jpg",
+                "width": 297,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103741"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103741_b92da68e65428120_d.gif",
+                "width": 297,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "103741"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/103741_b92da68e65428120_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "103741"
+            }
+        }
     ],
-    "participants":[
-
+    "participants": [
+        {
+            "person_id": "18054711",
+            "role_id": "35351535",
+            "person_name": "Irwin Untermyer, Esq.",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18054711\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
     ],
-    "tombstone":{
-        "epitaph":"Figure, \"Bird\".\nH x W x D: 18.8 x 14 x 7.8 cm (7 3\/8 x 5 1\/2 x 3 1\/16 in.). Gift of Irwin Untermyer. 1949-143-1."
+    "tombstone": {
+        "epitaph": "Bird Figure. H x W x D: 18.8 x 14 x 7.8 cm (7 3\/8 x 5 1\/2 x 3 1\/16 in.). \nGift of Irwin Untermyer. 1949-143-1"
     },
-    "colors":[
-
-    ]
+    "colors": [
+        {
+            "color": "#50453e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
+        },
+        {
+            "color": "#31221d",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#000000",
+            "closest_css4": "#000000"
+        },
+        {
+            "color": "#8c8981",
+            "closest_crayola": "#95918c",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
+        }
+    ],
+    "is_loan_object": 0
 }

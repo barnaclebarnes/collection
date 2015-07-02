@@ -1,95 +1,141 @@
 {
-    "id":"18678247",
-    "tms:id":"214589",
-    "accession_number":"1969-165-526",
-    "title":"Sample, \"Tent\"",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18678247\/",
-    "department_id":"35347501",
-    "period_id":null,
-    "media_id":"35429849",
-    "type_id":"35268079",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1969",
-    "decade":null,
-    "woe:country":"23424977",
-    "medium":"Medium: linen (77%), goat hair (13%), and rayon (10%)\nTechnique: plain weave",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":"Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
-    "creditline":"Gift of Alexander H. Girard",
-    "description":"Plain weave of wide pink, orange, violet, gold, dark red and dark blue vertical stripes. The weft threads are comprised of white threads loosely twisted with black goat hair. The pink, orange, violet, gold, dark red and dark blue stripes are made of heavier warp threads with a slight sheen. Number 1520.",
-    "justification":null,
-    "type":{
-        "id":"35268079",
-        "name":"Sample"
+    "id": "18678247",
+    "tms:id": "214589",
+    "accession_number": "1969-165-526",
+    "title": "Sample, Tent",
+    "title_raw": "Tent",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18678247\/",
+    "department_id": "35347501",
+    "period_id": null,
+    "media_id": "35429849",
+    "type_id": "35268079",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1969",
+    "decade": null,
+    "woe:country_id": "23424977",
+    "medium": "Medium: linen (77%), goat hair (13%), and rayon (10%)\nTechnique: plain weave",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": "Warp x Weft: 30.5 x 30.5 cm (12 x 12 in.)",
+    "dimensions_raw": {
+        "warp": [
+            "30.48",
+            "centimeters"
+        ],
+        "weft": [
+            "30.48",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Gift of Alexander H. Girard",
+    "description": "Plain weave of wide pink, orange, violet, gold, dark red and dark blue vertical stripes. The weft threads are comprised of white threads loosely twisted with black goat hair. The pink, orange, violet, gold, dark red and dark blue stripes are made of heavier warp threads with a slight sheen. Number 1520.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424977",
+    "type": "Sample",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16200_58c11803dbf4252c_b.jpg",
-                "width":1024,
-                "height":674,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16200_58c11803dbf4252c_b.jpg",
+                "width": 1024,
+                "height": 674,
+                "is_primary": "1",
+                "image_id": "16200"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16200_58c11803dbf4252c_n.jpg",
-                "width":320,
-                "height":211,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16200_58c11803dbf4252c_z.jpg",
+                "width": 640,
+                "height": 421,
+                "is_primary": "1",
+                "image_id": "16200"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/16200_58c11803dbf4252c_z.jpg",
-                "width":640,
-                "height":421,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16200_58c11803dbf4252c_n.jpg",
+                "width": 320,
+                "height": 211,
+                "is_primary": "1",
+                "image_id": "16200"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16200_58c11803dbf4252c_d.gif",
+                "width": 320,
+                "height": 211,
+                "is_primary": "1",
+                "image_id": "16200"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/16200_58c11803dbf4252c_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "16200"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18046041",
-            "role_id":"35351535",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Donor",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+            "person_id": "18046041",
+            "role_id": "35351535",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
         },
         {
-            "person_id":"18046041",
-            "role_id":"35236655",
-            "person_name":"Alexander Hayden Girard",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18046041",
+            "role_id": "35236655",
+            "person_name": "Alexander Hayden Girard",
+            "person_date": "American, 1907\u20131993",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Sample, \"Tent\".\nMedium: linen (77%), goat hair (13%), and rayon (10%)\nTechnique: plain weave. Gift of Alexander H. Girard. 1969-165-526."
+    "tombstone": {
+        "epitaph": "Sample, Tent. Medium: linen (77%), goat hair (13%), and rayon (10%)\nTechnique: plain weave. \nGift of Alexander H. Girard. 1969-165-526"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#48365e",
-            "closest_css3":"#2f4f4f"
+            "color": "#fcd06e",
+            "closest_crayola": "#f8d568",
+            "closest_css3": "#f0e68c",
+            "closest_css4": "#f0e68c"
         },
         {
-            "color":"#fccc6e",
-            "closest_css3":"#f0e68c"
+            "color": "#d44c4d",
+            "closest_crayola": "#cd4a4c",
+            "closest_css3": "#cd5c5c",
+            "closest_css4": "#cd5c5c"
         },
         {
-            "color":"#f6a369",
-            "closest_css3":"#f4a460"
+            "color": "#66607b",
+            "closest_crayola": "#757575",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
         },
         {
-            "color":"#c3633a",
-            "closest_css3":"#d2691e"
+            "color": "#40384c",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#7c7392",
-            "closest_css3":"#708090"
+            "color": "#f6afc1",
+            "closest_crayola": "#ffaacc",
+            "closest_css3": "#ffb6c1",
+            "closest_css4": "#ffb6c1"
         }
-    ]
+    ],
+    "woe:country_name": "United States",
+    "is_loan_object": 0
 }

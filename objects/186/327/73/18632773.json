@@ -1,95 +1,237 @@
 {
-    "id":"18632773",
-    "tms:id":"191229",
-    "accession_number":"1989-41-11",
-    "title":"Plate, \"Hammer, Sickle, Cog, Floral Border\", 1918",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18632773\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35393671",
-    "type_id":"35236833",
-    "date":"1918",
-    "year_start":"1918",
-    "year_end":"1918",
-    "year_acquired":"1989",
-    "decade":"1910",
-    "woe:country":null,
-    "medium":"Porcelain, enamel, gilding",
-    "markings":"Marks: On underside: Imperial Porcelain Factory mark obscured by green enamel oval; hammer, sickle, cog 1920 hand-painted in blue overglaze",
-    "signed":null,
-    "inscribed":null,
-    "provenance":"The Henry and Ludmilla Shapiro Collection",
-    "dimensions":"Diameter: 24.3 cm (9 9\/16 in.)",
-    "creditline":"The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
-    "description":"Circular; with hammer, sickle, cog gilded on a black ground in center and a wide border of brightly colored stylized flowers surrounding; gilded outer border",
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
+    "id": "18632773",
+    "tms:id": "191229",
+    "accession_number": "1989-41-11",
+    "title": "Hammer, Sickle, Cog, Floral Border Plate, 1918",
+    "title_raw": "Hammer, Sickle, Cog, Floral Border",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18632773\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "51585377",
+    "type_id": "35236833",
+    "date": "1918",
+    "year_start": 1918,
+    "year_end": 1918,
+    "year_acquired": "1989",
+    "decade": "1910",
+    "woe:country_id": null,
+    "medium": "Enameled and gilt porcelain",
+    "markings": "On underside: Imperial Porcelain Factory mark obscured by green enamel oval; hammer, sickle, cog \"1920\" hand-painted in blue overglaze",
+    "signed": null,
+    "inscribed": null,
+    "provenance": "The Henry and Ludmilla Shapiro Collection; 1989: acquired by Museum",
+    "dimensions": "H x diam.: 3.5 x 24.3 cm (1 3\/8 x 9 9\/16 in.)",
+    "dimensions_raw": {
+        "diameter": [
+            "24.30",
+            "centimeters"
+        ],
+        "height": [
+            "3.50",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds",
+    "description": "Circular; with hammer, sickle, cog gilded on a black ground in center and a wide border of brightly colored stylized flowers surrounding; gilded outer border",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": null,
+    "type": "plate",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11156_1950b8b80a35bc02_b.jpg",
-                "width":1014,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109378_f38f84a9d1daed7d_b.jpg",
+                "width": 1024,
+                "height": 654,
+                "is_primary": "1",
+                "image_id": "109378"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11156_1950b8b80a35bc02_n.jpg",
-                "width":317,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109378_f38f84a9d1daed7d_z.jpg",
+                "width": 640,
+                "height": 408,
+                "is_primary": "1",
+                "image_id": "109378"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/11156_1950b8b80a35bc02_z.jpg",
-                "width":634,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109378_f38f84a9d1daed7d_n.jpg",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "109378"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109378_f38f84a9d1daed7d_d.gif",
+                "width": 320,
+                "height": 204,
+                "is_primary": "1",
+                "image_id": "109378"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/109378_f38f84a9d1daed7d_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "109378"
+            }
+        },
+        {
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11156_1950b8b80a35bc02_b.jpg",
+                "width": 1014,
+                "height": 1024,
+                "is_primary": "0",
+                "image_id": "11156"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11156_1950b8b80a35bc02_z.jpg",
+                "width": 634,
+                "height": 640,
+                "is_primary": "0",
+                "image_id": "11156"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11156_1950b8b80a35bc02_n.jpg",
+                "width": 317,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11156"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11156_1950b8b80a35bc02_d.gif",
+                "width": 317,
+                "height": 320,
+                "is_primary": "0",
+                "image_id": "11156"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/11156_1950b8b80a35bc02_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "0",
+                "image_id": "11156"
             }
         }
     ],
-    "participants":[
+    "participants": [
         {
-            "person_id":"18045191",
-            "role_id":"35236655",
-            "person_name":"Sergei Vasilievich Chekhonin",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045191\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "person_id": "18537353",
+            "role_id": "35352249",
+            "person_name": "Henry Shapiro",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537353\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "person_id":"18045179",
-            "role_id":"35236657",
-            "person_name":"State Porcelain Factory",
-            "role_name":"Manufacturer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045179\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+            "person_id": "18537353",
+            "role_id": "35351535",
+            "person_name": "Henry Shapiro",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18537353\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18041177",
+            "role_id": "35352249",
+            "person_name": "Ludmilla Shapiro",
+            "person_date": "",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041177\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        },
+        {
+            "person_id": "18041177",
+            "role_id": "35351535",
+            "person_name": "Ludmilla Shapiro",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041177\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18049365",
+            "role_id": "35352247",
+            "person_name": "Decorative Arts Association Acquisition Fund",
+            "person_date": "founded 1982, closed September 30, 1998",
+            "role_name": "Fund",
+            "role_display_name": "Fund:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049365\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352247\/"
+        },
+        {
+            "person_id": "18047827",
+            "role_id": "35352245",
+            "person_name": "Deborah S. Shinn",
+            "person_date": "",
+            "role_name": "Cataloguer",
+            "role_display_name": "Catalogued by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18047827\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352245\/"
+        },
+        {
+            "person_id": "18045191",
+            "role_id": "35236655",
+            "person_name": "Sergei Vasilievich Chekhonin",
+            "person_date": "Russian, 1878 - 1936",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045191\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        },
+        {
+            "person_id": "18045179",
+            "role_id": "35236657",
+            "person_name": "State Porcelain Factory",
+            "person_date": "Leningrad, USSR, founded 1918",
+            "role_name": "Manufacturer",
+            "role_display_name": "Manufactured by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18045179\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
         }
     ],
-    "tombstone":{
-        "epitaph":"Plate, \"Hammer, Sickle, Cog, Floral Border\", 1918.\n1918. Porcelain, enamel, gilding. The Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-11."
+    "tombstone": {
+        "epitaph": "Hammer, Sickle, Cog, Floral Border Plate, 1918. Enameled and gilt porcelain. \nThe Henry and Ludmilla Shapiro Collection; Partial gift and partial purchase through the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Program Funds. 1989-41-11"
     },
-    "colors":[
+    "colors": [
         {
-            "color":"#2c443f",
-            "closest_css3":"#2f4f4f"
+            "color": "#b9bbb0",
+            "closest_crayola": "#b0b7c6",
+            "closest_css3": "#c0c0c0",
+            "closest_css4": "#c0c0c0"
         },
         {
-            "color":"#8c0b15",
-            "closest_css3":"#8b0000"
+            "color": "#75897d",
+            "closest_crayola": "#757575",
+            "closest_css3": "#808080",
+            "closest_css4": "#808080"
         },
         {
-            "color":"#b48e70",
-            "closest_css3":"#bc8f8f"
+            "color": "#f1edc7",
+            "closest_crayola": "#eceabe",
+            "closest_css3": "#ffebcd",
+            "closest_css4": "#ffebcd"
         },
         {
-            "color":"#e2b47b",
-            "closest_css3":"#deb887"
+            "color": "#53514e",
+            "closest_crayola": "#414a4c",
+            "closest_css3": "#2f4f4f",
+            "closest_css4": "#2f4f4f"
         },
         {
-            "color":"#43555e",
-            "closest_css3":"#2f4f4f"
+            "color": "#aa8b78",
+            "closest_crayola": "#9f8170",
+            "closest_css3": "#bc8f8f",
+            "closest_css4": "#bc8f8f"
         }
-    ]
+    ],
+    "is_loan_object": 0
 }

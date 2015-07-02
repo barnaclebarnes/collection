@@ -1,57 +1,113 @@
 {
-    "id":"18639825",
-    "tms:id":"194777",
-    "accession_number":"1992-25-6",
-    "title":"Plate",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18639825\/",
-    "department_id":"35347497",
-    "period_id":null,
-    "media_id":"35414527",
-    "type_id":"35236833",
-    "date":null,
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1992",
-    "decade":null,
-    "woe:country":"23424954",
-    "medium":"stoneware",
-    "markings":null,
-    "signed":null,
-    "inscribed":null,
-    "provenance":null,
-    "dimensions":null,
-    "creditline":"Gift of Peter Condu",
-    "description":null,
-    "justification":null,
-    "type":{
-        "id":"35236833",
-        "name":"plate"
-    },
-    "images":[
-
-    ],
-    "participants":[
+    "id": "18639825",
+    "tms:id": "194777",
+    "accession_number": "1992-25-6",
+    "title": "Plate (Sweden)",
+    "title_raw": null,
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18639825\/",
+    "department_id": "35347497",
+    "period_id": null,
+    "media_id": "35414527",
+    "type_id": "35236833",
+    "date": null,
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1992",
+    "decade": null,
+    "woe:country_id": "23424954",
+    "medium": "stoneware",
+    "markings": null,
+    "signed": null,
+    "inscribed": null,
+    "provenance": null,
+    "dimensions": null,
+    "dimensions_raw": null,
+    "creditline": "Gift of Peter Condu",
+    "description": null,
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424954",
+    "type": "plate",
+    "images": [
         {
-            "person_id":"18044553",
-            "role_id":"35236671",
-            "person_name":"Kosta Boda",
-            "role_name":"Producer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044553\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
-        },
-        {
-            "person_id":"18044555",
-            "role_id":"35236655",
-            "person_name":"Singe Persson-Melin",
-            "role_name":"Designer",
-            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044555\/",
-            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115554_875474e933bbfe09_b.jpg",
+                "width": 1024,
+                "height": 607,
+                "is_primary": "1",
+                "image_id": "115554"
+            },
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115554_875474e933bbfe09_z.jpg",
+                "width": 640,
+                "height": 379,
+                "is_primary": "1",
+                "image_id": "115554"
+            },
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115554_875474e933bbfe09_n.jpg",
+                "width": 320,
+                "height": 190,
+                "is_primary": "1",
+                "image_id": "115554"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115554_875474e933bbfe09_d.gif",
+                "width": 320,
+                "height": 190,
+                "is_primary": "1",
+                "image_id": "115554"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/115554_875474e933bbfe09_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "115554"
+            }
         }
     ],
-    "tombstone":{
-        "epitaph":"Plate.\nstoneware. Gift of Peter Condu. 1992-25-6."
+    "participants": [
+        {
+            "person_id": "18041323",
+            "role_id": "35351535",
+            "person_name": "Peter Condu",
+            "person_date": "",
+            "role_name": "Donor",
+            "role_display_name": "Donated by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18041323\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id": "18044553",
+            "role_id": "35236671",
+            "person_name": "Kosta Boda",
+            "person_date": "Sweden",
+            "role_name": "Producer",
+            "role_display_name": "Produced by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044553\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id": "18044555",
+            "role_id": "35236655",
+            "person_name": "Singe Persson-Melin",
+            "person_date": "1925",
+            "role_name": "Designer",
+            "role_display_name": "Designed by",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18044555\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone": {
+        "epitaph": "Plate (Sweden). stoneware. \nGift of Peter Condu. 1992-25-6"
     },
-    "colors":[
+    "colors": [
 
-    ]
+    ],
+    "woe:country_name": "Sweden",
+    "is_loan_object": 0
 }

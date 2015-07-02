@@ -1,72 +1,117 @@
 {
-    "id":"18355827",
-    "tms:id":"61340",
-    "accession_number":"1938-88-112",
-    "title":"Drawing, \"Interior Detail of the Teatro Vaccai, Telentino\", 1790",
-    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18355827\/",
-    "department_id":"35347493",
-    "period_id":"35417089",
-    "media_id":"35417717",
-    "type_id":"35237093",
-    "date":"1790",
-    "year_start":null,
-    "year_end":null,
-    "year_acquired":"1938",
-    "decade":null,
-    "woe:country":"23424853",
-    "medium":"Pen and black ink, brush and gray wash on paper",
-    "markings":null,
-    "signed":null,
-    "inscribed":"Indication of scale in pen and black ink in Palmi Romani",
-    "provenance":"Giovanni Piancastelli; Mr. and Mrs. Edward D. Brandegee",
-    "dimensions":"35 x 22.6 cm (13 3\/4 x 8 7\/8 in.)",
-    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
-    "description":"Elevation and section of a wall with theater boxes.  At the center, is the decoration of a section of a wall with boxes (theater seating).  To the right, is a cross section of the same wall.  Decorations have Classical overtones.  The pilasters are decorated with floral motifs and masks of Comedy and Tragedy.    Two horizontal panels at the fronts of the boxes depict scenes with figures dressed in Classical outfits.  The panel at the first tier shows the crowning of a herm.  The panel at the second tier depicts the death of Dido.",
-    "justification":null,
-    "type":{
-        "id":"35237093",
-        "name":"Drawing"
+    "id": "18355827",
+    "tms:id": "61340",
+    "accession_number": "1938-88-112",
+    "title": "Drawing, Interior Detail of the Teatro Vaccai, Telentino, 1790",
+    "title_raw": "Interior Detail of the Teatro Vaccai, Telentino",
+    "url": "https:\/\/collection.cooperhewitt.org\/objects\/18355827\/",
+    "department_id": "35347493",
+    "period_id": "35417089",
+    "media_id": "35375573",
+    "type_id": "35237093",
+    "date": "1790",
+    "year_start": null,
+    "year_end": null,
+    "year_acquired": "1938",
+    "decade": null,
+    "woe:country_id": "23424853",
+    "medium": "Pen and black ink, brush and gray wash on white laid paper",
+    "markings": null,
+    "signed": null,
+    "inscribed": "Indication of scale in pen and black ink in Palmi Romani",
+    "provenance": "Giovanni Piancastelli; Mr. and Mrs. Edward D. Brandegee, Brookline, MA; 1938: acquired by Museum",
+    "dimensions": "35 x 22.6 cm (13 3\/4 x 8 7\/8 in.)",
+    "dimensions_raw": {
+        "height": [
+            "35.00",
+            "centimeters"
+        ],
+        "width": [
+            "22.60",
+            "centimeters"
+        ]
     },
-    "images":[
+    "creditline": "Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description": "Elevation and section of a wall with theater boxes.  At the center, is the decoration of a section of a wall with boxes (theater seating).  To the right, is a cross section of the same wall.  Decorations have Classical overtones.  The pilasters are decorated with floral motifs and masks of Comedy and Tragedy. Two horizontal panels at the fronts of the boxes depict scenes with figures dressed in Classical outfits.  The panel at the first tier shows the crowning of a herm.  The panel at the second tier depicts the death of Dido.",
+    "justification": null,
+    "gallery_text": null,
+    "label_text": null,
+    "videos": null,
+    "on_display": null,
+    "woe:country": "23424853",
+    "type": "Drawing",
+    "images": [
         {
-            "b":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18928_5f72ecff4bf11426_b.jpg",
-                "width":671,
-                "height":1024,
-                "is_primary":"1"
+            "b": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18928_5f72ecff4bf11426_b.jpg",
+                "width": 671,
+                "height": 1024,
+                "is_primary": "1",
+                "image_id": "18928"
             },
-            "n":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18928_5f72ecff4bf11426_n.jpg",
-                "width":210,
-                "height":320,
-                "is_primary":"1"
+            "z": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18928_5f72ecff4bf11426_z.jpg",
+                "width": 419,
+                "height": 640,
+                "is_primary": "1",
+                "image_id": "18928"
             },
-            "z":{
-                "url":"http:\/\/images.collection.cooperhewitt.org\/18928_5f72ecff4bf11426_z.jpg",
-                "width":419,
-                "height":640,
-                "is_primary":"1"
+            "n": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18928_5f72ecff4bf11426_n.jpg",
+                "width": 210,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "18928"
+            },
+            "d": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18928_5f72ecff4bf11426_d.gif",
+                "width": 210,
+                "height": 320,
+                "is_primary": "1",
+                "image_id": "18928"
+            },
+            "sq": {
+                "url": "https:\/\/images.collection.cooperhewitt.org\/18928_5f72ecff4bf11426_sq.jpg",
+                "width": 300,
+                "height": 300,
+                "is_primary": "1",
+                "image_id": "18928"
             }
         }
     ],
-    "participants":[
-
-    ],
-    "tombstone":{
-        "epitaph":"Drawing, \"Interior Detail of the Teatro Vaccai, Telentino\", 1790.\n1790. Pen and black ink, brush and gray wash on paper. Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-112."
-    },
-    "colors":[
+    "participants": [
         {
-            "color":"#90888c",
-            "closest_css3":"#808080"
+            "person_id": "18049797",
+            "role_id": "35352249",
+            "person_name": "Mrs. Edward D. Brandegee",
+            "person_date": "American, 1871\u20131956",
+            "role_name": "Vendor",
+            "role_display_name": "Purchased from",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18049797\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
         },
         {
-            "color":"#6a6167",
-            "closest_css3":"#696969"
-        },
-        {
-            "color":"#25181a",
-            "closest_css3":"#000000"
+            "person_id": "18057101",
+            "role_id": "35236663",
+            "person_name": "Giuseppe Lucatelli",
+            "person_date": "Italian, 1751 \u2013 1828",
+            "role_name": "Architect",
+            "role_display_name": "Architect:",
+            "person_url": "https:\/\/collection.cooperhewitt.org\/people\/18057101\/",
+            "role_url": "https:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
         }
-    ]
+    ],
+    "tombstone": {
+        "epitaph": "Drawing, Interior Detail of the Teatro Vaccai, Telentino, 1790. Pen and black ink, brush and gray wash on white laid paper. \nMuseum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-112"
+    },
+    "colors": [
+        {
+            "color": "#63565c",
+            "closest_crayola": "#6e5160",
+            "closest_css3": "#696969",
+            "closest_css4": "#696969"
+        }
+    ],
+    "woe:country_name": "Italy",
+    "is_loan_object": 0
 }
